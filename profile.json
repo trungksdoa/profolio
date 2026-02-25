@@ -184,6 +184,26 @@
                 "GCP"
             ],
             "color": "#06b6d4"
+        },
+        {
+            "name": "E-commerce Integration Hub",
+            "desc": "Unified connector for Shopee, Lazada, TikTok Shop with real-time sync and analytics",
+            "tags": [
+                "Go",
+                "PostgreSQL",
+                "GCP"
+            ],
+            "color": "#06b6d4"
+        },
+        {
+            "name": "E-commerce Integration Hub",
+            "desc": "Unified connector for Shopee, Lazada, TikTok Shop with real-time sync and analytics",
+            "tags": [
+                "Go",
+                "PostgreSQL",
+                "GCP"
+            ],
+            "color": "#06b6d4"
         }
     ],
     "experience": [

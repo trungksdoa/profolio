@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Thái Nguyễn Cao — Software Engineer</title>
+    <title>Võ Hoàng Trung — Software Engineer</title>
     <meta name="description"
         content="Software Engineer specializing in security-focused infrastructure, fintech platforms, and distributed systems.">
     <link
@@ -444,6 +444,10 @@
             cursor: pointer;
             position: relative;
             overflow: hidden;
+            /* Equal height flex layout */
+            display: flex;
+            flex-direction: column;
+            height: 100%;
         }
 
         .project-card::after {
@@ -492,6 +496,8 @@
             color: rgba(240, 240, 245, 0.55);
             line-height: 1.6;
             margin-bottom: 16px;
+            flex: 1;
+            /* pushes tags to bottom, equalizes card height */
         }
 
         .project-tags {
@@ -848,13 +854,25 @@
 
         /* ─── SWIPER OVERRIDES ─── */
         .projects-swiper {
-            padding-bottom: 50px !important;
+            padding-bottom: 54px !important;
             overflow: visible !important;
         }
 
+        .projects-swiper .swiper-wrapper {
+            align-items: stretch;
+            /* equal height slides */
+        }
+
         .projects-swiper .swiper-slide {
-            width: 360px;
+            width: clamp(280px, 32vw, 380px);
             height: auto;
+            display: flex;
+            /* so inner card can fill 100% height */
+        }
+
+        /* card inside slide fills full height */
+        .projects-swiper .swiper-slide .project-card {
+            flex: 1;
         }
 
         .swiper-button-prev,
@@ -898,6 +916,64 @@
             text-align: left !important;
             left: 0 !important;
             bottom: 6px !important;
+        }
+
+        /* ─── FAB SCROLL BUTTONS ─── */
+        .fab-group {
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            z-index: 200;
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+        }
+
+        .fab-btn {
+            width: 44px;
+            height: 44px;
+            border-radius: 50%;
+            background: rgba(10, 10, 25, 0.85);
+            border: 1px solid var(--border-bright);
+            color: var(--muted);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+            backdrop-filter: blur(16px);
+            -webkit-backdrop-filter: blur(16px);
+            transition: all 0.25s ease;
+            opacity: 0;
+            transform: scale(0.8) translateY(10px);
+            pointer-events: none;
+            font-size: 1rem;
+        }
+
+        .fab-btn.visible {
+            opacity: 1;
+            transform: scale(1) translateY(0);
+            pointer-events: all;
+        }
+
+        .fab-btn:hover {
+            background: rgba(0, 255, 136, 0.12);
+            border-color: rgba(0, 255, 136, 0.4);
+            color: var(--accent);
+            box-shadow: 0 0 20px rgba(0, 255, 136, 0.2);
+            transform: scale(1.1);
+        }
+
+        /* down btn is always visible */
+        #fabDown {
+            opacity: 1;
+            transform: scale(1);
+            pointer-events: all;
+        }
+
+        #fabDown.hidden-fab {
+            opacity: 0;
+            transform: scale(0.8) translateY(10px);
+            pointer-events: none;
         }
 
         /* ─── LOADER ─── */
@@ -1125,6 +1201,67 @@
             }
         }
 
+        /* ─── MAC CARD TITLEBAR ─── */
+        .mac-card-bar {
+            display: flex;
+            align-items: center;
+            gap: 7px;
+            padding: 0 0 18px 0;
+            margin-bottom: 18px;
+            border-bottom: 1px solid var(--border);
+            position: relative;
+        }
+
+        .mc-dot {
+            width: 12px;
+            height: 12px;
+            border-radius: 50%;
+            flex-shrink: 0;
+            position: relative;
+            cursor: default;
+            transition: filter 0.2s ease;
+        }
+
+        .mc-dot::after {
+            content: '';
+            position: absolute;
+            inset: 0;
+            border-radius: 50%;
+            opacity: 0;
+            transition: opacity 0.2s ease;
+            font-size: 8px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .mc-close {
+            background: #ff5f57;
+        }
+
+        .mc-min {
+            background: #febc2e;
+        }
+
+        .mc-max {
+            background: #28c840;
+        }
+
+        .mac-card-bar:hover .mc-dot {
+            filter: brightness(0.85);
+        }
+
+        .mac-card-title {
+            position: absolute;
+            left: 50%;
+            transform: translateX(-50%);
+            font-family: var(--mono);
+            font-size: 0.7rem;
+            color: rgba(255, 255, 255, 0.3);
+            white-space: nowrap;
+            pointer-events: none;
+        }
+
         /* Learn English nav button */
         .nav-learn {
             background: linear-gradient(135deg, rgba(0, 255, 136, 0.15), rgba(6, 182, 212, 0.15)) !important;
@@ -1187,7 +1324,7 @@
             <a href="#experience">Experience</a>
             <a href="#contact">Contact</a>
             <a href="learnEnglish.html" class="nav-learn" target="_blank">
-                🌍 Learn English
+                Learn English
             </a>
         </nav>
 
@@ -1237,6 +1374,12 @@
 
                     <!-- Skills -->
                     <div class="card" id="skillCard">
+                        <div class="mac-card-bar">
+                            <div class="mc-dot mc-close"></div>
+                            <div class="mc-dot mc-min"></div>
+                            <div class="mc-dot mc-max"></div>
+                            <div class="mac-card-title">skill_level.json</div>
+                        </div>
                         <div class="card-label">Skill Level</div>
                         <div class="skill-bars" id="skillBars"></div>
                     </div>
@@ -1269,6 +1412,12 @@
                     <div class="about-text fade-up" id="aboutText"></div>
                     <div class="fade-up">
                         <div class="card">
+                            <div class="mac-card-bar">
+                                <div class="mc-dot mc-close"></div>
+                                <div class="mc-dot mc-min"></div>
+                                <div class="mc-dot mc-max"></div>
+                                <div class="mac-card-title">tech_stack.sh</div>
+                            </div>
                             <div class="card-label">Tech Stack</div>
                             <div class="tech-grid" id="techGrid"></div>
                         </div>
@@ -1332,6 +1481,23 @@
         <div class="time-label">Current Time (VN)</div>
     </div>
 
+    <!-- FAB SCROLL BUTTONS -->
+    <div class="fab-group">
+        <button class="fab-btn" id="fabUp" title="Scroll to Top" onclick="window.scrollTo({top:0,behavior:'smooth'})">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"
+                stroke-linecap="round" stroke-linejoin="round">
+                <polyline points="18 15 12 9 6 15"></polyline>
+            </svg>
+        </button>
+        <button class="fab-btn" id="fabDown" title="Scroll to Bottom"
+            onclick="window.scrollTo({top:document.body.scrollHeight,behavior:'smooth'})">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"
+                stroke-linecap="round" stroke-linejoin="round">
+                <polyline points="6 9 12 15 18 9"></polyline>
+            </svg>
+        </button>
+    </div>
+
     <script>
         // ─── Profile Data (embedded — no fetch needed) ───
         // To update: edit the object below directly.
@@ -1379,14 +1545,29 @@
                 { "name": "Redis", "level": 75 }
             ],
             "techStack": [
+                { "name": "Java", "icon": "☕" },
+                { "name": "Go", "icon": "🔵" },
+                { "name": "Python", "icon": "🐍" },
+                { "name": "Spring Boot", "icon": "🍃" },
+                { "name": "Gin / Fiber", "icon": "🌀" },
+                { "name": "FastAPI", "icon": "⚡" },
                 { "name": "PostgreSQL", "icon": "🐘" },
-                { "name": "MongoDB", "icon": "🍃" },
+                { "name": "MongoDB", "icon": "�" },
                 { "name": "Redis", "icon": "🔴" },
-                { "name": "AWS", "icon": "☁️" },
-                { "name": "GCP", "icon": "⚡" },
+                { "name": "Kafka", "icon": "📨" },
+                { "name": "RabbitMQ", "icon": "🐰" },
+                { "name": "ElasticSearch", "icon": "🔍" },
                 { "name": "Docker", "icon": "🐳" },
                 { "name": "Kubernetes", "icon": "☸️" },
-                { "name": "Go", "icon": "🔵" }
+                { "name": "Terraform", "icon": "🏗️" },
+                { "name": "Jenkins", "icon": "🔧" },
+                { "name": "GitHub CI", "icon": "🔄" },
+                { "name": "AWS", "icon": "☁️" },
+                { "name": "GCP", "icon": "🌐" },
+                { "name": "Nginx", "icon": "🟢" },
+                { "name": "Wazuh / SIEM", "icon": "�️" },
+                { "name": "n8n SOAR", "icon": "🤖" },
+                { "name": "Grafana", "icon": "📊" }
             ],
             "projects": [
                 {
@@ -1548,7 +1729,7 @@
         setInterval(updateClock, 1000);
         updateClock();
 
-        // ─── Scroll line ───
+        // ─── Scroll line + FAB ───
         window.addEventListener('scroll', () => {
             const total = document.documentElement.scrollHeight - window.innerHeight;
             const pct = (window.scrollY / total) * 100;
@@ -1564,6 +1745,12 @@
             document.querySelectorAll('nav a').forEach(a => {
                 a.classList.toggle('active', a.getAttribute('href') === '#' + curr);
             });
+
+            // FAB visibility
+            const atTop = window.scrollY < 100;
+            const atBottom = window.scrollY + window.innerHeight >= document.body.scrollHeight - 60;
+            document.getElementById('fabUp').classList.toggle('visible', !atTop);
+            document.getElementById('fabDown').classList.toggle('hidden-fab', atBottom);
         });
 
         // ─── Cursor glow ───

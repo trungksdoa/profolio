@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Premium English Vocabulary</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <header class="navbar glass">
+        <div class="logo" style="display:flex; align-items:center; gap:18px;">
+            <a href="index.html" style="
+                display: inline-flex;
+                align-items: center;
+                gap: 6px;
+                text-decoration: none;
+                font-family: monospace;
+                font-size: 0.78rem;
+                color: #888;
+                background: rgba(255,255,255,0.05);
+                border: 1px solid rgba(255,255,255,0.1);
+                border-radius: 20px;
+                padding: 5px 12px;
+                transition: all 0.2s ease;
+                white-space: nowrap;
+                flex-shrink: 0;
+            " onmouseover="this.style.color='#00ff88'; this.style.borderColor='rgba(0,255,136,0.4)';"
+                onmouseout="this.style.color='#888'; this.style.borderColor='rgba(255,255,255,0.1)';">
+                ← Portfolio
+            </a>
+            <div>
+                <h1>VocabMaster</h1>
+            </div>
+        </div>
+        <div class="controls">
+            <div class="filter-actions">
+                <button id="shuffleBtn" class="action-btn" title="Shuffle Words">
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <polyline points="16 3 21 3 21 8"></polyline>
+                        <line x1="4" y1="20" x2="21" y2="3"></line>
+                        <polyline points="21 16 21 21 16 21"></polyline>
+                        <line x1="15" y1="15" x2="21" y2="21"></line>
+                        <line x1="4" y1="4" x2="9" y2="9"></line>
+                    </svg>
+                </button>
+                <button id="favoritesFilterBtn" class="action-btn" title="Show Favorites Only">
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <polygon
+                            points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2">
+                        </polygon>
+                    </svg>
+                </button>
+                <button id="phrasesFilterBtn" class="action-btn" title="Show 48 Phrases">
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"></path>
+                    </svg>
+                </button>
+            </div>
+            <div class="view-toggles">
+                <button id="listViewBtn" class="active">List</button>
+                <button id="flashcardViewBtn">Flashcards</button>
+            </div>
+            <div class="search-box">
+                <input type="text" id="searchInput" placeholder="Search...">
+                <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <circle cx="11" cy="11" r="8"></circle>
+                    <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+                </svg>
+            </div>
+            <div class="stats">
+                <span id="wordCount">0</span> words
+            </div>
+        </div>
+    </header>
+
+    <main class="container">
+        <!-- List View -->
+        <div id="listViewContainer">
+            <div id="vocabGallery" class="vocab-grid"></div>
+            <div id="paginationControls" class="pagination"></div>
+        </div>
+
+        <!-- Flashcard View -->
+        <div id="flashcardContainer" class="hidden">
+            <div class="flashcard" id="flashcard">
+                <div class="flashcard-inner" id="flashcardInner">
+                    <div class="flashcard-front" id="flashcardFront"></div>
+                    <div class="flashcard-back" id="flashcardBack"></div>
+                </div>
+            </div>
+            <div class="flashcard-controls">
+                <button id="prevCardBtn">&larr; Prev</button>
+                <span id="flashcardCounter">1 / 0</span>
+                <button id="nextCardBtn">Next &rarr;</button>
+            </div>
+            <div class="flashcard-options">
+                <label class="toggle-switch">
+                    <input type="checkbox" id="autoPlayAudio">
+                    <span class="slider"></span>
+                </label>
+                <span>Auto-play Audio</span>
+
+                <div class="divider-vertical"></div>
+
+                <label class="toggle-switch">
+                    <input type="checkbox" id="autoNextCard">
+                    <span class="slider"></span>
+                </label>
+                <span>Auto-next</span>
+                <input type="number" id="autoNextTime" value="3" min="1" max="60" title="Seconds">
+                <span>s</span>
+            </div>
+        </div>
+
+        <!-- Empty state placeholder -->
+        <div id="noResults" class="empty-state hidden">
+            <div class="empty-icon">😢</div>
+            <h2>No words found</h2>
+            <p>Try searching for something else.</p>
+        </div>
+    </main>
+
+    <!-- Floating Action Buttons -->
+    <div class="fab-container">
+        <button id="scrollToTopBtn" class="fab-btn hidden" title="Scroll to Top">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                stroke-linejoin="round">
+                <polyline points="18 15 12 9 6 15"></polyline>
+            </svg>
+        </button>
+        <button id="scrollToBottomBtn" class="fab-btn" title="Scroll to Bottom">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                stroke-linejoin="round">
+                <polyline points="6 9 12 15 18 9"></polyline>
+            </svg>
+        </button>
+    </div>
+
+    <!-- Global audio element if needed, though we will use JS SpeechSynthesis -->
+    <script src="data.js"></script>
+    <script src="phrases_data.js"></script>
+    <script src="app.js"></script>
+</body>
+
+</html>

@@ -1504,6 +1504,7 @@
 
     <div class="cursor-glow" id="cursorGlow"></div>
     <div class="scroll-line" id="scrollLine"></div>
+
     <canvas id="bgCanvas"></canvas>
 
     <div id="app">
@@ -1548,18 +1549,14 @@
                     <!-- Stats -->
                     <div class="card">
                         <div class="card-label">Stats</div>
-                        <div class="stats-grid">
+                        <div class="stats-grid" style="grid-template-columns: repeat(2, 1fr);">
                             <div class="stat-item">
-                                <div class="stat-num" style="color:var(--accent)">5+</div>
+                                <div class="stat-num" id="statExp" style="color:var(--accent)">-</div>
                                 <div class="stat-label">Years exp.</div>
                             </div>
                             <div class="stat-item">
-                                <div class="stat-num" style="color:var(--accent3)">20+</div>
+                                <div class="stat-num" id="statProj" style="color:var(--accent3)">-</div>
                                 <div class="stat-label">Projects</div>
-                            </div>
-                            <div class="stat-item">
-                                <div class="stat-num" style="color:#f59e0b">50K+</div>
-                                <div class="stat-label">TPS built</div>
                             </div>
                         </div>
                     </div>
@@ -1775,6 +1772,7 @@
             "nickname": "TrungVH",
             "title": "Software Engineer",
             "loaderTitle": "TrungVH — portfolio:~$",
+            "exp": "0",
             "loaderLogs": [
                 { "type": "ok", "time": "00:00.01", "msg": "Bootstrapping environment..." },
                 { "type": "ok", "time": "00:00.08", "msg": "Loading dependencies..." },
@@ -1804,12 +1802,12 @@
             "github": "https://github.com/trungvh",
             "tags": ["Security", "Infrastructure", "Networking", "Fintech"],
             "skills": [
-                { "name": "Java", "level": 90 },
-                { "name": "Go", "level": 85 },
-                { "name": "Python", "level": 80 },
-                { "name": "Kubernetes", "level": 82 },
-                { "name": "AWS / GCP", "level": 78 },
-                { "name": "Security/SIEM", "level": 88 },
+                { "name": "Java", "level": 60 },
+                { "name": "Go", "level": 40 },
+                { "name": "Python", "level": 20 },
+                { "name": "Kubernetes", "level": 30 },
+                // { "name": "AWS / GCP", "level": 78 },
+                // { "name": "Security/SIEM", "level": 88 },
                 { "name": "PostgreSQL", "level": 80 },
                 { "name": "Redis", "level": 75 }
             ],
@@ -1818,7 +1816,7 @@
                 { "name": "Go", "icon": "🔵" },
                 { "name": "Python", "icon": "🐍" },
                 { "name": "Spring Boot", "icon": "🍃" },
-                { "name": "Gin / Fiber", "icon": "🌀" },
+                // { "name": "Gin / Fiber", "icon": "🌀" },
                 { "name": "FastAPI", "icon": "⚡" },
                 { "name": "PostgreSQL", "icon": "🐘" },
                 { "name": "MongoDB", "icon": "�" },
@@ -1831,12 +1829,12 @@
                 { "name": "Terraform", "icon": "🏗️" },
                 { "name": "Jenkins", "icon": "🔧" },
                 { "name": "GitHub CI", "icon": "🔄" },
-                { "name": "AWS", "icon": "☁️" },
-                { "name": "GCP", "icon": "🌐" },
-                { "name": "Nginx", "icon": "🟢" },
-                { "name": "Wazuh / SIEM", "icon": "�️" },
-                { "name": "n8n SOAR", "icon": "🤖" },
-                { "name": "Grafana", "icon": "📊" }
+                // { "name": "AWS", "icon": "☁️" },
+                // { "name": "GCP", "icon": "🌐" },
+                // { "name": "Nginx", "icon": "🟢" },
+                // { "name": "Wazuh / SIEM", "icon": "�️" },
+                // { "name": "n8n SOAR", "icon": "🤖" },
+                // { "name": "Grafana", "icon": "📊" }
             ],
             "projects": [
                 {
@@ -1904,6 +1902,10 @@
             document.getElementById('githubLink').href = profile.github;
             document.getElementById('footerName').textContent = profile.name;
             document.getElementById('footerYear').textContent = new Date().getFullYear();
+
+            // Stats
+            document.getElementById('statExp').textContent = parseInt(profile.exp || 2) + '+';
+            document.getElementById('statProj').textContent = (profile.projects ? profile.projects.length : 0) + '+';
 
             // About
             const aboutEl = document.getElementById('aboutText');
@@ -2053,11 +2055,11 @@
         function initCanvas() {
             W = canvas.width = window.innerWidth;
             H = canvas.height = window.innerHeight;
-            stars = Array.from({ length: 180 }, () => ({
+            stars = Array.from({ length: 400 }, () => ({
                 x: Math.random() * W,
                 y: Math.random() * H,
-                r: Math.random() * 1.2 + 0.2,
-                sp: Math.random() * 0.3 + 0.05,
+                r: Math.random() * 1.5 + 0.2,
+                sp: Math.random() * 0.4 + 0.05,
                 o: Math.random()
             }));
         }
@@ -2084,9 +2086,12 @@
                 s.o = 0.3 + 0.7 * Math.abs(Math.sin(Date.now() * 0.0005 + s.x));
                 ctx.beginPath();
                 ctx.arc(s.x, s.y, s.r, 0, Math.PI * 2);
-                ctx.fillStyle = `rgba(255,255,255,${s.o * 0.6})`;
+                ctx.fillStyle = `rgba(255,255,255,${s.o * 0.9})`;
+                ctx.shadowBlur = s.r * 3;
+                ctx.shadowColor = 'rgba(255,255,255,0.8)';
                 ctx.fill();
             }
+            ctx.shadowBlur = 0;
             requestAnimationFrame(drawCanvas);
         }
 

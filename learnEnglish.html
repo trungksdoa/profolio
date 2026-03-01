@@ -67,6 +67,8 @@
             <div class="view-toggles">
                 <button id="listViewBtn" class="active">List</button>
                 <button id="flashcardViewBtn">Flashcards</button>
+                <button id="grammarViewBtn">Grammar</button>
+                <button id="practiceViewBtn">Practice</button>
             </div>
             <div class="search-box">
                 <input type="text" id="searchInput" placeholder="Search...">
@@ -126,6 +128,16 @@
             <h2>No words found</h2>
             <p>Try searching for something else.</p>
         </div>
+
+        <!-- Grammar View -->
+        <div id="grammarContainer" class="hidden" style="margin-top: 2rem;">
+            <div id="grammarTopicsList" class="grammar-sidebar"></div>
+            <div id="grammarContent" class="grammar-content"></div>
+        </div>
+
+        <!-- Practice View -->
+        <div id="practiceContainer" class="hidden practice-container" style="margin-top: 2rem;">
+        </div>
     </main>
 
     <!-- Floating Action Buttons -->
@@ -144,9 +156,42 @@
         </button>
     </div>
 
+    <!-- Quiz Modal -->
+    <div id="quizModal" class="quiz-modal-overlay hidden">
+        <div class="quiz-modal">
+            <div class="quiz-modal-header">
+                <h2 id="quizTitle">Quiz</h2>
+                <button id="quizCloseBtn" class="quiz-close-btn" title="Đóng">✕</button>
+            </div>
+            <div class="quiz-progress-bar-wrap">
+                <div class="quiz-progress-bar" id="quizProgressBar"></div>
+            </div>
+            <div class="quiz-progress-label" id="quizProgressLabel">Câu 1 / 5</div>
+
+            <div id="quizBody">
+                <p id="quizQuestion" class="quiz-question"></p>
+                <div id="quizChoices" class="quiz-choices"></div>
+            </div>
+
+            <div class="quiz-footer">
+                <button id="quizNextBtn" class="quiz-next-btn" disabled>Tiếp theo →</button>
+            </div>
+
+            <div id="quizResult" class="quiz-result hidden">
+                <div class="quiz-result-icon" id="quizResultIcon">🎉</div>
+                <h3 id="quizResultTitle">Hoàn thành!</h3>
+                <p id="quizResultScore" class="quiz-result-score"></p>
+                <div id="quizReviewList" class="quiz-review-list"></div>
+                <button id="quizRetryBtn" class="quiz-retry-btn">Làm lại</button>
+            </div>
+        </div>
+    </div>
+
     <!-- Global audio element if needed, though we will use JS SpeechSynthesis -->
     <script src="data.js"></script>
     <script src="phrases_data.js"></script>
+    <script src="grammar_data.js"></script>
+    <script src="exercises_data.js"></script>
     <script src="app.js"></script>
 </body>
 

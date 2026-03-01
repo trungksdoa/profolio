@@ -342,16 +342,28 @@ document.addEventListener('DOMContentLoaded', () => {
 
         if (currentMode === 'list') {
             renderCards(currentData);
-        } else {
+        } else if (currentMode === 'flashcard') {
             renderFlashcard();
+        } else if (currentMode === 'grammar') {
+            // we can re-render or just do nothing since grammar is static
+            renderGrammarSidebar();
+        } else if (currentMode === 'practice') {
+            renderPracticeView();
         }
     }
 
-    // View Toggles
     document.getElementById('listViewBtn').addEventListener('click', () => {
         currentMode = 'list';
         document.getElementById('listViewBtn').classList.add('active');
         document.getElementById('flashcardViewBtn').classList.remove('active');
+        if (document.getElementById('grammarViewBtn')) {
+            document.getElementById('grammarViewBtn').classList.remove('active');
+            document.getElementById('grammarContainer').classList.add('hidden');
+        }
+        if (document.getElementById('practiceViewBtn')) {
+            document.getElementById('practiceViewBtn').classList.remove('active');
+            document.getElementById('practiceContainer').classList.add('hidden');
+        }
         document.getElementById('listViewContainer').classList.remove('hidden');
         document.getElementById('flashcardContainer').classList.add('hidden');
         renderCards(currentData);
@@ -361,6 +373,14 @@ document.addEventListener('DOMContentLoaded', () => {
         currentMode = 'flashcard';
         document.getElementById('flashcardViewBtn').classList.add('active');
         document.getElementById('listViewBtn').classList.remove('active');
+        if (document.getElementById('grammarViewBtn')) {
+            document.getElementById('grammarViewBtn').classList.remove('active');
+            document.getElementById('grammarContainer').classList.add('hidden');
+        }
+        if (document.getElementById('practiceViewBtn')) {
+            document.getElementById('practiceViewBtn').classList.remove('active');
+            document.getElementById('practiceContainer').classList.add('hidden');
+        }
         document.getElementById('listViewContainer').classList.add('hidden');
         document.getElementById('flashcardContainer').classList.remove('hidden');
 
@@ -371,6 +391,284 @@ document.addEventListener('DOMContentLoaded', () => {
             noResults.classList.remove('hidden');
         }
     });
+
+    if (document.getElementById('grammarViewBtn')) {
+        document.getElementById('grammarViewBtn').addEventListener('click', () => {
+            currentMode = 'grammar';
+            document.getElementById('grammarViewBtn').classList.add('active');
+            document.getElementById('listViewBtn').classList.remove('active');
+            document.getElementById('flashcardViewBtn').classList.remove('active');
+            if (document.getElementById('practiceViewBtn')) {
+                document.getElementById('practiceViewBtn').classList.remove('active');
+                document.getElementById('practiceContainer').classList.add('hidden');
+            }
+
+            document.getElementById('listViewContainer').classList.add('hidden');
+            document.getElementById('flashcardContainer').classList.add('hidden');
+            document.getElementById('noResults').classList.add('hidden');
+            document.getElementById('grammarContainer').classList.remove('hidden');
+
+            renderGrammarSidebar();
+        });
+    }
+
+    if (document.getElementById('practiceViewBtn')) {
+        document.getElementById('practiceViewBtn').addEventListener('click', () => {
+            currentMode = 'practice';
+            document.getElementById('practiceViewBtn').classList.add('active');
+            document.getElementById('listViewBtn').classList.remove('active');
+            document.getElementById('flashcardViewBtn').classList.remove('active');
+            if (document.getElementById('grammarViewBtn')) {
+                document.getElementById('grammarViewBtn').classList.remove('active');
+                document.getElementById('grammarContainer').classList.add('hidden');
+            }
+
+            document.getElementById('listViewContainer').classList.add('hidden');
+            document.getElementById('flashcardContainer').classList.add('hidden');
+            document.getElementById('noResults').classList.add('hidden');
+            document.getElementById('practiceContainer').classList.remove('hidden');
+
+            renderPracticeView();
+        });
+    }
+
+    function renderGrammarSidebar() {
+        const sidebar = document.getElementById('grammarTopicsList');
+        const content = document.getElementById('grammarContent');
+        if (!sidebar || typeof grammarData === 'undefined') return;
+
+        if (sidebar.children.length > 0) return; // Already rendered
+
+        sidebar.innerHTML = '';
+        if (grammarData.length === 0) {
+            content.innerHTML = '<p>No grammar files found.</p>';
+            return;
+        }
+
+        grammarData.forEach((item, index) => {
+            const btn = document.createElement('button');
+            btn.className = 'grammar-topic-btn';
+            btn.innerText = item.title;
+            btn.addEventListener('click', () => {
+                document.querySelectorAll('.grammar-topic-btn').forEach(b => b.classList.remove('active'));
+                btn.classList.add('active');
+                content.innerHTML = `<h2>${item.title}</h2>` + item.content;
+            });
+            sidebar.appendChild(btn);
+
+            if (index === 0) {
+                btn.click(); // auto select first
+            }
+        });
+    }
+
+    function renderPracticeView() {
+        const container = document.getElementById('practiceContainer');
+        if (!container || typeof exercisesData === 'undefined') return;
+        if (container.children.length > 0) return; // Already rendered
+
+        container.innerHTML = '';
+        exercisesData.forEach(topic => {
+            const card = document.createElement('div');
+            card.className = 'practice-card';
+
+            const title = document.createElement('h3');
+            title.innerText = topic.title;
+            card.appendChild(title);
+
+            const itemList = document.createElement('div');
+            itemList.className = 'practice-item-list';
+
+            topic.items.forEach(item => {
+                const itemDiv = document.createElement('div');
+                itemDiv.className = 'practice-item';
+                itemDiv._topic = topic;
+
+                let iconSvg = '';
+                if (item.type === 'video') {
+                    iconSvg = `<svg class="practice-icon default" viewBox="0 0 24 24" fill="none" stroke="#666" stroke-width="1.5">
+                                <circle cx="12" cy="12" r="10"></circle>
+                                <polygon points="10 8 16 12 10 16 10 8" fill="none"></polygon>
+                               </svg>`;
+                } else {
+                    if (item.status === 'completed') {
+                        iconSvg = `<svg class="practice-icon completed" viewBox="0 0 24 24" fill="#36b37e" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                    <circle cx="12" cy="12" r="10" stroke="none"></circle>
+                                    <polyline points="16 8 11 15 8 12"></polyline>
+                                   </svg>`;
+                    } else {
+                        iconSvg = `<svg class="practice-icon default" viewBox="0 0 24 24" fill="none" stroke="#666" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+                                    <circle cx="12" cy="12" r="10"></circle>
+                                    <path d="M12 17h4"></path>
+                                    <path d="M14.5 5.5l2 2-7 7-3 1 1-3 7-7z"></path>
+                                   </svg>`;
+                    }
+                }
+
+                itemDiv.innerHTML = `<span class="icon-wrap">${iconSvg}</span><span class="item-text">${item.text}</span>`;
+
+                if (item.type === 'exercise' && item.questions && item.questions.length > 0) {
+                    itemDiv.style.cursor = 'pointer';
+                    itemDiv.addEventListener('click', () => openQuiz(item, topic));
+                }
+
+                itemList.appendChild(itemDiv);
+            });
+
+            card.appendChild(itemList);
+            container.appendChild(card);
+        });
+    }
+
+    // ─── Quiz logic ───────────────────────────────────────────────
+    let quizQuestions = [], quizCurrent = 0, quizScore = 0, quizUserAnswers = [];
+
+    function shuffleArray(arr) {
+        const a = [...arr];
+        for (let i = a.length - 1; i > 0; i--) {
+            const j = Math.floor(Math.random() * (i + 1));
+            [a[i], a[j]] = [a[j], a[i]];
+        }
+        return a;
+    }
+
+    function openQuiz(item, topic) {
+        // Pool all questions from every exercise in this topic
+        let pool = [];
+        if (topic) {
+            topic.items.forEach(it => {
+                if (it.questions) pool = pool.concat(it.questions);
+            });
+        } else {
+            pool = item.questions;
+        }
+        pool = shuffleArray(pool);
+        quizQuestions = pool.slice(0, Math.min(30, pool.length));
+        quizCurrent = 0;
+        quizScore = 0;
+        quizUserAnswers = [];
+
+        document.getElementById('quizTitle').textContent = item.text;
+        document.getElementById('quizResult').classList.add('hidden');
+        document.getElementById('quizBody').style.display = '';
+        document.getElementById('quizNextBtn').style.display = '';
+        document.querySelector('.quiz-footer').style.display = '';
+        document.querySelector('.quiz-progress-bar-wrap').style.display = '';
+        document.querySelector('.quiz-progress-label').style.display = '';
+
+        document.getElementById('quizModal').classList.remove('hidden');
+        renderQuizQuestion();
+    }
+
+    function renderQuizQuestion() {
+        const q = quizQuestions[quizCurrent];
+        const total = quizQuestions.length;
+        const pct = (quizCurrent / total) * 100;
+
+        document.getElementById('quizProgressBar').style.width = pct + '%';
+        document.getElementById('quizProgressLabel').textContent = `Câu ${quizCurrent + 1} / ${total}`;
+        document.getElementById('quizQuestion').textContent = q.q;
+        document.getElementById('quizNextBtn').disabled = true;
+
+        const labels = ['A', 'B', 'C', 'D'];
+        const choicesEl = document.getElementById('quizChoices');
+        choicesEl.innerHTML = '';
+        q.choices.forEach((choice, i) => {
+            const btn = document.createElement('button');
+            btn.className = 'quiz-choice-btn';
+            btn.innerHTML = `<span class="choice-label">${labels[i]}</span>${choice}`;
+            btn.addEventListener('click', () => selectAnswer(i));
+            choicesEl.appendChild(btn);
+        });
+    }
+
+    function selectAnswer(idx) {
+        const q = quizQuestions[quizCurrent];
+        const btns = document.querySelectorAll('.quiz-choice-btn');
+
+        btns.forEach(b => b.disabled = true);
+        quizUserAnswers.push(idx);
+
+        if (idx === q.answer) {
+            btns[idx].classList.add('correct');
+            quizScore++;
+        } else {
+            btns[idx].classList.add('wrong');
+            btns[q.answer].classList.add('correct');
+        }
+
+        const nextBtn = document.getElementById('quizNextBtn');
+        nextBtn.disabled = false;
+        nextBtn.textContent = quizCurrent < quizQuestions.length - 1 ? 'Tiếp theo →' : 'Xem kết quả';
+    }
+
+    document.getElementById('quizNextBtn').addEventListener('click', () => {
+        quizCurrent++;
+        if (quizCurrent < quizQuestions.length) {
+            renderQuizQuestion();
+        } else {
+            showQuizResult();
+        }
+    });
+
+    function showQuizResult() {
+        const total = quizQuestions.length;
+        const pct = Math.round((quizScore / total) * 100);
+
+        document.getElementById('quizBody').style.display = 'none';
+        document.getElementById('quizNextBtn').style.display = 'none';
+        document.querySelector('.quiz-footer').style.display = 'none';
+        document.getElementById('quizProgressBar').style.width = '100%';
+        document.getElementById('quizProgressLabel').textContent = `Hoàn thành!`;
+
+        const icon = pct >= 80 ? '🎉' : pct >= 50 ? '👍' : '📚';
+        const title = pct >= 80 ? 'Xuất sắc!' : pct >= 50 ? 'Khá tốt!' : 'Cần ôn luyện thêm!';
+        document.getElementById('quizResultIcon').textContent = icon;
+        document.getElementById('quizResultTitle').textContent = title;
+        document.getElementById('quizResultScore').innerHTML = `Bạn đúng <span>${quizScore}/${total}</span> câu (${pct}%)`;
+
+        const labels = ['A', 'B', 'C', 'D'];
+        const reviewEl = document.getElementById('quizReviewList');
+        reviewEl.innerHTML = '';
+        quizQuestions.forEach((q, i) => {
+            const userAns = quizUserAnswers[i];
+            const isCorrect = userAns === q.answer;
+            const div = document.createElement('div');
+            div.className = `quiz-review-item ${isCorrect ? 'review-correct' : 'review-wrong'}`;
+            div.innerHTML = `
+                <div class="review-q">${i + 1}. ${q.q}</div>
+                ${!isCorrect ? `<div class="review-wrong-ans">✗ Bạn chọn: ${labels[userAns]}. ${q.choices[userAns]}</div>` : ''}
+                <div class="review-correct-ans">✓ Đáp án: ${labels[q.answer]}. ${q.choices[q.answer]}</div>
+            `;
+            reviewEl.appendChild(div);
+        });
+
+        document.getElementById('quizResult').classList.remove('hidden');
+    }
+
+    document.getElementById('quizRetryBtn').addEventListener('click', () => {
+        // Re-shuffle and re-pick 30 from the current pool
+        quizQuestions = shuffleArray(quizQuestions).slice(0, Math.min(30, quizQuestions.length));
+        quizCurrent = 0; quizScore = 0; quizUserAnswers = [];
+        document.getElementById('quizResult').classList.add('hidden');
+        document.getElementById('quizBody').style.display = '';
+        document.getElementById('quizNextBtn').style.display = '';
+        document.querySelector('.quiz-footer').style.display = '';
+        document.querySelector('.quiz-progress-bar-wrap').style.display = '';
+        document.querySelector('.quiz-progress-label').style.display = '';
+        renderQuizQuestion();
+    });
+
+    document.getElementById('quizCloseBtn').addEventListener('click', () => {
+        document.getElementById('quizModal').classList.add('hidden');
+    });
+
+    document.getElementById('quizModal').addEventListener('click', (e) => {
+        if (e.target === document.getElementById('quizModal')) {
+            document.getElementById('quizModal').classList.add('hidden');
+        }
+    });
+    // ─── End Quiz logic ──────────────────────────────────────────
 
     // Flashcard events
     document.getElementById('flashcard').addEventListener('click', () => {

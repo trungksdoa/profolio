@@ -15,6 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     let showPhrasesOnly = false;
     let autoPlayEnabled = localStorage.getItem('vocabAutoPlay') === 'true';
     let favorites = JSON.parse(localStorage.getItem('vocabFavorites')) || [];
+    let currentTopic = 'all';
 
     // Auto-next states
     let autoNextEnabled = localStorage.getItem('vocabAutoNext') === 'true';
@@ -324,6 +325,9 @@ document.addEventListener('DOMContentLoaded', () => {
         }
         if (showPhrasesOnly) {
             baseData = baseData.filter(item => item.type === '(phrase)');
+        }
+        if (currentTopic !== 'all') {
+            baseData = baseData.filter(item => item.topic === currentTopic);
         }
 
         if (!query) {
@@ -759,6 +763,14 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
     searchInput.addEventListener('input', debounce(searchWords, 300));
+
+    const topicFilter = document.getElementById('topicFilter');
+    if (topicFilter) {
+        topicFilter.addEventListener('change', (e) => {
+            currentTopic = e.target.value;
+            searchWords();
+        });
+    }
 
     // Scroll Buttons
     const scrollToTopBtn = document.getElementById('scrollToTopBtn');

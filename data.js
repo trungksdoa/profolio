@@ -10,7 +10,8 @@ const vocabData = [
       "Trainee [accountants] average £12,000 per year. (=Dịch: Các thực tập sinh kế toán trung bình kiếm được 12,000 bảng Anh mỗi năm.)",
       "His [accountant] had aided and abetted him in the fraud. (=Dịch: Kế toán của anh ấy đã giúp đỡ và đồng lõa với anh ấy trong vụ lừa đảo.)"
     ],
-    "image": "assets/images/accountant.webp"
+    "image": "assets/images/accountant.webp",
+    "topic": "Business & Office"
   },
   {
     "word": "airport",
@@ -23,7 +24,8 @@ const vocabData = [
       "I checked online and saw that the plane had already touched down at the [airport]. (=Dịch: Tôi đã kiểm tra trực tuyến và thấy rằng máy bay đã hạ cánh xuống sân bay.)",
       "One of our representatives will meet you at the [airport] and take you to your hotel. (=Dịch: Một trong những đại diện của chúng tôi sẽ gặp bạn tại sân bay và đưa bạn đến khách sạn của bạn.)"
     ],
-    "image": ""
+    "image": "",
+    "topic": "Travel & Transport"
   },
   {
     "word": "applicant",
@@ -36,7 +38,8 @@ const vocabData = [
       "Successful [applicants] will be notified in writing. (=Dịch: Các ứng viên thành công sẽ được thông báo bằng văn bản.)",
       "The course is popular - it has five [applicants] for every place. (=Dịch: Khóa học này rất phổ biến - có năm ứng viên cho mỗi chỗ.)"
     ],
-    "image": ""
+    "image": "",
+    "topic": "Job & Career"
   },
   {
     "word": "attendant",
@@ -49,7 +52,8 @@ const vocabData = [
       "He works at a hotel and was just recently promoted from bellhop to room service [attendant]. (=Dịch: Anh ấy làm việc tại một khách sạn và vừa mới được thăng chức từ nhân viên xách hành lý lên nhân viên phục vụ phòng.)",
       "Talk with the health-care provider about your options, including home-care [attendants], services and equipment. (=Dịch: Hãy nói chuyện với nhà cung cấp chăm sóc sức khỏe về các lựa chọn của bạn, bao gồm nhân viên chăm sóc tại nhà, dịch vụ và thiết bị.)"
     ],
-    "image": ""
+    "image": "",
+    "topic": "Food & Restaurant"
   },
   {
     "word": "bicycle",
@@ -62,7 +66,8 @@ const vocabData = [
       "The police are now looking for the man who placed the [bicycle] in front of the hairdressing salon. (=Dịch: Cảnh sát hiện đang tìm kiếm người đã đặt chiếc xe đạp trước tiệm cắt tóc.)",
       "Cyclists are also reminded of the importance of having front and rear lights on [bicycles]. (=Dịch: Người đi xe đạp cũng được nhắc nhở về tầm quan trọng của việc có đèn trước và sau trên xe đạp.)"
     ],
-    "image": ""
+    "image": "",
+    "topic": "Travel & Transport"
   },
   {
     "word": "brochure",
@@ -75,7 +80,8 @@ const vocabData = [
       "They produced a [brochure] on healthy eating that was to be distributed in supermarkets. (=Dịch: Họ đã sản xuất một tập tài liệu về ăn uống lành mạnh để phân phát trong các siêu thị.)",
       "The centre has many [brochures] on local services and customers are most welcome to make enquiries in person. (=Dịch: Trung tâm có nhiều tập tài liệu về các dịch vụ địa phương và khách hàng rất hoan nghênh đến hỏi trực tiếp.)"
     ],
-    "image": ""
+    "image": "",
+    "topic": "Shopping & Commerce"
   },
   {
     "word": "cafeteria",
@@ -88,7 +94,8 @@ const vocabData = [
       "There were several [cafeterias] and restaurants inside, frequented by visitors and hurried workers alike. (=Dịch: Có vài nhà ăn và nhà hàng bên trong, được khách tham quan và nhân viên vội vã ghé qua.)",
       "Their [cafeterias] serve burgers with barbecue sauce, peanut butter and jelly, even lobster (=Dịch: Nhà ăn của họ phục vụ bánh mì kẹp thịt với nước sốt barbecue, bơ đậu phộng và mứt, thậm chí cả tôm hùm.)"
     ],
-    "image": ""
+    "image": "",
+    "topic": "Food & Restaurant"
   },
   {
     "word": "caller",
@@ -101,7 +108,8 @@ const vocabData = [
       "A special advice line was swamped by hundreds of [callers] (=Dịch: Một đường dây tư vấn đặc biệt đã bị hàng trăm người gọi làm tắc nghẽn.)",
       "Switches are devices used to route telephone calls from [callers] to receivers. (=Dịch: Công tắc là những thiết bị được sử dụng để chuyển hướng cuộc gọi điện thoại từ người gọi đến người nhận.)"
     ],
-    "image": ""
+    "image": "",
+    "topic": "Technology & Communication"
   },
   {
     "word": "candidate",
@@ -114,7 +122,8 @@ const vocabData = [
       "The English Department is a likely [candidate] for staff cuts. (=Dịch: Khoa tiếng Anh là một ứng cử viên có khả năng bị cắt giảm nhân sự.)",
       "He's highly regarded and has certainly been mentioned as a potential [candidate]. (=Dịch: Anh ấy được đánh giá rất cao và chắc chắn đã được đề cập đến như một ứng cử viên tiềm năng.)"
     ],
-    "image": ""
+    "image": "",
+    "topic": "Job & Career"
   },
   {
     "word": "chef",
@@ -127,7 +136,8 @@ const vocabData = [
       "Shapur's restaurant now has an excellent new young [chef] Glyn Fussell. (=Dịch: Nhà hàng của Shapur hiện có một đầu bếp trẻ xuất sắc mới tên là Glyn Fussell.)",
       "Twenty-three per cent of [chefs] and cooks said that they were satisfied in their jobs. (=Dịch: Hai mươi ba phần trăm đầu bếp và người nấu ăn cho biết họ hài lòng với công việc của mình.)"
     ],
-    "image": ""
+    "image": "",
+    "topic": "Food & Restaurant"
   },
   {
     "word": "clerk",
@@ -140,7 +150,8 @@ const vocabData = [
       "Hiring enough stockers and [clerks] to keep merchandise flowing into shopping bags may be the right call. (=Dịch: Thuê đủ số lượng người sắp xếp hàng và nhân viên bán hàng để giữ cho hàng hóa luôn được đưa ra túi mua sắm có thể là quyết định đúng đắn.)",
       "Jesse was checking out some pies on display when a [clerk] offered assistance. (=Dịch: Jesse đang xem xét một số bánh nướng trên kệ trưng bày khi một nhân viên bán hàng đề nghị giúp đỡ.)"
     ],
-    "image": ""
+    "image": "",
+    "topic": "Business & Office"
   },
   {
     "word": "client",
@@ -153,7 +164,8 @@ const vocabData = [
       "The defending lawyer asked that the charge against his [client] be dismissed. (=Dịch: Luật sư bào chữa yêu cầu miễn truy tố cho khách hàng của mình.)",
       "We attribute our growth to our unwavering commitment to [client] service. (=Dịch: Chúng tôi cho rằng sự phát triển của chúng tôi là nhờ cam kết không ngừng đối với dịch vụ khách hàng.)"
     ],
-    "image": ""
+    "image": "",
+    "topic": "Shopping & Commerce"
   },
   {
     "word": "cloth",
@@ -166,7 +178,8 @@ const vocabData = [
       "Keep a clean [cloth] handy to wipe off any drips or overspray that may get onto the tracks. (=Dịch: Giữ một cái khăn sạch trong tay để lau bất kỳ giọt nước hoặc vết phun nào có thể dính vào đường ray.)",
       "The nurse took a wet [cloth] and began to clean the blood from around his leg. (=Dịch: Y tá lấy một cái khăn ướt và bắt đầu lau sạch máu xung quanh chân của anh ấy.)"
     ],
-    "image": ""
+    "image": "",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "conference",
@@ -179,7 +192,8 @@ const vocabData = [
       "The institute will be holding a [conference] on higher education and economic growth next spring. (=Dịch: Viện sẽ tổ chức một hội nghị về giáo dục đại học và tăng trưởng kinh tế vào mùa xuân tới.)",
       "Most of the department attended the Mobile World [conference] in Barcelona. (=Dịch: Hầu hết bộ phận đã tham dự hội nghị Thế giới Di động ở Barcelona.)"
     ],
-    "image": ""
+    "image": "",
+    "topic": "Business & Office"
   },
   {
     "word": "correctly",
@@ -192,7 +206,8 @@ const vocabData = [
       "I believe the board is handling the matter [correctly] (=Dịch: Tôi tin rằng ban quản trị đang xử lý vấn đề này đúng cách.)",
       "For an example of how to do this type of thing [correctly], look at the original. (=Dịch: Để xem ví dụ về cách làm điều này đúng, hãy nhìn vào bản gốc.)"
     ],
-    "image": ""
+    "image": "",
+    "topic": "General/Others"
   },
   {
     "word": "deadline",
@@ -205,7 +220,8 @@ const vocabData = [
       "If you miss the [deadline] your application cannot be considered. (=Dịch: Nếu bạn bỏ lỡ hạn chót, đơn đăng ký của bạn sẽ không được xem xét.)",
       "We had a very tight [deadline] to keep to on the project and things were getting tense. (=Dịch: Chúng tôi có một hạn chót rất chặt chẽ phải tuân thủ trong dự án và mọi thứ đang trở nên căng thẳng.)"
     ],
-    "image": ""
+    "image": "",
+    "topic": "Business & Office"
   },
   {
     "word": "downtown",
@@ -218,7 +234,8 @@ const vocabData = [
       "The hotel is situated two miles north of [downtown]. (=Dịch: Khách sạn nằm cách khu trung tâm hai dặm về phía bắc.)",
       "The bustling [downtowns] are surrounded by upscale shopping centers and malls. (=Dịch: Những khu trung tâm nhộn nhịp được bao quanh bởi các trung tâm mua sắm cao cấp và các khu mua sắm. )"
     ],
-    "image": ""
+    "image": "",
+    "topic": "Business & Office"
   },
   {
     "word": "e-book",
@@ -231,7 +248,8 @@ const vocabData = [
       "Current devices for reading [e-books] are either too bulky or too expensive or too harsh on the eyeballs. (=Dịch: Các thiết bị đọc sách điện tử hiện tại hoặc là quá cồng kềnh, hoặc là quá đắt, hoặc là quá gây hại cho mắt.)",
       "Shortly after your purchase, this [e-book] will be sent to you at your e-mail address. (=Dịch: Ngay sau khi bạn mua, cuốn sách điện tử này sẽ được gửi đến bạn tại địa chỉ e-mail của bạn.)"
     ],
-    "image": ""
+    "image": "",
+    "topic": "Technology & Communication"
   },
   {
     "word": "elevator",
@@ -244,7 +262,8 @@ const vocabData = [
       "His ivory tower has always been equipped with a high-speed [elevator]. (=Dịch: Tháp ngà voi của anh ấy luôn được trang bị thang máy tốc độ cao.)",
       "Once inside the [elevator], Nick pressed the level 7 button that would take them to the buffet room. (=Dịch: Khi vào trong thang máy, Nick nhấn nút tầng 7 để đưa họ đến phòng buffet.)"
     ],
-    "image": ""
+    "image": "",
+    "topic": "Technology & Communication"
   },
   {
     "word": "enclose",
@@ -257,7 +276,8 @@ const vocabData = [
       "The box could once have [enclosed] important letters or keepsakes. (=Dịch: Chiếc hộp có thể đã từng chứa những bức thư quan trọng hoặc kỷ vật.)",
       "The new classrooms have been built [enclosing] a small central courtyard. (=Dịch: Các phòng học mới đã được xây dựng bao quanh một sân nhỏ trung tâm.)"
     ],
-    "image": ""
+    "image": "",
+    "topic": "Education & Learning"
   },
   {
     "word": "fare",
@@ -270,7 +290,8 @@ const vocabData = [
       "Train [fare] increases of five percent are envisaged for the next year. (=Dịch: Dự kiến giá vé tàu sẽ tăng năm phần trăm trong năm tới.)",
       "Bus [fares] in the capital will rise from next month. (=Dịch: Giá vé xe buýt ở thủ đô sẽ tăng từ tháng tới.)"
     ],
-    "image": ""
+    "image": "",
+    "topic": "Travel & Transport"
   },
   {
     "word": "fax",
@@ -283,7 +304,8 @@ const vocabData = [
       "The documents were [faxed] to The Post by officials at the records center. (=Dịch: Các tài liệu đã được gửi fax đến The Post bởi các quan chức tại trung tâm lưu trữ hồ sơ.)",
       "Most network management software will also allow you to [fax] documents from the desktop as well. (=Dịch: Hầu hết các phần mềm quản lý mạng cũng sẽ cho phép bạn gửi fax tài liệu ngay từ máy tính để bàn.)"
     ],
-    "image": ""
+    "image": "",
+    "topic": "Technology & Communication"
   },
   {
     "word": "goods",
@@ -296,7 +318,8 @@ const vocabData = [
       "One in seven companies already uses the Internet to sell [goods] and deliver services. (=Dịch: Cứ bảy công ty thì có một công ty sử dụng Internet để bán hàng hóa và cung cấp dịch vụ.)",
       "The most active consumers of counterfeit [goods] are 18- to 24-year-olds, the survey says. (=Dịch: Theo khảo sát, những người tiêu dùng tích cực nhất của hàng giả là những người từ 18 đến 24 tuổi.)"
     ],
-    "image": ""
+    "image": "",
+    "topic": "Shopping & Commerce"
   },
   {
     "word": "infer",
@@ -309,7 +332,8 @@ const vocabData = [
       "It is reasonable to [infer] that the government knew about these deals. (=Dịch: Có lý do để suy ra rằng chính phủ biết về những thỏa thuận này.)",
       "From this study we can reasonably [infer] that this characteristic is inherited. (=Dịch: Từ nghiên cứu này chúng ta có thể suy ra hợp lý rằng đặc điểm này được thừa hưởng.)"
     ],
-    "image": ""
+    "image": "",
+    "topic": "Education & Learning"
   },
   {
     "word": "invoice",
@@ -322,7 +346,8 @@ const vocabData = [
       "Immediate payment of the outstanding [invoices] was requested in a letter. (=Dịch: Thanh toán ngay lập tức cho các hóa đơn chưa thanh toán đã được yêu cầu trong một bức thư.)",
       "Payment will be made within 28 days after receipt of the appropriate VAT [invoice]. (=Dịch: Thanh toán sẽ được thực hiện trong vòng 28 ngày sau khi nhận được hóa đơn VAT phù hợp.)"
     ],
-    "image": ""
+    "image": "",
+    "topic": "Business & Office"
   },
   {
     "word": "lease",
@@ -335,7 +360,8 @@ const vocabData = [
       "This page will explain why you should [lease] your next car, and why it can be suitable for you. (=Dịch: Trang này sẽ giải thích lý do tại sao bạn nên thuê chiếc ô tô tiếp theo của mình và tại sao nó có thể phù hợp với bạn.)",
       "They [lease] the land from a local farmer. (=Dịch: Họ thuê đất từ một nông dân địa phương.)"
     ],
-    "image": ""
+    "image": "",
+    "topic": "Job & Career"
   },
   {
     "word": "lobby",
@@ -348,7 +374,8 @@ const vocabData = [
       "Have a seat in the [lobby] and I'll fetch you when the cab arrives. (=Dịch: Hãy ngồi ở sảnh và tôi sẽ gọi bạn khi xe taxi đến.)",
       "I greeted guests in the [lobby] of the hotel. (=Dịch: Tôi đã chào đón khách trong sảnh của khách sạn.)"
     ],
-    "image": ""
+    "image": "",
+    "topic": "Technology & Communication"
   },
   {
     "word": "logical",
@@ -361,7 +388,8 @@ const vocabData = [
       "Each of them having their own room was the [logical] solution. (=Dịch: Mỗi người trong số họ có phòng riêng là giải pháp hợp lý.)",
       "There may be a perfectly [logical] explanation for her absences. (=Dịch: Có thể có một lời giải thích hoàn toàn hợp lý cho sự vắng mặt của cô ấy.)"
     ],
-    "image": ""
+    "image": "",
+    "topic": "General/Others"
   },
   {
     "word": "luggage",
@@ -374,7 +402,8 @@ const vocabData = [
       "Only one item of [luggage] is allowed in the main cabin. (=Dịch: Chỉ được phép mang một kiện hành lý vào khoang chính.)",
       "The car has a lot of [luggage] space. (=Dịch: Chiếc xe có nhiều không gian hành lý.)"
     ],
-    "image": ""
+    "image": "",
+    "topic": "Travel & Transport"
   },
   {
     "word": "memo",
@@ -387,7 +416,8 @@ const vocabData = [
       "An internal [memo] about his departure had already circulated. (=Dịch: Một bản ghi nhớ nội bộ về việc anh ấy nghỉ việc đã được lưu hành.)",
       "The confidential [memo] was leaked to the press. (=Dịch: Bản ghi nhớ mật đã bị rò rỉ ra báo chí.)"
     ],
-    "image": ""
+    "image": "",
+    "topic": "Business & Office"
   },
   {
     "word": "mister",
@@ -400,7 +430,8 @@ const vocabData = [
       "Please, [Mister], can we have our ball back? (=Dịch: Làm ơn, thưa ông, chúng tôi có thể lấy lại quả bóng của mình không?)",
       "The arguing continues until [Mister] Smith finally gives Zohra a number she grudgingly accepts. (=Dịch: Cuộc tranh cãi tiếp tục cho đến khi ông Smith cuối cùng đưa cho Zohra một con số mà cô ấy miễn cưỡng chấp nhận.)"
     ],
-    "image": ""
+    "image": "",
+    "topic": "Job & Career"
   },
   {
     "word": "noon",
@@ -413,7 +444,8 @@ const vocabData = [
       "The conference opens at 12 [noon] on Saturday. (=Dịch: Hội nghị khai mạc vào lúc 12 giờ trưa thứ Bảy.)",
       "I'm leaving on the [noon] train. (=Dịch: Tôi sẽ đi trên chuyến tàu vào buổi trưa.)"
     ],
-    "image": ""
+    "image": "",
+    "topic": "Business & Office"
   },
   {
     "word": "notify",
@@ -426,7 +458,8 @@ const vocabData = [
       "If you see anything suspicious you should [notify] the police immediately. (=Dịch: Nếu bạn thấy bất kỳ điều gì khả nghi, bạn nên thông báo cho cảnh sát ngay lập tức.)",
       "The family had been [notified] of the department's decision. (=Dịch: Gia đình đã được thông báo về quyết định của bộ.)"
     ],
-    "image": ""
+    "image": "",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "o'clock",
@@ -439,7 +472,8 @@ const vocabData = [
       "I went to sleep, and at two [o'clock] in the morning I woke up.  (=Dịch: Tôi đi ngủ, và lúc hai giờ sáng tôi thức dậy.)",
       "The meet was for two [o'clock] inside the museum. (=Dịch: Cuộc hẹn là vào lúc hai giờ bên trong bảo tàng.)"
     ],
-    "image": ""
+    "image": "",
+    "topic": "General/Others"
   },
   {
     "word": "preview",
@@ -452,7 +486,8 @@ const vocabData = [
       "Click here for an exclusive [preview] of our forthcoming new products. (=Dịch: Nhấp vào đây để xem trước độc quyền các sản phẩm mới sắp ra mắt của chúng tôi.)",
       "On today's show, we'll have exclusive [previews] of some of the best new music. (=Dịch: Trong chương trình hôm nay, chúng tôi sẽ có các bản xem trước độc quyền của một số bản nhạc mới hay nhất.)"
     ],
-    "image": ""
+    "image": "",
+    "topic": "Art & Entertainment"
   },
   {
     "word": "publish",
@@ -465,7 +500,8 @@ const vocabData = [
       "The names of the winners of the competition will be [published] in June. (=Dịch: Tên của những người chiến thắng trong cuộc thi sẽ được công bố vào tháng Sáu.)",
       "She was only 19 when her first novel was [published]. (=Dịch: Cô ấy chỉ mới 19 tuổi khi cuốn tiểu thuyết đầu tiên của cô được xuất bản.)"
     ],
-    "image": ""
+    "image": "",
+    "topic": "Law & Government"
   },
   {
     "word": "receipt",
@@ -478,7 +514,8 @@ const vocabData = [
       "More retailers are switching to email [receipts] instead of paper. (=Dịch: Nhiều nhà bán lẻ đang chuyển sang biên lai qua email thay vì giấy.)",
       "If you've got your [receipt] you can usually exchange the goods. (=Dịch: Nếu bạn có biên lai, bạn thường có thể đổi hàng.)"
     ],
-    "image": ""
+    "image": "",
+    "topic": "Shopping & Commerce"
   },
   {
     "word": "reception",
@@ -491,7 +528,8 @@ const vocabData = [
       "Which firm will be catering at the wedding [reception]? (=Dịch: Công ty nào sẽ phục vụ tiệc cưới?)",
       "Soft drinks and hors d'oeuvres will be served during the [reception] and a cash bar will be available. (=Dịch: Nước ngọt và khai vị sẽ được phục vụ trong tiệc đón tiếp và sẽ có quầy bar tính tiền.)"
     ],
-    "image": ""
+    "image": "",
+    "topic": "Business & Office"
   },
   {
     "word": "refund",
@@ -504,7 +542,8 @@ const vocabData = [
       "The holiday was cancelled so the travel agency had to [refund] everybody the price of the tickets. (=Dịch: Kỳ nghỉ bị hủy nên công ty du lịch phải hoàn tiền vé cho mọi người.)",
       "The theater [refunded] our money when the performance was canceled. (=Dịch: Nhà hát đã hoàn lại tiền cho chúng tôi khi buổi biểu diễn bị hủy.)"
     ],
-    "image": ""
+    "image": "",
+    "topic": "Shopping & Commerce"
   },
   {
     "word": "rental",
@@ -517,7 +556,8 @@ const vocabData = [
       "The company has recently seen a decline in DVD [rentals]. (=Dịch: Công ty gần đây đã chứng kiến sự sụt giảm trong việc thuê đĩa DVD.)",
       "The regulation applies to contracts for the sale or [rental] of goods or services. (=Dịch: Quy định áp dụng cho các hợp đồng mua bán hoặc thuê hàng hóa hay dịch vụ.)"
     ],
-    "image": ""
+    "image": "",
+    "topic": "Job & Career"
   },
   {
     "word": "reservation",
@@ -530,7 +570,8 @@ const vocabData = [
       "Please confirm your [reservation] in writing by Friday. (=Dịch: Vui lòng xác nhận đặt chỗ của bạn bằng văn bản trước thứ Sáu.)",
       "I made a [reservation] at the restaurant for 7 o'clock. (=Dịch: Tôi đã đặt chỗ ở nhà hàng vào lúc bảy giờ.)"
     ],
-    "image": ""
+    "image": "",
+    "topic": "Food & Restaurant"
   },
   {
     "word": "seminar",
@@ -543,7 +584,8 @@ const vocabData = [
       "I'm giving a [seminar] on the latest developments in genetic engineering next week. (=Dịch: Tuần tới, tôi sẽ tổ chức một buổi hội thảo về những phát triển mới nhất trong kỹ thuật di truyền.)",
       "I've already missed five [seminars] this month through ill-health. (=Dịch: Tôi đã bỏ lỡ năm buổi hội thảo trong tháng này vì bệnh tật.)"
     ],
-    "image": ""
+    "image": "",
+    "topic": "Education & Learning"
   },
   {
     "word": "shipment",
@@ -556,7 +598,8 @@ const vocabData = [
       "It takes several days for a [shipment] to clear airport customs. (=Dịch: Mất vài ngày để lô hàng thông qua hải quan sân bay.)",
       "They received food [shipments] from China. (=Dịch: Họ đã nhận được các lô hàng thực phẩm từ Trung Quốc.)"
     ],
-    "image": ""
+    "image": "",
+    "topic": "Travel & Transport"
   },
   {
     "word": "sincerely",
@@ -569,7 +612,8 @@ const vocabData = [
       "I [sincerely] hope that his sons become geologists showing the same amount of commitment as their father to a task well done. (=Dịch: Tôi chân thành hy vọng rằng các con trai của anh ấy sẽ trở thành những nhà địa chất học thể hiện sự cam kết giống như cha của họ trong việc hoàn thành nhiệm vụ.)",
       "I'm [sincerely] grateful. (=Dịch: Tôi chân thành biết ơn.)"
     ],
-    "image": ""
+    "image": "",
+    "topic": "Education & Learning"
   },
   {
     "word": "sometime",
@@ -582,7 +626,8 @@ const vocabData = [
       "I'm having lunch with an old friend [sometime] next week. (=Dịch: Tôi sẽ ăn trưa với một người bạn cũ vào một lúc nào đó tuần tới.)",
       "I saw him [sometime] last summer. (=Dịch: Tôi đã gặp anh ấy vào mùa hè năm ngoái.)"
     ],
-    "image": ""
+    "image": "",
+    "topic": "Food & Restaurant"
   },
   {
     "word": "subscription",
@@ -595,7 +640,8 @@ const vocabData = [
       "Your business can be listed on the website for a low monthly [subscription]. (=Dịch: Doanh nghiệp của bạn có thể được liệt kê trên trang web với một khoản phí đăng ký hàng tháng thấp.)",
       "An annual [subscription] to the magazine costs £32.50. (=Dịch: Đăng ký hàng năm cho tạp chí có giá £32.50.)"
     ],
-    "image": ""
+    "image": "",
+    "topic": "Shopping & Commerce"
   },
   {
     "word": "subway",
@@ -608,7 +654,8 @@ const vocabData = [
       "The majority of us feel worried if we walk through a [subway].  (=Dịch: Phần lớn chúng ta cảm thấy lo lắng nếu đi qua đường hầm.)",
       "I don't like to travel though the [subway] after dark. (=Dịch: Tôi không thích đi qua đường hầm sau khi trời tối.)"
     ],
-    "image": ""
+    "image": "",
+    "topic": "Travel & Transport"
   },
   {
     "word": "supervisor",
@@ -621,7 +668,8 @@ const vocabData = [
       "A significant proportion of workers felt they had been bullied by their immediate [supervisor]. (=Dịch: Một tỉ lệ đáng kể công nhân cảm thấy họ đã bị bắt nạt bởi giám sát viên trực tiếp của họ.)",
       "I have a meeting with my [supervisor] about my research topic. (=Dịch: Tôi có một cuộc họp với giám sát viên của tôi về chủ đề nghiên cứu của tôi.)"
     ],
-    "image": ""
+    "image": "",
+    "topic": "Business & Office"
   },
   {
     "word": "technician",
@@ -634,7 +682,8 @@ const vocabData = [
       "a lab/computer/electrical [technician] (=Dịch: một kỹ thuật viên phòng thí nghiệm/máy tính/điện tử)",
       "a need to train [technicians] in computer aided engineering (=Dịch: một nhu cầu đào tạo kỹ thuật viên trong kỹ thuật hỗ trợ máy tính)"
     ],
-    "image": ""
+    "image": "",
+    "topic": "Job & Career"
   },
   {
     "word": "traveler",
@@ -647,7 +696,8 @@ const vocabData = [
       "Independent [travelers] often steer clear of the most touristy spots. (=Dịch: Những du khách độc lập thường tránh xa những địa điểm du lịch nổi tiếng nhất.)",
       "Local tribesmen earn their living guiding [travelers] across the mountains. (=Dịch: Người dân tộc địa phương kiếm sống bằng cách dẫn dắt du khách qua những ngọn núi.)"
     ],
-    "image": ""
+    "image": "",
+    "topic": "Travel & Transport"
   },
   {
     "word": "vacation",
@@ -660,7 +710,8 @@ const vocabData = [
       "She always returns from [vacation] with a few souvenirs, even if they're only cheap trinkets. (=Dịch: Cô ấy luôn trở về từ kỳ nghỉ với một vài món quà lưu niệm, ngay cả khi chúng chỉ là những món đồ rẻ tiền.)",
       "We're going upstate for our [vacation]. (=Dịch: Chúng tôi sẽ lên miền Bắc để nghỉ mát.)"
     ],
-    "image": ""
+    "image": "",
+    "topic": "Travel & Transport"
   },
   {
     "word": "waiter",
@@ -673,7 +724,8 @@ const vocabData = [
       "Walter expostulated with the [waiter] about the size of the bill. (=Dịch: Walter phản đối người phục vụ về kích thước của hóa đơn.)",
       "The [waiter] handed me the menu with a flourish. (=Dịch: Người phục vụ đưa cho tôi thực đơn một cách khoa trương.)"
     ],
-    "image": ""
+    "image": "",
+    "topic": "Food & Restaurant"
   },
   {
     "word": "warranty",
@@ -686,7 +738,8 @@ const vocabData = [
       "I've had problems with the car, but it’s still under [warranty]. (=Dịch: Tôi gặp vấn đề với chiếc xe, nhưng nó vẫn được bảo hành.)",
       "I've had problems with the car, but it's still under [warranty]. (=Dịch: Tôi đã gặp vấn đề với xe, nhưng nó vẫn còn trong thời gian bảo hành.)"
     ],
-    "image": ""
+    "image": "",
+    "topic": "Shopping & Commerce"
   },
   {
     "word": "website",
@@ -699,7 +752,8 @@ const vocabData = [
       "Their [website] looks amateurish. (=Dịch: Trang web của họ trông nghiệp dư.)",
       "I've found a really useful [website] about allergies on the Net. (=Dịch: Tôi đã tìm thấy một trang web thực sự hữu ích về dị ứng trên mạng.)"
     ],
-    "image": "assets/images/website.jpg"
+    "image": "assets/images/website.jpg",
+    "topic": "Technology & Communication"
   },
   {
     "word": "workshop",
@@ -712,7 +766,8 @@ const vocabData = [
       "A truck that does a 1,500 mile roundtrip requires five days in the [workshop] when it gets back. (=Dịch: Một chiếc xe tải thực hiện chuyến đi vòng 1.500 dặm cần năm ngày trong xưởng khi trở về.)",
       "a carpenter's/printer's [workshop] (=Dịch: xưởng mộc/xưởng in)"
     ],
-    "image": "assets/images/workshop.jpg"
+    "image": "assets/images/workshop.jpg",
+    "topic": "Shopping & Commerce"
   },
   {
     "word": "admission",
@@ -725,7 +780,8 @@ const vocabData = [
       "How many students will gain [admission] to Yale? (=Dịch: Có bao nhiêu học sinh sẽ được nhận vào Yale?)",
       "Her silence was taken as an [admission] of guilt. (=Dịch: Sự im lặng của cô ấy bị coi là một sự thừa nhận tội lỗi.)"
     ],
-    "image": "assets/images/admission.jpg"
+    "image": "assets/images/admission.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "airplane",
@@ -738,7 +794,8 @@ const vocabData = [
       "Now we are going by [airplane], it is very risky, but we are taking the dangers anyway (=Dịch: Bây giờ chúng tôi đi bằng máy bay, điều đó rất mạo hiểm, nhưng chúng tôi vẫn chấp nhận các nguy hiểm.)",
       "The [airplane] soared through the sky, leaving a trail of white contrails behind it. (=Dịch: Chiếc máy bay lao vút qua bầu trời, để lại một vệt vệt trắng phía sau.)"
     ],
-    "image": "assets/images/airplane.jpg"
+    "image": "assets/images/airplane.jpg",
+    "topic": "Travel & Transport"
   },
   {
     "word": "appliance",
@@ -751,7 +808,8 @@ const vocabData = [
       "Modern [appliances] such as washing machines, vacuum cleaners and steam irons make housework easier. (=Dịch: Các thiết bị hiện đại như máy giặt, máy hút bụi và bàn ủi hơi nước làm cho công việc nhà dễ dàng hơn.)",
       "We recommend that an engineer services your gas [appliance] annually. (=Dịch: Chúng tôi khuyến nghị rằng một kỹ sư nên bảo dưỡng thiết bị gas của bạn hàng năm.)"
     ],
-    "image": "assets/images/appliance.jpg"
+    "image": "assets/images/appliance.jpg",
+    "topic": "Technology & Communication"
   },
   {
     "word": "assignment",
@@ -764,7 +822,8 @@ const vocabData = [
       "His two-year [assignment] to the Mexico office starts in September. (=Dịch: Nhiệm vụ hai năm của anh ấy tại văn phòng ở Mexico sẽ bắt đầu vào tháng Chín.)",
       "He took this award-winning photograph while on [assignment] in the Middle East. (=Dịch: Anh ấy chụp bức ảnh đoạt giải này khi đang làm nhiệm vụ ở Trung Đông.)"
     ],
-    "image": "assets/images/assignment.webp"
+    "image": "assets/images/assignment.webp",
+    "topic": "Business & Office"
   },
   {
     "word": "attendee",
@@ -777,7 +836,8 @@ const vocabData = [
       "Another report found the majority of [attendees] attend only one exhibition a year. (=Dịch: Một báo cáo khác cho thấy phần lớn người tham dự chỉ tham gia một triển lãm mỗi năm.)",
       "This second annual conference will allow [attendees] to mix business with pleasure. (=Dịch: Hội nghị thường niên lần thứ hai này sẽ cho phép người tham dự kết hợp kinh doanh với giải trí.)"
     ],
-    "image": "assets/images/attendee.jpg"
+    "image": "assets/images/attendee.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "birthday",
@@ -790,7 +850,8 @@ const vocabData = [
       "Parents try to make their children's [birthdays] special with a cake, cards, and gifts. (=Dịch: Cha mẹ cố gắng làm cho sinh nhật của con cái họ đặc biệt bằng bánh, thiệp và quà.)",
       "Steve has made this cake on his [birthday] for his colleagues with an overwhelming positive response. (=Dịch: Steve đã làm chiếc bánh này vào sinh nhật của mình cho đồng nghiệp và nhận được phản hồi rất tích cực.)"
     ],
-    "image": "assets/images/birthday.jpg"
+    "image": "assets/images/birthday.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "cabinet",
@@ -803,7 +864,8 @@ const vocabData = [
       "The weapons were stored in various [cabinets] behind glass and the rest was open space. (=Dịch: Các loại vũ khí được cất giữ trong các tủ kính khác nhau và phần còn lại là không gian mở.)",
       "Here are photographs of a family elder on display in a glass [cabinet]. (=Dịch: Dưới đây là những bức ảnh chụp một người lớn tuổi trong gia đình được trưng bày trong tủ kính.)"
     ],
-    "image": "assets/images/cabinet.jpeg"
+    "image": "assets/images/cabinet.jpeg",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "café",
@@ -816,7 +878,8 @@ const vocabData = [
       "Urban dwellers may eat a light meal at a [café] or restaurant in the evening. (=Dịch: Người dân thành thị có thể ăn một bữa nhẹ tại một quán cà phê hoặc nhà hàng vào buổi tối.)",
       "Small restaurants, [cafes] selling coffee and tea, as well as stalls selling sandwiches and fruit juice are in abundance, spread all over the city. (=Dịch: Các nhà hàng nhỏ, quán cà phê bán cà phê và trà, cũng như các quầy hàng bán bánh mì kẹp và nước ép trái cây rất phong phú, có mặt khắp nơi trong thành phố.)"
     ],
-    "image": "assets/images/caf.jpg"
+    "image": "assets/images/caf.jpg",
+    "topic": "Food & Restaurant"
   },
   {
     "word": "cellphone",
@@ -829,7 +892,8 @@ const vocabData = [
       "It seems [cellphones] have become an indispensable part of our everyday lives. (=Dịch: Có vẻ như điện thoại di động đã trở thành một phần không thể thiếu trong cuộc sống hàng ngày của chúng ta.)",
       "The data is relayed via the user's [cellphone] to a computer, which displays their position on a map. (=Dịch: Dữ liệu được chuyển qua điện thoại di động của người dùng tới một máy tính, hiển thị vị trí của họ trên bản đồ.)"
     ],
-    "image": "assets/images/cellphone.jpeg"
+    "image": "assets/images/cellphone.jpeg",
+    "topic": "Technology & Communication"
   },
   {
     "word": "clue",
@@ -842,7 +906,8 @@ const vocabData = [
       "He pored over the letter searching for [clues] about the writer. (=Dịch: Anh ấy chăm chú xem thư để tìm manh mối về người viết.)",
       "The site does not publish contact details for the creators or reveal any other [clues] to the identity of the organisation. (=Dịch: Trang web không công bố chi tiết liên lạc của những người sáng tạo hoặc tiết lộ bất kỳ manh mối nào khác về danh tính của tổ chức.)"
     ],
-    "image": "assets/images/clue.jpg"
+    "image": "assets/images/clue.jpg",
+    "topic": "Law & Government"
   },
   {
     "word": "compact",
@@ -855,7 +920,8 @@ const vocabData = [
       "What a [compact] office! How did you fit so much into so little space? (=Dịch: Thật là một văn phòng nhỏ gọn! Làm thế nào bạn có thể nhét nhiều thứ vào một không gian nhỏ như vậy?)",
       "To protect the environment, all the villagers built their houses in a [compact] area (=Dịch: Để bảo vệ môi trường, tất cả dân làng xây nhà trong một khu vực nhỏ gọn)"
     ],
-    "image": "assets/images/compact.jpg"
+    "image": "assets/images/compact.jpg",
+    "topic": "Science & Nature"
   },
   {
     "word": "comprehension",
@@ -868,7 +934,8 @@ const vocabData = [
       "When reading [comprehension] is assessed through writing, these difficulties are compounded. (=Dịch: Khi việc đọc hiểu được đánh giá thông qua việc viết, những khó khăn này càng tăng thêm.)",
       "He has no [comprehension] of the size of the problem. (=Dịch: Anh ta không hiểu được tầm quan trọng của vấn đề.)"
     ],
-    "image": "assets/images/comprehension.jpg"
+    "image": "assets/images/comprehension.jpg",
+    "topic": "Job & Career"
   },
   {
     "word": "contradict",
@@ -881,7 +948,8 @@ const vocabData = [
       "The survey appears to [contradict] the industry's claims (=Dịch: Cuộc khảo sát dường như mâu thuẫn với các tuyên bố của ngành.)",
       "The fact that one witness [contradicts] another witness is just a matter of getting to the facts. (=Dịch: Việc một nhân chứng mâu thuẫn với một nhân chứng khác chỉ là vấn đề tìm ra sự thật.)"
     ],
-    "image": "assets/images/contradict.jpg"
+    "image": "assets/images/contradict.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "convenient",
@@ -894,7 +962,8 @@ const vocabData = [
       "This is timely and [convenient] for patrons, and it saves a great deal of staff time and attention. (=Dịch: Điều này kịp thời và thuận tiện cho khách hàng, đồng thời tiết kiệm được nhiều thời gian và sự chú ý của nhân viên.)",
       "Our local shop has very [convenient] opening hours. (=Dịch: Cửa hàng địa phương của chúng tôi có giờ mở cửa rất thuận tiện.)"
     ],
-    "image": "assets/images/convenient.png"
+    "image": "assets/images/convenient.png",
+    "topic": "Shopping & Commerce"
   },
   {
     "word": "coupon",
@@ -907,7 +976,8 @@ const vocabData = [
       "Clip this [coupon] for $10 off your next purchase. (=Dịch: Cắt phiếu giảm giá này để tiết kiệm $10 cho lần mua hàng tiếp theo của bạn.)",
       "Visitors will get a chance to win discount [coupons] by participating in musical activities and spot contests. (=Dịch: Khách tham quan sẽ có cơ hội giành được phiếu giảm giá bằng cách tham gia các hoạt động âm nhạc và các cuộc thi tại chỗ.)"
     ],
-    "image": "assets/images/coupon.jpg"
+    "image": "assets/images/coupon.jpg",
+    "topic": "Shopping & Commerce"
   },
   {
     "word": "coworker",
@@ -920,7 +990,8 @@ const vocabData = [
       "His commitment to the company and his [coworkers] is unquestioned, and above all, he fits into the group. (=Dịch: Sự cam kết của anh ấy với công ty và đồng nghiệp của mình là không thể nghi ngờ, và trên hết, anh ấy phù hợp với nhóm.)",
       "Not long afterwards, he told a [co-worker] that he probably would not be seeing him again. (=Dịch: Không lâu sau, anh ấy nói với một đồng nghiệp rằng có lẽ anh ấy sẽ không gặp lại anh ấy nữa.)"
     ],
-    "image": "assets/images/coworker.jpeg"
+    "image": "assets/images/coworker.jpeg",
+    "topic": "Business & Office"
   },
   {
     "word": "cruise",
@@ -933,7 +1004,8 @@ const vocabData = [
       "He and his wife went on a [cruise] to the Bahamas. (=Dịch: Anh và vợ đi du thuyền đến Bahamas.)",
       "Both boats take over 200 tourists on daily pleasure [cruises] in Pattaya Bay. (=Dịch: Cả hai chiếc thuyền đều chở hơn 200 du khách trên các chuyến du ngoạn hàng ngày ở Vịnh Pattaya.)"
     ],
-    "image": "assets/images/cruise.webp"
+    "image": "assets/images/cruise.webp",
+    "topic": "General/Others"
   },
   {
     "word": "dentist",
@@ -946,7 +1018,8 @@ const vocabData = [
       "You should have your teeth checked by a [dentist] at least twice a year. (=Dịch: Bạn nên kiểm tra răng của mình bởi nha sĩ ít nhất hai lần mỗi năm.)",
       "Doctors, nurses even [dentists] are taken to court for not taking the right action or making a mistake. (=Dịch: Các bác sĩ, y tá thậm chí nha sĩ bị đưa ra tòa vì không hành động đúng đắn hoặc mắc sai lầm.)"
     ],
-    "image": "assets/images/dentist.jpg"
+    "image": "assets/images/dentist.jpg",
+    "topic": "Health & Medicine"
   },
   {
     "word": "depart",
@@ -959,7 +1032,8 @@ const vocabData = [
       "The train now [departing] from platform 13 is the 10.35 to Glasgow. (=Dịch: Chuyến tàu hiện đang khởi hành từ sân ga 13 là chuyến tàu 10.35 đến Glasgow.)",
       "A source at Mataram airport said flights continued as usual and the last flight [departed] for Bali with several empty seats. (=Dịch: Một nguồn tin tại sân bay Mataram cho biết các chuyến bay vẫn tiếp tục như bình thường và chuyến bay cuối cùng đã khởi hành đi Bali với một vài chỗ ngồi trống.)"
     ],
-    "image": "assets/images/depart.png"
+    "image": "assets/images/depart.png",
+    "topic": "Travel & Transport"
   },
   {
     "word": "destination",
@@ -972,7 +1046,8 @@ const vocabData = [
       "The shipment should arrive at its [destination] in three days. (=Dịch: Hàng hóa sẽ đến nơi trong ba ngày.)",
       "We had to change planes twice before reaching our final [destination]. (=Dịch: Chúng tôi phải đổi máy bay hai lần trước khi đến điểm đến cuối cùng.)"
     ],
-    "image": "assets/images/destination.jpg"
+    "image": "assets/images/destination.jpg",
+    "topic": "Travel & Transport"
   },
   {
     "word": "dine",
@@ -985,7 +1060,8 @@ const vocabData = [
       "A man is [dining] in a fancy restaurant and there is a gorgeous redhead sitting at the next table. (=Dịch: Một người đàn ông đang ăn tối ở một nhà hàng sang trọng và có một phụ nữ tóc đỏ xinh đẹp ngồi ở bàn bên cạnh.)",
       "From now until Christmas, if you [dine] at a Bradford restaurant, you can help the homeless by adding just £1 to your bill. (=Dịch: Từ bây giờ đến Giáng Sinh, nếu bạn ăn tối tại một nhà hàng ở Bradford, bạn có thể giúp đỡ người vô gia cư bằng cách thêm chỉ £1 vào hóa đơn của bạn.)"
     ],
-    "image": "assets/images/dine.jpeg"
+    "image": "assets/images/dine.jpeg",
+    "topic": "Food & Restaurant"
   },
   {
     "word": "electrical",
@@ -998,7 +1074,8 @@ const vocabData = [
       "There is a 25% discount on all [electrical] goods until the end of the week. (=Dịch: Có giảm giá 25% cho tất cả các mặt hàng điện tử cho đến cuối tuần.)",
       "Most [electrical] goods come with a one-year guarantee. (=Dịch: Hầu hết các mặt hàng điện tử đều đi kèm với bảo hành một năm.)"
     ],
-    "image": "assets/images/electrical.jpg"
+    "image": "assets/images/electrical.jpg",
+    "topic": "Shopping & Commerce"
   },
   {
     "word": "exit",
@@ -1011,7 +1088,8 @@ const vocabData = [
       "The singer took a bow before [exiting] the stage. (=Dịch: Ca sĩ cúi chào trước khi rời khỏi sân khấu.)",
       "Please [exit] the theatre by the side doors. (=Dịch: Vui lòng rời khỏi nhà hát bằng cửa bên.)"
     ],
-    "image": "assets/images/exit.jpg"
+    "image": "assets/images/exit.jpg",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "explanatory",
@@ -1024,7 +1102,8 @@ const vocabData = [
       "The guide comprises two maps, one on each side of the page, surrounded by [explanatory] notes. (=Dịch: Hướng dẫn này bao gồm hai bản đồ, mỗi bản đồ ở một bên của trang, được bao quanh bởi các ghi chú giải thích.)",
       "There is a brief explanation in the [explanatory] note of the bill as to what all this is about. (=Dịch: Có một lời giải thích ngắn gọn trong ghi chú giải thích của dự luật về tất cả những điều này.)"
     ],
-    "image": "assets/images/explanatory.jpg"
+    "image": "assets/images/explanatory.jpg",
+    "topic": "Law & Government"
   },
   {
     "word": "garage",
@@ -1037,7 +1116,8 @@ const vocabData = [
       "It is the largest building occupied by Laois Civil Defence and contains two vehicle [garages] and lecture room. (=Dịch: Đây là tòa nhà lớn nhất được Laois Civil Defence sử dụng và chứa hai nhà để xe và phòng giảng dạy.)",
       "The remaining outbuildings include a [garage], barn, two stables, four old stores and two boathouses. (=Dịch: Các tòa nhà còn lại bao gồm một nhà để xe, kho thóc, hai chuồng ngựa, bốn kho cũ và hai nhà thuyền.)"
     ],
-    "image": "assets/images/garage.jpg"
+    "image": "assets/images/garage.jpg",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "identification",
@@ -1050,7 +1130,8 @@ const vocabData = [
       "We were asked to show [identification] at the airport check-in. (=Dịch: Chúng tôi được yêu cầu xuất trình giấy tờ tùy thân tại quầy làm thủ tục ở sân bay.)",
       "To open a new account, the bank will require you to show four pieces of [identification]. (=Dịch: Để mở tài khoản mới, ngân hàng sẽ yêu cầu bạn xuất trình bốn loại giấy tờ tùy thân.)"
     ],
-    "image": "assets/images/identification.png"
+    "image": "assets/images/identification.png",
+    "topic": "Travel & Transport"
   },
   {
     "word": "inference",
@@ -1063,7 +1144,8 @@ const vocabData = [
       "There are certain [inferences] we can draw about the origins of language. (=Dịch: Chúng ta có thể rút ra một số suy luận nhất định về nguồn gốc của ngôn ngữ.)",
       "His change of mind was recent and sudden, the [inference] being that someone had persuaded him. (=Dịch: Sự thay đổi ý định của anh ấy diễn ra gần đây và đột ngột, suy luận là có ai đó đã thuyết phục anh ấy.)"
     ],
-    "image": "assets/images/inference.png"
+    "image": "assets/images/inference.png",
+    "topic": "Art & Entertainment"
   },
   {
     "word": "instructor",
@@ -1076,7 +1158,8 @@ const vocabData = [
       "a qualified/certified [instructor] (=Dịch: một huấn luyện viên có trình độ/chứng nhận)",
       "He worked for a time as an aerobics [instructor]. (=Dịch: Anh ấy đã làm việc một thời gian như một huấn luyện viên thể dục nhịp điệu.)"
     ],
-    "image": "assets/images/instructor.jpg"
+    "image": "assets/images/instructor.jpg",
+    "topic": "Education & Learning"
   },
   {
     "word": "inventory",
@@ -1089,7 +1172,8 @@ const vocabData = [
       "The [inventory] lists many rare items. (=Dịch: Bảng kiểm kê liệt kê nhiều vật phẩm quý hiếm.)",
       "The manager is compiling an [inventory] of all the hotel furniture. (=Dịch: Người quản lý đang lập danh sách kiểm kê tất cả các đồ nội thất của khách sạn.)"
     ],
-    "image": "assets/images/inventory.jpg"
+    "image": "assets/images/inventory.jpg",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "keyboard",
@@ -1102,7 +1186,8 @@ const vocabData = [
       "Filled with inspiration, he started pounding his [keyboard]. (=Dịch: Đầy cảm hứng, anh ấy bắt đầu gõ mạnh trên bàn phím.)",
       "Using the mouse is quicker than typing it on the [keyboard]. (=Dịch: Sử dụng chuột nhanh hơn so với gõ trên bàn phím.)"
     ],
-    "image": "assets/images/keyboard.jpg"
+    "image": "assets/images/keyboard.jpg",
+    "topic": "Technology & Communication"
   },
   {
     "word": "laptop",
@@ -1115,7 +1200,8 @@ const vocabData = [
       "I opened my [laptop] and started typing. (=Dịch: Tôi mở máy tính xách tay và bắt đầu gõ.)",
       "She was still working on her [laptop]. (=Dịch: Cô ấy vẫn đang làm việc trên máy tính xách tay của mình.)"
     ],
-    "image": "assets/images/laptop.jpg"
+    "image": "assets/images/laptop.jpg",
+    "topic": "Technology & Communication"
   },
   {
     "word": "mall",
@@ -1128,7 +1214,8 @@ const vocabData = [
       "There are plans to build a new [mall] in the middle of town. (=Dịch: Có kế hoạch xây dựng một trung tâm mua sắm mới ở giữa thị trấn.)",
       "Shoppers are flocking to Dubai's huge [malls] and supermarkets. (=Dịch: Người mua sắm đang đổ xô đến các trung tâm mua sắm và siêu thị khổng lồ của Dubai.)"
     ],
-    "image": "assets/images/mall.jpg"
+    "image": "assets/images/mall.jpg",
+    "topic": "Shopping & Commerce"
   },
   {
     "word": "manual",
@@ -1141,7 +1228,8 @@ const vocabData = [
       "The computer comes with a comprehensive owner's [manual]. (=Dịch: Máy tính đi kèm với một sổ tay hướng dẫn chi tiết.)",
       "The [manual] said not to use the fryer on wooden decks. (=Dịch: Sổ tay nói rằng không nên sử dụng nồi chiên trên sàn gỗ.)"
     ],
-    "image": "assets/images/manual.jpg"
+    "image": "assets/images/manual.jpg",
+    "topic": "Technology & Communication"
   },
   {
     "word": "media",
@@ -1154,7 +1242,8 @@ const vocabData = [
       "The [media] was/were accused of influencing the final decision. (=Dịch: Phương tiện truyền thông bị cáo buộc là đã ảnh hưởng đến quyết định cuối cùng.)",
       "This is a story that the mainstream [media] refuses to cover. (=Dịch: Đây là một câu chuyện mà các phương tiện truyền thông chính thống từ chối bao phủ.)"
     ],
-    "image": "assets/images/media.jpg"
+    "image": "assets/images/media.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "medication",
@@ -1167,7 +1256,8 @@ const vocabData = [
       "He talked with his doctor about changing his [medication]. (=Dịch: Anh ấy đã nói chuyện với bác sĩ về việc thay đổi thuốc.)",
       "She stopped the [medication] because of side effects. (=Dịch: Cô ấy đã ngừng dùng thuốc vì tác dụng phụ.)"
     ],
-    "image": "assets/images/medication.jpg"
+    "image": "assets/images/medication.jpg",
+    "topic": "Health & Medicine"
   },
   {
     "word": "merchandise",
@@ -1180,7 +1270,8 @@ const vocabData = [
       "Several stores have reported running out of [merchandise]. (=Dịch: Một số cửa hàng đã báo cáo hết hàng hóa.)",
       "Only a small percentage of [merchandise] is returned because of defects. (=Dịch: Chỉ một phần trăm nhỏ hàng hóa bị trả lại vì bị lỗi.)"
     ],
-    "image": "assets/images/merchandise.jpg"
+    "image": "assets/images/merchandise.jpg",
+    "topic": "Shopping & Commerce"
   },
   {
     "word": "obtain",
@@ -1193,7 +1284,8 @@ const vocabData = [
       "I finally managed to [obtain] a copy of the report. (=Dịch: Cuối cùng tôi đã xoay xở để có được một bản sao của báo cáo.)",
       "Further details can be [obtained] by writing to the above address (=Dịch: Có thể có được thêm chi tiết bằng cách viết thư đến địa chỉ trên.)"
     ],
-    "image": ""
+    "image": "",
+    "topic": "General/Others"
   },
   {
     "word": "occupation",
@@ -1206,7 +1298,8 @@ const vocabData = [
       "The college provides training in a wide range of [occupations]. (=Dịch: Trường đại học cung cấp đào tạo trong nhiều ngành nghề khác nhau.)",
       "The people interviewed followed a variety of [occupations] (=Dịch: Những người được phỏng vấn theo đuổi nhiều ngành nghề đa dạng.)"
     ],
-    "image": ""
+    "image": "",
+    "topic": "Job & Career"
   },
   {
     "word": "outdoor",
@@ -1219,7 +1312,8 @@ const vocabData = [
       "We offer our guests a wide range of outdoor activities. (=Dịch: Chúng tôi cung cấp cho khách hàng một loạt các hoạt động ngoài trời.)",
       "I'm not really the [outdoor] type (= I prefer indoor activities). (=Dịch: Tôi không thực sự là người thích hoạt động ngoài trời (= tôi thích các hoạt động trong nhà hơn).)"
     ],
-    "image": "assets/images/outdoor.jpg"
+    "image": "assets/images/outdoor.jpg",
+    "topic": "Shopping & Commerce"
   },
   {
     "word": "oval",
@@ -1232,7 +1326,8 @@ const vocabData = [
       "Voters use a pencil to fill in [ovals] on the ballot. (=Dịch: Cử tri sử dụng bút chì để tô các hình bầu dục trên lá phiếu.)",
       "The clouds are painted as white [ovals] with blue centres. (=Dịch: Những đám mây được vẽ như những hình bầu dục trắng với tâm màu xanh.)"
     ],
-    "image": "assets/images/oval.jpg"
+    "image": "assets/images/oval.jpg",
+    "topic": "Science & Nature"
   },
   {
     "word": "passport",
@@ -1245,7 +1340,8 @@ const vocabData = [
       "Many refugees have arrived at the border without [passports]. (=Dịch: Nhiều người tị nạn đã tới biên giới mà không có hộ chiếu.)",
       "You have to show your [passport] at the border. (=Dịch: Bạn phải xuất trình hộ chiếu tại biên giới.)"
     ],
-    "image": "assets/images/passport.jpg"
+    "image": "assets/images/passport.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "postpone",
@@ -1258,7 +1354,8 @@ const vocabData = [
       "We've had to [postpone] going to France because the children are ill. (=Dịch: Chúng tôi phải hoãn chuyến đi Pháp vì bọn trẻ bị ốm.)",
       "There's no point [postponing] the event just because the weather forecast is bad. (=Dịch: Không có lý do gì để hoãn sự kiện chỉ vì dự báo thời tiết xấu.)"
     ],
-    "image": "assets/images/postpone.jpg"
+    "image": "assets/images/postpone.jpg",
+    "topic": "Science & Nature"
   },
   {
     "word": "precede",
@@ -1271,7 +1368,8 @@ const vocabData = [
       "It would be helpful if you were to [precede] the report with an introduction. (=Dịch: Sẽ hữu ích nếu bạn mở đầu báo cáo bằng một lời giới thiệu.)",
       "This evening's talk will be [preceded] by a brief introduction from Mr Appleby. (=Dịch: Buổi nói chuyện tối nay sẽ được mở đầu bằng một lời giới thiệu ngắn gọn từ ông Appleby.)"
     ],
-    "image": "assets/images/precede.jpg"
+    "image": "assets/images/precede.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "receptionist",
@@ -1284,7 +1382,8 @@ const vocabData = [
       "The [receptionist] greeted him before asking his name. (=Dịch: Lễ tân chào anh ấy trước khi hỏi tên anh ấy.)",
       "The [receptionist] will check you in and give you a key card. (=Dịch: Lễ tân sẽ làm thủ tục check-in cho bạn và đưa cho bạn một thẻ chìa khóa.)"
     ],
-    "image": "assets/images/receptionist.jpg"
+    "image": "assets/images/receptionist.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "renovation",
@@ -1297,7 +1396,8 @@ const vocabData = [
       "500 stores will undergo a major [renovation]. (=Dịch: 500 cửa hàng sẽ trải qua một cuộc tu sửa lớn.)",
       "Some departments will be relocated during our [renovation] project. (=Dịch: Một số phòng ban sẽ được di dời trong dự án tu sửa của chúng tôi.)"
     ],
-    "image": ""
+    "image": "",
+    "topic": "Shopping & Commerce"
   },
   {
     "word": "replacement",
@@ -1310,7 +1410,8 @@ const vocabData = [
       "If the product doesn't work, you are given the choice of a refund or a [replacement]. (=Dịch: Nếu sản phẩm không hoạt động, bạn sẽ được lựa chọn hoàn tiền hoặc thay thế.)",
       "Our babysitter's just moved away, so we're asking around for a [replacement]. (=Dịch: Người trông trẻ của chúng tôi vừa chuyển đi, vì vậy chúng tôi đang hỏi xung quanh để tìm người thay thế.)"
     ],
-    "image": ""
+    "image": "",
+    "topic": "Shopping & Commerce"
   },
   {
     "word": "reschedule",
@@ -1323,7 +1424,8 @@ const vocabData = [
       "If you have training conflicts, [reschedule] the appointments. (=Dịch: Nếu bạn có xung đột lịch tập huấn, hãy dời lại các cuộc hẹn.)",
       "Can we [reschedule] tomorrow's meeting for some time next week? (=Dịch: Chúng ta có thể dời cuộc họp ngày mai sang tuần sau được không?)"
     ],
-    "image": ""
+    "image": "",
+    "topic": "Health & Medicine"
   },
   {
     "word": "suitcase",
@@ -1336,7 +1438,8 @@ const vocabData = [
       "The [suitcase] was full of dollar bills. (=Dịch: Chiếc vali đầy những tờ tiền đô la.)",
       "Will you keep your eye on my [suitcase] while I go to get the tickets? (=Dịch: Bạn có thể trông giúp vali của tôi trong khi tôi đi lấy vé không?)"
     ],
-    "image": ""
+    "image": "",
+    "topic": "Travel & Transport"
   },
   {
     "word": "supermarket",
@@ -1349,7 +1452,8 @@ const vocabData = [
       "Despite local opposition, the plans for the new [supermarket] have been cleared by the council. (=Dịch: Mặc dù có sự phản đối từ cư dân địa phương, kế hoạch xây dựng siêu thị mới đã được hội đồng thông qua.)",
       "The new [supermarket] is really going to clobber the small local shops. (=Dịch: Siêu thị mới thực sự sẽ làm ảnh hưởng nghiêm trọng đến các cửa hàng nhỏ địa phương.)"
     ],
-    "image": ""
+    "image": "",
+    "topic": "Food & Restaurant"
   },
   {
     "word": "tactic",
@@ -1362,7 +1466,8 @@ const vocabData = [
       "We need to agree [tactics] before the game. (=Dịch: Chúng ta cần đồng ý về chiến thuật trước trận đấu.)",
       "The rebels are using guerilla [tactics]. (=Dịch: Những kẻ nổi loạn đang sử dụng chiến thuật du kích.)"
     ],
-    "image": "assets/images/tactic.jpg"
+    "image": "assets/images/tactic.jpg",
+    "topic": "Art & Entertainment"
   },
   {
     "word": "umbrella",
@@ -1375,7 +1480,8 @@ const vocabData = [
       "They provide an [umbrella] of work force development services. (=Dịch: Họ cung cấp một loạt các dịch vụ phát triển lực lượng lao động.)",
       "An awful lot of damage is done under the [umbrella] of ecotourism. (=Dịch: Rất nhiều thiệt hại khủng khiếp được thực hiện dưới sự bảo trợ của du lịch sinh thái.)"
     ],
-    "image": "assets/images/umbrella.jpg"
+    "image": "assets/images/umbrella.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "underline",
@@ -1388,7 +1494,8 @@ const vocabData = [
       "Choose between the two forms of the verb and [underline] the correct answer. (=Dịch: Hãy chọn giữa hai dạng của động từ và gạch dưới câu trả lời đúng.)",
       "Both candidates [underlined] their commitment to national security. (=Dịch: Cả hai ứng cử viên đều nhấn mạnh cam kết của họ đối với an ninh quốc gia.)"
     ],
-    "image": "assets/images/underline.jpg"
+    "image": "assets/images/underline.jpg",
+    "topic": "Technology & Communication"
   },
   {
     "word": "upcoming",
@@ -1401,7 +1508,8 @@ const vocabData = [
       "Party officials met to nominate candidates for the [upcoming] election. (=Dịch: Các quan chức đảng đã gặp nhau để đề cử ứng cử viên cho cuộc bầu cử sắp tới.)",
       "The company's [upcoming] flotation on the stock market illustrates the good health of the technology sector. (=Dịch: Việc công ty chuẩn bị lên sàn chứng khoán minh họa cho sức khỏe tốt của ngành công nghệ.)"
     ],
-    "image": "assets/images/upcoming.jpg"
+    "image": "assets/images/upcoming.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "upgrade",
@@ -1414,7 +1522,8 @@ const vocabData = [
       "Consider [upgrading] your buildings insurance policy every five to 10 years. (=Dịch: Hãy cân nhắc nâng cấp chính sách bảo hiểm tòa nhà của bạn mỗi năm năm đến 10 năm.)",
       "They have not yet [upgraded] to fully digitial technology. (=Dịch: Họ chưa nâng cấp lên công nghệ kỹ thuật số hoàn toàn.)"
     ],
-    "image": "assets/images/upgrade.jpg"
+    "image": "assets/images/upgrade.jpg",
+    "topic": "Technology & Communication"
   },
   {
     "word": "valid",
@@ -1427,7 +1536,8 @@ const vocabData = [
       "My way of thinking might be different from yours, but it's equally [valid]. (=Dịch: Cách suy nghĩ của tôi có thể khác với bạn, nhưng nó cũng giá trị như nhau.)",
       "Their arguments were [valid] a hundred years ago and they still hold good today. (=Dịch: Lập luận của họ đã có giá trị một trăm năm trước và chúng vẫn còn đúng đến ngày nay.)"
     ],
-    "image": "assets/images/valid.jpg"
+    "image": "assets/images/valid.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "aisle",
@@ -1440,7 +1550,8 @@ const vocabData = [
       "You'll find the shampoo and the soap in the fourth [aisle] from the entrance. (=Dịch: Bạn sẽ tìm thấy dầu gội và xà phòng ở lối đi thứ tư tính từ lối vào.)",
       "The stewardess came down the [aisle] serving drinks. (=Dịch: Nữ tiếp viên đi xuống lối đi phục vụ đồ uống.)"
     ],
-    "image": "assets/images/aisle.jpg"
+    "image": "assets/images/aisle.jpg",
+    "topic": "Food & Restaurant"
   },
   {
     "word": "architect",
@@ -1453,7 +1564,8 @@ const vocabData = [
       "The [architect] showed us the house plans that she had drawn up. (=Dịch: Kiến trúc sư đã cho chúng tôi xem bản vẽ của ngôi nhà mà cô ấy đã phác thảo.)",
       "They're the firm of [architects] who won the contract to design the National Museum extension. (=Dịch: Họ là công ty kiến trúc đã thắng thầu thiết kế phần mở rộng của Bảo tàng Quốc gia.)"
     ],
-    "image": "assets/images/architect.jpg"
+    "image": "assets/images/architect.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "baggage",
@@ -1466,7 +1578,8 @@ const vocabData = [
       "Passengers are allowed 20 kilos of [baggage], plus one item of hand luggage. (=Dịch: Hành khách được phép mang theo 20 ký hành lý, cộng với một món đồ hành lý xách tay.)",
       "Can we leave our [baggage] at the hotel until it is time to leave for the airport? (=Dịch: Chúng tôi có thể để hành lý tại khách sạn cho đến khi đến giờ ra sân bay không?)"
     ],
-    "image": ""
+    "image": "",
+    "topic": "Travel & Transport"
   },
   {
     "word": "banquet",
@@ -1479,7 +1592,8 @@ const vocabData = [
       "Medieval [banquets] are held in the castle once a month. (=Dịch: Các buổi tiệc thời trung cổ được tổ chức trong lâu đài mỗi tháng một lần.)",
       "Truffles were served by the Egyptian pharaohs at their royal [banquets]. (=Dịch: Nấm truffle được các pharaoh Ai Cập phục vụ tại các bữa tiệc hoàng gia của họ.)"
     ],
-    "image": "assets/images/banquet.jpg"
+    "image": "assets/images/banquet.jpg",
+    "topic": "Food & Restaurant"
   },
   {
     "word": "beverage",
@@ -1492,7 +1606,8 @@ const vocabData = [
       "Light lunch items and [beverages] will be available for sale (=Dịch: Các món ăn nhẹ cho bữa trưa và đồ uống sẽ được bán)",
       "Experts suggest that sufferers should avoid spicy food and alcoholic [beverages]. (=Dịch: Các chuyên gia gợi ý rằng người bị bệnh nên tránh thực phẩm cay và đồ uống có cồn.)"
     ],
-    "image": "assets/images/beverage.jpg"
+    "image": "assets/images/beverage.jpg",
+    "topic": "Food & Restaurant"
   },
   {
     "word": "bulletin",
@@ -1505,7 +1620,8 @@ const vocabData = [
       "Ninety years ago, there were no television pictures, radio broadcasts or Internet [bulletins] to flash the news around the globe in an instant. (=Dịch: Chín mươi năm trước, chưa có hình ảnh truyền hình, đài phát thanh hay [bản tin] Internet nào có thể đưa tin tức nhanh chóng khắp toàn cầu.)",
       "The museum publishes a monthly [bulletin] about coming events. (=Dịch: Bảo tàng xuất bản bản tin hàng tháng về các sự kiện sắp tới.)"
     ],
-    "image": "assets/images/bulletin.jpg"
+    "image": "assets/images/bulletin.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "calendar",
@@ -1518,7 +1634,8 @@ const vocabData = [
       "I'm counting down the days on the [calendar] till he's back. (=Dịch: Tôi đang đếm ngược từng ngày trên lịch cho đến khi anh ấy trở về.)",
       "The date Dec. 31 is circled in red on the [calendar]. (=Dịch: Ngày 31 tháng 12 được khoanh tròn bằng mực đỏ trên lịch.)"
     ],
-    "image": "assets/images/calendar.jpg"
+    "image": "assets/images/calendar.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "certificate",
@@ -1531,7 +1648,8 @@ const vocabData = [
       "When you exercise the share option, you receive a [certificate] stating how many shares your cash fund has purchased. (=Dịch: Khi bạn thực hiện quyền chọn cổ phiếu, bạn nhận được một chứng chỉ nêu rõ số lượng cổ phiếu quỹ tiền mặt của bạn đã mua.)",
       "Once a company is registered, notice of its [certificate] of incorporation must be published in a public newspaper. (=Dịch: Khi một công ty được đăng ký, thông báo về chứng chỉ thành lập của nó phải được đăng trên một tờ báo công cộng.)"
     ],
-    "image": "assets/images/certificate.jpg"
+    "image": "assets/images/certificate.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "click",
@@ -1544,7 +1662,8 @@ const vocabData = [
       "A website may have many different web pages for you to [click] on and explore. (=Dịch: Một trang web có thể có nhiều trang web khác nhau để bạn nhấp vào và khám phá.)",
       "When the fonts are visible in the window, [click] on 'Select All' and then 'OK'. (=Dịch: Khi các phông chữ xuất hiện trong cửa sổ, hãy nhấp vào 'Chọn tất cả' và sau đó 'OK'.)"
     ],
-    "image": "assets/images/click.png"
+    "image": "assets/images/click.png",
+    "topic": "Technology & Communication"
   },
   {
     "word": "closet",
@@ -1557,7 +1676,8 @@ const vocabData = [
       "The [closet] was full of clothes and shoes, and dirty laundry littered the floor. (=Dịch: Tủ quần áo đầy quần áo và giày dép, còn quần áo bẩn rải rác trên sàn.)",
       "Start opening your [closets], drawers and cupboards now and donate your unused items to help others. (=Dịch: Hãy bắt đầu mở tủ quần áo, ngăn kéo và tủ của bạn ngay bây giờ và quyên góp những món đồ bạn không dùng đến để giúp đỡ người khác.)"
     ],
-    "image": "assets/images/closet.jpg"
+    "image": "assets/images/closet.jpg",
+    "topic": "Job & Career"
   },
   {
     "word": "container",
@@ -1570,7 +1690,8 @@ const vocabData = [
       "After opening, transfer the contents of the tin to a plastic [container] for storage. (=Dịch: Sau khi mở, chuyển nội dung của hộp thiếc vào một hộp nhựa để lưu trữ.)",
       "Discarded food [containers] and bottles littered the streets. (=Dịch: Thức ăn [hộp đựng] và chai lọ vứt bừa bãi trên đường phố.)"
     ],
-    "image": "assets/images/container.jpg"
+    "image": "assets/images/container.jpg",
+    "topic": "Food & Restaurant"
   },
   {
     "word": "convenience",
@@ -1583,7 +1704,8 @@ const vocabData = [
       "We offer large parking lots for customers' [convenience]. (=Dịch: Chúng tôi cung cấp bãi đậu xe lớn cho sự tiện lợi của khách hàng.)",
       "These links are provided as a [convenience] and we accept no responsibility for their content. (=Dịch: Những liên kết này được cung cấp để tạo sự tiện lợi và chúng tôi không chịu trách nhiệm về nội dung của chúng.)"
     ],
-    "image": ""
+    "image": "",
+    "topic": "Shopping & Commerce"
   },
   {
     "word": "copier",
@@ -1596,7 +1718,8 @@ const vocabData = [
       "Document encryption at the [copier] helps safeguard confidential information before it is transmitted across the network. (=Dịch: Mã hóa tài liệu tại máy photocopy giúp bảo vệ thông tin bí mật trước khi được truyền qua mạng.)",
       "There's a kitchen, a conference room, an area with [copiers] and a little lounge where you can hold informal meetings. (=Dịch: Có một nhà bếp, một phòng hội nghị, một khu vực có [máy photocopy] và một phòng khách nhỏ nơi bạn có thể tổ chức các cuộc họp thân mật.)"
     ],
-    "image": ""
+    "image": "",
+    "topic": "Technology & Communication"
   },
   {
     "word": "departure",
@@ -1609,7 +1732,8 @@ const vocabData = [
       "Please hand in your keys at reception on your [departure] from the hotel. (=Dịch: Vui lòng nộp chìa khóa của bạn tại quầy lễ tân khi bạn rời khỏi khách sạn.)",
       "Check our website for the flight times for [departures] from Bristol airport. (=Dịch: Kiểm tra trang web của chúng tôi để biết giờ bay cho các chuyến khởi hành từ sân bay Bristol.)"
     ],
-    "image": ""
+    "image": "",
+    "topic": "Travel & Transport"
   },
   {
     "word": "dial",
@@ -1622,7 +1746,8 @@ const vocabData = [
       "If you have the extension number you can [dial] any member of staff direct. (=Dịch: Nếu bạn có số máy lẻ, bạn có thể [quay số] trực tiếp với bất kỳ thành viên nào của nhân viên.)",
       "She picked up the receiver and [dialled] his number. (=Dịch: Cô ấy nhấc ống nghe và quay số của anh ấy.)"
     ],
-    "image": "assets/images/dial.jpg"
+    "image": "assets/images/dial.jpg",
+    "topic": "Technology & Communication"
   },
   {
     "word": "distractor",
@@ -1635,7 +1760,8 @@ const vocabData = [
       "In this task, participants are asked to name a picture and to ignore a superimposed [distractor] word. (=Dịch: Trong nhiệm vụ này, người tham gia được yêu cầu đặt tên cho một bức tranh và bỏ qua một từ gây phân tâm được xếp chồng lên nhau.)",
       "Later, the pictures are shown again but this time in a random order, interspersed with 20 \"[distractor]\" pictures. (=Dịch: Sau đó, các bức ảnh được chiếu lại nhưng lần này theo thứ tự ngẫu nhiên, xen kẽ với 20 bức ảnh \"[phân tâm]\".)"
     ],
-    "image": "assets/images/distractor.png"
+    "image": "assets/images/distractor.png",
+    "topic": "General/Others"
   },
   {
     "word": "donation",
@@ -1648,7 +1774,8 @@ const vocabData = [
       "It is possible to make a [donation] with conditions attached, for example requiring the funds to be used for a specific purpose. (=Dịch: Có thể quyên góp kèm theo các điều kiện, ví dụ như yêu cầu số tiền đó phải được sử dụng cho một mục đích cụ thể.)",
       "Many of his sponsors doubled their [donations], and the money was presented last Friday. (=Dịch: Nhiều nhà tài trợ của ông đã tăng gấp đôi số tiền quyên góp, và số tiền đã được trao vào thứ Sáu tuần trước.)"
     ],
-    "image": "assets/images/donation.jpg"
+    "image": "assets/images/donation.jpg",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "drawer",
@@ -1661,7 +1788,8 @@ const vocabData = [
       "We searched all morning for the missing papers and finally discovered them in a [drawer]. (=Dịch: Chúng tôi đã tìm kiếm cả buổi sáng cho các tài liệu bị mất và cuối cùng phát hiện chúng trong một ngăn kéo.)",
       "They discovered a stash of money hidden at the back of a [drawer]. (=Dịch: Họ phát hiện một đống tiền được giấu ở phía sau của một ngăn kéo.)"
     ],
-    "image": "assets/images/drawer.jpg"
+    "image": "assets/images/drawer.jpg",
+    "topic": "Science & Nature"
   },
   {
     "word": "eligible",
@@ -1674,7 +1802,8 @@ const vocabData = [
       "You have to be employed six months to be [eligible] for medical benefits. (=Dịch: Bạn phải làm việc sáu tháng để đủ điều kiện nhận phúc lợi y tế.)",
       "Nearly two-thirds of the company's current employees will be [eligible] to retire within five years. (=Dịch: Gần hai phần ba số nhân viên hiện tại của công ty sẽ đủ điều kiện để nghỉ hưu trong vòng năm năm.)"
     ],
-    "image": "assets/images/eligible.jpg"
+    "image": "assets/images/eligible.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "expire",
@@ -1687,7 +1816,8 @@ const vocabData = [
       "The warranty period is due to [expire] at the end of November. (=Dịch: Thời hạn bảo hành sẽ hết hạn vào cuối tháng Mười Một.)",
       "Under current law, the state's earned-income tax credit would [expire] after this year. (=Dịch: Theo luật hiện hành, tín dụng thuế thu nhập kiếm được của bang sẽ hết hạn sau năm nay.)"
     ],
-    "image": "assets/images/expire.jpg"
+    "image": "assets/images/expire.jpg",
+    "topic": "Law & Government"
   },
   {
     "word": "feedback",
@@ -1700,7 +1830,8 @@ const vocabData = [
       "[Feedback] is very valuable as it helps us know whether we are giving out TV audience what they like. (=Dịch: Phản hồi rất có giá trị vì nó giúp chúng tôi biết liệu chúng tôi có đang cung cấp cho khán giả truyền hình thứ họ thích hay không.)",
       "The client has given us some [feedback] on the design. (=Dịch: Khách hàng đã đưa ra một số phản hồi về thiết kế.)"
     ],
-    "image": ""
+    "image": "",
+    "topic": "Shopping & Commerce"
   },
   {
     "word": "fitness",
@@ -1713,7 +1844,8 @@ const vocabData = [
       "His dancing technique is good, but he needs to work on his [fitness]. (=Dịch: Kỹ thuật nhảy của anh ấy tốt, nhưng anh ấy cần luyện tập thêm về thể lực.)",
       "The aim of exercise is to achieve a beneficial level of [fitness] and health, physically and mentally. (=Dịch: Mục đích của việc tập thể dục là đạt được mức độ thể chất và sức khỏe có lợi, cả về thể chất và tinh thần.)"
     ],
-    "image": "assets/images/fitness.jpg"
+    "image": "assets/images/fitness.jpg",
+    "topic": "Health & Medicine"
   },
   {
     "word": "folder",
@@ -1726,7 +1858,8 @@ const vocabData = [
       "He has a very large number of folders on the bench. (=Dịch: Anh ta có một số lượng rất lớn các tập tài liệu trên băng ghế.)",
       "Some open the clear plastic [folders] containing their work and look over what they did in yesterday's class. (=Dịch: Một số em mở [tập hồ sơ] bằng nhựa trong chứa bài tập của mình và xem lại những gì các em đã làm trong lớp học ngày hôm qua.)"
     ],
-    "image": "assets/images/folder.jpg"
+    "image": "assets/images/folder.jpg",
+    "topic": "Education & Learning"
   },
   {
     "word": "gym",
@@ -1739,7 +1872,8 @@ const vocabData = [
       "He works in a sports centre instructing people in the use of the [gym] equipment. (=Dịch: Anh ấy làm việc trong một trung tâm thể thao, hướng dẫn mọi người cách sử dụng thiết bị phòng tập thể dục.)",
       "The clothing will be sold directly to the customer through a network of fitness instructor-agents at [gyms] and health centres. (=Dịch: Quần áo sẽ được bán trực tiếp cho khách hàng thông qua mạng lưới đại lý-người hướng dẫn thể dục tại [phòng tập thể dục] và trung tâm y tế.)"
     ],
-    "image": "assets/images/gym.jpg"
+    "image": "assets/images/gym.jpg",
+    "topic": "Shopping & Commerce"
   },
   {
     "word": "highway",
@@ -1752,7 +1886,8 @@ const vocabData = [
       "The interstate [highways] are usually faster, but smaller roads can be more scenic. (=Dịch: Các xa lộ liên bang thường nhanh hơn, nhưng những con đường nhỏ hơn có thể phong cảnh hơn.)",
       "The government has blocked off a major [highway] for street markets, concerts and plays. (=Dịch: Chính phủ đã chặn một xa lộ lớn cho các chợ đường phố, buổi hòa nhạc và vở kịch.)"
     ],
-    "image": "assets/images/highway.jpg"
+    "image": "assets/images/highway.jpg",
+    "topic": "Law & Government"
   },
   {
     "word": "hungry",
@@ -1765,7 +1900,8 @@ const vocabData = [
       "I think it's a sin to waste food, when so many people in the world are [hungry]. (=Dịch: Tôi nghĩ rằng lãng phí thức ăn là tội lỗi, trong khi có rất nhiều người trên thế giới đang đói.)",
       "People go [hungry] because they are poor and can't afford to buy food, not because of a global food shortage. (=Dịch: Mọi người chịu đói vì họ nghèo và không đủ tiền mua thức ăn, chứ không phải vì thiếu lương thực toàn cầu.)"
     ],
-    "image": "assets/images/hungry.webp"
+    "image": "assets/images/hungry.webp",
+    "topic": "Food & Restaurant"
   },
   {
     "word": "inconvenience",
@@ -1778,7 +1914,8 @@ const vocabData = [
       "Changing planes was an [inconvenience], but there were no direct flights. (=Dịch: Thay đổi máy bay là một điều [bất tiện], nhưng lại không có chuyến bay thẳng.)",
       "This is bound to cause [inconvenience] to users but is surely worthwhile given the long-term benefits of the project. (=Dịch: Điều này chắc chắn sẽ gây bất tiện cho người dùng nhưng chắc chắn là đáng giá do những lợi ích dài hạn của dự án.)"
     ],
-    "image": "assets/images/inconvenience.webp"
+    "image": "assets/images/inconvenience.webp",
+    "topic": "Travel & Transport"
   },
   {
     "word": "indoor",
@@ -1791,7 +1928,8 @@ const vocabData = [
       "These slippers are just for [indoor] wear - you'll ruin them if you wear them in the garden. (=Dịch: Những chiếc dép này chỉ dành cho sử dụng trong nhà - bạn sẽ làm hỏng chúng nếu mang chúng ra vườn.)",
       "The [indoor] flower market is a big tourist attraction. (=Dịch: Chợ hoa trong nhà là một điểm thu hút khách du lịch lớn.)"
     ],
-    "image": "assets/images/indoor.jpg"
+    "image": "assets/images/indoor.jpg",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "ingredient",
@@ -1804,7 +1942,8 @@ const vocabData = [
       "The only active [ingredient] in this medicine is aspirin. (=Dịch: Thành phần duy nhất có hoạt tính trong loại thuốc này là aspirin.)",
       "Avocado is the main [ingredient] of the Mexican dish. (=Dịch: Quả bơ là thành phần chính của món ăn Mexico.)"
     ],
-    "image": "assets/images/ingredient.jpg"
+    "image": "assets/images/ingredient.jpg",
+    "topic": "Food & Restaurant"
   },
   {
     "word": "inspect",
@@ -1817,7 +1956,8 @@ const vocabData = [
       "Make sure you [inspect] the goods before signing for them. (=Dịch: Hãy chắc chắn bạn kiểm tra hàng hóa trước khi ký nhận.)",
       "The plants are regularly [inspected] for disease. (=Dịch: Cây trồng được kiểm tra thường xuyên để phát hiện bệnh.)"
     ],
-    "image": "assets/images/inspect.jpg"
+    "image": "assets/images/inspect.jpg",
+    "topic": "Shopping & Commerce"
   },
   {
     "word": "inspection",
@@ -1830,7 +1970,8 @@ const vocabData = [
       "Nursing agencies are subject to [inspection] by the health authority. (=Dịch: Các cơ quan điều dưỡng phải chịu sự kiểm tra của cơ quan y tế.)",
       "The architect is carrying out a thorough [inspection] of the building. (=Dịch: Kiến trúc sư đang tiến hành kiểm tra kỹ lưỡng tòa nhà.)"
     ],
-    "image": "assets/images/inspection.jpg"
+    "image": "assets/images/inspection.jpg",
+    "topic": "Health & Medicine"
   },
   {
     "word": "itinerary",
@@ -1843,7 +1984,8 @@ const vocabData = [
       "Visits to four different countries are included in your [itinerary]. (=Dịch: Những chuyến thăm đến bốn quốc gia khác nhau được bao gồm trong lịch trình của bạn.)",
       "The National Gallery is on most tourists' [itinerary]. (=Dịch: Phòng trưng bày Quốc gia nằm trong lịch trình của hầu hết khách du lịch.)"
     ],
-    "image": "assets/images/itinerary.jpg"
+    "image": "assets/images/itinerary.jpg",
+    "topic": "Travel & Transport"
   },
   {
     "word": "lab",
@@ -1856,7 +1998,8 @@ const vocabData = [
       "the school science [labs] (=Dịch: phòng thí nghiệm khoa học của trường)",
       "She'd been working in the [lab] all day. (=Dịch: Cô ấy đã làm việc trong phòng thí nghiệm cả ngày.)"
     ],
-    "image": "assets/images/lab.jpg"
+    "image": "assets/images/lab.jpg",
+    "topic": "Education & Learning"
   },
   {
     "word": "mechanic",
@@ -1869,7 +2012,8 @@ const vocabData = [
       "An elevator [mechanic] can work the machinery directly by turning this lever.  (=Dịch: Một cơ khí thang máy có thể vận hành máy móc trực tiếp bằng cách xoay cần gạt này.)",
       "The [mechanic] pointed out the repair on the front of my car. (=Dịch: Người thợ máy đã chỉ ra chỗ sửa chữa ở phía trước xe của tôi.)"
     ],
-    "image": "assets/images/mechanic.jpg"
+    "image": "assets/images/mechanic.jpg",
+    "topic": "Job & Career"
   },
   {
     "word": "merger",
@@ -1882,7 +2026,8 @@ const vocabData = [
       "There has been a flurry of corporate [mergers] and acquisitions. (=Dịch: Đã có một loạt các vụ sáp nhập và mua lại doanh nghiệp.)",
       "If the [merger] goes through, thousands of jobs will be lost. (=Dịch: Nếu việc sáp nhập thành công, hàng ngàn công việc sẽ bị mất.)"
     ],
-    "image": ""
+    "image": "",
+    "topic": "Business & Office"
   },
   {
     "word": "mini",
@@ -1895,7 +2040,8 @@ const vocabData = [
       "We were playing [mini]-golf.  (=Dịch: Chúng tôi đang chơi gôn mini.)",
       "The pack of six [mini] bars is widely available for 2.99. (=Dịch: Gói sáu thanh nhỏ có sẵn rộng rãi với giá 2.99.)"
     ],
-    "image": "assets/images/mini.jpg"
+    "image": "assets/images/mini.jpg",
+    "topic": "Shopping & Commerce"
   },
   {
     "word": "photocopy",
@@ -1908,7 +2054,8 @@ const vocabData = [
       "Could you take a [photocopy] of this letter for me, please? (=Dịch: Bạn có thể sao chép bức thư này cho tôi được không, làm ơn?)",
       "If you send off any documents, be sure to keep a [photocopy]. (=Dịch: Nếu bạn gửi bất kỳ tài liệu nào đi, hãy chắc chắn giữ lại một bản sao chép.)"
     ],
-    "image": "assets/images/photocopy.jpg"
+    "image": "assets/images/photocopy.jpg",
+    "topic": "Technology & Communication"
   },
   {
     "word": "provider",
@@ -1921,7 +2068,8 @@ const vocabData = [
       "The bank is now a major [provider] of financial services to industry. (=Dịch: Ngân hàng hiện là nhà cung cấp chính các dịch vụ tài chính cho ngành công nghiệp.)",
       "Until her illness, she was the main [provider] (= earned most of the money) in the family. (=Dịch: Cho đến khi bị bệnh, cô ấy là người kiếm tiền chính trong gia đình.)"
     ],
-    "image": "assets/images/provider.jpg"
+    "image": "assets/images/provider.jpg",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "recipient",
@@ -1934,7 +2082,8 @@ const vocabData = [
       "He was a [recipient] of the Civilian Service Award. (=Dịch: Anh ấy từng nhận Giải thưởng Dịch vụ Dân sự.)",
       "They are the country's biggest [recipient] of government funds. (=Dịch: Họ là những người nhận nhiều ngân quỹ của chính phủ nhất của đất nước.)"
     ],
-    "image": "assets/images/recipient.jpg"
+    "image": "assets/images/recipient.jpg",
+    "topic": "Law & Government"
   },
   {
     "word": "recycle",
@@ -1947,7 +2096,8 @@ const vocabData = [
       "Old newspapers are pulped and [recycled]. (=Dịch: Các tờ báo cũ được nghiền bột và tái chế.)",
       "As a nation we [recycle] a mere 20 percent of our waste. (=Dịch: Là một quốc gia, chúng ta chỉ tái chế khoảng 20 phần trăm chất thải của mình.)"
     ],
-    "image": "assets/images/recycle.jpg"
+    "image": "assets/images/recycle.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "renew",
@@ -1960,7 +2110,8 @@ const vocabData = [
       "My passport runs out next month - I must get it [renewed]. (=Dịch: Hộ chiếu của tôi sẽ hết hạn vào tháng tới - tôi phải gia hạn nó.)",
       "Green plants help to [renew] the earth's oxygen supply. (=Dịch: Cây xanh giúp tái tạo nguồn cung cấp oxy của trái đất.)"
     ],
-    "image": "assets/images/renew.jpg"
+    "image": "assets/images/renew.jpg",
+    "topic": "Science & Nature"
   },
   {
     "word": "renovate",
@@ -1973,7 +2124,8 @@ const vocabData = [
       "Private companies don't want to [renovate] existing buildings, as the potential profits are too small. (=Dịch: Các công ty tư nhân không muốn cải tạo các tòa nhà hiện có, vì lợi nhuận tiềm năng quá nhỏ.)",
       "He [renovates] old houses and sells them at a profit. (=Dịch: Anh ấy cải tạo những ngôi nhà cũ và bán chúng để kiếm lợi nhuận.)"
     ],
-    "image": "assets/images/renovate.jpg"
+    "image": "assets/images/renovate.jpg",
+    "topic": "Job & Career"
   },
   {
     "word": "respondent",
@@ -1986,7 +2138,8 @@ const vocabData = [
       "Most [respondents] in the survey voiced an unfavorable attitude toward the policy. (=Dịch: Phần lớn những người tham gia khảo sát đã bày tỏ thái độ không thích đối với chính sách này.)",
       "[Respondents] rated the company as creative, smart, and technically able. (=Dịch: Những người tham gia khảo sát đã đánh giá công ty là sáng tạo, thông minh và có kỹ năng kỹ thuật.)"
     ],
-    "image": "assets/images/respondent.png"
+    "image": "assets/images/respondent.png",
+    "topic": "Business & Office"
   },
   {
     "word": "rewrite",
@@ -1999,7 +2152,8 @@ const vocabData = [
       "For four months they wrote and [rewrite] the book by passing chapters back and forth. (=Dịch: Trong bốn tháng, họ đã viết và viết lại cuốn sách bằng cách chuyển các chương qua lại.)",
       "People are going to try to [rewrite] history and say we didn't succeed. (=Dịch: Người ta sẽ cố gắng viết lại lịch sử và nói rằng chúng tôi đã không thành công.)"
     ],
-    "image": "assets/images/rewrite.jpg"
+    "image": "assets/images/rewrite.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "sandwich",
@@ -2012,7 +2166,8 @@ const vocabData = [
       "They sell [sandwiches] and rolls. (=Dịch: Họ bán bánh mì kẹp và bánh mì cuộn.)",
       "What would you like in your [sandwich]? (=Dịch: Bạn muốn có gì trong bánh mì kẹp của mình?)"
     ],
-    "image": "assets/images/sandwich.jpg"
+    "image": "assets/images/sandwich.jpg",
+    "topic": "Shopping & Commerce"
   },
   {
     "word": "shortly",
@@ -2025,7 +2180,8 @@ const vocabData = [
       "The text is currently being emended and will be published [shortly]. (=Dịch: Văn bản đang được chỉnh sửa và sẽ được xuất bản trong thời gian sớm.)",
       "The police evacuated the village [shortly] before the explosion. (=Dịch: Cảnh sát đã sơ tán ngôi làng ngay trước khi vụ nổ xảy ra.)"
     ],
-    "image": "assets/images/shortly.jpg"
+    "image": "assets/images/shortly.jpg",
+    "topic": "Law & Government"
   },
   {
     "word": "snack",
@@ -2038,7 +2194,8 @@ const vocabData = [
       "Fresh or dried fruit makes an ideal [snack]. (=Dịch: Trái cây tươi hoặc khô là món ăn nhẹ lý tưởng.)",
       "Many [snack] foods are high in salt, sugar, and fat. (=Dịch: Nhiều món ăn nhẹ có hàm lượng muối, đường và chất béo cao.)"
     ],
-    "image": "assets/images/snack.jpg"
+    "image": "assets/images/snack.jpg",
+    "topic": "Food & Restaurant"
   },
   {
     "word": "soccer",
@@ -2051,7 +2208,8 @@ const vocabData = [
       "The [soccer] fans indulged their patriotism, waving flags and singing songs. (=Dịch: Những người hâm mộ bóng đá đã thể hiện lòng yêu nước của họ, vẫy cờ và hát những bài hát.)",
       "The footballer Paul Gascoigne is to host a Channel 4 television series on [soccer] skills (=Dịch: Cầu thủ bóng đá Paul Gascoigne sẽ dẫn chương trình truyền hình trên kênh Channel 4 về kỹ năng bóng đá.)"
     ],
-    "image": "assets/images/soccer.jpg"
+    "image": "assets/images/soccer.jpg",
+    "topic": "Art & Entertainment"
   },
   {
     "word": "submission",
@@ -2064,7 +2222,8 @@ const vocabData = [
       "The final deadline for [submissions] is 21 February. (=Dịch: Hạn chót cuối cùng cho việc nộp đơn là ngày 21 tháng 2.)",
       "The judge will hear the defence's [submission] (= suggestion) that the case be dismissed. (=Dịch: Thẩm phán sẽ nghe đề nghị của bên bào chữa rằng vụ án sẽ bị bác bỏ.)"
     ],
-    "image": "assets/images/submission.jpg"
+    "image": "assets/images/submission.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "sunny",
@@ -2077,7 +2236,8 @@ const vocabData = [
       "We've had gloriously [sunny] weather. (=Dịch: Chúng tôi đã có thời tiết nắng đẹp rực rỡ.)",
       "The forecast said it was going to be hot and [sunny] tomorrow. (=Dịch: Dự báo nói rằng trời sẽ nóng và có nắng vào ngày mai.)"
     ],
-    "image": "assets/images/sunny.jpg"
+    "image": "assets/images/sunny.jpg",
+    "topic": "Science & Nature"
   },
   {
     "word": "sweater",
@@ -2090,7 +2250,8 @@ const vocabData = [
       "The dress code required that boys wear a jacket and tie, or a [sweater] and tie. (=Dịch: Quy định trang phục yêu cầu các bé trai phải mặc áo khoác và cà vạt, hoặc áo len và cà vạt.)",
       "Put a [sweater] on if you're cold. (=Dịch: Mặc một chiếc áo len nếu bạn thấy lạnh.)"
     ],
-    "image": "assets/images/sweater.jpg"
+    "image": "assets/images/sweater.jpg",
+    "topic": "Law & Government"
   },
   {
     "word": "tenant",
@@ -2103,7 +2264,8 @@ const vocabData = [
       "They formed a [tenants] association. (=Dịch: Họ đã thành lập một hiệp hội người thuê nhà.)",
       "He was cruel to his [tenants]. (=Dịch: Anh ấy đã đối xử tàn nhẫn với người thuê nhà của mình.)"
     ],
-    "image": "assets/images/tenant.jpg"
+    "image": "assets/images/tenant.jpg",
+    "topic": "Job & Career"
   },
   {
     "word": "unreal",
@@ -2116,7 +2278,8 @@ const vocabData = [
       "His face was an eerie, [unreal] color. (=Dịch: Khuôn mặt của anh ấy có một màu sắc kỳ lạ và không thật.)",
       "We saw so many shooting stars that night, it was [unreal]! (=Dịch: Đêm đó chúng tôi đã nhìn thấy rất nhiều sao băng, thật không thể tin được!)"
     ],
-    "image": "assets/images/unreal.jpg"
+    "image": "assets/images/unreal.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "warehouse",
@@ -2129,7 +2292,8 @@ const vocabData = [
       "The robbers were holed up in a deserted [warehouse]. (=Dịch: Những tên cướp đã trốn trong một nhà kho bỏ hoang.)",
       "Michael Davis has prepared a memorandum outlining our need for an additional [warehouse]. (=Dịch: Michael Davis đã chuẩn bị một bản ghi nhớ nêu rõ nhu cầu cần thêm một kho hàng của chúng tôi.)"
     ],
-    "image": "assets/images/warehouse.jpg"
+    "image": "assets/images/warehouse.jpg",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "workplace",
@@ -2142,7 +2306,8 @@ const vocabData = [
       "In the new digital [workplace], employers are finding it difficult to recruit individuals with experience in growing e-businesses. (=Dịch: Trong nơi làm việc kỹ thuật số mới, các nhà tuyển dụng đang gặp khó khăn trong việc tuyển dụng những cá nhân có kinh nghiệm trong việc phát triển kinh doanh điện tử.)",
       "The survey asks workers about facilities in their [workplace]. (=Dịch: Cuộc khảo sát hỏi nhân viên về các cơ sở vật chất tại nơi làm việc của họ.)"
     ],
-    "image": "assets/images/workplace.jpg"
+    "image": "assets/images/workplace.jpg",
+    "topic": "Job & Career"
   },
   {
     "word": "accommodate",
@@ -2155,7 +2320,8 @@ const vocabData = [
       "We always try to [accommodate] (= help) our clients with financial assistance if necessary (=Dịch: Chúng tôi luôn cố gắng giúp đỡ khách hàng của mình bằng hỗ trợ tài chính nếu cần thiết)",
       "An employer has to [accommodate] the request of an employee not to work Sundays if there are other employees willing to switch shifts (=Dịch: Người sử dụng lao động phải đáp ứng yêu cầu của nhân viên về việc không làm việc vào Chủ nhật nếu có các nhân viên khác sẵn sàng đổi ca)"
     ],
-    "image": "assets/images/accommodate.jpg"
+    "image": "assets/images/accommodate.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "administrative",
@@ -2168,7 +2334,8 @@ const vocabData = [
       "Flexitime work can be an [administrative] nightmare for management (=Dịch: Làm việc theo giờ linh hoạt có thể là một cơn ác mộng hành chính cho quản lý)",
       "The final part of the [administrative] organization is the Head of Division or Unit (=Dịch: Phần cuối cùng của tổ chức hành chính là Trưởng Phòng hoặc Đơn vị)"
     ],
-    "image": "assets/images/administrative.jpeg"
+    "image": "assets/images/administrative.jpeg",
+    "topic": "Business & Office"
   },
   {
     "word": "advisor",
@@ -2181,7 +2348,8 @@ const vocabData = [
       "He served as international economic [advisor] in the White House. (=Dịch: Ông đã từng là cố vấn kinh tế quốc tế tại Nhà Trắng.)",
       "He resigned from a high-profile job as economic [advisor] to the prime minister. (=Dịch: Ông đã từ chức một công việc nổi bật là cố vấn kinh tế cho thủ tướng.)"
     ],
-    "image": "assets/images/advisor.jpg"
+    "image": "assets/images/advisor.jpg",
+    "topic": "Job & Career"
   },
   {
     "word": "alike",
@@ -2194,7 +2362,8 @@ const vocabData = [
       "Directly opposite him, on the other side of the enclosed space, were two doors, exactly [alike] and side by side (=Dịch: Ngay đối diện anh ta, ở phía bên kia của không gian khép kín, có hai cánh cửa, hoàn toàn giống nhau và cạnh nhau.)",
       "In theory people became more [alike] and in many ways the world became much fairer (=Dịch: Về lý thuyết, con người trở nên giống nhau hơn và theo nhiều cách, thế giới đã trở nên công bằng hơn nhiều.)"
     ],
-    "image": "assets/images/alike.jpg"
+    "image": "assets/images/alike.jpg",
+    "topic": "Science & Nature"
   },
   {
     "word": "announcer",
@@ -2207,7 +2376,8 @@ const vocabData = [
       "It's usually professional radio and television [announcers] and reporters that elicit criticism. (=Dịch: Thông thường, các phát thanh viên và phóng viên chuyên nghiệp trên đài phát thanh và truyền hình là những người bị chỉ trích.)",
       "It used to be that radio [announcers] underwent years of training before being allowed on air. (=Dịch: Trước đây, các phát thanh viên trên đài phát thanh phải trải qua nhiều năm đào tạo trước khi được phép lên sóng.)"
     ],
-    "image": "assets/images/announcer.jpg"
+    "image": "assets/images/announcer.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "aspect",
@@ -2220,7 +2390,8 @@ const vocabData = [
       "Lighting is a vitally important [aspect] of filmmaking. (=Dịch: Ánh sáng là một khía cạnh cực kỳ quan trọng của làm phim.)",
       "Individuals and businesses appear woefully uninformed about this [aspect] of the information age. (=Dịch: Các cá nhân và doanh nghiệp dường như cực kỳ thiếu thông tin về khía cạnh này của thời đại thông tin.)"
     ],
-    "image": "assets/images/aspect.jpg"
+    "image": "assets/images/aspect.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "audit",
@@ -2233,7 +2404,8 @@ const vocabData = [
       "It is illegal for a director to [audit] his own company's accounts. (=Dịch: Việc một giám đốc tự kiểm tra tài khoản của công ty mình là bất hợp pháp.)",
       "If you're [auditing] a company with two sales each year, it's unlikely that a sale will be recorded incorrectly. (=Dịch: Nếu bạn đang kiểm toán một công ty có hai giao dịch mỗi năm, khó có khả năng một giao dịch sẽ bị ghi sai.)"
     ],
-    "image": "assets/images/audit.jpg"
+    "image": "assets/images/audit.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "authorize",
@@ -2246,7 +2418,8 @@ const vocabData = [
       "Their technologies division has been [authorized] to sell, support, and train customers on the new mobile system. (=Dịch: Phòng công nghệ của họ đã được cho phép bán, hỗ trợ và đào tạo khách hàng về hệ thống di động mới.)",
       "The government [authorized] further aircraft production (=Dịch: Chính phủ đã cho phép sản xuất thêm máy bay.)"
     ],
-    "image": "assets/images/authorize.jpg"
+    "image": "assets/images/authorize.jpg",
+    "topic": "Shopping & Commerce"
   },
   {
     "word": "battery",
@@ -2259,7 +2432,8 @@ const vocabData = [
       "The [battery] should prevent the computer system from going down in the event of a power cut. (=Dịch: Pin nên ngăn hệ thống máy tính bị tắt trong trường hợp mất điện.)",
       "I need to recharge the [batteries] for my camera. (=Dịch: Tôi cần sạc lại pin cho máy ảnh của mình.)"
     ],
-    "image": "assets/images/battery.jpg"
+    "image": "assets/images/battery.jpg",
+    "topic": "Technology & Communication"
   },
   {
     "word": "bonus",
@@ -2272,7 +2446,8 @@ const vocabData = [
       "The salary was set at £12,000, plus a [bonus] if the company had a good year. (=Dịch: Mức lương đã được ấn định là £12,000, cộng thêm tiền thưởng nếu công ty có một năm kinh doanh tốt.)",
       "The new contract gives workers less salary, but [bonuses] for hitting efficiency and sales targets. (=Dịch: Hợp đồng mới cho người lao động mức lương thấp hơn, nhưng lại có tiền thưởng nếu đạt mục tiêu hiệu quả và doanh số.)"
     ],
-    "image": "assets/images/bonus.jpg"
+    "image": "assets/images/bonus.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "briefcase",
@@ -2285,7 +2460,8 @@ const vocabData = [
       "In one hand he carries a [briefcase] and in the other a wire basket for his purchases. (=Dịch: Trong một tay, anh ấy mang theo một chiếc cặp và tay kia là một giỏ dây cho những thứ anh mua.)",
       "Limit the time you spend carrying heavy [briefcases], purses and bags. (=Dịch: Hạn chế thời gian bạn mang cặp, ví và túi nặng.)"
     ],
-    "image": "assets/images/briefcase.jpg"
+    "image": "assets/images/briefcase.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "cart",
@@ -2298,7 +2474,8 @@ const vocabData = [
       "Shops began to open and street vendors hawked vegetables loaded onto donkey [carts]. (=Dịch: Các cửa hàng bắt đầu mở cửa và những người bán hàng rong chào hàng rau quả chất lên xe lừa.)",
       "Several passengers were thrown from the [carts], with four having to be airlifted to hospital. (=Dịch: Nhiều hành khách bị ném ra khỏi xe ngựa, với bốn người phải được chuyển bằng trực thăng đến bệnh viện.)"
     ],
-    "image": "assets/images/cart.jpg"
+    "image": "assets/images/cart.jpg",
+    "topic": "Travel & Transport"
   },
   {
     "word": "cartridge",
@@ -2311,7 +2488,8 @@ const vocabData = [
       "Other ways exist to link [cartridges] and bullets to a specific weapon. (=Dịch: Có những cách khác để liên kết hộp đạn và viên đạn với một vũ khí cụ thể.)",
       "When she went in her box to get the [cartridge] of film, she saw another roll. (=Dịch: Khi cô ấy vào hộp để lấy hộp phim, cô ấy thấy một cuộn phim khác.)"
     ],
-    "image": "assets/images/cartridge.jpeg"
+    "image": "assets/images/cartridge.jpeg",
+    "topic": "Technology & Communication"
   },
   {
     "word": "cleaner",
@@ -2324,7 +2502,8 @@ const vocabData = [
       "The 150 [cleaners], housekeepers, office and restaurant staff have been fighting for a better deal for weeks. (=Dịch: 150 nhân viên vệ sinh, nhân viên dọn phòng, nhân viên văn phòng và nhà hàng đã chiến đấu cho một thỏa thuận tốt hơn trong nhiều tuần.)",
       "Directors of the company earn 50 times more than the [cleaners] who work for them. (=Dịch: Giám đốc của công ty kiếm được nhiều gấp 50 lần so với những người dọn vệ sinh làm việc cho họ.)"
     ],
-    "image": "assets/images/cleaner.jpg"
+    "image": "assets/images/cleaner.jpg",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "cloudy",
@@ -2337,7 +2516,8 @@ const vocabData = [
       "His landscapes are equally melancholy, often painted under grey [cloudy] skies. (=Dịch: Những bức tranh phong cảnh của anh ấy cũng u uất không kém, thường được vẽ dưới bầu trời xám xịt.)",
       "Cold and [cloudy] weather is forecast for the week ahead. (=Dịch: Dự báo thời tiết lạnh và có mây cho tuần tới.)"
     ],
-    "image": "assets/images/cloudy.jpg"
+    "image": "assets/images/cloudy.jpg",
+    "topic": "Science & Nature"
   },
   {
     "word": "commonly",
@@ -2350,7 +2530,8 @@ const vocabData = [
       "Shift workers [commonly] complain of not getting enough sleep (=Dịch: Những người làm việc theo ca thường phàn nàn về việc không ngủ đủ giấc.)",
       "Farmworkers [commonly] are dependent upon their employer for both their income and housing. (=Dịch: Những người làm nông thường phụ thuộc vào người chủ về cả thu nhập và nhà ở.)"
     ],
-    "image": "assets/images/commonly.jpg"
+    "image": "assets/images/commonly.jpg",
+    "topic": "Job & Career"
   },
   {
     "word": "commuter",
@@ -2363,7 +2544,8 @@ const vocabData = [
       "What the metro will do is reduce the travel time by at least half for most [commuters]. (=Dịch: Những gì tàu điện ngầm sẽ làm là giảm thời gian di chuyển ít nhất một nửa cho hầu hết người đi làm.)",
       "Traffic started to build up in the city at around 6am, with thousands of [commuters] late for work. (=Dịch: Giao thông bắt đầu ùn tắc trong thành phố vào khoảng 6 giờ sáng, với hàng nghìn người đi làm bị muộn.)"
     ],
-    "image": "assets/images/commuter.jpg"
+    "image": "assets/images/commuter.jpg",
+    "topic": "Job & Career"
   },
   {
     "word": "contractor",
@@ -2376,7 +2558,8 @@ const vocabData = [
       "This contract has been completed by a foreign firm and the [contractor] duly paid. (=Dịch: Hợp đồng này đã được hoàn thành bởi một công ty nước ngoài và nhà thầu đã được thanh toán đầy đủ.)",
       "The most efficient service [contractors] are often the cheapest, meaning corners can be cut. (=Dịch: Những nhà thầu dịch vụ hiệu quả nhất thường là rẻ nhất, có nghĩa là có thể cắt giảm các góc cạnh.)"
     ],
-    "image": "assets/images/contractor.jpg"
+    "image": "assets/images/contractor.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "delicious",
@@ -2389,7 +2572,8 @@ const vocabData = [
       "I can recommend the chicken in mushroom sauce - it's [delicious]. (=Dịch: Tôi có thể giới thiệu món gà sốt nấm - nó rất ngon.)",
       "The prawns were [delicious] and the salad accompanying it was incredibly fresh and crisp. (=Dịch: Những con tôm rất ngon và món salad đi kèm rất tươi và giòn.)"
     ],
-    "image": "assets/images/delicious.jpg"
+    "image": "assets/images/delicious.jpg",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "dessert",
@@ -2402,7 +2586,8 @@ const vocabData = [
       "The menu described the [dessert] as 'a medley of exotic fruits'. (=Dịch: Thực đơn miêu tả món tráng miệng là 'một sự kết hợp của các loại trái cây kỳ lạ'.)",
       "She made a fabulous [dessert] with alternate layers of chocolate and cream. (=Dịch: Cô ấy đã làm một món tráng miệng tuyệt vời với các lớp xen kẽ của sô cô la và kem.)"
     ],
-    "image": "assets/images/dessert.jpg"
+    "image": "assets/images/dessert.jpg",
+    "topic": "Food & Restaurant"
   },
   {
     "word": "developer",
@@ -2415,7 +2600,8 @@ const vocabData = [
       "Much of the region's native vegetation has been damaged by [developers] who are building hotels along the coast. (=Dịch: Phần lớn thảm thực vật tự nhiên của khu vực đã bị hư hại bởi các nhà phát triển đang xây dựng khách sạn dọc bờ biển.)",
       "The bill would prevent a [developer] from building thousands of homes near the canyon. (=Dịch: Dự luật sẽ ngăn chặn một nhà phát triển xây dựng hàng ngàn ngôi nhà gần hẻm núi.)"
     ],
-    "image": "assets/images/developer.jpg"
+    "image": "assets/images/developer.jpg",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "distribution",
@@ -2428,7 +2614,8 @@ const vocabData = [
       "Prices of goods are governed by the cost of the raw materials, as well as by the cost of production and [distribution]. (=Dịch: Giá cả hàng hóa được chi phối bởi chi phí nguyên vật liệu cũng như chi phí sản xuất và phân phối.)",
       "Investment will be used to expand marketing and [distribution] capabilities. (=Dịch: Khoản đầu tư sẽ được sử dụng để mở rộng khả năng tiếp thị và phân phối.)"
     ],
-    "image": "assets/images/distribution.jpg"
+    "image": "assets/images/distribution.jpg",
+    "topic": "Shopping & Commerce"
   },
   {
     "word": "donate",
@@ -2441,7 +2628,8 @@ const vocabData = [
       "Some businesses have agreed to [donate] computers to schools. (=Dịch: Một số doanh nghiệp đã đồng ý tặng máy tính cho các trường học.)",
       "To encourage people to [donate] to charity, they provide a list of charities on their website. (=Dịch: Để khuyến khích mọi người quyên góp cho từ thiện, họ cung cấp danh sách các tổ chức từ thiện trên trang web của mình.)"
     ],
-    "image": "assets/images/donate.jpg"
+    "image": "assets/images/donate.jpg",
+    "topic": "Technology & Communication"
   },
   {
     "word": "download",
@@ -2454,7 +2642,8 @@ const vocabData = [
       "The file will only take a few seconds to [download]. (=Dịch: Tệp sẽ chỉ mất vài giây để tải xuống.)",
       "It would be wise to [download] your program to another computer before testing it (=Dịch: Sẽ khôn ngoan nếu bạn tải chương trình của mình xuống một máy tính khác trước khi thử nghiệm nó.)"
     ],
-    "image": "assets/images/download.png"
+    "image": "assets/images/download.png",
+    "topic": "Technology & Communication"
   },
   {
     "word": "flavor",
@@ -2467,7 +2656,8 @@ const vocabData = [
       "The seasoning really brings out the [flavor] of the meat. (=Dịch: Gia vị thực sự làm nổi bật hương vị của thịt.)",
       "This wine has a delicious fruity [flavor]. (=Dịch: Rượu này có hương vị trái cây thơm ngon.)"
     ],
-    "image": "assets/images/flavor.jpg"
+    "image": "assets/images/flavor.jpg",
+    "topic": "Shopping & Commerce"
   },
   {
     "word": "headquarter",
@@ -2480,7 +2670,8 @@ const vocabData = [
       "About 95 per cent of the activity in [headquarters] is administrative so the new site is going to be of great value. (=Dịch: Khoảng 95% hoạt động tại trụ sở là hành chính, vì vậy địa điểm mới sẽ có giá trị lớn.)",
       "The company will have its corporate [headquarters] and a data centre at the business park. (=Dịch: Công ty sẽ có trụ sở chính và một trung tâm dữ liệu tại khu công viên kinh doanh.)"
     ],
-    "image": "assets/images/headquarter.jpg"
+    "image": "assets/images/headquarter.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "impact",
@@ -2493,7 +2684,8 @@ const vocabData = [
       "Social networks are making a huge [impact] on sales, with fans recommending brands to hundreds of their friends. (=Dịch: Mạng xã hội đang tạo ra tác động lớn đối với doanh số bán hàng, với việc người hâm mộ giới thiệu các thương hiệu đến hàng trăm người bạn của họ.)",
       "We judge that these developments will have little [impact] on our business. (=Dịch: Chúng tôi đánh giá rằng những phát triển này sẽ có ít tác động đến doanh nghiệp của chúng tôi.)"
     ],
-    "image": "assets/images/impact.jpg"
+    "image": "assets/images/impact.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "ink",
@@ -2506,7 +2698,8 @@ const vocabData = [
       "Most people now use ballpoints rather than [ink]. (=Dịch: Hầu hết mọi người bây giờ sử dụng bút bi thay vì mực.)",
       "The drawback of this printer is that the [ink] tends to smudge. (=Dịch: Nhược điểm của máy in này là mực dễ bị nhòe.)"
     ],
-    "image": "assets/images/ink.jpg"
+    "image": "assets/images/ink.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "innovative",
@@ -2519,7 +2712,8 @@ const vocabData = [
       "He was one of the most creative and [innovative] engineers of his generation. (=Dịch: Anh ấy là một trong những kỹ sư sáng tạo và đổi mới nhất của thế hệ mình.)",
       "We remain focused on continuing to enhance the value of our [innovative] and established businesses. (=Dịch: Chúng tôi vẫn tập trung vào việc tiếp tục nâng cao giá trị của các doanh nghiệp sáng tạo và lâu đời của mình.)"
     ],
-    "image": "assets/images/innovative.jpg"
+    "image": "assets/images/innovative.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "inquire",
@@ -2532,7 +2726,8 @@ const vocabData = [
       "She [inquired] as to your whereabouts. (=Dịch: Cô ấy đã hỏi về nơi ở của bạn.)",
       "He [inquired] why you were so late. (=Dịch: Anh ấy đã hỏi tại sao bạn đến muộn như vậy.)"
     ],
-    "image": "assets/images/inquire.jpg"
+    "image": "assets/images/inquire.jpg",
+    "topic": "Technology & Communication"
   },
   {
     "word": "jewelry",
@@ -2545,7 +2740,8 @@ const vocabData = [
       "I don't wear [jewelry] of any kind. (=Dịch: Tôi không đeo bất kỳ loại trang sức nào.)",
       "She inherited the family [jewelry]. (=Dịch: Cô ấy thừa kế trang sức của gia đình.)"
     ],
-    "image": "assets/images/jewelry.jpg"
+    "image": "assets/images/jewelry.jpg",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "logo",
@@ -2558,7 +2754,8 @@ const vocabData = [
       "She wore the [logo] of the sponsoring company. (=Dịch: Cô ấy mặc biểu tượng của công ty tài trợ.)",
       "The company has a distinctive [logo] that makes it well known. (=Dịch: Công ty có một biểu tượng đặc biệt khiến nó trở nên nổi tiếng.)"
     ],
-    "image": "assets/images/logo.jpg"
+    "image": "assets/images/logo.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "newsletter",
@@ -2571,7 +2768,8 @@ const vocabData = [
       "The organization now has around 18,000 members who receive a quarterly [newsletter].  (=Dịch: Tổ chức hiện có khoảng 18,000 thành viên nhận được một bản tin hàng quý.)",
       "A quarterly [newsletter] gives employees advice on best green practice. (=Dịch: Một bản tin hàng quý cung cấp cho nhân viên lời khuyên về thực hành xanh tốt nhất.)"
     ],
-    "image": "assets/images/newsletter.jpg"
+    "image": "assets/images/newsletter.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "outstanding",
@@ -2584,7 +2782,8 @@ const vocabData = [
       "75% of the amount originally borrowed is still [outstanding]. (=Dịch: 75% số tiền vay ban đầu vẫn còn tồn đọng.)",
       "One option may be to leave the debt [outstanding] and extend the payment terms. (=Dịch: Một lựa chọn có thể là để khoản nợ tồn đọng và gia hạn điều khoản thanh toán.)"
     ],
-    "image": "assets/images/outstanding.jpg"
+    "image": "assets/images/outstanding.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "overnight",
@@ -2597,7 +2796,8 @@ const vocabData = [
       "I'm travelling [overnight] so I've booked a sleeper. (=Dịch: Tôi sẽ đi du lịch qua đêm nên tôi đã đặt một giường ngủ.)",
       "Several of the injured were detained [overnight] in hospital. (=Dịch: Một số người bị thương đã được giữ lại qua đêm tại bệnh viện.)"
     ],
-    "image": "assets/images/overnight.jpg"
+    "image": "assets/images/overnight.jpg",
+    "topic": "Health & Medicine"
   },
   {
     "word": "overtime",
@@ -2610,7 +2810,8 @@ const vocabData = [
       "She puts in a lot of [overtime]. (=Dịch: Cô ấy làm thêm nhiều giờ.)",
       "They're working [overtime] to get the job done on time. (=Dịch: Họ đang làm thêm giờ để hoàn thành công việc đúng thời hạn.)"
     ],
-    "image": "assets/images/overtime.jpg"
+    "image": "assets/images/overtime.jpg",
+    "topic": "Job & Career"
   },
   {
     "word": "password",
@@ -2623,7 +2824,8 @@ const vocabData = [
       "Your mailbox can be [password] protected to ensure security. (=Dịch: Hộp thư của bạn có thể được bảo vệ bằng mật khẩu để đảm bảo an ninh.)",
       "a software tool developed by hackers to crack [passwords] (=Dịch: một công cụ phần mềm được phát triển bởi hacker để bẻ khóa mật khẩu)"
     ],
-    "image": "assets/images/password.jpg"
+    "image": "assets/images/password.jpg",
+    "topic": "Technology & Communication"
   },
   {
     "word": "photographer",
@@ -2636,7 +2838,8 @@ const vocabData = [
       "[Photographers] Darren Kidd captured the unique atmosphere of the event. (=Dịch: Nhiếp ảnh gia Darren Kidd đã ghi lại không khí độc đáo của sự kiện.)",
       "an amateur/a professional [photographer] (=Dịch: một nhiếp ảnh gia nghiệp dư/một nhiếp ảnh gia chuyên nghiệp)"
     ],
-    "image": "assets/images/photographer.jpg"
+    "image": "assets/images/photographer.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "picnic",
@@ -2649,7 +2852,8 @@ const vocabData = [
       "We took a [picnic] and spent the day watching the races. (=Dịch: Chúng tôi đã mang theo một bữa ăn ngoài trời và dành cả ngày để xem các cuộc đua.)",
       "Will you help me make a [picnic]? (=Dịch: Bạn sẽ giúp tôi làm một bữa ăn ngoài trời chứ?)"
     ],
-    "image": "assets/images/picnic.jpg"
+    "image": "assets/images/picnic.jpg",
+    "topic": "Food & Restaurant"
   },
   {
     "word": "prohibit",
@@ -2662,7 +2866,8 @@ const vocabData = [
       "The government introduced a law [prohibiting] tobacco advertisements on TV. (=Dịch: Chính phủ đã ban hành một luật cấm quảng cáo thuốc lá trên TV.)",
       "Parking is strictly [prohibited] between these gates. (=Dịch: Việc đỗ xe bị cấm hoàn toàn giữa các cổng này.)"
     ],
-    "image": "assets/images/prohibit.jpg"
+    "image": "assets/images/prohibit.jpg",
+    "topic": "Law & Government"
   },
   {
     "word": "recipe",
@@ -2675,7 +2880,8 @@ const vocabData = [
       "The [recipe] is given in both metric and imperial measures. (=Dịch: Công thức được đưa ra bằng cả đơn vị đo lường mét và hệ đo lường của Anh.)",
       "I never follow [recipes] exactly when I cook - I just use them as rough guides. (=Dịch: Tôi không bao giờ làm theo công thức chính xác khi nấu ăn - tôi chỉ sử dụng chúng như những hướng dẫn sơ bộ.)"
     ],
-    "image": "assets/images/recipe.jpg"
+    "image": "assets/images/recipe.jpg",
+    "topic": "Food & Restaurant"
   },
   {
     "word": "refreshment",
@@ -2688,7 +2894,8 @@ const vocabData = [
       "Light [refreshments] will be available at the back of the hall. (=Dịch: Đồ ăn nhẹ sẽ có sẵn ở phía sau hội trường.)",
       "Tickets include the price of [refreshments]. (=Dịch: Vé bao gồm giá của đồ ăn nhẹ.)"
     ],
-    "image": "assets/images/refreshment.jpg"
+    "image": "assets/images/refreshment.jpg",
+    "topic": "Food & Restaurant"
   },
   {
     "word": "shopper",
@@ -2701,7 +2908,8 @@ const vocabData = [
       "Last year [shoppers] spent €540,000 a minute on credit cards. (=Dịch: Năm ngoái, người mua sắm đã chi 540,000 € mỗi phút bằng thẻ tín dụng.)",
       "Supermarkets have started opening cheap restaurants on their premises to attract [shoppers]. (=Dịch: Các siêu thị đã bắt đầu mở các nhà hàng giá rẻ trong khuôn viên của họ để thu hút người mua sắm.)"
     ],
-    "image": "assets/images/shopper.jpg"
+    "image": "assets/images/shopper.jpg",
+    "topic": "Shopping & Commerce"
   },
   {
     "word": "shuttle",
@@ -2714,7 +2922,8 @@ const vocabData = [
       "A van [shuttles] between the hotel and the airport every ten minutes. (=Dịch: Một chiếc xe van chạy giữa khách sạn và sân bay mỗi mười phút.)",
       "A bus [shuttles] passengers back and forth from the station to the terminal. (=Dịch: Một chiếc xe buýt đưa đón hành khách qua lại từ ga đến nhà ga.)"
     ],
-    "image": "assets/images/shuttle.jpg"
+    "image": "assets/images/shuttle.jpg",
+    "topic": "Travel & Transport"
   },
   {
     "word": "skim",
@@ -2727,7 +2936,8 @@ const vocabData = [
       "We've only [skimmed] the surface of (= considered a small part of) the problem. (=Dịch: Chúng tôi chỉ mới lướt qua bề mặt của vấn đề (= đã xem xét một phần nhỏ của vấn đề).)",
       "Skaters [skim] over the ice. (=Dịch: Những người trượt băng lướt qua mặt băng.)"
     ],
-    "image": "assets/images/skim.jpg"
+    "image": "assets/images/skim.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "sofa",
@@ -2740,7 +2950,8 @@ const vocabData = [
       "The children sat side by side on the [sofa] watching television. (=Dịch: Các em nhỏ ngồi cạnh nhau trên ghế sofa xem tivi.)",
       "I sat down on the [sofa] next to Barbara. (=Dịch: Tôi ngồi xuống ghế sofa bên cạnh Barbara.)"
     ],
-    "image": "assets/images/sofa.jpg"
+    "image": "assets/images/sofa.jpg",
+    "topic": "Art & Entertainment"
   },
   {
     "word": "stadium",
@@ -2753,7 +2964,8 @@ const vocabData = [
       "Thousands of fans are packing into the [stadium]. (=Dịch: Hàng nghìn người hâm mộ đang đổ dồn vào sân vận động.)",
       "The [stadium] has been specifically designed as a venue for European Cup matches. (=Dịch: Sân vận động đã được thiết kế đặc biệt để làm địa điểm cho các trận đấu Cúp châu Âu.)"
     ],
-    "image": "assets/images/stadium.jpg"
+    "image": "assets/images/stadium.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "stationery",
@@ -2766,7 +2978,8 @@ const vocabData = [
       "They had even initially used somewhat similar [stationery], although with an altered logo. (=Dịch: Ban đầu họ thậm chí còn sử dụng văn phòng phẩm có phần giống nhau, mặc dù có logo đã được thay đổi.)",
       "I got these folders at the [stationery] store. (=Dịch: Tôi đã mua những tệp này ở cửa hàng văn phòng phẩm.)"
     ],
-    "image": "assets/images/stationery.jpg"
+    "image": "assets/images/stationery.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "subscribe",
@@ -2779,7 +2992,8 @@ const vocabData = [
       "She [subscribes] to several women's magazines. (=Dịch: Cô ấy đăng ký nhiều tạp chí phụ nữ.)",
       "I [subscribe] €10 a month to the charity. (=Dịch: Tôi đóng góp €10 mỗi tháng cho tổ chức từ thiện.)"
     ],
-    "image": "assets/images/subscribe.jpg"
+    "image": "assets/images/subscribe.jpg",
+    "topic": "Shopping & Commerce"
   },
   {
     "word": "supervise",
@@ -2792,7 +3006,8 @@ const vocabData = [
       "The children play while two teachers [supervise] (= make certain that they behave correctly and are safe). (=Dịch: Bọn trẻ chơi trong khi hai giáo viên giám sát (= đảm bảo rằng chúng cư xử đúng mực và an toàn).)",
       "With 20 kids running round and only two adults to [supervise], it was complete mayhem. (=Dịch: Với 20 đứa trẻ chạy quanh và chỉ có hai người lớn giám sát, đó là một sự hỗn loạn hoàn toàn.)"
     ],
-    "image": "assets/images/supervise.jpg"
+    "image": "assets/images/supervise.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "tag",
@@ -2805,7 +3020,8 @@ const vocabData = [
       "Did you check the price [tag] on that sweater? (=Dịch: Bạn đã kiểm tra nhãn giá trên áo len đó chưa?)",
       "Valuable pieces are marked with a [tag] describing the item's age and pedigree. (=Dịch: Những món đồ quý giá được đánh dấu bằng một nhãn mô tả tuổi và nguồn gốc của chúng.)"
     ],
-    "image": "assets/images/tag.jpg"
+    "image": "assets/images/tag.jpg",
+    "topic": "Shopping & Commerce"
   },
   {
     "word": "terminal",
@@ -2818,7 +3034,8 @@ const vocabData = [
       "A bus will take you to the [terminal]. (=Dịch: Một chiếc xe buýt sẽ đưa bạn đến nhà ga.)",
       "The so-called [terminal] building was little more than a shed. (=Dịch: Cái gọi là tòa nhà nhà ga chẳng khác gì một cái nhà kho.)"
     ],
-    "image": "assets/images/terminal.jpg"
+    "image": "assets/images/terminal.jpg",
+    "topic": "Travel & Transport"
   },
   {
     "word": "venue",
@@ -2831,7 +3048,8 @@ const vocabData = [
       "Hats off to Connie for finding such a splendid [venue] for a party! (=Dịch: Xin ngả mũ trước Connie vì đã tìm được một địa điểm tuyệt vời như vậy cho bữa tiệc!)",
       "We don't yet know what the [venue] will be for the ceremony. (=Dịch: Chúng tôi vẫn chưa biết địa điểm cho buổi lễ sẽ ở đâu.)"
     ],
-    "image": "assets/images/venue.jpg"
+    "image": "assets/images/venue.jpg",
+    "topic": "Art & Entertainment"
   },
   {
     "word": "waitress",
@@ -2844,7 +3062,8 @@ const vocabData = [
       "She plays the part of the sexy blonde [waitress]. (=Dịch: Cô ấy đóng vai một nữ phục vụ tóc vàng gợi cảm.)",
       "They asked the [waitress] for the bill. (=Dịch: Họ yêu cầu nữ phục vụ đưa hóa đơn.)"
     ],
-    "image": "assets/images/waitress.jpg"
+    "image": "assets/images/waitress.jpg",
+    "topic": "Food & Restaurant"
   },
   {
     "word": "weekday",
@@ -2857,7 +3076,8 @@ const vocabData = [
       "The subway carries 650,000 passengers on an average [weekday]. (=Dịch: Tàu điện ngầm chở 650.000 hành khách vào một ngày thường trong tuần.)",
       "The bank is open from 8 a.m. to 4 p.m. on [weekdays]. (=Dịch: Ngân hàng mở cửa từ 8 giờ sáng đến 4 giờ chiều vào các ngày trong tuần.)"
     ],
-    "image": "assets/images/weekday.jpg"
+    "image": "assets/images/weekday.jpg",
+    "topic": "Travel & Transport"
   },
   {
     "word": "affordable",
@@ -2870,7 +3090,8 @@ const vocabData = [
       "[Affordable] housing isn't enough – we also need job opportunities (=Dịch: Nhà ở giá rẻ không đủ – chúng ta cũng cần cơ hội việc làm)",
       "They are meeting consumer demand for fashionable products at [affordable] prices. (=Dịch: Họ đang đáp ứng nhu cầu của người tiêu dùng về các sản phẩm thời trang với giá cả phải chăng)"
     ],
-    "image": "assets/images/affordable.jpg"
+    "image": "assets/images/affordable.jpg",
+    "topic": "Shopping & Commerce"
   },
   {
     "word": "annoy",
@@ -2883,7 +3104,8 @@ const vocabData = [
       "The lack of information is what creates the chaos and [annoys] people (=Dịch: Sự thiếu thông tin là điều tạo ra sự hỗn loạn và làm mọi người bực mình.)",
       "Here's a tip: if listening to other people talk [annoys] you, don't hang out in public places (=Dịch: Đây là một lời khuyên: nếu việc nghe người khác nói làm bạn khó chịu, đừng lui tới những nơi công cộng)"
     ],
-    "image": "assets/images/annoy.jpg"
+    "image": "assets/images/annoy.jpg",
+    "topic": "Food & Restaurant"
   },
   {
     "word": "authority",
@@ -2896,7 +3118,8 @@ const vocabData = [
       "They've been acting illegally and without [authority] (= permission) from the council. (=Dịch: Họ đã hành động bất hợp pháp và không có thẩm quyền (= sự cho phép) từ hội đồng.)",
       "The prime minister succeeded in surviving the challenge to his [authority]. (=Dịch: Thủ tướng đã thành công trong việc vượt qua thách thức đối với quyền lực của mình.)"
     ],
-    "image": "assets/images/authority.jpg"
+    "image": "assets/images/authority.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "automobile",
@@ -2909,7 +3132,8 @@ const vocabData = [
       "Emissions were likely to get worse as more Americans purchased and drove [automobiles]. (=Dịch: Khí thải có thể sẽ tồi tệ hơn khi nhiều người Mỹ mua và lái ô tô hơn.)",
       "Americans are well aware of the environmental impact of [automobiles]. (=Dịch: Người Mỹ nhận thức rõ tác động môi trường của ô tô.)"
     ],
-    "image": "assets/images/automobile.jpg"
+    "image": "assets/images/automobile.jpg",
+    "topic": "Science & Nature"
   },
   {
     "word": "availability",
@@ -2922,7 +3146,8 @@ const vocabData = [
       "Prices were driven up due to the limited [availability] of key raw materials. (=Dịch: Giá cả bị đẩy lên cao do sự hạn chế của nguyên liệu thô chủ chốt.)",
       "Customers complained about the increased insurance premiums and the lack of [availability] of quality coverage. (=Dịch: Khách hàng phàn nàn về phí bảo hiểm tăng và sự thiếu thốn bảo hiểm chất lượng.)"
     ],
-    "image": "assets/images/availability.jpg"
+    "image": "assets/images/availability.jpg",
+    "topic": "Shopping & Commerce"
   },
   {
     "word": "bargain",
@@ -2935,7 +3160,8 @@ const vocabData = [
       "The sales had started and the [bargain] hunters (= people looking for things at a low price) were out in force. (=Dịch: Các đợt giảm giá đã bắt đầu và những người săn giá rẻ (tức là những người đang tìm kiếm các mặt hàng với giá thấp) đã xuất hiện nhiều.)",
       "Many garden centres are having their end-of-season sales and offering some great [bargains]. (=Dịch: Nhiều trung tâm sân vườn đang có các đợt bán hàng cuối mùa và cung cấp một số món hời tuyệt vời.)"
     ],
-    "image": "assets/images/bargain.png"
+    "image": "assets/images/bargain.png",
+    "topic": "Shopping & Commerce"
   },
   {
     "word": "baseball",
@@ -2948,7 +3174,8 @@ const vocabData = [
       "This 21-year-old is now perhaps the best player in [baseball]. (=Dịch: Anh chàng 21 tuổi này có lẽ là cầu thủ giỏi nhất trong môn bóng chày bây giờ.)",
       "The highest level of [baseball] Wang ever played was on a Level B team for a record company years ago. (=Dịch: Cấp độ cao nhất của bóng chày mà Wang từng chơi là trong đội Cấp độ B của một công ty thu âm vài năm trước.)"
     ],
-    "image": "assets/images/baseball.jpg"
+    "image": "assets/images/baseball.jpg",
+    "topic": "Art & Entertainment"
   },
   {
     "word": "bookstore",
@@ -2961,7 +3188,8 @@ const vocabData = [
       "The idea of having a [bookstore] in a coffee shop is based on popular demand. (=Dịch: Ý tưởng có một hiệu sách trong quán cà phê dựa trên nhu cầu phổ biến.)",
       "Those books that were sold to the public were sold principally in department stores, not in [bookstores]. (=Dịch: Những cuốn sách được bán ra công chúng chủ yếu được bán ở các cửa hàng bách hóa, không phải hiệu sách.)"
     ],
-    "image": "assets/images/bookstore.jpg"
+    "image": "assets/images/bookstore.jpg",
+    "topic": "Shopping & Commerce"
   },
   {
     "word": "captain",
@@ -2974,7 +3202,8 @@ const vocabData = [
       "We were sinking fast, and the [captain] gave the order to abandon ship. (=Dịch: Chúng tôi đang chìm rất nhanh và [thuyền trưởng] ra lệnh bỏ tàu.)",
       "He found a vessel whose [captain] was prepared to sign him on (=Dịch: Anh ấy tìm thấy một con tàu mà cơ trưởng sẵn sàng ký hợp đồng với anh ấy.)"
     ],
-    "image": "assets/images/captain.jpg"
+    "image": "assets/images/captain.jpg",
+    "topic": "Travel & Transport"
   },
   {
     "word": "carrier",
@@ -2987,7 +3216,8 @@ const vocabData = [
       "The company loses fewer drivers because it is a shorter-haul [carrier] whose drivers are typically away overnight rather than weeks on end. (=Dịch: Công ty mất ít tài xế hơn vì là một nhà vận chuyển có khoảng cách ngắn hơn, nơi mà tài xế thường chỉ vắng mặt qua đêm thay vì nhiều tuần liền.)",
       "Downstairs they found eight more dogs in pet [carriers] and a parrot in a cage. (=Dịch: Tầng dưới họ tìm thấy tám con chó nữa trong lồng vận chuyển thú cưng và một con vẹt trong lồng.)"
     ],
-    "image": "assets/images/carrier.jpg"
+    "image": "assets/images/carrier.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "cater",
@@ -3000,7 +3230,8 @@ const vocabData = [
       "Delegates can have meals [catered] by the hotel while the conference is underway. (=Dịch: Các đại biểu có thể dùng bữa do khách sạn phục vụ trong khi hội nghị đang diễn ra.)",
       "There is plenty of work to be had [catering] for weddings and parties (=Dịch: Có rất nhiều công việc phục vụ cho đám cưới và các bữa tiệc.)"
     ],
-    "image": "assets/images/cater.png"
+    "image": "assets/images/cater.png",
+    "topic": "Food & Restaurant"
   },
   {
     "word": "commute",
@@ -3013,7 +3244,8 @@ const vocabData = [
       "He [commuted] every day, back and forth, an hour and 20 minutes each way. (=Dịch: Anh ấy đi lại mỗi ngày, đi và về, mất một tiếng hai mươi phút mỗi chiều.)",
       "Do you [commute] to work or spend a lot of time travelling to meetings and conferences? (=Dịch: Bạn có đi làm hay dành nhiều thời gian để đi lại đến các cuộc họp và hội nghị không?)"
     ],
-    "image": "assets/images/commute.jpg"
+    "image": "assets/images/commute.jpg",
+    "topic": "Job & Career"
   },
   {
     "word": "complimentary",
@@ -3026,7 +3258,8 @@ const vocabData = [
       "Parking is usually [complimentary] or included in the ticket price. (=Dịch: Thường thì việc đỗ xe là miễn phí hoặc đã bao gồm trong giá vé.)",
       "Some of the stalls offered their own product discounts and [complimentary] gifts, to encourage customer sales. (=Dịch: Một số gian hàng cung cấp giảm giá sản phẩm riêng và quà tặng miễn phí, để khuyến khích khách hàng mua sắm.)"
     ],
-    "image": "assets/images/complimentary.png"
+    "image": "assets/images/complimentary.png",
+    "topic": "Shopping & Commerce"
   },
   {
     "word": "coordinate",
@@ -3039,7 +3272,8 @@ const vocabData = [
       "Who will be responsible for [coordinating] the project? (=Dịch: Ai sẽ chịu trách nhiệm điều phối dự án?)",
       "E-commerce has enabled us to [coordinate] international operations. (=Dịch: Thương mại điện tử đã cho phép chúng tôi phối hợp các hoạt động quốc tế.)"
     ],
-    "image": "assets/images/coordinate.jpg"
+    "image": "assets/images/coordinate.jpg",
+    "topic": "Food & Restaurant"
   },
   {
     "word": "courier",
@@ -3052,7 +3286,8 @@ const vocabData = [
       "I'll [courier] the relevant documents to you this afternoon. (=Dịch: Tôi sẽ chuyển phát các tài liệu liên quan cho bạn vào chiều nay.)",
       "The package was delivered to the factory by a [courier] company on Wednesday. (=Dịch: Gói hàng đã được giao đến nhà máy bởi một công ty giao hàng vào thứ Tư.)"
     ],
-    "image": "assets/images/courier.jpg"
+    "image": "assets/images/courier.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "dental",
@@ -3065,7 +3300,8 @@ const vocabData = [
       "Have you made an appointment for your next [dental] check-up? (=Dịch: Bạn đã đặt lịch hẹn cho lần kiểm tra nha khoa tiếp theo chưa?)",
       "There are only two [dental] practices in the town and another one is badly needed. (=Dịch: Chỉ có hai phòng khám nha khoa trong thị trấn và cần thêm một cái khác.)"
     ],
-    "image": "assets/images/dental.jpg"
+    "image": "assets/images/dental.jpg",
+    "topic": "Health & Medicine"
   },
   {
     "word": "designate",
@@ -3078,7 +3314,8 @@ const vocabData = [
       "Thompson has been [designated] as new department head. (=Dịch: Thompson đã được chỉ định làm trưởng phòng mới.)",
       "This area of the plant has been specially [designated] for research and development. (=Dịch: Khu vực này của nhà máy đã được chỉ định đặc biệt cho nghiên cứu và phát triển.)"
     ],
-    "image": "assets/images/designate.jpg"
+    "image": "assets/images/designate.jpg",
+    "topic": "Education & Learning"
   },
   {
     "word": "dock",
@@ -3091,7 +3328,8 @@ const vocabData = [
       "Workmen at the [docks] were unloading the crates from the tugboats and cruises. (=Dịch: Công nhân tại bến cảng đang dỡ các thùng hàng từ tàu kéo và tàu du lịch.)",
       "With ships arriving faster than [dock] workers can handle them, the ports can't keep ahead of the rising tide of Pacific Rim cargo. (=Dịch: Khi các tàu đến nhanh hơn so với công nhân bến cảng có thể xử lý được, các cảng không thể bắt kịp với làn sóng hàng hóa từ Vành đai Thái Bình Dương.)"
     ],
-    "image": "assets/images/dock.jpeg"
+    "image": "assets/images/dock.jpeg",
+    "topic": "Travel & Transport"
   },
   {
     "word": "duration",
@@ -3104,7 +3342,8 @@ const vocabData = [
       "Does the rate only apply for a limited period or for the [duration] of the loan? (=Dịch: Mức lãi suất chỉ áp dụng trong một khoảng thời gian giới hạn hay trong suốt thời gian vay?)",
       "Call-centre workers often have strict targets on call [durations], number of calls answered, etc. (=Dịch: Nhân viên trung tâm cuộc gọi thường có chỉ tiêu nghiêm ngặt về thời gian cuộc gọi, số lượng cuộc gọi được trả lời, v.v.)"
     ],
-    "image": "assets/images/duration.jpg"
+    "image": "assets/images/duration.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "exclusive",
@@ -3117,7 +3356,8 @@ const vocabData = [
       "The licence provides the company with an [exclusive] 12-year agreement for gambling rights on the island. (=Dịch: Giấy phép cung cấp cho công ty một thỏa thuận độc quyền 12 năm về quyền đánh bạc trên đảo.)",
       "They have been given [exclusive] rights to distribute replicas of the ring. (=Dịch: Họ đã được cấp quyền độc quyền để phân phối các bản sao của chiếc nhẫn.)"
     ],
-    "image": "assets/images/exclusive.jpg"
+    "image": "assets/images/exclusive.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "flu",
@@ -3130,7 +3370,8 @@ const vocabData = [
       "Many forms of [flu] and common colds originate in Asia and, in particular, in China. (=Dịch: Nhiều dạng cúm và cảm lạnh thông thường bắt nguồn từ châu Á, đặc biệt là Trung Quốc.)",
       "Symptoms of bird [flu] are similar to human [flu] and it cannot be detected without lab tests. (=Dịch: Triệu chứng của cúm gia cầm giống như cúm ở người và không thể phát hiện được nếu không có các xét nghiệm trong phòng thí nghiệm.)"
     ],
-    "image": "assets/images/flu.jpg"
+    "image": "assets/images/flu.jpg",
+    "topic": "Health & Medicine"
   },
   {
     "word": "grocery",
@@ -3143,7 +3384,8 @@ const vocabData = [
       "Small retail [grocery] stores offer cooking classes and seminars. (=Dịch: Các cửa hàng tạp hóa bán lẻ nhỏ cung cấp các lớp học nấu ăn và hội thảo.)",
       "People who shop at the discount [grocery] chains that charge a nickel per bag seem to use fewer bags. (=Dịch: Những người mua sắm tại các chuỗi [tạp hóa] giảm giá tính phí một xu cho mỗi túi dường như sử dụng ít túi hơn.)"
     ],
-    "image": "assets/images/grocery.webp"
+    "image": "assets/images/grocery.webp",
+    "topic": "Shopping & Commerce"
   },
   {
     "word": "hike",
@@ -3156,7 +3398,8 @@ const vocabData = [
       "Mountain [hiking] makes some demands on the body that you may not be used to - and that can lead to problems for the unprepared. (=Dịch: Đi bộ đường dài trên núi đòi hỏi một số yêu cầu về cơ thể mà bạn có thể chưa quen - và điều đó có thể dẫn đến vấn đề cho những ai không chuẩn bị.)",
       "Both couples began to [hike] retracing the path that the van had traveled. (=Dịch: Cả hai cặp đôi bắt đầu đi bộ lần theo con đường mà chiếc xe van đã đi qua.)"
     ],
-    "image": "assets/images/hike.jpg"
+    "image": "assets/images/hike.jpg",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "homework",
@@ -3169,7 +3412,8 @@ const vocabData = [
       "The teacher told us to read chapter five for [homework]. (=Dịch: Giáo viên bảo chúng tôi đọc chương năm làm bài tập về nhà.)",
       "My science teacher always sets a lot of [homework]. (=Dịch: Giáo viên khoa học của tôi luôn giao rất nhiều bài tập về nhà.)"
     ],
-    "image": "assets/images/homework.jpg"
+    "image": "assets/images/homework.jpg",
+    "topic": "Education & Learning"
   },
   {
     "word": "incomplete",
@@ -3182,7 +3426,8 @@ const vocabData = [
       "Please provide us with a final account for work done adjusted to take account of defective and [incomplete] work. (=Dịch: Vui lòng cung cấp cho chúng tôi tài khoản cuối cùng cho công việc đã hoàn thành được điều chỉnh để tính đến công việc bị lỗi và chưa hoàn thành.)",
       "There were no records for clients who moved in and out of the hostels and documents about residents' purses were [incomplete]. (=Dịch: Không có hồ sơ cho những khách hàng đã vào và ra khỏi các nhà trọ và các tài liệu về ví của cư dân thì chưa hoàn thành.)"
     ],
-    "image": "assets/images/incomplete.jpg"
+    "image": "assets/images/incomplete.jpg",
+    "topic": "Job & Career"
   },
   {
     "word": "installation",
@@ -3195,7 +3440,8 @@ const vocabData = [
       "You will receive a message confirming correct [installation] of the program. (=Dịch: Bạn sẽ nhận được một thông báo xác nhận việc cài đặt chương trình là chính xác.)",
       "Other measures adopted have included the [installation] of ground source heat pumps in some churches. (=Dịch: Các biện pháp khác đã được thông qua bao gồm việc lắp đặt máy bơm nhiệt nguồn đất trong một số nhà thờ.)"
     ],
-    "image": "assets/images/installation.jpg"
+    "image": "assets/images/installation.jpg",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "lamp",
@@ -3208,7 +3454,8 @@ const vocabData = [
       "Electricity was fairly new then, and our neighborhood was the last section to be dependent on oil [lamps]. (=Dịch: Điện khi đó còn khá mới, và khu phố của chúng tôi là khu vực cuối cùng phụ thuộc vào đèn dầu.)",
       "The college also purchased two [lamps], candles, and six bushels of coal. (=Dịch: Trường đại học cũng đã mua hai đèn, nến và sáu bu-lông than.)"
     ],
-    "image": "assets/images/lamp.jpg"
+    "image": "assets/images/lamp.jpg",
+    "topic": "Education & Learning"
   },
   {
     "word": "lately",
@@ -3221,7 +3468,8 @@ const vocabData = [
       "It's only [lately] that she's been well enough to go out. (=Dịch: Gần đây cô ấy mới đủ khỏe để ra ngoài.)",
       "She had [lately] returned from India. (=Dịch: Gần đây cô ấy đã trở về từ Ấn Độ.)"
     ],
-    "image": "assets/images/lately.jpg"
+    "image": "assets/images/lately.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "lounge",
@@ -3234,7 +3482,8 @@ const vocabData = [
       "Once on board, the union's representatives were chaperoned to a new [lounge] on the ferry for pets, where the RMT inspectors were able to speak directly to newly employed workers. (=Dịch: Khi lên tàu, các đại diện của công đoàn đã được đưa đến một sảnh mới dành cho thú cưng trên phà, nơi các thanh tra RMT có thể nói chuyện trực tiếp với các công nhân mới được tuyển dụng.)",
       "Dominique, a Black electrical engineering doctoral student, found herself in an awkward situation in the [lounge] of a hotel where she had been attending a conference on science. (=Dịch: Dominique, một nghiên cứu sinh tiến sĩ kỹ thuật điện người Da Đen, đã rơi vào tình huống khó xử trong sảnh của một khách sạn nơi cô đang tham dự một hội thảo về khoa học.)"
     ],
-    "image": "assets/images/lounge.jpg"
+    "image": "assets/images/lounge.jpg",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "machinery",
@@ -3247,7 +3496,8 @@ const vocabData = [
       "These workshops were built to house heavy [machinery]. (=Dịch: Những xưởng này được xây dựng để chứa thiết bị nặng.)",
       "This car is a pretty sophisticated piece of [machinery]. (=Dịch: Chiếc ô tô này là một bộ máy khá tinh vi.)"
     ],
-    "image": "assets/images/machinery.jpg"
+    "image": "assets/images/machinery.jpg",
+    "topic": "Technology & Communication"
   },
   {
     "word": "memorandum",
@@ -3260,7 +3510,8 @@ const vocabData = [
       "a [memorandum] directing that the Army take action (=Dịch: một bản ghi nhớ chỉ đạo rằng Quân đội phải hành động)",
       "a [memorandum] from the Attorney General to the President (=Dịch: một bản ghi nhớ từ Tổng Chưởng lý gởi Tổng thống)"
     ],
-    "image": "assets/images/memorandum.jpg"
+    "image": "assets/images/memorandum.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "midnight",
@@ -3273,7 +3524,8 @@ const vocabData = [
       "At/on the stroke of [midnight] fireworks lit up the sky. (=Dịch: Vào lúc [nửa đêm] pháo hoa thắp sáng bầu trời.)",
       "We have to catch the [midnight] train. (=Dịch: Chúng ta phải bắt chuyến tàu lúc nửa đêm.)"
     ],
-    "image": "assets/images/midnight.jpg"
+    "image": "assets/images/midnight.jpg",
+    "topic": "Travel & Transport"
   },
   {
     "word": "painter",
@@ -3286,7 +3538,8 @@ const vocabData = [
       "She quickly established a reputation as a [painter] of portraits. (=Dịch: Cô ấy nhanh chóng tạo dựng được danh tiếng như một họa sĩ chân dung.)",
       "an exhibition of works by contemporary [painters] (=Dịch: một cuộc triển lãm các tác phẩm của các họa sĩ đương đại)"
     ],
-    "image": "assets/images/painter.jpg"
+    "image": "assets/images/painter.jpg",
+    "topic": "Job & Career"
   },
   {
     "word": "paperwork",
@@ -3299,7 +3552,8 @@ const vocabData = [
       "I spent the afternoon doing routine [paperwork]. (=Dịch: Tôi đã dành buổi chiều để làm thủ tục giấy tờ thường lệ.)",
       "Teachers are being swamped with [paperwork] and have no time for lesson preparation. (=Dịch: Giáo viên đang bị ngập trong thủ tục giấy tờ và không có thời gian để chuẩn bị bài học.)"
     ],
-    "image": "assets/images/paperwork.jpg"
+    "image": "assets/images/paperwork.jpg",
+    "topic": "Job & Career"
   },
   {
     "word": "patron",
@@ -3312,7 +3566,8 @@ const vocabData = [
       "He was a great [patron] of the arts and helped to establish the Baltimore Museum. (=Dịch: Ông ấy là một người bảo trợ tuyệt vời cho nghệ thuật và đã giúp thành lập Bảo tàng Baltimore.)",
       "The Princess Royal is a well-known [patron] of several charities. (=Dịch: Công chúa Hoàng gia là một người bảo trợ nổi tiếng của nhiều tổ chức từ thiện.)"
     ],
-    "image": "assets/images/patron.jpg"
+    "image": "assets/images/patron.jpg",
+    "topic": "Art & Entertainment"
   },
   {
     "word": "photocopier",
@@ -3325,7 +3580,8 @@ const vocabData = [
       "If you need to make copies of an important document, the hotel has a [photocopier] that is available for guests. (=Dịch: Nếu bạn cần sao chép tài liệu quan trọng, khách sạn có máy photocopy dành cho khách.)",
       "We have business facilities including fax and [photocopier]. (=Dịch: Chúng tôi có các tiện nghi kinh doanh bao gồm máy fax và máy photocopy.)"
     ],
-    "image": "assets/images/photocopier.jpg"
+    "image": "assets/images/photocopier.jpg",
+    "topic": "Technology & Communication"
   },
   {
     "word": "prescription",
@@ -3338,7 +3594,8 @@ const vocabData = [
       "These drugs are only available on [prescription] (= with a prescription from a doctor). (=Dịch: Những loại thuốc này chỉ có sẵn theo đơn (= có đơn thuốc từ bác sĩ).)",
       "When I bought my new glasses, they threw in a free pair of [prescription] sunglasses. (=Dịch: Khi tôi mua kính mới, họ tặng kèm một cặp kính râm theo đơn miễn phí.)"
     ],
-    "image": "assets/images/prescription.jpg"
+    "image": "assets/images/prescription.jpg",
+    "topic": "Health & Medicine"
   },
   {
     "word": "presenter",
@@ -3351,7 +3608,8 @@ const vocabData = [
       "She was speaking in her capacity as a novelist, rather than as a television [presenter]. (=Dịch: Cô ấy đang nói với tư cách là một tiểu thuyết gia, chứ không phải là một người dẫn chương trình truyền hình.)",
       "These charms have earned the television programme's [presenter] the sobriquet 'the thinking woman's crumpet'. (=Dịch: Những nét duyên dáng này đã mang lại cho người dẫn chương trình truyền hình biệt danh 'chiếc bánh nướng của người phụ nữ suy tư'.)"
     ],
-    "image": "assets/images/presenter.jpg"
+    "image": "assets/images/presenter.jpg",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "productive",
@@ -3364,7 +3622,8 @@ const vocabData = [
       "Theirs was a very [productive] partnership. (=Dịch: Họ đã có một sự hợp tác rất hiệu quả.)",
       "What was once desert has become [productive] farmland. (=Dịch: Nơi từng là sa mạc giờ đã trở thành đất canh tác màu mỡ.)"
     ],
-    "image": "assets/images/productive.jpg"
+    "image": "assets/images/productive.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "productivity",
@@ -3377,7 +3636,8 @@ const vocabData = [
       "It's a question of striking the right balance between quality and [productivity]. (=Dịch: Đó là câu hỏi về việc đạt được sự cân bằng đúng đắn giữa chất lượng và năng suất.)",
       "The [productivity] agreement gives staff an extra 10% pay if the team reaches its sales targets. (=Dịch: Thỏa thuận năng suất sẽ mang lại cho nhân viên thêm 10% lương nếu nhóm đạt được mục tiêu bán hàng.)"
     ],
-    "image": "assets/images/productivity.jpg"
+    "image": "assets/images/productivity.jpg",
+    "topic": "Job & Career"
   },
   {
     "word": "questionnaire",
@@ -3390,7 +3650,8 @@ const vocabData = [
       "All manufacturing companies registered as exporters were asked to complete a [questionnaire] about their exports. (=Dịch: Tất cả các công ty sản xuất đã đăng ký là nhà xuất khẩu đã được yêu cầu hoàn thành một bảng câu hỏi về xuất khẩu của họ.)",
       "The study is based on the responses of 302 employers to an online [questionnaire]. (=Dịch: Nghiên cứu này dựa trên câu trả lời của 302 nhà tuyển dụng cho một bảng câu hỏi trực tuyến.)"
     ],
-    "image": "assets/images/questionnaire.jpg"
+    "image": "assets/images/questionnaire.jpg",
+    "topic": "Education & Learning"
   },
   {
     "word": "quit",
@@ -3403,7 +3664,8 @@ const vocabData = [
       "The nicotine patches are designed to help people [quit] smoking. (=Dịch: Các miếng dán nicotine được thiết kế để giúp mọi người bỏ thuốc lá.)",
       "He's dropped several hints to the boss that he'll [quit] if he doesn't get a promotion. (=Dịch: Anh ấy đã đưa ra một vài gợi ý cho sếp rằng anh ấy sẽ nghỉ việc nếu không được thăng chức.)"
     ],
-    "image": "assets/images/quit.jpg"
+    "image": "assets/images/quit.jpg",
+    "topic": "Art & Entertainment"
   },
   {
     "word": "rainy",
@@ -3416,7 +3678,8 @@ const vocabData = [
       "They walked along the promenade on a [rainy] night.  (=Dịch: Họ đi dọc theo lối đi bộ vào một đêm mưa.)",
       "The [rainy] season in the Andes normally starts in December. (=Dịch: Mùa mưa ở dãy Andes thường bắt đầu vào tháng Mười Hai.)"
     ],
-    "image": "assets/images/rainy.jpg"
+    "image": "assets/images/rainy.jpg",
+    "topic": "Travel & Transport"
   },
   {
     "word": "relocate",
@@ -3429,7 +3692,8 @@ const vocabData = [
       "My company [relocated] me to Paris. (=Dịch: Công ty của tôi đã chuyển tôi đến Paris.)",
       "Corporations are [relocating] to other states. (=Dịch: Các tập đoàn đang chuyển đến các bang khác.)"
     ],
-    "image": "assets/images/relocate.jpg"
+    "image": "assets/images/relocate.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "salad",
@@ -3442,7 +3706,8 @@ const vocabData = [
       "Serve the risotto with a mixed/green [salad]. (=Dịch: Dùng món risotto với xà lách trộn/xanh.)",
       "I'll have egg [salad] on brown (bread), please. (=Dịch: Tôi sẽ dùng xà lách trộn trứng với bánh mì nâu, làm ơn.)"
     ],
-    "image": "assets/images/salad.jpg"
+    "image": "assets/images/salad.jpg",
+    "topic": "Food & Restaurant"
   },
   {
     "word": "seldom",
@@ -3455,7 +3720,8 @@ const vocabData = [
       "[Seldom] do we receive any apology when mistakes are made. (=Dịch: Hiếm khi chúng tôi nhận được lời xin lỗi khi có sai lầm xảy ra.)",
       "I [seldom] drive my car into the city. (=Dịch: Tôi hiếm khi lái xe vào thành phố.)"
     ],
-    "image": "assets/images/seldom.jpg"
+    "image": "assets/images/seldom.jpg",
+    "topic": "Art & Entertainment"
   },
   {
     "word": "signature",
@@ -3468,7 +3734,8 @@ const vocabData = [
       "I'm not going to forge his [signature] for you! What do you take me for? (=Dịch: Tôi sẽ không giả mạo chữ ký của anh ấy cho bạn! Bạn nghĩ tôi là ai?)",
       "His [signature] was an illegible squiggle at the bottom of the page. (=Dịch: Chữ ký của anh ấy là một nét nguệch ngoạc không rõ ràng ở cuối trang.)"
     ],
-    "image": "assets/images/signature.jpg"
+    "image": "assets/images/signature.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "suite",
@@ -3481,7 +3748,8 @@ const vocabData = [
       "They have a whole [suite] of offices on the 34th floor. (=Dịch: Họ có cả một dãy văn phòng ở tầng 34.)",
       "Guests were invited to the publisher's hospitality [suite] to meet the author. (=Dịch: Khách được mời đến phòng tiếp khách của nhà xuất bản để gặp gỡ tác giả.)"
     ],
-    "image": "assets/images/suite.jpg"
+    "image": "assets/images/suite.jpg",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "thorough",
@@ -3494,7 +3762,8 @@ const vocabData = [
       "They received a [thorough] briefing before they left the country. (=Dịch: Họ đã nhận được một buổi họp chi tiết trước khi rời khỏi đất nước.)",
       "School gave me a [thorough] grounding in French. (=Dịch: Trường học đã cho tôi một nền tảng vững chắc về tiếng Pháp.)"
     ],
-    "image": "assets/images/thorough.jpg"
+    "image": "assets/images/thorough.jpg",
+    "topic": "Education & Learning"
   },
   {
     "word": "trainee",
@@ -3507,7 +3776,8 @@ const vocabData = [
       "He started his career as a [trainee] with an advertising agency. (=Dịch: Anh ấy bắt đầu sự nghiệp của mình như là một thực tập sinh tại một công ty quảng cáo.)",
       "Many companies recruit graduate [trainees] to train as managers. (=Dịch: Nhiều công ty tuyển dụng các thực tập sinh tốt nghiệp để đào tạo làm quản lý.)"
     ],
-    "image": "assets/images/trainee.jpg"
+    "image": "assets/images/trainee.jpg",
+    "topic": "Job & Career"
   },
   {
     "word": "trainer",
@@ -3520,7 +3790,8 @@ const vocabData = [
       "A lot of wealthy people have their own personal [trainer] (= a person they employ to help them exercise). (=Dịch: Nhiều người giàu có huấn luyện viên cá nhân của riêng họ (= một người họ thuê để giúp họ tập thể dục).)",
       "Her new [trainer] has promised to make an olympic athlete of her. (=Dịch: Huấn luyện viên mới của cô ấy đã hứa sẽ biến cô ấy thành một vận động viên Olympic.)"
     ],
-    "image": "assets/images/trainer.jpg"
+    "image": "assets/images/trainer.jpg",
+    "topic": "Science & Nature"
   },
   {
     "word": "transaction",
@@ -3533,7 +3804,8 @@ const vocabData = [
       "The legality of the [transaction] is still under adjudication in the courts. (=Dịch: Tính hợp pháp của giao dịch này vẫn đang được xét xử tại tòa án.)",
       "There was no financial [transaction] between us. (=Dịch: Không có giao dịch tài chính nào giữa chúng tôi.)"
     ],
-    "image": "assets/images/transaction.jpg"
+    "image": "assets/images/transaction.jpg",
+    "topic": "Shopping & Commerce"
   },
   {
     "word": "unhappy",
@@ -3546,7 +3818,8 @@ const vocabData = [
       "The last thing I wanted was to make you [unhappy]. (=Dịch: Điều cuối cùng tôi muốn là làm bạn không hạnh phúc.)",
       "She just seems so [unhappy] and I don't know what the solution is. (=Dịch: Cô ấy chỉ dường như rất không hạnh phúc và tôi không biết giải pháp là gì.)"
     ],
-    "image": "assets/images/unhappy.jpg"
+    "image": "assets/images/unhappy.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "verify",
@@ -3559,7 +3832,8 @@ const vocabData = [
       "These numbers are surprisingly high and they'll have to be [verified]. (=Dịch: Những con số này cao đáng ngạc nhiên và chúng sẽ phải được xác minh.)",
       "Under interrogation, she [verified] (that) the tapes were authentic. (=Dịch: Trong cuộc thẩm vấn, cô ấy xác nhận (rằng) các băng ghi âm là thật.)"
     ],
-    "image": "assets/images/verify.jpg"
+    "image": "assets/images/verify.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "worldwide",
@@ -3572,7 +3846,8 @@ const vocabData = [
       "At their apogee, the novels of Spillane claimed [worldwide] sales of over 180 million. (=Dịch: Ở đỉnh cao của họ, tiểu thuyết của Spillane tuyên bố đạt doanh số trên toàn thế giới hơn 180 triệu bản.)",
       "He rose from relative obscurity to [worldwide] recognition. (=Dịch: Anh ấy đã vươn lên từ một người khá mù mờ để được công nhận trên toàn thế giới.)"
     ],
-    "image": "assets/images/worldwide.jpg"
+    "image": "assets/images/worldwide.jpg",
+    "topic": "Science & Nature"
   },
   {
     "word": "accurately",
@@ -3585,7 +3860,8 @@ const vocabData = [
       "For the experiment to be valid, it is essential to record the data [accurately] (=Dịch: Để thí nghiệm có giá trị, việc ghi lại dữ liệu một cách chính xác là điều cần thiết)",
       "There is a trade-off between doing the job [accurately] and doing it quickly (=Dịch: Có sự đánh đổi giữa việc làm công việc chính xác và làm nhanh chóng)"
     ],
-    "image": "assets/images/accurately.jpg"
+    "image": "assets/images/accurately.jpg",
+    "topic": "Job & Career"
   },
   {
     "word": "anniversary",
@@ -3598,7 +3874,8 @@ const vocabData = [
       "We always celebrate our wedding [anniversary] with dinner in an expensive restaurant. (=Dịch: Chúng tôi luôn kỷ niệm ngày cưới bằng bữa tối ở một nhà hàng đắt tiền.)",
       "Next year, we're celebrating the fair's 150th [anniversary]. (=Dịch: Năm sau, chúng tôi sẽ kỷ niệm 150 năm hội chợ.)"
     ],
-    "image": "assets/images/anniversary.jpeg"
+    "image": "assets/images/anniversary.jpeg",
+    "topic": "Food & Restaurant"
   },
   {
     "word": "annually",
@@ -3611,7 +3888,8 @@ const vocabData = [
       "The event, watched by millions of people all over the country, takes place [annually]. (=Dịch: Sự kiện này, được hàng triệu người trên khắp cả nước theo dõi, diễn ra hàng năm.)",
       "The hospital spends $1.1 million [annually] for its computer operations. (=Dịch: Bệnh viện chi $1,1 triệu hàng năm cho hoạt động máy tính của mình.)"
     ],
-    "image": "assets/images/annually.jpg"
+    "image": "assets/images/annually.jpg",
+    "topic": "Health & Medicine"
   },
   {
     "word": "banker",
@@ -3624,7 +3902,8 @@ const vocabData = [
       "After the crash thousands of [bankers] were suddenly out of work. (=Dịch: Sau vụ sụp đổ, hàng ngàn nhân viên ngân hàng đột ngột mất việc.)",
       "There was criticism of the level of [bankers'] bonuses. (=Dịch: Có sự chỉ trích mức thưởng của các nhân viên ngân hàng.)"
     ],
-    "image": "assets/images/banker.jpg"
+    "image": "assets/images/banker.jpg",
+    "topic": "Job & Career"
   },
   {
     "word": "basketball",
@@ -3637,7 +3916,8 @@ const vocabData = [
       "The sports shop stocks [basketballs], nets, rings and various other basketball equipment. (=Dịch: Cửa hàng thể thao có bóng rổ, lưới, vòng và các thiết bị bóng rổ khác.)",
       "People keep trying to persuade him to take up [basketball] because he's so tall and athletic. (=Dịch: Mọi người cứ cố gắng thuyết phục anh ấy theo học [bóng rổ] vì anh ấy rất cao và lực lưỡng.)"
     ],
-    "image": "assets/images/basketball.jpg"
+    "image": "assets/images/basketball.jpg",
+    "topic": "Art & Entertainment"
   },
   {
     "word": "bathroom",
@@ -3650,7 +3930,8 @@ const vocabData = [
       "Some idiot left the tap running in the [bathroom] and there's water everywhere. (=Dịch: Có kẻ ngốc nào đó đã để vòi nước chảy trong phòng tắm và nước chảy khắp nơi.)",
       "To the left is the family [bathroom] which has a bath, wash basin, toilet and tiled wall and floor. (=Dịch: Bên trái là phòng tắm gia đình có bồn tắm, bồn rửa, nhà vệ sinh và tường và sàn lát gạch.)"
     ],
-    "image": "assets/images/bathroom.jpg"
+    "image": "assets/images/bathroom.jpg",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "behalf",
@@ -3663,7 +3944,8 @@ const vocabData = [
       "The company was set up to buy and sell shares on [behalf] of investors. (=Dịch: Công ty được thành lập để mua và bán cổ phiếu thay mặt cho các nhà đầu tư.)",
       "In turn, the organization will negotiate on your [behalf] for lower interest rates and a more convenient payment option. (=Dịch: Đổi lại, tổ chức sẽ đàm phán thay mặt bạn để có lãi suất thấp hơn và một phương thức thanh toán thuận tiện hơn.)"
     ],
-    "image": "assets/images/behalf.jpeg"
+    "image": "assets/images/behalf.jpeg",
+    "topic": "Shopping & Commerce"
   },
   {
     "word": "buffet",
@@ -3676,7 +3958,8 @@ const vocabData = [
       "Adding to the authenticity of the occasion will be a [buffet] dinner to serve as the wedding reception. (=Dịch: Thêm vào tính chân thực của dịp này sẽ là một bữa tiệc buffet phục vụ như tiệc chiêu đãi đám cưới.)",
       "The evening [buffet] features the particular dishes from the selected province, plus fare from other areas. (=Dịch: Tiệc buffet buổi tối có các món ăn đặc biệt từ tỉnh được chọn, cộng với các món ăn từ các khu vực khác.)"
     ],
-    "image": "assets/images/buffet.jpg"
+    "image": "assets/images/buffet.jpg",
+    "topic": "Food & Restaurant"
   },
   {
     "word": "cab",
@@ -3689,7 +3972,8 @@ const vocabData = [
       "Finally the security hailed a taxi [cab] and pushed us in and it drove away. (=Dịch: Cuối cùng bảo vệ đã gọi một chiếc taxi và đẩy chúng tôi vào trong rồi nó lái đi.)",
       "Dani paid the [cab] driver while Bryan started to take their luggage out of the trunk. (=Dịch: Dani đã trả tiền cho tài xế taxi trong khi Bryan bắt đầu lấy hành lý của họ ra khỏi cốp xe.)"
     ],
-    "image": "assets/images/cab.jpg"
+    "image": "assets/images/cab.jpg",
+    "topic": "Travel & Transport"
   },
   {
     "word": "cabin",
@@ -3702,7 +3986,8 @@ const vocabData = [
       "It's ideal for remote vacation [cabins] with no electricity or areas prone to power outages. (=Dịch: Nó lý tưởng cho những ngôi nhà nghỉ mát hẻo lánh không có điện hoặc những khu vực dễ bị mất điện.)",
       "Five friends spend a holiday together in a remote [cabin] in the woods. (=Dịch: Năm người bạn cùng nhau nghỉ ngơi trong một căn nhà nhỏ hẻo lánh trong rừng.)"
     ],
-    "image": "assets/images/cabin.jpg"
+    "image": "assets/images/cabin.jpg",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "calculator",
@@ -3715,7 +4000,8 @@ const vocabData = [
       "Use our handy mortgage [calculator] to work out your monthly repayments. (=Dịch: Sử dụng công cụ tính thế chấp tiện dụng của chúng tôi để tính khoản trả góp hàng tháng của bạn.)",
       "There is a currency converter and a [calculator] but no email client or text message chat. (=Dịch: Có một bộ chuyển đổi tiền tệ và một máy tính nhưng không có ứng dụng email hoặc trò chuyện tin nhắn văn bản.)"
     ],
-    "image": "assets/images/calculator.jpg"
+    "image": "assets/images/calculator.jpg",
+    "topic": "Technology & Communication"
   },
   {
     "word": "completion",
@@ -3728,7 +4014,8 @@ const vocabData = [
       "You will be asked to pay an initial deposit and the balance on [completion] of the work. (=Dịch: Bạn sẽ được yêu cầu thanh toán một khoản đặt cọc ban đầu và số tiền còn lại khi hoàn thành công việc.)",
       "The diploma will be awarded after a [completion] of all the course requirements. (=Dịch: Bằng tốt nghiệp sẽ được trao sau khi hoàn thành tất cả các yêu cầu của khóa học.)"
     ],
-    "image": "assets/images/completion.jpg"
+    "image": "assets/images/completion.jpg",
+    "topic": "Education & Learning"
   },
   {
     "word": "conductor",
@@ -3741,7 +4028,8 @@ const vocabData = [
       "The music is from recordings by von Karajan and other well-known [conductors] and orchestras. (=Dịch: Âm nhạc được lấy từ các bản ghi âm của von Karajan và các nhạc trưởng cùng dàn nhạc nổi tiếng khác.)",
       "He was appointed principal [conductor] of the Berlin Symphony Orchestra (=Dịch: Ông được bổ nhiệm làm nhạc trưởng chính của Dàn nhạc Giao hưởng Berlin.)"
     ],
-    "image": "assets/images/conductor.png"
+    "image": "assets/images/conductor.png",
+    "topic": "Art & Entertainment"
   },
   {
     "word": "confirmation",
@@ -3754,7 +4042,8 @@ const vocabData = [
       "We've only received five [confirmations] for the conference so far. (=Dịch: Cho đến nay, chúng tôi chỉ nhận được năm xác nhận cho hội nghị.)",
       "High unemployment figures were further [confirmation] that the economy was in recession (=Dịch: Số liệu thất nghiệp cao càng là [sự xác nhận] rằng nền kinh tế đang suy thoái)"
     ],
-    "image": "assets/images/confirmation.jpg"
+    "image": "assets/images/confirmation.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "congratulation",
@@ -3767,7 +4056,8 @@ const vocabData = [
       "Those who couldn't make the special event sent cards, flowers and messages of [congratulation]. (=Dịch: Những người không thể tham dự sự kiện đặc biệt đã gửi thiệp, hoa và lời chúc mừng.)",
       "His record-breaking performance will provoke a mixture of [congratulation] and resentment. (=Dịch: Màn trình diễn phá kỷ lục của anh ấy sẽ gây ra một sự pha trộn giữa lời chúc mừng và sự ghen tị.)"
     ],
-    "image": "assets/images/congratulation.jpg"
+    "image": "assets/images/congratulation.jpg",
+    "topic": "Art & Entertainment"
   },
   {
     "word": "correspondence",
@@ -3780,7 +4070,8 @@ const vocabData = [
       "He was ordered to supply copies of any [correspondence] between his office and the client in question. (=Dịch: Anh ta được yêu cầu cung cấp bản sao của bất kỳ thư từ nào giữa văn phòng của anh ta và khách hàng liên quan.)",
       "Any further [correspondence] should be sent to my new address. (=Dịch: Mọi thư từ liên lạc thêm nên được gửi đến địa chỉ mới của tôi.)"
     ],
-    "image": "assets/images/correspondence.jpg"
+    "image": "assets/images/correspondence.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "defect",
@@ -3793,7 +4084,8 @@ const vocabData = [
       "The cars have a [defect] in the electrical system that may cause them to stall. (=Dịch: Những chiếc xe hơi có một khuyết điểm trong hệ thống điện có thể khiến chúng bị tắt máy.)",
       "The report cited structural [defects] as the reason for the demolition of the building. (=Dịch: Báo cáo đã trích dẫn các khuyết điểm cấu trúc là lý do cho việc phá dỡ tòa nhà.)"
     ],
-    "image": "assets/images/defect.jpg"
+    "image": "assets/images/defect.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "defective",
@@ -3806,7 +4098,8 @@ const vocabData = [
       "Careless driving includes using a mobile phone while driving, driving without care or attention or with broken or [defective] lights. (=Dịch: Lái xe bất cẩn bao gồm việc sử dụng điện thoại di động khi lái xe, lái xe mà không chú ý hoặc quan tâm hoặc với đèn bị hỏng hoặc lỗi.)",
       "The list of faults included defective tyres, faulty brakes and [defective] steering. (=Dịch: Danh sách các lỗi bao gồm lốp xe bị lỗi, phanh hỏng và tay lái bị lỗi.)"
     ],
-    "image": "assets/images/defective.jpg"
+    "image": "assets/images/defective.jpg",
+    "topic": "Technology & Communication"
   },
   {
     "word": "delegate",
@@ -3819,7 +4112,8 @@ const vocabData = [
       "A manufacturer can [delegate] some or all of its overseas operations to an export house. (=Dịch: Một nhà sản xuất có thể ủy thác một phần hoặc toàn bộ hoạt động ở nước ngoài của mình cho một công ty xuất khẩu.)",
       "He was always overburdened with too many trivial tasks because he found it impossible to [delegate]. (=Dịch: Anh ấy luôn bị quá tải với quá nhiều nhiệm vụ tầm thường vì anh ấy thấy không thể ủy quyền được.)"
     ],
-    "image": "assets/images/delegate.jpg"
+    "image": "assets/images/delegate.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "delete",
@@ -3832,7 +4126,8 @@ const vocabData = [
       "They insisted that all expletives be [deleted] from the article. (=Dịch: Họ khăng khăng rằng tất cả lời tục tĩu phải được xóa khỏi bài báo.)",
       "They have [deleted] a clause in the contract which says the company can make people redundant for economic reasons. (=Dịch: Họ đã xóa một điều khoản trong hợp đồng nói rằng công ty có thể sa thải người vì lý do kinh tế.)"
     ],
-    "image": "assets/images/delete.jpg"
+    "image": "assets/images/delete.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "expertise",
@@ -3845,7 +4140,8 @@ const vocabData = [
       "He is a logical choice given his [expertise] in consumer marketing. (=Dịch: Anh ấy là một lựa chọn hợp lý dựa trên chuyên môn của anh ấy trong lĩnh vực tiếp thị tiêu dùng.)",
       "The problem comes when a manager strays outside his area of [expertise]. (=Dịch: Vấn đề xảy ra khi một người quản lý đi chệch khỏi lĩnh vực chuyên môn của mình.)"
     ],
-    "image": "assets/images/expertise.webp"
+    "image": "assets/images/expertise.webp",
+    "topic": "Business & Office"
   },
   {
     "word": "garbage",
@@ -3858,7 +4154,8 @@ const vocabData = [
       "There's an awful lot of [garbage] on television and radio. (=Dịch: Có rất nhiều [rác] trên truyền hình và đài phát thanh.)",
       "Human waste and [garbage] is polluting main water tanks, which are present in these areas. (=Dịch: Chất thải của con người và rác đang làm ô nhiễm các bể nước chính, có mặt ở những khu vực này.)"
     ],
-    "image": "assets/images/garbage.jpg"
+    "image": "assets/images/garbage.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "graph",
@@ -3871,7 +4168,8 @@ const vocabData = [
       "The [graph] shows quite clearly the impact of the recession on sales figures. (=Dịch: Biểu đồ này cho thấy rõ ràng ảnh hưởng của suy thoái kinh tế lên doanh số bán hàng.)",
       "The data may be visual, ie., images, charts, [graphs], or diagrams or a written description. (=Dịch: Dữ liệu có thể là hình ảnh, tức là, hình ảnh, biểu đồ, đồ thị hoặc sơ đồ hoặc một mô tả bằng văn bản.)"
     ],
-    "image": "assets/images/graph.png"
+    "image": "assets/images/graph.png",
+    "topic": "Law & Government"
   },
   {
     "word": "ice cream",
@@ -3884,7 +4182,8 @@ const vocabData = [
       "The brief dessert menu offers [ice cream] and pancake as well as baklava and kadaif. (=Dịch: Thực đơn tráng miệng ngắn gọn có kem và bánh kếp cũng như baklava và kadaif.)",
       "You could make your own sponge cake for this simple [ice cream] dessert. (=Dịch: Bạn có thể làm bánh bông lan của riêng mình cho món tráng miệng kem đơn giản này.)"
     ],
-    "image": "assets/images/icecream.jpg"
+    "image": "assets/images/icecream.jpg",
+    "topic": "Food & Restaurant"
   },
   {
     "word": "illogical",
@@ -3897,7 +4196,8 @@ const vocabData = [
       "That recommendation could not be dismissed, and was not attacked, as unreasonable or [illogical]. (=Dịch: Khuyến nghị đó không thể bị bác bỏ, và không bị tấn công, vì không hợp lý hoặc phi lý.)",
       "The problem with this approach is that it is [illogical], placing the blame in the wrong place. (=Dịch: Vấn đề với cách tiếp cận này là nó [phi logic], đổ lỗi không đúng chỗ.)"
     ],
-    "image": "assets/images/illogical.png"
+    "image": "assets/images/illogical.png",
+    "topic": "General/Others"
   },
   {
     "word": "inspector",
@@ -3910,7 +4210,8 @@ const vocabData = [
       "He reached the rank of [inspector]. (=Dịch: Anh ấy đã đạt được cấp bậc thanh tra.)",
       "The mill was finally shut down by state safety [inspectors]. (=Dịch: Nhà máy cuối cùng đã bị đóng cửa bởi các thanh tra an toàn của bang.)"
     ],
-    "image": "assets/images/inspector.jpg"
+    "image": "assets/images/inspector.jpg",
+    "topic": "Law & Government"
   },
   {
     "word": "intern",
@@ -3923,7 +4224,8 @@ const vocabData = [
       "He began work at the White House as an unpaid [intern]. (=Dịch: Anh ấy bắt đầu công việc tại Nhà Trắng như một thực tập sinh không lương.)",
       "She hired an [intern] when she had too much work to handle herself. (=Dịch: Cô ấy thuê một thực tập sinh khi cô ấy có quá nhiều việc không thể tự mình xử lý.)"
     ],
-    "image": "assets/images/intern.jpg"
+    "image": "assets/images/intern.jpg",
+    "topic": "Job & Career"
   },
   {
     "word": "ladder",
@@ -3936,7 +4238,8 @@ const vocabData = [
       "I was standing lower down the [ladder]. (=Dịch: Tôi đang đứng thấp hơn trên thang.)",
       "Several of the [ladder]'s rungs were broken. (=Dịch: Nhiều bậc thang đã bị gãy.)"
     ],
-    "image": "assets/images/ladder.jpg"
+    "image": "assets/images/ladder.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "leak",
@@ -3949,7 +4252,8 @@ const vocabData = [
       "Oil [leaked] out of the car. (=Dịch: Dầu rò rỉ ra khỏi xe.)",
       "The car [leaked] oil all over the drive. (=Dịch: Xe rò rỉ dầu khắp đường lái.)"
     ],
-    "image": "assets/images/leak.jpg"
+    "image": "assets/images/leak.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "minimize",
@@ -3962,7 +4266,8 @@ const vocabData = [
       "[Minimize] any windows you have open. (=Dịch: Hãy thu nhỏ bất kỳ cửa sổ nào bạn đang mở.)",
       "We must [minimize] the risk of infection. (=Dịch: Chúng ta phải giảm thiểu nguy cơ nhiễm trùng.)"
     ],
-    "image": "assets/images/minimize.jpg"
+    "image": "assets/images/minimize.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "occupancy",
@@ -3975,7 +4280,8 @@ const vocabData = [
       "Hotel [occupancy] rates dropped dramatically when war threatened. (=Dịch: Tỷ lệ chiếm dụng khách sạn giảm mạnh khi chiến tranh đe dọa.)",
       "Tour operators report low [occupancy] rates.  (=Dịch: Các nhà điều hành tour báo cáo tỷ lệ chiếm dụng thấp.)"
     ],
-    "image": "assets/images/occupancy.jpg"
+    "image": "assets/images/occupancy.jpg",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "omit",
@@ -3988,7 +4294,8 @@ const vocabData = [
       "Some important details were deliberately [omitted] from the report. (=Dịch: Một số chi tiết quan trọng đã bị cố ý bỏ qua trong báo cáo.)",
       "His new girlfriend had [omitted] to tell him she was married.  (=Dịch: Người bạn gái mới của anh ấy đã bỏ qua việc nói với anh ấy rằng cô ấy đã kết hôn.)"
     ],
-    "image": "assets/images/omit.jpg"
+    "image": "assets/images/omit.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "optional",
@@ -4001,7 +4308,8 @@ const vocabData = [
       "This model comes with a number of [optional] extras (= things you can choose to have but which you will have to pay extra for). (=Dịch: Mẫu này đi kèm với một số phụ kiện tùy chọn (= những thứ bạn có thể chọn nhưng phải trả thêm tiền).)",
       "These features can be offered as an [optional] part of the package. (=Dịch: Những tính năng này có thể được cung cấp như một phần tùy chọn của gói.)"
     ],
-    "image": "assets/images/optional.jpg"
+    "image": "assets/images/optional.jpg",
+    "topic": "Education & Learning"
   },
   {
     "word": "paycheck",
@@ -4014,7 +4322,8 @@ const vocabData = [
       "He says his expenses are rising faster than his [paycheck].  (=Dịch: Anh ấy nói rằng chi phí của anh ấy đang tăng nhanh hơn so với tiền lương.)",
       "The cost of housing, food and laundry was deducted from employee [paychecks]. (=Dịch: Chi phí nhà ở, thực phẩm và giặt giũ đã được trừ vào tiền lương của nhân viên.)"
     ],
-    "image": "assets/images/paycheck.jpg"
+    "image": "assets/images/paycheck.jpg",
+    "topic": "Food & Restaurant"
   },
   {
     "word": "pet",
@@ -4027,7 +4336,8 @@ const vocabData = [
       "Keeping pigs as [pets] has become extremely popular. (=Dịch: Nuôi lợn làm thú cưng đã trở nên cực kỳ phổ biến.)",
       "The apartment we live in doesn't allow [pets] of any kind. (=Dịch: Căn hộ chúng tôi sống không cho phép nuôi bất kỳ loại thú cưng nào.)"
     ],
-    "image": "assets/images/pet.jpg"
+    "image": "assets/images/pet.jpg",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "photography",
@@ -4040,7 +4350,8 @@ const vocabData = [
       "an exceptional online source for fine-art [photography] (=Dịch: một nguồn tài nguyên trực tuyến tuyệt vời cho nhiếp ảnh nghệ thuật)",
       "It's a bit of trick [photography] - she's meant to look like she's walking on water. (=Dịch: Đó là một chút kỹ thuật chụp ảnh - cô ấy được thiết kế để trông giống như đang đi trên mặt nước.)"
     ],
-    "image": "assets/images/photography.jpg"
+    "image": "assets/images/photography.jpg",
+    "topic": "Art & Entertainment"
   },
   {
     "word": "polite",
@@ -4053,7 +4364,8 @@ const vocabData = [
       "She sent me a [polite] letter thanking me for my invitation. (=Dịch: Cô ấy đã gửi cho tôi một lá thư lịch sự cảm ơn tôi đã mời.)",
       "He was too [polite] to point out my mistake. (=Dịch: Anh ấy quá lịch sự để chỉ ra lỗi của tôi.)"
     ],
-    "image": "assets/images/polite.jpg"
+    "image": "assets/images/polite.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "proficiency",
@@ -4066,7 +4378,8 @@ const vocabData = [
       "Photographs entered in the contest will be judged on originality and technical [proficiency]. (=Dịch: Các bức ảnh tham gia cuộc thi sẽ được đánh giá dựa trên sự sáng tạo và khả năng kỹ thuật.)",
       "Some providers recommended strategies for students with limited English [proficiency]. (=Dịch: Một số nhà cung cấp đã đề xuất các chiến lược cho học sinh có khả năng tiếng Anh hạn chế.)"
     ],
-    "image": "assets/images/proficiency.jpg"
+    "image": "assets/images/proficiency.jpg",
+    "topic": "Education & Learning"
   },
   {
     "word": "protective",
@@ -4079,7 +4392,8 @@ const vocabData = [
       "The [protective] covering must be insensitive to light and heat. (=Dịch: Lớp phủ bảo vệ phải không nhạy cảm với ánh sáng và nhiệt.)",
       "The anti-personnel mines were laid as a [protective] shield around the town. (=Dịch: Mìn sát thương được đặt như một lá chắn bảo vệ xung quanh thị trấn.)"
     ],
-    "image": "assets/images/protective.jpg"
+    "image": "assets/images/protective.jpg",
+    "topic": "Job & Career"
   },
   {
     "word": "renewal",
@@ -4092,7 +4406,8 @@ const vocabData = [
       "The talks are intended to pave the way to a [renewal] of peace negotiations. (=Dịch: Các cuộc đàm phán nhằm mở đường cho việc tái khởi động các cuộc đàm phán hòa bình.)",
       "It gave him the go-ahead for a [renewal] of their earlier pursuits. (=Dịch: Nó đã cho anh ấy sự đồng ý để tiếp tục theo đuổi những điều họ đã làm trước đây.)"
     ],
-    "image": "assets/images/renewal.jpg"
+    "image": "assets/images/renewal.jpg",
+    "topic": "Technology & Communication"
   },
   {
     "word": "salesperson",
@@ -4105,7 +4420,8 @@ const vocabData = [
       "The supervisor's role is to make sure that every [salesperson] makes a given number of calls every day. (=Dịch: Vai trò của người giám sát là đảm bảo rằng mỗi nhân viên bán hàng thực hiện một số cuộc gọi nhất định mỗi ngày.)",
       "a good/talented/experienced [salesperson] (=Dịch: một nhân viên bán hàng giỏi/tài năng/có kinh nghiệm)"
     ],
-    "image": "assets/images/salesperson.jpg"
+    "image": "assets/images/salesperson.jpg",
+    "topic": "Shopping & Commerce"
   },
   {
     "word": "sculpture",
@@ -4118,7 +4434,8 @@ const vocabData = [
       "For many years the [sculptures] was incorrectly thought to be by Donatello. (=Dịch: Trong nhiều năm, những bức tượng được cho là của Donatello một cách không chính xác.)",
       "The museum has been heavily criticized over its acquisition of the four-million-dollar [sculpture]. (=Dịch: Bảo tàng đã bị chỉ trích nặng nề về việc mua tượng trị giá bốn triệu đô la.)"
     ],
-    "image": "assets/images/sculpture.jpg"
+    "image": "assets/images/sculpture.jpg",
+    "topic": "Science & Nature"
   },
   {
     "word": "seller",
@@ -4131,7 +4448,8 @@ const vocabData = [
       "They're the UK's largest [seller] of software. (=Dịch: Họ là người bán phần mềm lớn nhất ở Vương quốc Anh.)",
       "It was a hot sunny day and the ice cream [sellers] were out in force in the park. (=Dịch: Đó là một ngày nắng nóng và những người bán kem đã có mặt đông đủ trong công viên.)"
     ],
-    "image": "assets/images/seller.jpg"
+    "image": "assets/images/seller.jpg",
+    "topic": "Shopping & Commerce"
   },
   {
     "word": "semester",
@@ -4144,7 +4462,8 @@ const vocabData = [
       "I was finishing my last [semester] in college and trying to look for a job. (=Dịch: Tôi đang hoàn thành học kỳ cuối cùng ở trường đại học và cố gắng tìm một công việc.)",
       "The new [semester] started on February 3. (=Dịch: Học kỳ mới bắt đầu vào ngày 3 tháng 2.)"
     ],
-    "image": "assets/images/semester.jpg"
+    "image": "assets/images/semester.jpg",
+    "topic": "Education & Learning"
   },
   {
     "word": "sidewalk",
@@ -4157,7 +4476,8 @@ const vocabData = [
       "He used to sit on the cold [sidewalk] asking for money from passing shoppers. (=Dịch: Anh ấy thường ngồi trên vỉa hè lạnh lẽo xin tiền từ những người mua sắm đi qua.)",
       "The children were playing on the [sidewalk] in front of their home. (=Dịch: Những đứa trẻ đang chơi trên vỉa hè trước nhà của chúng.)"
     ],
-    "image": "assets/images/sidewalk.jpg"
+    "image": "assets/images/sidewalk.jpg",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "sightsee",
@@ -4170,7 +4490,8 @@ const vocabData = [
       "I was in Malasyia for work and didn't have much time to [sightsee]. (=Dịch: Tôi đến Malaysia vì công việc và không có nhiều thời gian để tham quan.)",
       "Friends warned him not to [sightsee] in downtown areas. (=Dịch: Bạn bè đã cảnh báo anh ấy không nên tham quan ở những khu vực trung tâm.)"
     ],
-    "image": "assets/images/sightsee.jpg"
+    "image": "assets/images/sightsee.jpg",
+    "topic": "Job & Career"
   },
   {
     "word": "soup",
@@ -4183,7 +4504,8 @@ const vocabData = [
       "You'll feel better once you've got some hot [soup] down you. (=Dịch: Bạn sẽ cảm thấy tốt hơn khi đã uống một ít súp nóng.)",
       "Empty the [soup] into a saucepan and simmer gently for ten minutes. (=Dịch: Đổ súp vào nồi và đun sôi nhẹ nhàng trong mười phút.)"
     ],
-    "image": "assets/images/soup.jpg"
+    "image": "assets/images/soup.jpg",
+    "topic": "Food & Restaurant"
   },
   {
     "word": "spite",
@@ -4196,7 +4518,8 @@ const vocabData = [
       "She killed her boss's dog out of pure [spite]. (=Dịch: Cô ấy giết con chó của sếp chỉ vì ác ý.)",
       "He vented his [spite] on his grandfather. (=Dịch: Anh ấy trút giận lên ông nội của mình.)"
     ],
-    "image": "assets/images/spite.jpg"
+    "image": "assets/images/spite.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "stack",
@@ -4209,7 +4532,8 @@ const vocabData = [
       "There was a towering [stack] of containers ready to be loaded onto the ship. (=Dịch: Có một chồng container cao ngất sẵn sàng được chất lên tàu.)",
       "She brought us a [stack] of pancakes covered with syrup. (=Dịch: Cô ấy mang đến cho chúng tôi một chồng bánh kếp phủ đầy siro.)"
     ],
-    "image": "assets/images/stack.jpg"
+    "image": "assets/images/stack.jpg",
+    "topic": "Art & Entertainment"
   },
   {
     "word": "taker",
@@ -4222,7 +4546,8 @@ const vocabData = [
       "Are there any [takers] for my home-made ice cream? (=Dịch: Có ai muốn thử kem tự làm của tôi không?)",
       "There have been few [takers] for stakes in Mexico's newly privatised companies. (=Dịch: Có rất ít người muốn mua cổ phần trong các công ty mới tư nhân hóa của Mexico.)"
     ],
-    "image": "assets/images/taker.jpg"
+    "image": "assets/images/taker.jpg",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "textbook",
@@ -4235,7 +4560,8 @@ const vocabData = [
       "Do you have the standard [textbook] on the subject? (=Dịch: Bạn có cuốn sách giáo khoa tiêu chuẩn về chủ đề này không?)",
       "I would not recommend it as a classroom [textbook]. (=Dịch: Tôi sẽ không khuyến nghị nó như một cuốn sách giáo khoa trong lớp học.)"
     ],
-    "image": "assets/images/textbook.jpg"
+    "image": "assets/images/textbook.jpg",
+    "topic": "Education & Learning"
   },
   {
     "word": "transit",
@@ -4248,7 +4574,8 @@ const vocabData = [
       "Further threats have been made to disrupt the [transit] of Russian gas to Europe. (=Dịch: Đã có thêm những lời đe dọa nhằm làm gián đoạn việc vận chuyển khí đốt của Nga đến châu Âu.)",
       "Some of the equipment was damaged in [transit]. (=Dịch: Một số thiết bị đã bị hỏng trong quá trình vận chuyển.)"
     ],
-    "image": "assets/images/transit.jpg"
+    "image": "assets/images/transit.jpg",
+    "topic": "Technology & Communication"
   },
   {
     "word": "urgent",
@@ -4261,7 +4588,8 @@ const vocabData = [
       "The law is in [urgent] need of reform. (=Dịch: Luật pháp đang cần được cải cách khẩn cấp.)",
       "They've called an [urgent] meeting for this evening. (=Dịch: Họ đã triệu tập một cuộc họp khẩn cấp cho tối nay.)"
     ],
-    "image": "assets/images/urgent.jpg"
+    "image": "assets/images/urgent.jpg",
+    "topic": "Law & Government"
   },
   {
     "word": "utility",
@@ -4274,7 +4602,8 @@ const vocabData = [
       "Under such conditions, a common medium of exchange would have no [utility] at all. (=Dịch: Dưới những điều kiện như vậy, một phương tiện trao đổi chung sẽ không có ích gì cả.)",
       "The product became popular thanks to its high [utility] in many different situations. (=Dịch: Sản phẩm này trở nên phổ biến nhờ vào sự hữu ích cao trong nhiều tình huống khác nhau.)"
     ],
-    "image": "assets/images/utility.jpg"
+    "image": "assets/images/utility.jpg",
+    "topic": "Shopping & Commerce"
   },
   {
     "word": "voucher",
@@ -4287,7 +4616,8 @@ const vocabData = [
       "Just present your travel [voucher] to the airline ticket agent, and she will give you the tickets. (=Dịch: Chỉ cần trình phiếu du lịch của bạn cho nhân viên bán vé máy bay, và cô ấy sẽ đưa cho bạn vé.)",
       "The company will pay most of the settlement in shares and discount [vouchers]. (=Dịch: Công ty sẽ thanh toán phần lớn số tiền bồi thường bằng cổ phiếu và phiếu giảm giá.)"
     ],
-    "image": "assets/images/voucher.jpg"
+    "image": "assets/images/voucher.jpg",
+    "topic": "Shopping & Commerce"
   },
   {
     "word": "administrator",
@@ -4300,7 +4630,8 @@ const vocabData = [
       "Our new [administrator] seems to be trying to stamp her authority on every aspect of the department (=Dịch: Quản trị viên mới của chúng tôi dường như đang cố gắng khẳng định quyền lực của mình trong mọi khía cạnh của bộ phận)",
       "A new [administrator] has taken over at the park, and more stringent business practices are in place (=Dịch: Một quản trị viên mới đã tiếp quản công viên, và các quy định kinh doanh nghiêm ngặt hơn đã được thực hiện)"
     ],
-    "image": "assets/images/administrator.jpeg"
+    "image": "assets/images/administrator.jpeg",
+    "topic": "Business & Office"
   },
   {
     "word": "auto",
@@ -4313,7 +4644,8 @@ const vocabData = [
       "Making use of the internet for getting the best suited [auto] insurance is not a demanding task. (=Dịch: Sử dụng internet để tìm bảo hiểm ô tô phù hợp nhất không phải là một nhiệm vụ khó khăn.)",
       "It is not unreasonable to expect the slowdown in car sales to affect [auto] parts companies too. (=Dịch: Không phải là vô lý khi mong đợi sự suy giảm trong doanh số bán xe sẽ ảnh hưởng đến các công ty phụ tùng ô tô nữa.)"
     ],
-    "image": "assets/images/auto.jpg"
+    "image": "assets/images/auto.jpg",
+    "topic": "Shopping & Commerce"
   },
   {
     "word": "bench",
@@ -4326,7 +4658,8 @@ const vocabData = [
       "They finally took a seat on a stone [bench] located near one tiny pond within the back garden. (=Dịch: Cuối cùng họ đã ngồi xuống một băng ghế đá nằm gần một cái ao nhỏ trong khu vườn sau nhà.)",
       "The second-class had wooden seats like park [benches] and that was it. (=Dịch: Hạng hai có ghế gỗ giống như băng ghế công viên và chỉ vậy thôi.)"
     ],
-    "image": "assets/images/bench.jpg"
+    "image": "assets/images/bench.jpg",
+    "topic": "Education & Learning"
   },
   {
     "word": "booklet",
@@ -4339,7 +4672,8 @@ const vocabData = [
       "The ministry also said it has compiled an information [booklet] to distribute to farmers. (=Dịch: Bộ cũng cho biết họ đã biên soạn một cuốn sách thông tin để phân phát cho nông dân.)",
       "A series of [booklets] on using the internet to source information are available free in the library. (=Dịch: Một loạt các cuốn sách về cách sử dụng internet để tìm nguồn thông tin có sẵn miễn phí trong thư viện.)"
     ],
-    "image": "assets/images/booklet.jpg"
+    "image": "assets/images/booklet.jpg",
+    "topic": "Education & Learning"
   },
   {
     "word": "born",
@@ -4352,7 +4686,8 @@ const vocabData = [
       "Furthermore, the total number of babies [born] to teenagers is fairly small. (=Dịch: Hơn nữa, tổng số trẻ sơ sinh của thanh thiếu niên là khá nhỏ.)",
       "A few years ago a beautiful little baby girl was [born] to a couple living together (=Dịch: Vài năm trước, một bé gái nhỏ xinh đẹp đã được sinh ra cho một cặp vợ chồng sống cùng nhau.)"
     ],
-    "image": "assets/images/born.jpg"
+    "image": "assets/images/born.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "broker",
@@ -4365,7 +4700,8 @@ const vocabData = [
       "In only 9 per cent of cases did US [brokers] advise investors to sell shares. (=Dịch: Chỉ trong 9 phần trăm trường hợp, các nhà môi giới Mỹ mới khuyên nhà đầu tư bán cổ phiếu.)",
       "The change, in effect, would force discount [brokers] to sell more services and thus, charge more. (=Dịch: Thay đổi này, trên thực tế, sẽ buộc các nhà môi giới giảm giá bán thêm nhiều dịch vụ và do đó tính phí nhiều hơn.)"
     ],
-    "image": "assets/images/broker.jpg"
+    "image": "assets/images/broker.jpg",
+    "topic": "Shopping & Commerce"
   },
   {
     "word": "cancellation",
@@ -4378,7 +4714,8 @@ const vocabData = [
       "Please call and inform us as soon as possible if you need to make a [cancellation]. (=Dịch: Vui lòng gọi và thông báo cho chúng tôi sớm nhất có thể nếu bạn cần hủy bỏ.)",
       "The company anticipates that [cancellations] and rescheduling of existing orders will adversely impact its business. (=Dịch: Công ty dự đoán rằng việc hủy bỏ và sắp xếp lại các đơn hàng hiện tại sẽ ảnh hưởng xấu đến hoạt động kinh doanh của mình.)"
     ],
-    "image": "assets/images/cancellation.png"
+    "image": "assets/images/cancellation.png",
+    "topic": "Business & Office"
   },
   {
     "word": "cashier",
@@ -4391,7 +4728,8 @@ const vocabData = [
       "She was once dismissed from her job as head [cashier] with a supermarket chain on suspicion of embezzlement. (=Dịch: Cô ấy đã từng bị sa thải khỏi công việc là thu ngân trưởng tại một chuỗi siêu thị vì nghi ngờ tham ô.)",
       "Bank [cashiers] have been known to key in the wrong amount by mistake. (=Dịch: Các thu ngân ngân hàng đã được biết là nhập sai số tiền do nhầm lẫn.)"
     ],
-    "image": "assets/images/cashier.jpg"
+    "image": "assets/images/cashier.jpg",
+    "topic": "Shopping & Commerce"
   },
   {
     "word": "casual",
@@ -4404,7 +4742,8 @@ const vocabData = [
       "Many worked in low-paying temporary and [casual] jobs with extended hours. (=Dịch: Nhiều người làm việc trong các công việc tạm thời và thời vụ có lương thấp với giờ làm kéo dài.)",
       "The loss of a part-time job or a [casual] job can, to that person, be just as important as the loss of a full-time job. (=Dịch: Mất đi một công việc bán thời gian hoặc thời vụ có thể, đối với người đó, quan trọng như mất một công việc toàn thời gian.)"
     ],
-    "image": "assets/images/casual.jpg"
+    "image": "assets/images/casual.jpg",
+    "topic": "Job & Career"
   },
   {
     "word": "conditioner",
@@ -4417,7 +4756,8 @@ const vocabData = [
       "Maintain your new look with color-preserving shampoos and [conditioners]. (=Dịch: Duy trì phong cách mới của bạn với dầu gội và dầu xả bảo vệ màu sắc.)",
       "Whether your hair is dry or greasy, the following shampoos and [conditioners] will tame that mane of yours for good. (=Dịch: Dù tóc bạn khô hay nhờn, những loại dầu gội và dầu xả sau sẽ giúp bạn điều chỉnh tóc của mình lâu dài.)"
     ],
-    "image": "assets/images/conditioner.jpg"
+    "image": "assets/images/conditioner.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "confidential",
@@ -4430,7 +4770,8 @@ const vocabData = [
       "The bill would allow a business to keep its dealings [confidential]. (=Dịch: Dự luật sẽ cho phép một doanh nghiệp giữ bí mật các giao dịch của mình.)",
       "The company's former employees had made improper use of highly [confidential] information, such as names and addresses of customers. (=Dịch: Các nhân viên cũ của công ty đã sử dụng không đúng mục đích thông tin tuyệt mật, chẳng hạn như tên và địa chỉ của khách hàng.)"
     ],
-    "image": "assets/images/confidential.jpg"
+    "image": "assets/images/confidential.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "cumulative",
@@ -4443,7 +4784,8 @@ const vocabData = [
       "The company estimated the net [cumulative] loss would be $26 million. (=Dịch: Công ty ước tính khoản lỗ ròng tích luỹ sẽ là 26 triệu đô la.)",
       "I've long believed that the [cumulative] wisdom of investors can tell us volumes about the future economic environment. (=Dịch: Tôi đã tin từ lâu rằng trí tuệ tích lũy của các nhà đầu tư có thể nói với chúng ta rất nhiều về môi trường kinh tế tương lai.)"
     ],
-    "image": "assets/images/cumulative.png"
+    "image": "assets/images/cumulative.png",
+    "topic": "Business & Office"
   },
   {
     "word": "decorate",
@@ -4456,7 +4798,8 @@ const vocabData = [
       "The Hilton lobby was [decorated] beautifully with a huge Christmas tree, Santas and a balloon snowman. (=Dịch: Sảnh Hilton được trang trí đẹp mắt với một cây thông Giáng sinh khổng lồ, các ông già Noel và một người tuyết bóng bay.)",
       "The middle room is [decorated] with flowered wallpaper and has a high ceiling. (=Dịch: Phòng giữa được trang trí với giấy dán tường hoa và có trần nhà cao.)"
     ],
-    "image": "assets/images/decorate.jpg"
+    "image": "assets/images/decorate.jpg",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "deduction",
@@ -4469,7 +4812,8 @@ const vocabData = [
       "The interest I receive on my savings account is paid after the [deduction] of tax. (=Dịch: Lãi suất tôi nhận được từ tài khoản tiết kiệm của mình được trả sau khi trừ thuế.)",
       "The married couple's allowance was in the form of a tax [deduction]. (=Dịch: Trợ cấp của cặp vợ chồng đã được tính dưới dạng một khoản khấu trừ thuế.)"
     ],
-    "image": "assets/images/deduction.png"
+    "image": "assets/images/deduction.png",
+    "topic": "Law & Government"
   },
   {
     "word": "definite",
@@ -4482,7 +4826,8 @@ const vocabData = [
       "There are many theories without any [definite] proof. (=Dịch: Có nhiều lý thuyết mà không có bất kỳ bằng chứng chắc chắn nào.)",
       "The economy is too large and complex to draw [definite] conclusions. (=Dịch: Nền kinh tế quá lớn và phức tạp để đưa ra kết luận chắc chắn.)"
     ],
-    "image": "assets/images/definite.jpg"
+    "image": "assets/images/definite.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "directory",
@@ -4495,7 +4840,8 @@ const vocabData = [
       "Many local businesses are listed in the [directory]. (=Dịch: Nhiều doanh nghiệp địa phương được liệt kê trong thư mục.)",
       "The [directory] contains telephone numbers of various companies which have been categorised under different heads. (=Dịch: Thư mục chứa số điện thoại của các công ty khác nhau đã được phân loại dưới các tiêu đề khác nhau.)"
     ],
-    "image": "assets/images/directory.png"
+    "image": "assets/images/directory.png",
+    "topic": "Business & Office"
   },
   {
     "word": "disposal",
@@ -4508,7 +4854,8 @@ const vocabData = [
       "This agency regulates the [disposal] of hazardous substances. (=Dịch: Cơ quan này điều tiết việc xử lý các chất độc hại.)",
       "The manufacturing process is being changed in an effort to reduce waste [disposal] costs. (=Dịch: Quy trình sản xuất đang được thay đổi trong một nỗ lực nhằm giảm chi phí xử lý chất thải.)"
     ],
-    "image": "assets/images/disposal.jpg"
+    "image": "assets/images/disposal.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "drill",
@@ -4521,7 +4868,8 @@ const vocabData = [
       "The report discussed to what extent foreign companies should be allowed to [drill] for oil. (=Dịch: Báo cáo đã thảo luận về mức độ mà các công ty nước ngoài nên được phép khoan dầu.)",
       "A private concrete boring firm was brought in and they [drilled] a hole big enough for the child to crawl out. (=Dịch: Một công ty khoan bê tông tư nhân đã được đưa vào và họ đã khoan một lỗ đủ lớn để đứa trẻ có thể bò ra ngoài.)"
     ],
-    "image": "assets/images/drill.jpg"
+    "image": "assets/images/drill.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "economical",
@@ -4534,7 +4882,8 @@ const vocabData = [
       "There's increasing demand for cars which are more [economical] on fuel. (=Dịch: Nhu cầu về những chiếc xe tiết kiệm nhiên liệu đang tăng lên.)",
       "What's the most [economical] way of heating this building? (=Dịch: Cách tiết kiệm nhất để sưởi ấm tòa nhà này là gì?)"
     ],
-    "image": "assets/images/economical.jpg"
+    "image": "assets/images/economical.jpg",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "efficiently",
@@ -4547,7 +4896,8 @@ const vocabData = [
       "The faster and more powerful your computer and network are, the more [efficiently] the program will run. (=Dịch: Máy tính và mạng của bạn càng nhanh và mạnh, chương trình sẽ chạy càng hiệu quả.)",
       "It is essential to make sure businesses operate [efficiently] to maximize profits (=Dịch: Điều quan trọng là đảm bảo các doanh nghiệp hoạt động hiệu quả để tối đa hóa lợi nhuận.)"
     ],
-    "image": "assets/images/efficiently.jpg"
+    "image": "assets/images/efficiently.jpg",
+    "topic": "Technology & Communication"
   },
   {
     "word": "enroll",
@@ -4560,7 +4910,8 @@ const vocabData = [
       "It is an excellent reference text for students [enrolled] in Independent Study courses. (=Dịch: Đây là một văn bản tham khảo tuyệt vời cho sinh viên ghi danh vào các khóa học Học tập Độc lập.)",
       "Organizers expect that it will take approximately one year to fully [enroll] volunteers into the study. (=Dịch: Các nhà tổ chức mong đợi rằng sẽ mất khoảng một năm để ghi danh hoàn toàn các tình nguyện viên vào nghiên cứu.)"
     ],
-    "image": "assets/images/enroll.jpg"
+    "image": "assets/images/enroll.jpg",
+    "topic": "Education & Learning"
   },
   {
     "word": "flyer",
@@ -4573,7 +4924,8 @@ const vocabData = [
       "The cramped office was completely papered with posters and [flyers] announcing events and protests for everything conceivable. (=Dịch: Văn phòng chật chội đã hoàn toàn dán đầy áp phích và tờ rơi thông báo các sự kiện và cuộc biểu tình cho mọi thứ có thể tưởng tượng được.)",
       "The announcement [flyer] from that event is reprinted in this issue of CNN. (=Dịch: Tờ rơi thông báo từ sự kiện đó được in lại trong số báo này của CNN.)"
     ],
-    "image": "assets/images/flyer.jpg"
+    "image": "assets/images/flyer.jpg",
+    "topic": "Job & Career"
   },
   {
     "word": "fountain",
@@ -4586,7 +4938,8 @@ const vocabData = [
       "There was a picture of the Trevi [fountain] on the front of the book. (=Dịch: Có một bức tranh của đài phun nước Trevi ở mặt trước của cuốn sách.)",
       "According to the plan, the water supply to [fountains], swimming pools or for street cleaning was cut. (=Dịch: Theo kế hoạch, nguồn nước cho các đài phun nước, hồ bơi hoặc làm sạch đường phố đã bị cắt.)"
     ],
-    "image": "assets/images/fountain.jpg"
+    "image": "assets/images/fountain.jpg",
+    "topic": "Shopping & Commerce"
   },
   {
     "word": "franchise",
@@ -4599,7 +4952,8 @@ const vocabData = [
       "The company expanded rapidly during the 1980s by means of [franchises]. (=Dịch: Công ty mở rộng nhanh chóng trong những năm 1980 bằng cách thông qua các nhượng quyền.)",
       "The company won the [franchise] to sell and service the luxury car in the west of Scotland area. (=Dịch: Công ty giành được quyền nhượng quyền để bán và bảo dưỡng xe hơi sang trọng ở khu vực phía tây Scotland.)"
     ],
-    "image": "assets/images/franchise.jpg"
+    "image": "assets/images/franchise.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "frustrate",
@@ -4612,7 +4966,8 @@ const vocabData = [
       "Rain delays are hugely [frustrating] for players and fans alike. (=Dịch: Sự trì hoãn do mưa gây ra sự thất vọng lớn cho cả người chơi và người hâm mộ.)",
       "During my first year on the journal as a staff member, I was [frustrated] by all of the inefficiencies in our processes. (=Dịch: Trong năm đầu tiên làm nhân viên của tạp chí, tôi đã cảm thấy bực mình bởi tất cả những sự không hiệu quả trong quy trình của chúng tôi.)"
     ],
-    "image": "assets/images/frustrate.jpg"
+    "image": "assets/images/frustrate.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "garment",
@@ -4625,7 +4980,8 @@ const vocabData = [
       "A stunning fashion show displayed [garments] styled by famous Thai designers. (=Dịch: Một buổi trình diễn thời trang tuyệt đẹp đã trưng bày các trang phục được thiết kế bởi các nhà thiết kế Thái Lan nổi tiếng.)",
       "Wash your [garment] with care and avoid scrubbing excessively to prevent damaging it. (=Dịch: Giặt trang phục của bạn một cách cẩn thận và tránh chà xát quá mức để ngăn ngừa làm hỏng nó.)"
     ],
-    "image": "assets/images/garment.jpg"
+    "image": "assets/images/garment.jpg",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "generous",
@@ -4638,7 +4994,8 @@ const vocabData = [
       "He thanked in particular the local councillors who were [generous] with their allocations. (=Dịch: Ông đặc biệt cảm ơn các thành viên hội đồng địa phương đã hào phóng với sự phân bổ của họ.)",
       "He is [generous] with his time and money, and a principled and loyal friend. (=Dịch: Ông hào phóng với thời gian và tiền bạc của mình, và là một người bạn trung thành và có nguyên tắc.)"
     ],
-    "image": "assets/images/generous.png"
+    "image": "assets/images/generous.png",
+    "topic": "Education & Learning"
   },
   {
     "word": "housekeeper",
@@ -4651,7 +5008,8 @@ const vocabData = [
       "They rent a fully staffed luxury villa in Mallorca that comes with a butler, chef, [housekeeper], maid and gardener. (=Dịch: Họ thuê một biệt thự sang trọng ở Mallorca với đầy đủ nhân viên bao gồm một quản gia, đầu bếp, người giúp việc gia đình, người hầu phòng và người làm vườn.)",
       "Personal staff costs - for two butlers, a valet, four chefs, eight [housekeepers], eight gardeners and a secretariat - are probably another £1m. (=Dịch: Chi phí nhân viên cá nhân - cho hai quản gia, một người hầu, bốn đầu bếp, tám người giúp việc gia đình, tám người làm vườn và một ban thư ký - có lẽ lên tới thêm £1 triệu bảng.)"
     ],
-    "image": "assets/images/housekeeper.jpg"
+    "image": "assets/images/housekeeper.jpg",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "internship",
@@ -4664,7 +5022,8 @@ const vocabData = [
       "She has accepted an [internship] in a law firm (=Dịch: Cô ấy đã chấp nhận một kỳ thực tập tại một hãng luật)",
       "She had a long [internship] before starting her own recording studio (=Dịch: Cô ấy đã có một kỳ thực tập dài trước khi bắt đầu phòng thu riêng của mình)"
     ],
-    "image": "assets/images/internship.jpg"
+    "image": "assets/images/internship.jpg",
+    "topic": "Job & Career"
   },
   {
     "word": "interrupt",
@@ -4677,7 +5036,8 @@ const vocabData = [
       "We [interrupt] this programme to bring you an important news bulletin. (=Dịch: Chúng tôi gián đoạn chương trình này để đưa đến cho bạn một bản tin quan trọng.)",
       "Transport services were constantly [interrupted] by air raids. (=Dịch: Dịch vụ vận tải liên tục bị gián đoạn bởi các cuộc không kích.)"
     ],
-    "image": "assets/images/interrupt.jpeg"
+    "image": "assets/images/interrupt.jpeg",
+    "topic": "Travel & Transport"
   },
   {
     "word": "juice",
@@ -4690,7 +5050,8 @@ const vocabData = [
       "Add the [juice] of two lemons. (=Dịch: Thêm nước cốt của hai quả chanh.)",
       "Two orange [juices], please. (=Dịch: Làm ơn cho hai ly nước cam.)"
     ],
-    "image": "assets/images/juice.jpg"
+    "image": "assets/images/juice.jpg",
+    "topic": "Science & Nature"
   },
   {
     "word": "knowledgeable",
@@ -4703,7 +5064,8 @@ const vocabData = [
       "Bill was nice enough and seemed extremely [knowledgeable] too. (=Dịch: Bill đủ tốt bụng và có vẻ cũng rất hiểu biết.)",
       "She's very [knowledgeable] about all kinds of music. (=Dịch: Cô ấy rất am hiểu về tất cả các loại nhạc.)"
     ],
-    "image": "assets/images/knowledgeable.jpg"
+    "image": "assets/images/knowledgeable.jpg",
+    "topic": "Art & Entertainment"
   },
   {
     "word": "lane",
@@ -4716,7 +5078,8 @@ const vocabData = [
       "We cycled for miles along winding country [lanes]. (=Dịch: Chúng tôi đạp xe hàng dặm theo những con đường nông thôn quanh co.)",
       "Outside the village we turned into a leafy [lane] leading to a farm. (=Dịch: Ra khỏi làng, chúng tôi rẽ vào con đường rợp bóng cây dẫn đến một trang trại.)"
     ],
-    "image": "assets/images/lane.jpg"
+    "image": "assets/images/lane.jpg",
+    "topic": "Science & Nature"
   },
   {
     "word": "organizer",
@@ -4729,7 +5092,8 @@ const vocabData = [
       "Community [organizers] help to get people out to vote on election day. (=Dịch: Các nhà tổ chức cộng đồng giúp vận động mọi người đi bỏ phiếu vào ngày bầu cử.)",
       "The race [organizers] hope to raise money for charity. (=Dịch: Những người tổ chức cuộc đua hy vọng gây quỹ cho từ thiện.)"
     ],
-    "image": "assets/images/organizer.jpg"
+    "image": "assets/images/organizer.jpg",
+    "topic": "Law & Government"
   },
   {
     "word": "orientation",
@@ -4742,7 +5106,8 @@ const vocabData = [
       "Companies have been forced into a greater [orientation] to the market. (=Dịch: Các công ty đã bị buộc phải tập trung nhiều hơn vào thị trường.)",
       "People over 55 tended to have a strong leisure [orientation]. (=Dịch: Những người trên 55 tuổi có xu hướng có định hướng giải trí mạnh mẽ.)"
     ],
-    "image": "assets/images/orientation.png"
+    "image": "assets/images/orientation.png",
+    "topic": "Education & Learning"
   },
   {
     "word": "outlet",
@@ -4755,7 +5120,8 @@ const vocabData = [
       "Here you'll find factory [outlets] that sell to the public directly. (=Dịch: Ở đây, bạn sẽ tìm thấy các cửa hàng nhà máy bán trực tiếp cho công chúng.)",
       "The company has more than 1200 retail [outlets] nationwide. (=Dịch: Công ty có hơn 1200 cửa hàng bán lẻ trên toàn quốc.)"
     ],
-    "image": "assets/images/outlet.jpg"
+    "image": "assets/images/outlet.jpg",
+    "topic": "Shopping & Commerce"
   },
   {
     "word": "oven",
@@ -4768,7 +5134,8 @@ const vocabData = [
       "Bake in a preheated [oven] for 15–20 minutes. (=Dịch: Nướng trong lò đã được làm nóng trước trong 15–20 phút.)",
       "Roast the turkey in a 325° [oven] for four hours. (=Dịch: Nướng gà tây trong lò ở nhiệt độ 325° trong bốn giờ.)"
     ],
-    "image": "assets/images/oven.jpg"
+    "image": "assets/images/oven.jpg",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "overdue",
@@ -4781,7 +5148,8 @@ const vocabData = [
       "The rent is now [overdue]. (=Dịch: Tiền thuê hiện đã quá hạn.)",
       "2% interest will be charged on [overdue] payments. (=Dịch: Lãi suất 2% sẽ được tính trên các khoản thanh toán quá hạn.)"
     ],
-    "image": "assets/images/overdue.jpg"
+    "image": "assets/images/overdue.jpg",
+    "topic": "Job & Career"
   },
   {
     "word": "packet",
@@ -4794,7 +5162,8 @@ const vocabData = [
       "A [packet] of photographs arrived with the mail. (=Dịch: Một gói ảnh đã đến cùng với thư.)",
       "a [packet] of instant cocoa mix (=Dịch: một gói pha ca cao ăn liền)"
     ],
-    "image": "assets/images/packet.png"
+    "image": "assets/images/packet.png",
+    "topic": "Food & Restaurant"
   },
   {
     "word": "pant",
@@ -4807,7 +5176,8 @@ const vocabData = [
       "She could hear him [panting] up the stairs (= running up and breathing quickly). (=Dịch: Cô ấy có thể nghe thấy anh ta thở hổn hển khi chạy lên cầu thang.)",
       "He found her [panting] for breath at the top of the hill. (=Dịch: Anh ấy thấy cô ấy thở hổn hển khi lên tới đỉnh đồi.)"
     ],
-    "image": "assets/images/pant.jpg"
+    "image": "assets/images/pant.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "plumber",
@@ -4820,7 +5190,8 @@ const vocabData = [
       "The [plumber] is coming tomorrow to install the new washing machine. (=Dịch: Người thợ sửa ống nước sẽ đến vào ngày mai để lắp đặt máy giặt mới.)",
       "The [plumber] came to mend the burst pipe. (=Dịch: Thợ sửa ống nước đã đến để sửa chữa đường ống bị vỡ.)"
     ],
-    "image": ""
+    "image": "",
+    "topic": "Technology & Communication"
   },
   {
     "word": "popularity",
@@ -4833,7 +5204,8 @@ const vocabData = [
       "The band has enjoyed an unstoppable rise in [popularity]. (=Dịch: Ban nhạc đã đạt được sự nổi tiếng không thể ngăn cản.)",
       "By the late 70s the group's [popularity] was beginning to wane. (=Dịch: Đến cuối những năm 70, sự nổi tiếng của nhóm bắt đầu suy giảm.)"
     ],
-    "image": "assets/images/popularity.jpg"
+    "image": "assets/images/popularity.jpg",
+    "topic": "Art & Entertainment"
   },
   {
     "word": "poster",
@@ -4846,7 +5218,8 @@ const vocabData = [
       "We noticed a [poster] advertising a circus. (=Dịch: Chúng tôi nhận thấy một tấm áp phích quảng cáo một rạp xiếc.)",
       "She had done little to personalize her room, except hang a few [posters] on the walls. (=Dịch: Cô ấy đã làm rất ít để cá nhân hóa phòng của mình, ngoại trừ việc treo vài tấm áp phích lên tường.)"
     ],
-    "image": "assets/images/poster.jpg"
+    "image": "assets/images/poster.jpg",
+    "topic": "Education & Learning"
   },
   {
     "word": "prediction",
@@ -4859,7 +5232,8 @@ const vocabData = [
       "This environmental report contains more dark [predictions] about the future of the earth. (=Dịch: Báo cáo môi trường này chứa nhiều dự đoán ảm đạm về tương lai của trái đất.)",
       "Their [predictions] were hopelessly out of line with the actual results. (=Dịch: Những dự đoán của họ hoàn toàn không khớp với kết quả thực tế.)"
     ],
-    "image": "assets/images/prediction.png"
+    "image": "assets/images/prediction.png",
+    "topic": "Science & Nature"
   },
   {
     "word": "profitable",
@@ -4872,7 +5246,8 @@ const vocabData = [
       "What can be done to keep the business [profitable]? (=Dịch: Có thể làm gì để giữ cho doanh nghiệp có lợi nhuận?)",
       "Over the years it has developed into a highly [profitable] business. (=Dịch: Qua nhiều năm, nó đã phát triển thành một doanh nghiệp có lợi nhuận cao.)"
     ],
-    "image": "assets/images/profitable.png"
+    "image": "assets/images/profitable.png",
+    "topic": "Business & Office"
   },
   {
     "word": "promptly",
@@ -4885,7 +5260,8 @@ const vocabData = [
       "We try to answer readers' letters as [promptly] (= quickly) as we can. (=Dịch: Chúng tôi cố gắng trả lời thư của độc giả nhanh nhất có thể.)",
       "She promised she'd keep it secret and [promptly] (= immediately after) went and told Dad! (=Dịch: Cô ấy hứa sẽ giữ bí mật và ngay lập tức đi nói với bố!)"
     ],
-    "image": "assets/images/promptly.jpg"
+    "image": "assets/images/promptly.jpg",
+    "topic": "Travel & Transport"
   },
   {
     "word": "refrigerator",
@@ -4898,7 +5274,8 @@ const vocabData = [
       "I opened the [refrigerator] to take out some orange juice. (=Dịch: Tôi mở tủ lạnh để lấy ít nước cam.)",
       "I stocked the [refrigerator] with fruit. (=Dịch: Tôi đã dự trữ tủ lạnh bằng trái cây.)"
     ],
-    "image": "assets/images/refrigerator.png"
+    "image": "assets/images/refrigerator.png",
+    "topic": "Food & Restaurant"
   },
   {
     "word": "reimburse",
@@ -4911,7 +5288,8 @@ const vocabData = [
       "She was [reimbursed] by the gas company for the damage to her house. (=Dịch: Công ty gas đã hoàn trả cho cô ấy thiệt hại đối với nhà của cô ấy.)",
       "Your employer should [reimburse] you for any expenses incurred. (=Dịch: Nhà tuyển dụng của bạn nên hoàn trả cho bạn bất kỳ chi phí nào đã phát sinh.)"
     ],
-    "image": "assets/images/reimburse.jpg"
+    "image": "assets/images/reimburse.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "retailer",
@@ -4924,7 +5302,8 @@ const vocabData = [
       "The company is a [retailer] of office equipment and furniture. (=Dịch: Công ty là một nhà bán lẻ thiết bị và nội thất văn phòng.)",
       "The food [retailer] is seeking to expand its business into clothes and electronics. (=Dịch: Nhà bán lẻ thực phẩm đang tìm cách mở rộng kinh doanh của mình sang quần áo và điện tử.)"
     ],
-    "image": "assets/images/retailer.jpeg"
+    "image": "assets/images/retailer.jpeg",
+    "topic": "Shopping & Commerce"
   },
   {
     "word": "showroom",
@@ -4937,7 +5316,8 @@ const vocabData = [
       "By the end of the decade these cars could be on the [showroom] floor. (=Dịch: Đến cuối thập kỷ, những chiếc xe này có thể sẽ có mặt trên sàn trưng bày.)",
       "He managed to find a second-hand Ferrari in [showroom] condition. (=Dịch: Anh ấy đã tìm được một chiếc Ferrari cũ nhưng vẫn trong tình trạng như mới tại phòng trưng bày.)"
     ],
-    "image": "assets/images/showroom.jpg"
+    "image": "assets/images/showroom.jpg",
+    "topic": "Shopping & Commerce"
   },
   {
     "word": "specification",
@@ -4950,7 +5330,8 @@ const vocabData = [
       "A [specification] has been drawn up for the new military aircraft. (=Dịch: Một bản thông số kỹ thuật đã được soạn thảo cho máy bay quân sự mới.)",
       "The cars have been built to a high [specification] (= a high standard). (=Dịch: Những chiếc xe đã được chế tạo theo các thông số kỹ thuật cao (= tiêu chuẩn cao).)"
     ],
-    "image": "assets/images/specification.jpg"
+    "image": "assets/images/specification.jpg",
+    "topic": "Shopping & Commerce"
   },
   {
     "word": "subscriber",
@@ -4963,7 +5344,8 @@ const vocabData = [
       "They have 27,950 [subscribers] to their daily email newsletter. (=Dịch: Họ có 27.950 thuê bao đăng ký nhận bản tin email hàng ngày.)",
       "The mobile phone company has a global [subscriber] base of 59m users. (=Dịch: Công ty điện thoại di động có cơ sở thuê bao toàn cầu với 59 triệu người dùng.)"
     ],
-    "image": "assets/images/subscriber.png"
+    "image": "assets/images/subscriber.png",
+    "topic": "Shopping & Commerce"
   },
   {
     "word": "vacancy",
@@ -4976,7 +5358,8 @@ const vocabData = [
       "We currently have a [vacancy] for a sales representative. (=Dịch: Chúng tôi hiện có một vị trí trống cho nhân viên bán hàng.)",
       "Job [vacancies] in London's investment banking industry continue to rise. (=Dịch: Các vị trí công việc trống trong ngành ngân hàng đầu tư ở Luân Đôn tiếp tục tăng.)"
     ],
-    "image": "assets/images/vacancy.jpg"
+    "image": "assets/images/vacancy.jpg",
+    "topic": "Job & Career"
   },
   {
     "word": "vegetarian",
@@ -4989,7 +5372,8 @@ const vocabData = [
       "You're a [vegetarian] and you eat fish? (=Dịch: Bạn là người ăn chay và bạn ăn cá à?)",
       "I've been feeling much healthier since I became a [vegetarian]. (=Dịch: Tôi cảm thấy khỏe mạnh hơn nhiều kể từ khi tôi trở thành người ăn chay.)"
     ],
-    "image": "assets/images/vegetarian.jpg"
+    "image": "assets/images/vegetarian.jpg",
+    "topic": "Food & Restaurant"
   },
   {
     "word": "wallet",
@@ -5002,7 +5386,8 @@ const vocabData = [
       "This really isn't my day - my [wallet] was stolen this morning and now I've lost my car keys. (=Dịch: Hôm nay thực sự không phải là ngày của tôi - chiếc ví của tôi đã bị đánh cắp vào sáng nay và bây giờ tôi đã mất chìa khóa xe.)",
       "They acted honourably and returned the [wallet]. (=Dịch: Họ đã hành động một cách danh dự và trả lại chiếc ví.)"
     ],
-    "image": "assets/images/wallet.jpg"
+    "image": "assets/images/wallet.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "accessible",
@@ -5015,7 +5400,8 @@ const vocabData = [
       "All parts of the museum are [accessible] to wheelchairs (=Dịch: Tất cả các phần của bảo tàng đều có thể xe lăn tiếp cận được.)",
       "By using more illustrations, he made the magazine more [accessible] to the public (= easier to understand) (=Dịch: Bằng cách sử dụng nhiều hình minh họa hơn, ông đã làm cho tạp chí dễ tiếp cận hơn với công chúng (= dễ hiểu hơn).)"
     ],
-    "image": "assets/images/accessible.png"
+    "image": "assets/images/accessible.png",
+    "topic": "General/Others"
   },
   {
     "word": "accomplishment",
@@ -5028,7 +5414,8 @@ const vocabData = [
       "There's a feeling of [accomplishment] from having a job and all that goes with it (=Dịch: Có cảm giác [thành tựu] khi có được một công việc và tất cả những gì đi kèm với nó)",
       "What are the chances that any personal risk factors will affect the safe and successful [accomplishment] of the task or activity? (=Dịch: Có khả năng nào mà các yếu tố rủi ro cá nhân sẽ ảnh hưởng đến sự hoàn thành an toàn và thành công của nhiệm vụ hoặc hoạt động không?)"
     ],
-    "image": "assets/images/accomplishment.jpg"
+    "image": "assets/images/accomplishment.jpg",
+    "topic": "Job & Career"
   },
   {
     "word": "accustom",
@@ -5041,7 +5428,8 @@ const vocabData = [
       "I blinked repeatedly, trying to [accustom] my eyes to the bright light from the sun (=Dịch: Tôi chớp mắt liên tục, cố gắng làm cho mắt quen với ánh sáng chói từ mặt trời)",
       "This will build up your stamina and [accustom] your body to such long distance walking (=Dịch: Điều này sẽ tăng cường sức bền và làm cho cơ thể bạn quen với việc đi bộ đường dài như vậy)"
     ],
-    "image": "assets/images/accustom.jpg"
+    "image": "assets/images/accustom.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "afterward",
@@ -5054,7 +5442,8 @@ const vocabData = [
       "Production will stop at the end of May and the factory will close shortly [afterward] (=Dịch: Sản xuất sẽ dừng vào cuối tháng Năm và nhà máy sẽ đóng cửa ngay sau đó.)",
       "He showed no concern or remorse but one witness saw him smiling shortly [afterward] (=Dịch: Anh ta không tỏ ra lo lắng hay hối hận nhưng một nhân chứng đã thấy anh ta mỉm cười ngay sau đó.)"
     ],
-    "image": "assets/images/afterward.jpg"
+    "image": "assets/images/afterward.jpg",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "apology",
@@ -5067,7 +5456,8 @@ const vocabData = [
       "An [apology] and a refund are being sent to the customer. (=Dịch: Một lời xin lỗi và hoàn tiền đang được gửi cho khách hàng.)",
       "The hotel has issued an [apology] for its mistake. (=Dịch: Khách sạn đã đưa ra một lời xin lỗi về sai lầm của họ.)"
     ],
-    "image": "assets/images/apology.jpg"
+    "image": "assets/images/apology.jpg",
+    "topic": "Shopping & Commerce"
   },
   {
     "word": "appreciation",
@@ -5080,7 +5470,8 @@ const vocabData = [
       "A line of male dancers gyrated to the music while the audience screamed their [appreciation]. (=Dịch: Một hàng vũ công nam quay cuồng theo nhạc trong khi khán giả hét lên sự khen ngợi.)",
       "Children rarely show any [appreciation] of/for what their parents do for them. (=Dịch: Trẻ em hiếm khi thể hiện sự cảm kích đối với những gì bố mẹ làm cho chúng.)"
     ],
-    "image": "assets/images/appreciation.jpg"
+    "image": "assets/images/appreciation.jpg",
+    "topic": "Art & Entertainment"
   },
   {
     "word": "assemble",
@@ -5093,7 +5484,8 @@ const vocabData = [
       "Everyone is [assembling] outside the cathedral, ready for the Remembrance Day parade. (=Dịch: Mọi người đang tập hợp bên ngoài nhà thờ, sẵn sàng cho cuộc diễu hành Ngày Tưởng Niệm.)",
       "When the fire alarm rings, everyone is supposed to leave the building and [assemble] in the schoolyard. (=Dịch: Khi chuông báo cháy reo, mọi người phải rời khỏi tòa nhà và tập hợp ở sân trường.)"
     ],
-    "image": "assets/images/assemble.webp"
+    "image": "assets/images/assemble.webp",
+    "topic": "Business & Office"
   },
   {
     "word": "automate",
@@ -5106,7 +5498,8 @@ const vocabData = [
       "New technologies let you [automate] the control of your home lighting, appliances, and even heating and cooling systems. (=Dịch: Các công nghệ mới cho phép bạn tự động hóa việc điều khiển hệ thống đèn, thiết bị gia dụng và thậm chí cả hệ thống sưởi ấm và làm mát trong nhà.)",
       "All of the factory's operations have been [automated]. (=Dịch: Tất cả các hoạt động của nhà máy đều đã được tự động hóa.)"
     ],
-    "image": "assets/images/automate.jpg"
+    "image": "assets/images/automate.jpg",
+    "topic": "Technology & Communication"
   },
   {
     "word": "automatic",
@@ -5119,7 +5512,8 @@ const vocabData = [
       "Hotels above a certain size must have an [automatic] fire detection system. (=Dịch: Khách sạn trên một kích cỡ nhất định phải có hệ thống phát hiện cháy tự động.)",
       "My [automatic] response was to pull my hand away. (=Dịch: Phản ứng tự động của tôi là rút tay lại.)"
     ],
-    "image": "assets/images/automatic.jpg"
+    "image": "assets/images/automatic.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "cargo",
@@ -5132,7 +5526,8 @@ const vocabData = [
       "Nuclear materials are currently carried on both [cargo] and passenger flights. (=Dịch: Vật liệu hạt nhân hiện đang được vận chuyển trên cả các chuyến bay chở hàng và hành khách.)",
       "Smoke detectors are now installed in [cargo] holds. (=Dịch: Máy dò khói hiện đang được lắp đặt trong các khoang chở hàng.)"
     ],
-    "image": "assets/images/cargo.webp"
+    "image": "assets/images/cargo.webp",
+    "topic": "Shopping & Commerce"
   },
   {
     "word": "clinic",
@@ -5145,7 +5540,8 @@ const vocabData = [
       "Prenatal [clinics] provide care for pregnant women. (=Dịch: Các phòng khám tiền sản cung cấp chăm sóc cho phụ nữ mang thai.)",
       "Bring your baby to the [clinic] and we'll take a look at her. (=Dịch: Hãy đưa con bạn đến phòng khám và chúng tôi sẽ khám cho bé.)"
     ],
-    "image": "assets/images/clinic.jpg"
+    "image": "assets/images/clinic.jpg",
+    "topic": "Health & Medicine"
   },
   {
     "word": "cooperate",
@@ -5158,7 +5554,8 @@ const vocabData = [
       "Large corporations have a duty to [cooperate] in order to protect the environment. (=Dịch: Các tập đoàn lớn có nghĩa vụ hợp tác để bảo vệ môi trường.)",
       "They have agreed to [cooperate] in distributing products and providing support services. (=Dịch: Họ đã đồng ý hợp tác trong việc phân phối sản phẩm và cung cấp dịch vụ hỗ trợ.)"
     ],
-    "image": "assets/images/cooperate.jpeg"
+    "image": "assets/images/cooperate.jpeg",
+    "topic": "Job & Career"
   },
   {
     "word": "desktop",
@@ -5171,7 +5568,8 @@ const vocabData = [
       "Right-click anywhere on your [desktop] to change your screen settings. (=Dịch: Nhấp chuột phải vào bất kỳ đâu trên màn hình để thay đổi cài đặt màn hình của bạn.)",
       "A shortcut to the program will be created on your [desktop]. (=Dịch: Một phím tắt đến chương trình sẽ được tạo trên màn hình của bạn.)"
     ],
-    "image": "assets/images/desktop.png"
+    "image": "assets/images/desktop.png",
+    "topic": "Technology & Communication"
   },
   {
     "word": "distract",
@@ -5184,7 +5582,8 @@ const vocabData = [
       "Don't allow noise to [distract] you from your work (=Dịch: Đừng để tiếng ồn làm bạn mất tập trung khỏi công việc của mình)",
       "The more extraneous items you cram on a web page, the more you confuse and [distract] the visitor. (=Dịch: Càng nhiều mục không liên quan bạn nhồi nhét trên một trang web, bạn càng làm khách thăm bối rối và mất tập trung.)"
     ],
-    "image": "assets/images/distract.jpg"
+    "image": "assets/images/distract.jpg",
+    "topic": "Education & Learning"
   },
   {
     "word": "dividend",
@@ -5197,7 +5596,8 @@ const vocabData = [
       "As director and principal shareholder, he receives a substantial annual [dividend] from the company. (=Dịch: Là giám đốc và cổ đông chính, anh ấy nhận được cổ tức hàng năm đáng kể từ công ty.)",
       "You may have investment income that is paid yearly, such as share [dividends]. (=Dịch: Bạn có thể có thu nhập từ đầu tư được trả hàng năm, chẳng hạn như cổ tức cổ phần.)"
     ],
-    "image": "assets/images/dividend.jpg"
+    "image": "assets/images/dividend.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "exemption",
@@ -5210,7 +5610,8 @@ const vocabData = [
       "Candidates with a qualification in chemistry have [exemption] from this course. (=Dịch: Các ứng viên có bằng cấp về hóa học sẽ được miễn khóa học này.)",
       "Formula One was granted an [exemption] from a ban on tobacco advertising. (=Dịch: Công thức Một đã được miễn trừ khỏi lệnh cấm quảng cáo thuốc lá.)"
     ],
-    "image": "assets/images/exemption.png"
+    "image": "assets/images/exemption.png",
+    "topic": "Law & Government"
   },
   {
     "word": "ferry",
@@ -5223,7 +5624,8 @@ const vocabData = [
       "The [ferry] service has been suspended for the day because of bad weather. (=Dịch: Dịch vụ phà đã bị tạm ngừng trong ngày do thời tiết xấu.)",
       "Competition from the Channel Tunnel is making life hard for the [ferries]. (=Dịch: Sự cạnh tranh từ Đường hầm eo biển đang khiến các dịch vụ phà gặp khó khăn.)"
     ],
-    "image": "assets/images/ferry.jpg"
+    "image": "assets/images/ferry.jpg",
+    "topic": "Science & Nature"
   },
   {
     "word": "finalize",
@@ -5236,7 +5638,8 @@ const vocabData = [
       "Although details are still being [finalized], the deal is expected to go through next month. (=Dịch: Mặc dù các chi tiết vẫn đang được hoàn thiện, thỏa thuận dự kiến sẽ được thông qua vào tháng tới.)",
       "Appointments are confirmed in writing and are [finalized] in July. (=Dịch: Các cuộc hẹn được xác nhận bằng văn bản và chốt vào tháng Bảy.)"
     ],
-    "image": "assets/images/finalize.jpg"
+    "image": "assets/images/finalize.jpg",
+    "topic": "Shopping & Commerce"
   },
   {
     "word": "furnish",
@@ -5249,7 +5652,8 @@ const vocabData = [
       "The items will then be distributed to low income families and people who cannot afford to [furnish] their own homes. (=Dịch: Các món đồ sau đó sẽ được phân phối cho các gia đình có thu nhập thấp và những người không có khả năng trang bị nội thất cho ngôi nhà của họ.)",
       "The proprietor has [furnished] the bedrooms in a variety of styles (=Dịch: Chủ sở hữu đã trang bị nội thất các phòng ngủ theo nhiều phong cách khác nhau.)"
     ],
-    "image": "assets/images/furnish.jpg"
+    "image": "assets/images/furnish.jpg",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "hourly",
@@ -5262,7 +5666,8 @@ const vocabData = [
       "The nurse checks on him at [hourly] intervals. (=Dịch: Y tá kiểm tra anh ấy theo khoảng thời gian hàng giờ.)",
       "BBC news bulletins will be aired [hourly] on the hour, from 5.00 am local time, alongside a breadth of BBC programmes. (=Dịch: Bản tin BBC sẽ được phát hàng giờ vào đầu mỗi giờ, từ 5 giờ sáng theo giờ địa phương, cùng với nhiều chương trình của BBC.)"
     ],
-    "image": "assets/images/hourly.png"
+    "image": "assets/images/hourly.png",
+    "topic": "Shopping & Commerce"
   },
   {
     "word": "incur",
@@ -5275,7 +5680,8 @@ const vocabData = [
       "Please detail any costs [incurred] by you in attending the interview. (=Dịch: Vui lòng liệt kê chi tiết bất kỳ chi phí nào bạn đã chịu khi tham dự buổi phỏng vấn.)",
       "Companies [incur] additional costs in dealing with non-paying customers. (=Dịch: Các công ty phải chịu thêm chi phí khi xử lý các khách hàng không thanh toán.)"
     ],
-    "image": "assets/images/incur.jpeg"
+    "image": "assets/images/incur.jpeg",
+    "topic": "Job & Career"
   },
   {
     "word": "instruct",
@@ -5288,7 +5694,8 @@ const vocabData = [
       "He works in a sports centre [instructing] people in the use of the gym equipment. (=Dịch: Anh ấy làm việc tại một trung tâm thể thao, hướng dẫn mọi người cách sử dụng thiết bị phòng tập.)",
       "Employees will be [instructed] on the use of the new invoicing system that is being introduced next month. (=Dịch: Nhân viên sẽ được hướng dẫn cách sử dụng hệ thống lập hóa đơn mới được giới thiệu vào tháng tới.)"
     ],
-    "image": "assets/images/instruct.jpg"
+    "image": "assets/images/instruct.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "jet",
@@ -5301,7 +5708,8 @@ const vocabData = [
       "He flew to Bermuda in his private [jet]. (=Dịch: Anh ấy bay đến Bermuda bằng chiếc máy bay phản lực riêng của mình.)",
       "Her private [jet] landed in the republic on the way to Japan.  (=Dịch: Chiếc máy bay phản lực riêng của cô ấy hạ cánh ở nước cộng hòa trên đường đến Nhật Bản.)"
     ],
-    "image": "assets/images/jet.jpg"
+    "image": "assets/images/jet.jpg",
+    "topic": "Travel & Transport"
   },
   {
     "word": "jog",
@@ -5314,7 +5722,8 @@ const vocabData = [
       "I began at a slow [jog] and gradually increased my pace. (=Dịch: Tôi bắt đầu với tốc độ chậm và dần dần tăng tốc độ.)",
       "My father always go for a [jog] before breakfast. (=Dịch: Cha tôi luôn chạy bộ trước khi ăn sáng.)"
     ],
-    "image": "assets/images/jog.jpg"
+    "image": "assets/images/jog.jpg",
+    "topic": "Job & Career"
   },
   {
     "word": "laundry",
@@ -5327,7 +5736,8 @@ const vocabData = [
       "I've got to do my [laundry]. (=Dịch: Tôi phải giặt đồ.)",
       "She opens doors, switches lights on and off, does the [laundry] and hangs out the washing. (=Dịch: Cô ấy mở cửa, bật và tắt đèn, giặt đồ và phơi quần áo.)"
     ],
-    "image": "assets/images/laundry.jpg"
+    "image": "assets/images/laundry.jpg",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "leisure",
@@ -5340,7 +5750,8 @@ const vocabData = [
       "Shares in the [leisure] sector have not performed so well this year. (=Dịch: Cổ phiếu trong lĩnh vực giải trí không hoạt động tốt trong năm nay.)",
       "Hotels, airlines and other firms in the [leisure] industry may suffer. (=Dịch: Khách sạn, hàng không và các công ty khác trong ngành giải trí có thể chịu thiệt hại.)"
     ],
-    "image": "assets/images/leisure.jpg"
+    "image": "assets/images/leisure.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "loyal",
@@ -5353,7 +5764,8 @@ const vocabData = [
       "He is one of the president's most [loyal] supporters. (=Dịch: Anh ấy là một trong những người ủng hộ trung thành nhất của tổng thống.)",
       "She has been a good and [loyal] friend to me. (=Dịch: Cô ấy đã là một người bạn tốt và trung thành với tôi.)"
     ],
-    "image": "assets/images/loyal.jpg"
+    "image": "assets/images/loyal.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "luncheon",
@@ -5366,7 +5778,8 @@ const vocabData = [
       "They met at a literary [luncheon]. (=Dịch: Họ đã gặp nhau tại một bữa trưa văn học.)",
       "Voices sound from outside, the rest of our classmates having their [luncheon] on the grass as evening rolls in. (=Dịch: Tiếng nói vọng từ bên ngoài, các bạn cùng lớp của chúng ta đang ăn trưa trên cỏ khi buổi tối buông xuống.)"
     ],
-    "image": "assets/images/luncheon.jpg"
+    "image": "assets/images/luncheon.jpg",
+    "topic": "Food & Restaurant"
   },
   {
     "word": "mandatory",
@@ -5379,7 +5792,8 @@ const vocabData = [
       "It is [mandatory] for blood banks to test all donated blood for the virus. (=Dịch: Các ngân hàng máu bắt buộc phải kiểm tra tất cả máu hiến tặng để phát hiện vi rút.)",
       "Attendance is [mandatory]. (=Dịch: Việc tham dự là bắt buộc.)"
     ],
-    "image": "assets/images/mandatory.jpg"
+    "image": "assets/images/mandatory.jpg",
+    "topic": "Education & Learning"
   },
   {
     "word": "mechanical",
@@ -5392,7 +5806,8 @@ const vocabData = [
       "The breakdown was due to a [mechanical] failure. (=Dịch: Sự hỏng hóc là do một lỗi cơ khí.)",
       "The company undertakes [mechanical] work on all types of cars. (=Dịch: Công ty đảm nhận công việc cơ khí trên tất cả các loại xe.)"
     ],
-    "image": "assets/images/mechanical.jpg"
+    "image": "assets/images/mechanical.jpg",
+    "topic": "Technology & Communication"
   },
   {
     "word": "microphone",
@@ -5405,7 +5820,8 @@ const vocabData = [
       "There's a place to plug in an external [microphone]. (=Dịch: Có một chỗ để cắm micro ngoài.)",
       "Unfortunately we were near an open [microphone] and all his colleagues heard what we said. (=Dịch: Rất tiếc là chúng tôi đang ở gần một micro mở và tất cả đồng nghiệp của anh ấy đã nghe thấy những gì chúng tôi nói.)"
     ],
-    "image": "assets/images/microphone.jpg"
+    "image": "assets/images/microphone.jpg",
+    "topic": "Technology & Communication"
   },
   {
     "word": "nap",
@@ -5418,7 +5834,8 @@ const vocabData = [
       "I had a short [nap] after lunch. (=Dịch: Tôi đã chợp mắt một chút sau bữa trưa.)",
       "Use your lunch hour to have a [nap] in your chair.  (=Dịch: Hãy sử dụng giờ nghỉ trưa của bạn để chợp mắt trên ghế.)"
     ],
-    "image": "assets/images/nap.jpg"
+    "image": "assets/images/nap.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "overview",
@@ -5431,7 +5848,8 @@ const vocabData = [
       "The seminar aims to provide an [overview] on new media publishing. (=Dịch: Buổi hội thảo nhằm cung cấp một cái nhìn tổng quan về xuất bản truyền thông mới.)",
       "My main concern is to get an [overview] of the main environmental problems facing the area. (=Dịch: Mối quan tâm chính của tôi là có được cái nhìn tổng quan về các vấn đề môi trường chính mà khu vực đang phải đối mặt.)"
     ],
-    "image": "assets/images/overview.jpg"
+    "image": "assets/images/overview.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "pharmacy",
@@ -5444,7 +5862,8 @@ const vocabData = [
       "Research is bringing more effective new drugs to [pharmacy] shelves. (=Dịch: Các nghiên cứu đang mang lại những loại thuốc mới hiệu quả hơn cho các kệ của hiệu thuốc.)",
       "Make sure you understand exactly how to take your medicines before you leave the [pharmacy].  (=Dịch: Hãy chắc chắn rằng bạn hiểu chính xác cách dùng thuốc trước khi rời khỏi hiệu thuốc.)"
     ],
-    "image": "assets/images/pharmacy.jpg"
+    "image": "assets/images/pharmacy.jpg",
+    "topic": "Health & Medicine"
   },
   {
     "word": "projector",
@@ -5457,7 +5876,8 @@ const vocabData = [
       "The chain is introducing digital [projector] and broadcasts of live sports.  (=Dịch: Chuỗi này đang giới thiệu máy chiếu kỹ thuật số và truyền phát các sự kiện thể thao trực tiếp.)",
       "The second states that events that require a [projector] must be scheduled in a room with a projector. (=Dịch: Điều thứ hai là các sự kiện yêu cầu máy chiếu phải được lên lịch trong một phòng có máy chiếu.)"
     ],
-    "image": "assets/images/projector.jpg"
+    "image": "assets/images/projector.jpg",
+    "topic": "Technology & Communication"
   },
   {
     "word": "promotional",
@@ -5470,7 +5890,8 @@ const vocabData = [
       "The writer recently went on a [promotional] tour of his homeland. (=Dịch: Tác giả gần đây đã thực hiện một chuyến lưu diễn quảng bá quê hương của mình.)",
       "The brand enjoyed 11% sales growth in the period and was aided by new advertising and [promotional] activity. (=Dịch: Thương hiệu đã đạt mức tăng trưởng doanh số 11% trong giai đoạn này và được hỗ trợ bởi các hoạt động quảng cáo và tiếp thị mới.)"
     ],
-    "image": "assets/images/promotional.jpg"
+    "image": "assets/images/promotional.jpg",
+    "topic": "Shopping & Commerce"
   },
   {
     "word": "quarterly",
@@ -5483,7 +5904,8 @@ const vocabData = [
       "The magazine will be published [quarterly]. (=Dịch: Tạp chí sẽ được xuất bản hàng quý.)",
       "Shares in the company have fallen 20%, despite better than expected [quarterly] figures. (=Dịch: Cổ phiếu của công ty đã giảm 20%, mặc dù số liệu hàng quý tốt hơn mong đợi.)"
     ],
-    "image": "assets/images/quarterly.jpg"
+    "image": "assets/images/quarterly.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "realistic",
@@ -5496,7 +5918,8 @@ const vocabData = [
       "The prediction of 4 million unemployed now looks horrifyingly [realistic]. (=Dịch: Dự đoán về 4 triệu người thất nghiệp giờ đây có vẻ thực tế một cách đáng sợ.)",
       "Her plans are not [realistic] - they'll never be more than a pipe dream. (=Dịch: Kế hoạch của cô ấy không thực tế - chúng sẽ không bao giờ hơn một giấc mơ viển vông.)"
     ],
-    "image": "assets/images/realistic.jpg"
+    "image": "assets/images/realistic.jpg",
+    "topic": "Shopping & Commerce"
   },
   {
     "word": "reinforce",
@@ -5509,7 +5932,8 @@ const vocabData = [
       "The wooden beam is [reinforced] with a metal plate. (=Dịch: Thanh gỗ được gia cố bằng một tấm kim loại.)",
       "Caring for animals is not sentimentality - it [reinforces] our respect for life. (=Dịch: Chăm sóc động vật không phải là sự ủy mị - nó củng cố sự tôn trọng của chúng ta đối với sự sống.)"
     ],
-    "image": "assets/images/reinforce.jpg"
+    "image": "assets/images/reinforce.jpg",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "residential",
@@ -5522,7 +5946,8 @@ const vocabData = [
       "The architect's tallest building is a 75-storey [residential] tower. (=Dịch: Tòa nhà cao nhất của kiến trúc sư này là một tháp dân cư cao 75 tầng.)",
       "Rents in [residential] areas are lower than in the business district. (=Dịch: Giá thuê nhà ở khu dân cư thấp hơn so với khu thương mại.)"
     ],
-    "image": "assets/images/residential.jpg"
+    "image": "assets/images/residential.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "scholarship",
@@ -5535,7 +5960,8 @@ const vocabData = [
       "Paula went to the Royal College of Music on a [scholarship]. (=Dịch: Paula đã đến Học viện Âm nhạc Hoàng gia bằng một học bổng.)",
       "The Fund awards four [scholarships] every year. (=Dịch: Quỹ trao bốn suất học bổng mỗi năm.)"
     ],
-    "image": "assets/images/scholarship.jpg"
+    "image": "assets/images/scholarship.jpg",
+    "topic": "Education & Learning"
   },
   {
     "word": "seeker",
@@ -5548,7 +5974,8 @@ const vocabData = [
       "The system automatically matches job [seekers] and employers based on identified skills and requirements. (=Dịch: Hệ thống tự động ghép nối những người tìm việc và nhà tuyển dụng dựa trên các kỹ năng và yêu cầu đã xác định.)",
       "an attention/a publicity [seeker] (=Dịch: một người tìm kiếm sự chú ý/sự công khai)"
     ],
-    "image": "assets/images/seeker.jpg"
+    "image": "assets/images/seeker.jpg",
+    "topic": "Job & Career"
   },
   {
     "word": "sender",
@@ -5561,7 +5988,8 @@ const vocabData = [
       "The letter came back with \"return to [sender] - not known at this address\" written on it. (=Dịch: Lá thư đã trả lại với dòng chữ 'trả lại người gửi - không biết tại địa chỉ này' được viết trên đó.)",
       "The package was returned to the [sender]. (=Dịch: Gói hàng đã được trả lại cho người gửi.)"
     ],
-    "image": "assets/images/sender.jpg"
+    "image": "assets/images/sender.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "shortage",
@@ -5574,7 +6002,8 @@ const vocabData = [
       "There's a [shortage] of cheap housing in the region. (=Dịch: Có tình trạng thiếu nhà ở giá rẻ trong khu vực.)",
       "Schools nationwide are experiencing a [shortage] of teachers. (=Dịch: Các trường học trên toàn quốc đang trải qua tình trạng thiếu giáo viên.)"
     ],
-    "image": "assets/images/shortage.jpg"
+    "image": "assets/images/shortage.jpg",
+    "topic": "Education & Learning"
   },
   {
     "word": "spacious",
@@ -5587,7 +6016,8 @@ const vocabData = [
       "The hotel has 47 [spacious] bedrooms, all with en suite bathrooms. (=Dịch: Khách sạn có 47 phòng ngủ rộng rãi, tất cả đều có phòng tắm riêng.)",
       "The villa is surrounded by [spacious] gardens. (=Dịch: Biệt thự được bao quanh bởi những khu vườn rộng rãi.)"
     ],
-    "image": "assets/images/spacious.jpg"
+    "image": "assets/images/spacious.jpg",
+    "topic": "Science & Nature"
   },
   {
     "word": "temporarily",
@@ -5600,7 +6030,8 @@ const vocabData = [
       "His famed calmness [temporarily] deserted him. (=Dịch: Sự điềm tĩnh nổi tiếng của anh ta tạm thời rời bỏ anh.)",
       "He's [temporarily] laid aside some quite interesting projects to write the script. (=Dịch: Anh ấy tạm thời bỏ qua một số dự án khá thú vị để viết kịch bản.)"
     ],
-    "image": "assets/images/temporarily.jpg"
+    "image": "assets/images/temporarily.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "thoroughly",
@@ -5613,7 +6044,8 @@ const vocabData = [
       "I [thoroughly] approve of what the government is doing. (=Dịch: Tôi hoàn toàn tán thành những gì chính phủ đang làm.)",
       "She ought to be [thoroughly] ashamed of herself - talking to her mother like that! (=Dịch: Cô ấy nên hoàn toàn xấu hổ về bản thân mình - nói chuyện với mẹ cô ấy như vậy!)"
     ],
-    "image": "assets/images/thoroughly.jpg"
+    "image": "assets/images/thoroughly.jpg",
+    "topic": "Law & Government"
   },
   {
     "word": "towel",
@@ -5626,7 +6058,8 @@ const vocabData = [
       "Please remember to bring a mat and a [towel] with you to the next aerobics class. (=Dịch: Hãy nhớ mang theo thảm và khăn vào buổi học thể dục nhịp điệu tiếp theo.)",
       "During the break between games, she had a drink of water and wiped the perspiration off her face and arms with a [towel]. (=Dịch: Trong giờ nghỉ giữa các trận đấu, cô ấy đã uống nước và lau mồ hôi trên mặt và tay bằng khăn.)"
     ],
-    "image": "assets/images/towel.jpg"
+    "image": "assets/images/towel.jpg",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "trash",
@@ -5639,7 +6072,8 @@ const vocabData = [
       "He threw a valuable drawing out, thinking it was [trash]. (=Dịch: Anh ấy đã vứt một bức vẽ quý giá vì nghĩ đó là rác.)",
       "We filled three cans with [trash] from the garage. (=Dịch: Chúng tôi đã đổ đầy ba thùng rác từ nhà để xe.)"
     ],
-    "image": "assets/images/trash.jpg"
+    "image": "assets/images/trash.jpg",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "unattended",
@@ -5652,7 +6086,8 @@ const vocabData = [
       "According to the report, most accidents occur when young children are left [unattended] in the home. (=Dịch: Theo báo cáo, hầu hết các tai nạn xảy ra khi trẻ nhỏ bị bỏ lại không có người trông coi trong nhà.)",
       "Never leave young children [unattended]. (=Dịch: Không bao giờ để trẻ nhỏ mà không có người trông coi.)"
     ],
-    "image": "assets/images/unattended.jpg"
+    "image": "assets/images/unattended.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "usage",
@@ -5665,7 +6100,8 @@ const vocabData = [
       "The study tracks credit card [usage] over the last ten years. (=Dịch: Nghiên cứu theo dõi việc sử dụng thẻ tín dụng trong mười năm qua.)",
       "Dictionary definitions tend to show stereotypical patterns of [usage]. (=Dịch: Các định nghĩa từ điển có xu hướng cho thấy các mô hình sử dụng rập khuôn.)"
     ],
-    "image": "assets/images/usage.jpg"
+    "image": "assets/images/usage.jpg",
+    "topic": "Education & Learning"
   },
   {
     "word": "vacuum",
@@ -5678,7 +6114,8 @@ const vocabData = [
       "Other gases rush in to fill the [vacuum]. (=Dịch: Các khí khác lao vào để lấp đầy khoảng trống.)",
       "The machine then creates a [vacuum]. (=Dịch: Máy sau đó tạo ra một chân không.)"
     ],
-    "image": "assets/images/vacuum.jpg"
+    "image": "assets/images/vacuum.jpg",
+    "topic": "Science & Nature"
   },
   {
     "word": "windy",
@@ -5691,7 +6128,8 @@ const vocabData = [
       "It was a [windy] day, and small white clouds were scudding across the blue sky. (=Dịch: Đó là một ngày đầy gió, và những đám mây trắng nhỏ đang trôi nhanh qua bầu trời xanh.)",
       "It was wet and [windy] for most of the week. (=Dịch: Trời ẩm ướt và có gió suốt phần lớn thời gian trong tuần.)"
     ],
-    "image": "assets/images/windy.jpg"
+    "image": "assets/images/windy.jpg",
+    "topic": "Science & Nature"
   },
   {
     "word": "wireless",
@@ -5704,7 +6142,8 @@ const vocabData = [
       "a message sent by [wireless] (=Dịch: một tin nhắn được gửi qua không dây)",
       "a [wireless] operator (=Dịch: một người vận hành không dây)"
     ],
-    "image": "assets/images/wireless.jpg"
+    "image": "assets/images/wireless.jpg",
+    "topic": "Technology & Communication"
   },
   {
     "word": "yearly",
@@ -5717,7 +6156,8 @@ const vocabData = [
       "Interest is paid [yearly]. (=Dịch: Lãi suất được trả hàng năm.)",
       "It also called for a [yearly] adjustment, based on inflation. (=Dịch: Nó cũng yêu cầu điều chỉnh hàng năm, dựa trên lạm phát.)"
     ],
-    "image": "assets/images/yearly.jpg"
+    "image": "assets/images/yearly.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "actress",
@@ -5730,7 +6170,8 @@ const vocabData = [
       "It started with lots of great singing and dancing from some very talented actors and [actresses] (=Dịch: Nó bắt đầu với rất nhiều màn hát và nhảy tuyệt vời từ một số diễn viên và nữ diễn viên rất tài năng)",
       "I've done quite a number of roles which would be dream roles for other [actresses] (=Dịch: Tôi đã đóng khá nhiều vai mà sẽ là vai mơ ước của các nữ diễn viên khác)"
     ],
-    "image": "assets/images/actress.jpg"
+    "image": "assets/images/actress.jpg",
+    "topic": "Art & Entertainment"
   },
   {
     "word": "adjacent",
@@ -5743,7 +6184,8 @@ const vocabData = [
       "The nurse who had just walked in to access the equipment room [adjacent] to the waiting room sensed the tension (=Dịch: Cô y tá vừa bước vào phòng thiết bị [liền kề] phòng chờ đã cảm nhận được sự căng thẳng)",
       "Walking in further she found the bathroom was [adjacent] to the dressing room (=Dịch: Đi vào xa hơn cô ấy thấy phòng tắm kế cận phòng thay đồ)"
     ],
-    "image": "assets/images/adjacent.jpg"
+    "image": "assets/images/adjacent.jpg",
+    "topic": "Health & Medicine"
   },
   {
     "word": "alternate",
@@ -5756,7 +6198,8 @@ const vocabData = [
       "The committee, which has nine [alternates], makes nominations for 14 awards in two categories. (=Dịch: Ủy ban, bao gồm chín người thay thế, đưa ra các đề cử cho 14 giải thưởng ở hai hạng mục.)",
       "Merged state associations may elect two delegates and two [alternates] to the USBC annual meeting (=Dịch: Các hiệp hội bang hợp nhất có thể bầu hai đại biểu và hai người thay thế cho cuộc họp thường niên của USBC)"
     ],
-    "image": "assets/images/alternate.jpg"
+    "image": "assets/images/alternate.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "anytime",
@@ -5769,7 +6212,8 @@ const vocabData = [
       "The club has a library with a gymnasium where anyone can walk in [anytime] to relax and unwind. (=Dịch: Câu lạc bộ có một thư viện với một phòng tập thể dục, nơi bất kỳ ai cũng có thể vào bất cứ lúc nào để thư giãn và giải trí.)",
       "The centre presented Heather with a gold card allowing her to visit [anytime] (=Dịch: Trung tâm đã trao cho Heather một thẻ vàng, cho phép cô ấy đến thăm bất cứ lúc nào)"
     ],
-    "image": "assets/images/anytime.png"
+    "image": "assets/images/anytime.png",
+    "topic": "Art & Entertainment"
   },
   {
     "word": "badge",
@@ -5782,7 +6226,8 @@ const vocabData = [
       "A security guard checks each car, verifying that occupants have a company ID [badge] before letting them in. (=Dịch: Một nhân viên bảo vệ kiểm tra từng chiếc xe để xác nhận rằng những người bên trong có thẻ ID của công ty trước khi cho họ vào.)",
       "It appears he may have been senior staff because of the wreath design of the cap [badge]. (=Dịch: Có vẻ như ông ấy có thể là nhân viên cấp cao vì thiết kế vòng hoa trên huy hiệu mũ.)"
     ],
-    "image": "assets/images/badge.jpg"
+    "image": "assets/images/badge.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "boardroom",
@@ -5795,7 +6240,8 @@ const vocabData = [
       "The chairman stepped down after a bitter [boardroom] battle. (=Dịch: Chủ tịch đã từ chức sau một cuộc chiến cay đắng trong phòng họp ban giám đốc.)",
       "The departure of the chief executive and finance director in a [boardroom] coup has given rise to takeover speculation. (=Dịch: Sự ra đi của giám đốc điều hành và giám đốc tài chính trong một cuộc đảo chính tại phòng họp ban giám đốc đã làm dấy lên suy đoán về việc thâu tóm.)"
     ],
-    "image": "assets/images/boardroom.jpg"
+    "image": "assets/images/boardroom.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "brake",
@@ -5808,7 +6254,8 @@ const vocabData = [
       "The driver [braked] abruptly, causing the car to skid a little (=Dịch: Người lái xe phanh gấp, làm cho chiếc xe bị trượt một chút)",
       "The situation appears particularly severe where vehicles are [braking] on the paving. (=Dịch: Tình hình đặc biệt nghiêm trọng khi các phương tiện đang phanh trên mặt đường lát)"
     ],
-    "image": "assets/images/brake.jpg"
+    "image": "assets/images/brake.jpg",
+    "topic": "Travel & Transport"
   },
   {
     "word": "calculation",
@@ -5821,7 +6268,8 @@ const vocabData = [
       "A [calculation] of their tax liability will be made from their account books. (=Dịch: Tính toán nghĩa vụ thuế của họ sẽ được thực hiện từ sổ sách kế toán của họ.)",
       "Finding ways of saving money involves complicated [calculations] (=Dịch: Tìm cách tiết kiệm tiền đòi hỏi những [tính toán] phức tạp)"
     ],
-    "image": "assets/images/calculation.jpg"
+    "image": "assets/images/calculation.jpg",
+    "topic": "Law & Government"
   },
   {
     "word": "carpenter",
@@ -5834,7 +6282,8 @@ const vocabData = [
       "This was built over a period of 40 days by a 300 strong force of labourers, [carpenters], joiners and artists. (=Dịch: Điều này đã được xây dựng trong khoảng thời gian 40 ngày bởi một lực lượng lao động gồm 300 người, thợ mộc, thợ ráp và nghệ sĩ.)",
       "One house is constructed by professional [carpenters]; another by relatives. (=Dịch: Một ngôi nhà được xây dựng bởi các thợ mộc chuyên nghiệp; một ngôi nhà khác được xây dựng bởi người thân.)"
     ],
-    "image": "assets/images/carpenter.jpg"
+    "image": "assets/images/carpenter.jpg",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "caterer",
@@ -5847,7 +6296,8 @@ const vocabData = [
       "They contracted with an airline [caterer] to provide food for stranded passengers. (=Dịch: Họ đã ký hợp đồng với một nhà cung cấp dịch vụ ăn uống hàng không để cung cấp thức ăn cho hành khách bị mắc kẹt.)",
       "The convention provides a boost to [caterers], decorators, and other small businesses. (=Dịch: Hội nghị này mang lại lợi ích cho các nhà cung cấp dịch vụ ăn uống, người trang trí và các doanh nghiệp nhỏ khác.)"
     ],
-    "image": "assets/images/caterer.jpg"
+    "image": "assets/images/caterer.jpg",
+    "topic": "Food & Restaurant"
   },
   {
     "word": "classify",
@@ -5860,7 +6310,8 @@ const vocabData = [
       "A screen-printing firm can have as many as 500 employees and still be [classified] as a small business. (=Dịch: Một công ty in lụa có thể có tới 500 nhân viên và vẫn được phân loại là doanh nghiệp nhỏ.)",
       "Imports are now [classified] by country of despatch, rather than country of origin. (=Dịch: Hàng nhập khẩu bây giờ được phân loại theo quốc gia gửi đi, thay vì quốc gia xuất xứ.)"
     ],
-    "image": "assets/images/classify.jpg"
+    "image": "assets/images/classify.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "congratulate",
@@ -5873,7 +6324,8 @@ const vocabData = [
       "A large crowd turned out to [congratulate] them and wish them the best in the future (=Dịch: Một đám đông lớn đã xuất hiện để chúc mừng họ và chúc họ những điều tốt đẹp nhất trong tương lai)",
       "All their families and friends [congratulate] the happy couple and wish them all the very best for the future. (=Dịch: Tất cả gia đình và bạn bè của họ chúc mừng cặp đôi hạnh phúc và chúc họ những điều tốt đẹp nhất trong tương lai)"
     ],
-    "image": "assets/images/congratulate.jpg"
+    "image": "assets/images/congratulate.jpg",
+    "topic": "Job & Career"
   },
   {
     "word": "consultation",
@@ -5886,7 +6338,8 @@ const vocabData = [
       "The [consultation] period for the bill is just two weeks. (=Dịch: Thời gian tham vấn cho dự luật chỉ kéo dài hai tuần.)",
       "The director will make his decision in [consultation] with his advisors. (=Dịch: Giám đốc sẽ đưa ra quyết định của mình sau khi tham vấn với các cố vấn của ông ấy.)"
     ],
-    "image": "assets/images/consultation.jpg"
+    "image": "assets/images/consultation.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "coordinator",
@@ -5899,7 +6352,8 @@ const vocabData = [
       "He applied for a job as a project [coordinator]. (=Dịch: Anh ấy đã nộp đơn xin việc làm điều phối viên dự án.)",
       "She works as the [coordinator] of the Ohio Environmental Protection Agency. (=Dịch: Cô ấy làm việc như là điều phối viên của Cơ quan Bảo vệ Môi trường Ohio.)"
     ],
-    "image": "assets/images/coordinator.jpg"
+    "image": "assets/images/coordinator.jpg",
+    "topic": "Job & Career"
   },
   {
     "word": "costly",
@@ -5912,7 +6366,8 @@ const vocabData = [
       "As in real life, a managerial appointment made in haste could end up being financially [costly] in the long run. (=Dịch: Giống như trong cuộc sống thực, việc bổ nhiệm quản lý một cách vội vàng có thể gây ra tốn kém về mặt tài chính về lâu dài.)",
       "Being able to prevent [costly] repairs is crucial on such expensive machinery. (=Dịch: Có thể ngăn chặn các sửa chữa tốn kém là điều quan trọng đối với các máy móc đắt tiền như vậy.)"
     ],
-    "image": "assets/images/costly.webp"
+    "image": "assets/images/costly.webp",
+    "topic": "Shopping & Commerce"
   },
   {
     "word": "durable",
@@ -5925,7 +6380,8 @@ const vocabData = [
       "The plastic used in this product was stronger and more [durable] than earlier plastics. (=Dịch: Nhựa được sử dụng trong sản phẩm này mạnh hơn và bền hơn so với các loại nhựa trước đây.)",
       "Our aim is to build a [durable] and profitable business. (=Dịch: Mục tiêu của chúng tôi là xây dựng một doanh nghiệp bền vững và sinh lời.)"
     ],
-    "image": "assets/images/durable.jpg"
+    "image": "assets/images/durable.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "equip",
@@ -5938,7 +6394,8 @@ const vocabData = [
       "Nearly every phone on the market is [equipped] to send and receive texts. (=Dịch: Hầu hết mọi điện thoại trên thị trường đều được trang bị để gửi và nhận tin nhắn.)",
       "All our appliances are fully [equipped] with the latest safety features. (=Dịch: Tất cả các thiết bị của chúng tôi đều được trang bị hoàn toàn với các tính năng an toàn mới nhất.)"
     ],
-    "image": "assets/images/equip.jpg"
+    "image": "assets/images/equip.jpg",
+    "topic": "Technology & Communication"
   },
   {
     "word": "escort",
@@ -5951,7 +6408,8 @@ const vocabData = [
       "The police [escorted] her to the airport, and made sure that she left the country. (=Dịch: Cảnh sát đã hộ tống cô ấy đến sân bay và đảm bảo rằng cô ấy rời khỏi đất nước.)",
       "People on the tour will be [escorted] by an expert on archaeology. (=Dịch: Những người tham gia chuyến du lịch sẽ được hộ tống bởi một chuyên gia về khảo cổ học.)"
     ],
-    "image": "assets/images/escort.jpeg"
+    "image": "assets/images/escort.jpeg",
+    "topic": "Travel & Transport"
   },
   {
     "word": "excursion",
@@ -5964,7 +6422,8 @@ const vocabData = [
       "One of my favorite [excursions] was a short drive from downtown at the Ballard Locks, which is absolutely free to visitors. (=Dịch: Một trong những chuyến du ngoạn yêu thích của tôi là một chuyến lái xe ngắn từ trung tâm thành phố đến Ballard Locks, hoàn toàn miễn phí cho du khách.)",
       "As with many first-time visitors to Mexico, the short [excursion] stirs up more in the author than he can fully comprehend. (=Dịch: Giống như nhiều du khách lần đầu đến Mexico, chuyến du ngoạn ngắn làm tác giả khá xúc động hơn là anh ta có thể hiểu hết.)"
     ],
-    "image": "assets/images/excursion.jpg"
+    "image": "assets/images/excursion.jpg",
+    "topic": "Travel & Transport"
   },
   {
     "word": "glove",
@@ -5977,7 +6436,8 @@ const vocabData = [
       "People were bundled up in scarves and hats and snowpants and mittens and [gloves]. (=Dịch: Mọi người quấn mình trong khăn quàng cổ, mũ, quần tuyết, găng tay và găng tay.)",
       "Both competitors will get in the ring with maximum protection - including mouth guards, [gloves] and headgear. (=Dịch: Cả hai đối thủ sẽ vào võ đài với sự bảo vệ tối đa - bao gồm bảo vệ miệng, găng tay và mũ bảo hộ.)"
     ],
-    "image": "assets/images/glove.jpg"
+    "image": "assets/images/glove.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "graphic",
@@ -5990,7 +6450,8 @@ const vocabData = [
       "He insisted on describing his operation in [graphic] detail while we were eating lunch. (=Dịch: Anh ấy nhất quyết mô tả hoạt động của mình một cách chi tiết bằng hình ảnh trong khi chúng tôi đang ăn trưa.)",
       "Some of Picasso's [graphic] works are combinations of several techniques. (=Dịch: Một số tác phẩm đồ họa của Picasso là sự kết hợp của nhiều kỹ thuật.)"
     ],
-    "image": "assets/images/graphic.png"
+    "image": "assets/images/graphic.png",
+    "topic": "Technology & Communication"
   },
   {
     "word": "hardware",
@@ -6003,7 +6464,8 @@ const vocabData = [
       "The cost of computer [hardware] has fallen in the last ten years. (=Dịch: Chi phí phần cứng máy tính đã giảm trong mười năm qua.)",
       "Environmental protection has increasingly affected the production of building materials and [hardware]. (=Dịch: Bảo vệ môi trường ngày càng ảnh hưởng đến việc sản xuất vật liệu xây dựng và phần cứng.)"
     ],
-    "image": "assets/images/hardware.jpg"
+    "image": "assets/images/hardware.jpg",
+    "topic": "Technology & Communication"
   },
   {
     "word": "inexpensive",
@@ -6016,7 +6478,8 @@ const vocabData = [
       "Their currency is undervalued, making their goods [inexpensive] for foreigners. (=Dịch: Đồng tiền của họ bị đánh giá thấp, khiến hàng hóa của họ rẻ đối với người nước ngoài.)",
       "Can you recommend an [inexpensive] hotel? (=Dịch: Bạn có thể giới thiệu một khách sạn rẻ không?)"
     ],
-    "image": "assets/images/inexpensive.jpg"
+    "image": "assets/images/inexpensive.jpg",
+    "topic": "Shopping & Commerce"
   },
   {
     "word": "inexperience",
@@ -6029,7 +6492,8 @@ const vocabData = [
       "Yet, despite my [inexperience], I sensed that he was deadly serious when he said, \"I need your help.\" (=Dịch: Tuy nhiên, mặc dù thiếu kinh nghiệm, tôi cảm thấy rằng anh ta đang rất nghiêm túc khi nói: 'Tôi cần sự giúp đỡ của bạn.')",
       "But all three were thinking of John's youth and were fearful of his [inexperience]. (=Dịch: Nhưng cả ba đều nghĩ đến tuổi trẻ của John và lo sợ sự thiếu kinh nghiệm của anh ta.)"
     ],
-    "image": "assets/images/inexperience.jpg"
+    "image": "assets/images/inexperience.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "lengthy",
@@ -6042,7 +6506,8 @@ const vocabData = [
       "Agreement was finally reached after very [lengthy] discussions. (=Dịch: Thỏa thuận cuối cùng đã đạt được sau các cuộc thảo luận rất dài.)",
       "After a fairly [lengthy] delay, we were able to continue. (=Dịch: Sau một khoảng thời gian trì hoãn khá dài, chúng tôi đã có thể tiếp tục.)"
     ],
-    "image": "assets/images/lengthy.jpg"
+    "image": "assets/images/lengthy.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "librarian",
@@ -6055,7 +6520,8 @@ const vocabData = [
       "Ask reference [librarians] where to look for general information on your subject. (=Dịch: Hỏi các thủ thư tham khảo xem tìm thông tin tổng quát về chủ đề của bạn ở đâu.)",
       "The most important application for our mobile manipulator is the [librarian] robot. (=Dịch: Ứng dụng quan trọng nhất cho người máy di động của chúng tôi là robot thủ thư.)"
     ],
-    "image": "assets/images/librarian.jpg"
+    "image": "assets/images/librarian.jpg",
+    "topic": "Education & Learning"
   },
   {
     "word": "malfunction",
@@ -6068,7 +6534,8 @@ const vocabData = [
       "There was no evidence of technical [malfunction]. (=Dịch: Không có bằng chứng về lỗi kỹ thuật.)",
       "Shortly before the crash the pilot had reported a [malfunction] of the aircraft's navigation system. (=Dịch: Ngay trước khi tai nạn xảy ra, phi công đã báo cáo về sự cố của hệ thống dẫn đường của máy bay.)"
     ],
-    "image": "assets/images/malfunction.jpg"
+    "image": "assets/images/malfunction.jpg",
+    "topic": "Travel & Transport"
   },
   {
     "word": "mask",
@@ -6081,7 +6548,8 @@ const vocabData = [
       "The kids were all wearing animal [masks]. (=Dịch: Các đứa trẻ đều đeo mặt nạ động vật.)",
       "In the second part of the play, the actors take off their [masks]. (=Dịch: Trong phần hai của vở kịch, các diễn viên tháo mặt nạ của họ.)"
     ],
-    "image": "assets/images/mask.jpg"
+    "image": "assets/images/mask.jpg",
+    "topic": "Art & Entertainment"
   },
   {
     "word": "meantime",
@@ -6094,7 +6562,8 @@ const vocabData = [
       "The next programme starts in five minutes; in the [meantime], here's some music. (=Dịch: Chương trình tiếp theo sẽ bắt đầu trong năm phút nữa; trong lúc chờ đợi, đây là vài bản nhạc.)",
       "The party is Tuesday, but in the [meantime] I have to shop and prepare the food (=Dịch: Bữa tiệc vào thứ ba, nhưng trong thời gian đó tôi phải đi mua sắm và chuẩn bị thức ăn.)"
     ],
-    "image": "assets/images/meantime.jpg"
+    "image": "assets/images/meantime.jpg",
+    "topic": "Food & Restaurant"
   },
   {
     "word": "merge",
@@ -6107,7 +6576,8 @@ const vocabData = [
       "The villages expanded and [merged] into one large town. (=Dịch: Các ngôi làng mở rộng và hợp nhất thành một thị trấn lớn.)",
       "Fact and fiction [merge] together in his latest thriller. (=Dịch: Thực tế và hư cấu hợp nhất với nhau trong cuốn truyện kinh dị mới nhất của anh ấy.)"
     ],
-    "image": "assets/images/merge.jpg"
+    "image": "assets/images/merge.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "outdate",
@@ -6120,7 +6590,8 @@ const vocabData = [
       "Your time out of the regular work-force decreases your employability and [outdates] your previous work experience. (=Dịch: Thời gian bạn không tham gia vào lực lượng lao động chính thức làm giảm khả năng tuyển dụng của bạn và làm lỗi thời kinh nghiệm làm việc trước đây của bạn.)",
       "A liberal arts education is even more valuable today precisely because technology [outdates] itself so rapidly. (=Dịch: Giáo dục nghệ thuật tự do thậm chí còn có giá trị hơn ngày nay chính vì công nghệ tự làm cho nó trở nên lỗi thời quá nhanh chóng.)"
     ],
-    "image": "assets/images/outdate.jpg"
+    "image": "assets/images/outdate.jpg",
+    "topic": "Education & Learning"
   },
   {
     "word": "patience",
@@ -6133,7 +6604,8 @@ const vocabData = [
       "The children were beginning to try my [patience]. (=Dịch: Bọn trẻ bắt đầu thử thách sự kiên nhẫn của tôi.)",
       "They thanked him for showing so much [patience]. (=Dịch: Họ cảm ơn anh vì đã thể hiện rất nhiều sự kiên nhẫn.)"
     ],
-    "image": "assets/images/patience.jpg"
+    "image": "assets/images/patience.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "performer",
@@ -6146,7 +6618,8 @@ const vocabData = [
       "The president was a polished television [performer]. (=Dịch: Tổng thống là một người biểu diễn truyền hình điêu luyện.)",
       "By the age of 15, Allan had become an experienced circus [performer] (=Dịch: Đến tuổi 15, Allan đã trở thành một nghệ sĩ xiếc có kinh nghiệm.)"
     ],
-    "image": "assets/images/performer.jpg"
+    "image": "assets/images/performer.jpg",
+    "topic": "Art & Entertainment"
   },
   {
     "word": "pharmacist",
@@ -6159,7 +6632,8 @@ const vocabData = [
       "Ask your [pharmacist] for advice on which medicines they can supply without prescription. (=Dịch: Hỏi dược sĩ của bạn để được tư vấn về thuốc họ có thể cung cấp mà không cần đơn thuốc.)",
       "A [pharmacist] may require a doctor's prescription to dispense certain medicines. (=Dịch: Một dược sĩ có thể yêu cầu đơn thuốc của bác sĩ để phát một số loại thuốc nhất định.)"
     ],
-    "image": "assets/images/pharmacist.jpg"
+    "image": "assets/images/pharmacist.jpg",
+    "topic": "Shopping & Commerce"
   },
   {
     "word": "pizza",
@@ -6172,7 +6646,8 @@ const vocabData = [
       "a slice of cheese and tomato [pizza] (=Dịch: một lát bánh pizza phô mai và cà chua)",
       "a ham and mushroom [pizza] (=Dịch: một chiếc pizza giăm bông và nấm)"
     ],
-    "image": "assets/images/pizza.jpg"
+    "image": "assets/images/pizza.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "postcard",
@@ -6185,7 +6660,8 @@ const vocabData = [
       "I'll send you a [postcard] as soon as I get there. (=Dịch: Tôi sẽ gửi cho bạn một bưu thiếp ngay khi tôi đến đó.)",
       "Please send in your name and address on a [postcard]. (=Dịch: Vui lòng gửi tên và địa chỉ của bạn trên một bưu thiếp.)"
     ],
-    "image": "assets/images/postcard.jpg"
+    "image": "assets/images/postcard.jpg",
+    "topic": "Shopping & Commerce"
   },
   {
     "word": "prospective",
@@ -6198,7 +6674,8 @@ const vocabData = [
       "The careers fair gives students a chance to meet [prospective] employers. (=Dịch: Hội chợ nghề nghiệp cho phép sinh viên có cơ hội gặp gỡ các nhà tuyển dụng tiềm năng.)",
       "The shares are trading at 15 times forecast earnings with an attractive [prospective] yield of 5.2%. (=Dịch: Cổ phiếu đang được giao dịch ở mức gấp 15 lần thu nhập dự báo với lợi suất tiềm năng hấp dẫn là 5,2%.)"
     ],
-    "image": "assets/images/prospective.jpg"
+    "image": "assets/images/prospective.jpg",
+    "topic": "Shopping & Commerce"
   },
   {
     "word": "purchaser",
@@ -6211,7 +6688,8 @@ const vocabData = [
       "The sale of the property is complete when both the vendor and the [purchaser] have signed the relevant documents. (=Dịch: Việc bán tài sản hoàn tất khi cả người bán và người mua đã ký các tài liệu liên quan.)",
       "The world's single largest [purchaser] of oil is the Pentagon. (=Dịch: Người mua dầu lớn nhất thế giới là Lầu Năm Góc.)"
     ],
-    "image": "assets/images/purchaser.jpg"
+    "image": "assets/images/purchaser.jpg",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "purse",
@@ -6224,7 +6702,8 @@ const vocabData = [
       "She had her [purse] snatched while she was in town. (=Dịch: Cô ấy bị giật ví khi đang ở trong thị trấn.)",
       "I took a coin out of my [purse] and gave it to the child. (=Dịch: Tôi lấy một đồng xu ra khỏi ví của mình và đưa nó cho đứa trẻ.)"
     ],
-    "image": "assets/images/purse.jpg"
+    "image": "assets/images/purse.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "realtor",
@@ -6237,7 +6716,8 @@ const vocabData = [
       "a commercial/local [realtor] (=Dịch: một người môi giới thương mại/địa phương)",
       "Not all real estate agents are members of the [Realtor] association. (=Dịch: Không phải tất cả các đại lý bất động sản đều là thành viên của hiệp hội Môi giới.)"
     ],
-    "image": "assets/images/realtor.jpg"
+    "image": "assets/images/realtor.jpg",
+    "topic": "Shopping & Commerce"
   },
   {
     "word": "rearrange",
@@ -6250,7 +6730,8 @@ const vocabData = [
       "I'm busy tomorrow - could we [rearrange] the meeting for Monday (= have it on Monday instead)? (=Dịch: Tôi bận ngày mai - chúng ta có thể sắp xếp lại cuộc họp vào thứ Hai không (nghĩa là tổ chức vào thứ Hai thay vì ngày mai)?)",
       "She'd [rearranged] the appointment without telling me. (=Dịch: Cô ấy đã tự sắp xếp lại cuộc hẹn mà không nói với tôi.)"
     ],
-    "image": "assets/images/rearrange.jpg"
+    "image": "assets/images/rearrange.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "reopen",
@@ -6263,7 +6744,8 @@ const vocabData = [
       "He hung a sign on the door of the shop which said it would [reopen] at 11.00. (=Dịch: Anh ấy treo một tấm biển trên cửa của cửa hàng nói rằng nó sẽ mở cửa lại lúc 11 giờ.)",
       "Restaurant and hotel owners were wondering when they could [reopen]. (=Dịch: Các chủ nhà hàng và khách sạn đang tự hỏi khi nào họ có thể mở cửa trở lại.)"
     ],
-    "image": "assets/images/reopen.jpg"
+    "image": "assets/images/reopen.jpg",
+    "topic": "Food & Restaurant"
   },
   {
     "word": "resignation",
@@ -6276,7 +6758,8 @@ const vocabData = [
       "The book discusses his illness and subsequent [resignation] from the government. (=Dịch: Cuốn sách thảo luận về căn bệnh của ông ấy và việc từ chức sau đó khỏi chính phủ.)",
       "There is no truth in the reports of his [resignation]. (=Dịch: Không có sự thật nào trong các báo cáo về việc từ chức của ông ấy.)"
     ],
-    "image": "assets/images/resignation.jpg"
+    "image": "assets/images/resignation.jpg",
+    "topic": "Law & Government"
   },
   {
     "word": "reviewer",
@@ -6289,7 +6772,8 @@ const vocabData = [
       "a book [reviewer] for 'The Guardian' (=Dịch: một nhà phê bình sách cho 'The Guardian')",
       "The movie was enthusiastically received by the [reviewers]. (=Dịch: Bộ phim đã được những nhà phê bình đón nhận nồng nhiệt.)"
     ],
-    "image": "assets/images/reviewer.jpg"
+    "image": "assets/images/reviewer.jpg",
+    "topic": "Job & Career"
   },
   {
     "word": "revision",
@@ -6302,7 +6786,8 @@ const vocabData = [
       "He was forced to make several [revisions] to his speech. (=Dịch: Anh ta buộc phải thực hiện nhiều chỉnh sửa cho bài phát biểu của mình.)",
       "The official picture of the US labor market was complicated by statistical [revisions] of earlier estimates. (=Dịch: Bức tranh chính thức về thị trường lao động Mỹ trở nên phức tạp bởi những điều chỉnh thống kê của các ước tính trước đó.)"
     ],
-    "image": "assets/images/revision.jpg"
+    "image": "assets/images/revision.jpg",
+    "topic": "Shopping & Commerce"
   },
   {
     "word": "soap",
@@ -6315,7 +6800,8 @@ const vocabData = [
       "To get rid of grease spots on clothing, rub a little dish [soap] on the spot before washing. (=Dịch: Để loại bỏ vết dầu mỡ trên quần áo, chà một ít xà phòng rửa chén lên vết bẩn trước khi giặt.)",
       "There was no [soap], so I just rinsed my hands with water. (=Dịch: Không có xà phòng nên tôi chỉ rửa tay bằng nước.)"
     ],
-    "image": "assets/images/soap.jpg"
+    "image": "assets/images/soap.jpg",
+    "topic": "Food & Restaurant"
   },
   {
     "word": "spokesperson",
@@ -6328,7 +6814,8 @@ const vocabData = [
       "A company [spokesperson] said that customers would get their money by the end of this week. (=Dịch: Người phát ngôn của công ty cho biết khách hàng sẽ nhận được tiền của họ vào cuối tuần này.)",
       "A [spokesperson] for the company noted that premium increases have fallen from 19% to 10% per year. (=Dịch: Người phát ngôn của công ty lưu ý rằng mức tăng phí bảo hiểm đã giảm từ 19% xuống 10% mỗi năm.)"
     ],
-    "image": "assets/images/spokesperson.jpg"
+    "image": "assets/images/spokesperson.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "strictly",
@@ -6341,7 +6828,8 @@ const vocabData = [
       "The use of cameras in this museum is [strictly] forbidden. (=Dịch: Việc sử dụng máy ảnh trong bảo tàng này bị nghiêm cấm.)",
       "The export of ivory is now [strictly] controlled. (=Dịch: Việc xuất khẩu ngà voi hiện đang được kiểm soát nghiêm ngặt.)"
     ],
-    "image": "assets/images/strictly.jpg"
+    "image": "assets/images/strictly.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "terminate",
@@ -6354,7 +6842,8 @@ const vocabData = [
       "This train will [terminate] at the next stop - passengers who wish to continue should change trains. (=Dịch: Chuyến tàu này sẽ dừng tại trạm tiếp theo - hành khách muốn tiếp tục nên đổi tàu.)",
       "Trains that used to [terminate] in Hoboken now run into New York. (=Dịch: Những chuyến tàu từng kết thúc ở Hoboken bây giờ chạy đến New York.)"
     ],
-    "image": "assets/images/terminate.jpg"
+    "image": "assets/images/terminate.jpg",
+    "topic": "Travel & Transport"
   },
   {
     "word": "tomato",
@@ -6367,7 +6856,8 @@ const vocabData = [
       "Layer the pasta with slices of [tomato]. (=Dịch: Xếp lớp mì ống với các lát cà chua.)",
       "Cut the [tomato] in half and scoop out the seeds. (=Dịch: Cắt cà chua làm đôi và múc hạt ra.)"
     ],
-    "image": "assets/images/tomato.jpg"
+    "image": "assets/images/tomato.jpg",
+    "topic": "Education & Learning"
   },
   {
     "word": "translation",
@@ -6380,7 +6870,8 @@ const vocabData = [
       "A literal [translation] of \"euthanasia\" would be \"good death\". (=Dịch: Bản dịch theo nghĩa đen của 'euthanasia' sẽ là 'cái chết êm ái'.)",
       "The English version is boring - maybe it has lost something in [translation] (= is not as good as the original). (=Dịch: Bản tiếng Anh chán quá - có lẽ nó đã bỏ sót điều gì đó trong [bản dịch] (= không hay bằng bản gốc).)"
     ],
-    "image": "assets/images/translation.jpg"
+    "image": "assets/images/translation.jpg",
+    "topic": "Education & Learning"
   },
   {
     "word": "tray",
@@ -6393,7 +6884,8 @@ const vocabData = [
       "Oh, you're a sweetheart,  she said, when I placed the breakfast [tray] on her lap. (=Dịch: Ồ, bạn thật là một người ngọt ngào, cô ấy nói, khi tôi đặt khay bữa sáng lên đùi cô ấy.)",
       "Watch out! he shouted, but it was too late - she had knocked the whole [tray] of drinks on the floor. (=Dịch: Coi chừng! anh ấy hét lên, nhưng đã quá muộn - cô ấy đã làm rơi cả khay đồ uống xuống sàn.)"
     ],
-    "image": "assets/images/tray.jpg"
+    "image": "assets/images/tray.jpg",
+    "topic": "Food & Restaurant"
   },
   {
     "word": "unfamiliar",
@@ -6406,7 +6898,8 @@ const vocabData = [
       "She felt increasingly nervous as she walked across a room full of [unfamiliar] faces. (=Dịch: Cô ấy cảm thấy ngày càng lo lắng khi đi qua một căn phòng đầy những khuôn mặt xa lạ.)",
       "I'm afraid you'll have to explain things to me, I'm [unfamiliar] with this system. (=Dịch: Tôi e rằng bạn sẽ phải giải thích mọi thứ cho tôi, tôi không quen với hệ thống này.)"
     ],
-    "image": "assets/images/unfamiliar.jpg"
+    "image": "assets/images/unfamiliar.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "vendor",
@@ -6419,7 +6912,8 @@ const vocabData = [
       "The [vendor] of the house wants to exchange contracts this week. (=Dịch: Người bán ngôi nhà muốn trao đổi hợp đồng trong tuần này.)",
       "Our company deals with many [vendors] of women's clothing. (=Dịch: Công ty chúng tôi làm việc với nhiều nhà cung cấp quần áo phụ nữ.)"
     ],
-    "image": "assets/images/vendor.jpg"
+    "image": "assets/images/vendor.jpg",
+    "topic": "Shopping & Commerce"
   },
   {
     "word": "withdrawal",
@@ -6432,7 +6926,8 @@ const vocabData = [
       "The general has ordered a partial [withdrawal] of troops from the area. (=Dịch: Tướng đã ra lệnh rút một phần quân khỏi khu vực.)",
       "Customers will not be charged for [withdrawals]. (=Dịch: Khách hàng sẽ không bị tính phí khi rút tiền.)"
     ],
-    "image": "assets/images/withdrawal.jpg"
+    "image": "assets/images/withdrawal.jpg",
+    "topic": "Shopping & Commerce"
   },
   {
     "word": "accessory",
@@ -6445,7 +6940,8 @@ const vocabData = [
       "At the very least their actions make them an [accessory] to crime (=Dịch: Ít nhất thì hành động của họ khiến họ trở thành đồng phạm hành động tội ác)",
       "And should she thus be punished in the same way as the actual murderers, as an [accessory] to the crime? (=Dịch: Và liệu cô ấy nên bị trừng phạt theo cách giống như những kẻ giết người thực sự, như một đồng phạm của tội ác không?)"
     ],
-    "image": "assets/images/accessory.jpeg"
+    "image": "assets/images/accessory.jpeg",
+    "topic": "Law & Government"
   },
   {
     "word": "airfare",
@@ -6458,7 +6954,8 @@ const vocabData = [
       "Price [airfares] and vacation packages on several different sites to see what the average rate is for your travel dates. (=Dịch: So sánh giá vé máy bay và gói kỳ nghỉ trên nhiều trang web khác nhau để xem mức giá trung bình cho ngày du lịch của bạn là bao nhiêu.)",
       "The site aims to find you the best real-time prices on [airfares] by trawling 35 airlines and travel websites (=Dịch: Trang web nhằm tìm cho bạn giá vé máy bay thời gian thực tốt nhất bằng cách duyệt qua 35 hãng hàng không và trang web du lịch.)"
     ],
-    "image": "assets/images/airfare.jpg"
+    "image": "assets/images/airfare.jpg",
+    "topic": "Travel & Transport"
   },
   {
     "word": "alert",
@@ -6471,7 +6968,8 @@ const vocabData = [
       "We had to be [alert] to any danger signs in the economy. (=Dịch: Chúng tôi phải cảnh giác với bất kỳ dấu hiệu nguy hiểm nào trong nền kinh tế.)",
       "One consequence is that consumers are more [alert] to influences than ever before. (=Dịch: Một hậu quả là người tiêu dùng [cảnh giác] trước những ảnh hưởng hơn bao giờ hết.)"
     ],
-    "image": "assets/images/alert.jpg"
+    "image": "assets/images/alert.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "assembly",
@@ -6484,7 +6982,8 @@ const vocabData = [
       "All pupils are expected to attend school [assembly]. (=Dịch: Tất cả học sinh được yêu cầu tham dự buổi họp mặt của trường.)",
       "If you don't organize the demonstration properly the police will say it's an illegal [assembly]. (=Dịch: Nếu bạn không tổ chức cuộc biểu tình một cách đúng đắn, cảnh sát sẽ nói rằng đó là một cuộc họp bất hợp pháp.)"
     ],
-    "image": "assets/images/assembly.jpg"
+    "image": "assets/images/assembly.jpg",
+    "topic": "Education & Learning"
   },
   {
     "word": "auditorium",
@@ -6497,7 +6996,8 @@ const vocabData = [
       "The lecture will be held in the conference [auditorium]. (=Dịch: Bài giảng sẽ được tổ chức tại khán phòng hội nghị.)",
       "There is in the making a ruling to prohibit cell phones in all theatre [auditoriums]. (=Dịch: Đang có quy định cấm điện thoại di động trong tất cả các khán phòng nhà hát.)"
     ],
-    "image": "assets/images/auditorium.jpg"
+    "image": "assets/images/auditorium.jpg",
+    "topic": "Art & Entertainment"
   },
   {
     "word": "bake",
@@ -6510,7 +7010,8 @@ const vocabData = [
       "The old ovens are wood-fired and [bake] beautiful bread. (=Dịch: Những cái lò cũ được đốt bằng củi và nướng bánh mì rất đẹp.)",
       "The advantage lies in the fact that microwave oven [bakes] the moist ingredients about three times faster. (=Dịch: Ưu điểm nằm ở chỗ lò vi sóng nướng các thành phần ẩm nhanh hơn khoảng ba lần.)"
     ],
-    "image": "assets/images/bake.jpg"
+    "image": "assets/images/bake.jpg",
+    "topic": "Food & Restaurant"
   },
   {
     "word": "basket",
@@ -6523,7 +7024,8 @@ const vocabData = [
       "A flower arrangement in a large [basket] stood on a (flower) pedestal in the corner of the room. (=Dịch: Một bình hoa được sắp xếp trong một giỏ lớn đặt trên một chân đế (hoa) ở góc phòng.)",
       "Most of the letters they receive end up in the wastepaper [basket]. (=Dịch: Hầu hết những lá thư mà họ nhận được cuối cùng đều bị vứt vào giỏ rác.)"
     ],
-    "image": "assets/images/basket.jpg"
+    "image": "assets/images/basket.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "businessperson",
@@ -6536,7 +7038,8 @@ const vocabData = [
       "He was accused of accepting bribes from wealthy [businessperson]. (=Dịch: Anh ấy bị buộc tội nhận hối lộ từ những doanh nhân giàu có.)",
       "She watched the [businessperson] walk past in their pinstripes. (=Dịch: Cô ấy nhìn doanh nhân đi ngang qua trong bộ đồ sọc nhỏ của họ.)"
     ],
-    "image": "assets/images/businessperson.jpg"
+    "image": "assets/images/businessperson.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "celebrity",
@@ -6549,7 +7052,8 @@ const vocabData = [
       "For years, young people have been inspired by [celebrities] like pop stars and footballers. (=Dịch: Trong nhiều năm, những người trẻ đã được truyền cảm hứng bởi các ngôi sao nhạc pop và cầu thủ bóng đá.)",
       "Unicef has a tradition of working with [celebrities], who promote their message all over the world. (=Dịch: Unicef có truyền thống làm việc với những người nổi tiếng, những người quảng bá thông điệp của họ trên khắp thế giới.)"
     ],
-    "image": "assets/images/celebrity.jpg"
+    "image": "assets/images/celebrity.jpg",
+    "topic": "Job & Career"
   },
   {
     "word": "certification",
@@ -6562,7 +7066,8 @@ const vocabData = [
       "Adult workers are increasingly going back to school for a degree or [certification] to improve their job opportunities. (=Dịch: Người lao động trưởng thành ngày càng trở lại trường học để lấy bằng hoặc chứng nhận nhằm cải thiện cơ hội việc làm của họ.)",
       "The new division received $10,000 in training funds that will help staff gain [certification] in insurance procedures. (=Dịch: Bộ phận mới đã nhận được 10.000 USD từ quỹ đào tạo để giúp nhân viên đạt được [chứng chỉ] về các thủ tục bảo hiểm.)"
     ],
-    "image": "assets/images/certification.jpg"
+    "image": "assets/images/certification.jpg",
+    "topic": "Education & Learning"
   },
   {
     "word": "closure",
@@ -6575,7 +7080,8 @@ const vocabData = [
       "The car maker was saved from [closure] in 2006. (=Dịch: Hãng sản xuất ô tô đã được cứu khỏi việc đóng cửa vào năm 2006.)",
       "Many elderly people will be affected by the library [closures]. (=Dịch: Nhiều người cao tuổi sẽ bị ảnh hưởng bởi việc đóng cửa thư viện.)"
     ],
-    "image": "assets/images/closure.jpg"
+    "image": "assets/images/closure.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "considerably",
@@ -6588,7 +7094,8 @@ const vocabData = [
       "Getting a new assistant will lighten the workload [considerably]. (=Dịch: Có một trợ lý mới sẽ giảm bớt khối lượng công việc đáng kể.)",
       "Fiorentina's win against Palermo last night has [considerably] increased their chances of promotion this season. (=Dịch: Chiến thắng của Fiorentina trước Palermo đêm qua đã tăng cơ hội thăng hạng của họ mùa này một cách đáng kể.)"
     ],
-    "image": "assets/images/considerably.jpg"
+    "image": "assets/images/considerably.jpg",
+    "topic": "Job & Career"
   },
   {
     "word": "deduct",
@@ -6601,7 +7108,8 @@ const vocabData = [
       "Tax and National Insurance contributions are [deducted] at source, before you receive your salary. (=Dịch: Thuế và các khoản đóng góp Bảo hiểm Quốc gia được khấu trừ tại nguồn, trước khi bạn nhận lương.)",
       "There are many expenses you can [deduct] from your income before calculating tax. (=Dịch: Có nhiều khoản chi phí bạn có thể khấu trừ từ thu nhập của mình trước khi tính thuế.)"
     ],
-    "image": "assets/images/deduct.jpg"
+    "image": "assets/images/deduct.jpg",
+    "topic": "Law & Government"
   },
   {
     "word": "dislike",
@@ -6614,7 +7122,8 @@ const vocabData = [
       "I can't imagine why she became a teacher because she obviously [dislikes] children intensely! (=Dịch: Tôi không thể tưởng tượng tại sao cô ấy lại trở thành giáo viên vì rõ ràng cô ấy rất ghét trẻ con!)",
       "Overall it's really hard to imagine anyone [disliking] this album. (=Dịch: Nói chung, thật khó để tưởng tượng ai đó không thích album này.)"
     ],
-    "image": "assets/images/dislike.jpg"
+    "image": "assets/images/dislike.jpg",
+    "topic": "Education & Learning"
   },
   {
     "word": "disruption",
@@ -6627,7 +7136,8 @@ const vocabData = [
       "The strike brought severe [disruption] to flights over the holiday weekend. (=Dịch: Cuộc đình công đã mang đến sự gián đoạn nghiêm trọng cho các chuyến bay trong kỳ nghỉ cuối tuần.)",
       "A crackdown on illegal-immigrant hiring could create widespread workplace [disruptions]. (=Dịch: Một cuộc trấn áp việc thuê người nhập cư bất hợp pháp có thể tạo ra sự gián đoạn lớn tại nơi làm việc.)"
     ],
-    "image": "assets/images/disruption.jpg"
+    "image": "assets/images/disruption.jpg",
+    "topic": "Job & Career"
   },
   {
     "word": "downstairs",
@@ -6640,7 +7150,8 @@ const vocabData = [
       "Did you put the lights out [downstairs]? (=Dịch: Bạn đã tắt đèn ở dưới nhà chưa?)",
       "The residents living on the top floors immediately alerted their neighbours living [downstairs]. (=Dịch: Những cư dân sống ở tầng trên lập tức báo cho hàng xóm sống ở tầng dưới biết.)"
     ],
-    "image": "assets/images/downstairs.jpg"
+    "image": "assets/images/downstairs.jpg",
+    "topic": "Technology & Communication"
   },
   {
     "word": "electrician",
@@ -6653,7 +7164,8 @@ const vocabData = [
       "For the past year, he has worked as an [electrician] at a plant in Manchester. (=Dịch: Trong năm qua, anh ấy đã làm việc như một thợ điện tại một nhà máy ở Manchester.)",
       "A number of local [electricians] did all the electrical work in the new sports hall in a few hours on Saturday morning. (=Dịch: Một số thợ điện địa phương đã hoàn thành tất cả công việc điện trong nhà thể thao mới trong vài giờ vào sáng thứ Bảy.)"
     ],
-    "image": "assets/images/electrician.jpg"
+    "image": "assets/images/electrician.jpg",
+    "topic": "Job & Career"
   },
   {
     "word": "enthusiastic",
@@ -6666,7 +7178,8 @@ const vocabData = [
       "She is a lively, dedicated and [enthusiastic] volunteer and we are all very proud of her. (=Dịch: Cô ấy là một tình nguyện viên sôi nổi, tận tâm và nhiệt huyết, và tất cả chúng tôi đều rất tự hào về cô ấy.)",
       "Such interest was at least as [enthusiastic] in the provinces as in the metropolis. (=Dịch: Sự quan tâm đó ít nhất cũng nhiệt tình ở các tỉnh như ở thủ đô.)"
     ],
-    "image": "assets/images/enthusiastic.jpg"
+    "image": "assets/images/enthusiastic.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "faulty",
@@ -6679,7 +7192,8 @@ const vocabData = [
       "The verdict was based on [faulty] reasoning on the part of the jury. (=Dịch: Phán quyết dựa trên lý luận sai lầm của bồi thẩm đoàn.)",
       "[Faulty] record-keeping meant that many patients did not get appropriate treatment. (=Dịch: Việc lưu giữ hồ sơ không chính xác có nghĩa là nhiều bệnh nhân đã không nhận được sự điều trị thích hợp.)"
     ],
-    "image": "assets/images/faulty.jpg"
+    "image": "assets/images/faulty.jpg",
+    "topic": "Health & Medicine"
   },
   {
     "word": "graduation",
@@ -6692,7 +7206,8 @@ const vocabData = [
       "Two years of foreign language are a [graduation] requirement. (=Dịch: Hai năm học ngoại ngữ là một yêu cầu tốt nghiệp.)",
       "The jobs scheme requires that graduates stay in Scotland for two years after [graduation]. (=Dịch: Chương trình việc làm yêu cầu rằng sinh viên tốt nghiệp ở lại Scotland trong hai năm sau khi tốt nghiệp.)"
     ],
-    "image": "assets/images/graduation.jpg"
+    "image": "assets/images/graduation.jpg",
+    "topic": "Education & Learning"
   },
   {
     "word": "hobby",
@@ -6705,7 +7220,8 @@ const vocabData = [
       "This might be an opportune time to explore or return to [hobbies], leisure activities or career pursuits. (=Dịch: Đây có thể là thời điểm thuận lợi để khám phá hoặc quay lại với các sở thích, hoạt động giải trí hoặc việc theo đuổi sự nghiệp.)",
       "Take a course or find an activity or [hobby] that brings you pleasure and allows you to meet people. (=Dịch: Hãy tham gia một khóa học hoặc tìm một hoạt động hoặc sở thích mang lại cho bạn niềm vui và giúp bạn gặp gỡ mọi người.)"
     ],
-    "image": "assets/images/hobby.jpg"
+    "image": "assets/images/hobby.jpg",
+    "topic": "Education & Learning"
   },
   {
     "word": "icy",
@@ -6718,7 +7234,8 @@ const vocabData = [
       "The weather warning came during a day which saw severe [icy] conditions making life miserable for many in East Yorkshire yesterday. (=Dịch: Cảnh báo thời tiết đến trong một ngày chứng kiến điều kiện băng giá nghiêm trọng khiến cuộc sống trở nên khổ sở cho nhiều người ở Đông Yorkshire hôm qua.)",
       "Heavy frost set in, making already [icy] conditions even more hazardous. (=Dịch: Sương giá nặng đã xuất hiện, làm cho điều kiện băng giá vốn có trở nên nguy hiểm hơn.)"
     ],
-    "image": "assets/images/icy.png"
+    "image": "assets/images/icy.png",
+    "topic": "Science & Nature"
   },
   {
     "word": "informal",
@@ -6731,7 +7248,8 @@ const vocabData = [
       "The aim of the trip was to make [informal] contact with potential customers. (=Dịch: Mục đích của chuyến đi là để có liên hệ không chính thức với các khách hàng tiềm năng.)",
       "These meetings should remain purely [informal], with no obligation on either side. (=Dịch: Những cuộc họp này nên giữ tính chất hoàn toàn không chính thức, không có nghĩa vụ cho cả hai bên.)"
     ],
-    "image": "assets/images/informal.jpg"
+    "image": "assets/images/informal.jpg",
+    "topic": "Travel & Transport"
   },
   {
     "word": "irregular",
@@ -6744,7 +7262,8 @@ const vocabData = [
       "This stuff's great for renovating uneven, [irregular] surfaces. (=Dịch: Thứ này rất tuyệt để tu sửa các bề mặt không đều, không đều đặn.)",
       "an [irregular] outline (=Dịch: một đường viền bất thường)"
     ],
-    "image": "assets/images/irregular.jpg"
+    "image": "assets/images/irregular.jpg",
+    "topic": "Law & Government"
   },
   {
     "word": "kilometer",
@@ -6757,7 +7276,8 @@ const vocabData = [
       "She had been driving at 110 [kilometers] per hour. (=Dịch: Cô ấy đã lái xe với tốc độ 110 km một giờ.)",
       "Monaco is only two square [kilometers] in size. (=Dịch: Monaco chỉ có diện tích hai km vuông.)"
     ],
-    "image": "assets/images/kilometer.jpg"
+    "image": "assets/images/kilometer.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "lawn",
@@ -6770,7 +7290,8 @@ const vocabData = [
       "In summer we have to mow the [lawn] twice a week. (=Dịch: Vào mùa hè, chúng tôi phải cắt cỏ hai lần một tuần.)",
       "The hotel boasts two tennis courts and a croquet [lawn]. (=Dịch: Khách sạn có hai sân tennis và một sân cỏ chơi croquet.)"
     ],
-    "image": "assets/images/lawn.jpg"
+    "image": "assets/images/lawn.jpg",
+    "topic": "Science & Nature"
   },
   {
     "word": "login",
@@ -6783,7 +7304,8 @@ const vocabData = [
       "I [login] to my Twitter account. (=Dịch: Tôi đăng nhập vào tài khoản Twitter của mình.)",
       "The system is unable to [login]. (=Dịch: Hệ thống không thể đăng nhập.)"
     ],
-    "image": "assets/images/login.jpg"
+    "image": "assets/images/login.jpg",
+    "topic": "Technology & Communication"
   },
   {
     "word": "managerial",
@@ -6796,7 +7318,8 @@ const vocabData = [
       "Some see themselves as the provider of ideas, while others view their role as essentially [managerial].  (=Dịch: Một số người coi mình là người cung cấp ý tưởng, trong khi những người khác xem vai trò của mình chủ yếu là quản lý.)",
       "Those who want to move into a [managerial] position are offered training and mentoring. (=Dịch: Những ai muốn chuyển vào vị trí quản lý đều được cung cấp đào tạo và cố vấn.)"
     ],
-    "image": "assets/images/managerial.jpg"
+    "image": "assets/images/managerial.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "microscope",
@@ -6809,7 +7332,8 @@ const vocabData = [
       "a section of a potato as seen through a [microscope] (=Dịch: một phần của khoai tây được nhìn qua kính hiển vi)",
       "a [microscope] slide (=Dịch: một lam kính hiển vi)"
     ],
-    "image": "assets/images/microscope.jpg"
+    "image": "assets/images/microscope.jpg",
+    "topic": "Technology & Communication"
   },
   {
     "word": "mineral",
@@ -6822,7 +7346,8 @@ const vocabData = [
       "There are rich [mineral] resources in the Appalachian mountains. (=Dịch: Có nguồn tài nguyên khoáng sản phong phú ở dãy núi Appalachian.)",
       "Many people take vitamin and [mineral] supplements. (=Dịch: Nhiều người dùng bổ sung vitamin và khoáng chất.)"
     ],
-    "image": "assets/images/mineral.jpg"
+    "image": "assets/images/mineral.jpg",
+    "topic": "Science & Nature"
   },
   {
     "word": "mislead",
@@ -6835,7 +7360,8 @@ const vocabData = [
       "Statistics taken on their own are liable to [mislead]. (=Dịch: Số liệu thống kê nếu tự nó có thể gây hiểu lầm.)",
       "[Misleading] the court in a trial is a serious offence. (=Dịch: Lừa dối tòa án trong phiên xử là một hành vi nghiêm trọng.)"
     ],
-    "image": "assets/images/mislead.jpg"
+    "image": "assets/images/mislead.jpg",
+    "topic": "Law & Government"
   },
   {
     "word": "misplace",
@@ -6848,7 +7374,8 @@ const vocabData = [
       "Somehow the suitcase with my clothes was [misplaced]. (=Dịch: Bằng cách nào đó va li chứa quần áo của tôi đã bị thất lạc.)",
       "She put a hand up to her mouth and looked around as if she was searching for a [misplaced] book. (=Dịch: Cô ấy đưa tay lên miệng và nhìn xung quanh như thể cô ấy đang tìm kiếm một quyển sách bị thất lạc.)"
     ],
-    "image": "assets/images/misplace.jpg"
+    "image": "assets/images/misplace.jpg",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "motorcycle",
@@ -6861,7 +7388,8 @@ const vocabData = [
       "The car was accompanied by a police [motorcycle] escort. (=Dịch: Xe ô tô được hộ tống bởi một đội xe máy cảnh sát.)",
       "She climbed onto the back of my [motorcycle]. (=Dịch: Cô ấy leo lên phía sau xe máy của tôi.)"
     ],
-    "image": "assets/images/motorcycle.jpg"
+    "image": "assets/images/motorcycle.jpg",
+    "topic": "Travel & Transport"
   },
   {
     "word": "necessity",
@@ -6874,7 +7402,8 @@ const vocabData = [
       "Air-conditioning is an absolute [necessity] in this climate. (=Dịch: Điều hòa không khí là một nhu cầu tuyệt đối trong khí hậu này.)",
       "The people in the rural areas use mud bricks only as an immediate, practical [necessity]. (=Dịch: Người dân ở các vùng nông thôn chỉ sử dụng gạch bùn như một nhu cầu thiết yếu, thực tế.)"
     ],
-    "image": "assets/images/necessity.jpg"
+    "image": "assets/images/necessity.jpg",
+    "topic": "Food & Restaurant"
   },
   {
     "word": "newsstand",
@@ -6887,7 +7416,8 @@ const vocabData = [
       "The magazine can be found on [newsstands] throughout the state and region. (=Dịch: Tạp chí này có thể được tìm thấy trên các quầy báo khắp tiểu bang và khu vực.)",
       "These newspapers previously appeared on [newsstands] in the evening. (=Dịch: Những tờ báo này trước đây xuất hiện trên các quầy báo vào buổi tối.)"
     ],
-    "image": "assets/images/newsstand.jpg"
+    "image": "assets/images/newsstand.jpg",
+    "topic": "Shopping & Commerce"
   },
   {
     "word": "overhead",
@@ -6900,7 +7430,8 @@ const vocabData = [
       "We need to reduce our [overheads]. (=Dịch: Chúng ta cần giảm chi phí cố định.)",
       "Many businesses are moving out of New York because the [overheads] there are so high. (=Dịch: Nhiều doanh nghiệp đang di dời khỏi New York vì chi phí cố định ở đó quá cao.)"
     ],
-    "image": "assets/images/overhead.jpg"
+    "image": "assets/images/overhead.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "planner",
@@ -6913,7 +7444,8 @@ const vocabData = [
       "The changes have important implications for health services [planners]. (=Dịch: Những thay đổi có những hệ quả quan trọng đối với các nhà lập kế hoạch dịch vụ y tế.)",
       "The oil crisis gave economic [planners] a jolt. (=Dịch: Cuộc khủng hoảng dầu mỏ đã khiến các nhà kinh tế học bị sốc.)"
     ],
-    "image": "assets/images/planner.jpg"
+    "image": "assets/images/planner.jpg",
+    "topic": "Health & Medicine"
   },
   {
     "word": "portfolio",
@@ -6926,7 +7458,8 @@ const vocabData = [
       "These shares should amount to no more than 10 or 20% of a stock [portfolio]. (=Dịch: Những cổ phiếu này không nên chiếm hơn 10 hoặc 20% của một danh mục đầu tư cổ phiếu.)",
       "It's a diversified [portfolio], which will lower the risk. (=Dịch: Đó là một danh mục đầu tư đa dạng, điều này sẽ giảm rủi ro.)"
     ],
-    "image": "assets/images/portfolio.jpg"
+    "image": "assets/images/portfolio.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "programmer",
@@ -6939,7 +7472,8 @@ const vocabData = [
       "He worked as a [programmer] for 18 months before seeking a way to have more flexible working hours. (=Dịch: Anh ấy đã làm việc như một lập trình viên trong 18 tháng trước khi tìm cách có thời gian làm việc linh hoạt hơn.)",
       "The [programmer] cannot predict the order in which processes are going to finish their works, as this depends on runtime issues. (=Dịch: Lập trình viên không thể dự đoán thứ tự mà các quá trình sẽ hoàn thành công việc của mình, vì điều này phụ thuộc vào các vấn đề khi chạy.)"
     ],
-    "image": "assets/images/programmer.jpg"
+    "image": "assets/images/programmer.jpg",
+    "topic": "Technology & Communication"
   },
   {
     "word": "proofread",
@@ -6952,7 +7486,8 @@ const vocabData = [
       "I was asked to [proofread] the website by the next day. (=Dịch: Tôi đã được yêu cầu hiệu đính trang web vào ngày hôm sau.)",
       "Has this document been [proofread]? (=Dịch: Tài liệu này đã được hiệu đính chưa?)"
     ],
-    "image": "assets/images/proofread.jpg"
+    "image": "assets/images/proofread.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "rack",
@@ -6965,7 +7500,8 @@ const vocabData = [
       "Remove the cakes from the oven and cool on a wire [rack]. (=Dịch: Lấy bánh ra khỏi lò và làm nguội trên giá dây.)",
       "The [racks] along the wall held most of the costumes. (=Dịch: Các giá dọc theo tường giữ hầu hết các bộ trang phục.)"
     ],
-    "image": "assets/images/rack.jpg"
+    "image": "assets/images/rack.jpg",
+    "topic": "Shopping & Commerce"
   },
   {
     "word": "recruiter",
@@ -6978,7 +7514,8 @@ const vocabData = [
       "We might have to pay a [recruiter] $40,000 to find one new person. (=Dịch: Chúng ta có thể phải trả cho nhà tuyển dụng 40.000 USD để tìm được một người mới.)",
       "She has been interviewed by a dozen corporate [recruiters]. (=Dịch: Cô ấy đã được phỏng vấn bởi hàng tá nhà tuyển dụng của công ty.)"
     ],
-    "image": "assets/images/recruiter.jpg"
+    "image": "assets/images/recruiter.jpg",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "remainder",
@@ -6991,7 +7528,8 @@ const vocabData = [
       "I ate most of it and gave the [remainder] to the dog. (=Dịch: Tôi đã ăn phần lớn và cho phần còn lại cho con chó.)",
       "It rained the first day but the [remainder] of the trip was fine. (=Dịch: Ngày đầu tiên trời mưa nhưng những ngày còn lại của chuyến đi thì ổn.)"
     ],
-    "image": "assets/images/remainder.jpg"
+    "image": "assets/images/remainder.jpg",
+    "topic": "Travel & Transport"
   },
   {
     "word": "remodel",
@@ -7004,7 +7542,8 @@ const vocabData = [
       "The interior of the building has been completely [remodeled]. (=Dịch: Nội thất của tòa nhà đã được tân trang hoàn toàn.)",
       "They put forward plans to [remodel] the education system. (=Dịch: Họ đưa ra các kế hoạch để cải tổ hệ thống giáo dục.)"
     ],
-    "image": "assets/images/remodel.jpg"
+    "image": "assets/images/remodel.jpg",
+    "topic": "Education & Learning"
   },
   {
     "word": "rose",
@@ -7017,7 +7556,8 @@ const vocabData = [
       "All the [rose] bushes seem to be suffering from the same mysterious malady. (=Dịch: Tất cả các bụi hoa hồng đều dường như đang bị một căn bệnh bí ẩn giống nhau.)",
       "This variety of [rose] is especially hardy and drought-resistant. (=Dịch: Giống hoa hồng này đặc biệt cứng cáp và chịu hạn tốt.)"
     ],
-    "image": "assets/images/rose.jpg"
+    "image": "assets/images/rose.jpg",
+    "topic": "Health & Medicine"
   },
   {
     "word": "statistics",
@@ -7030,7 +7570,8 @@ const vocabData = [
       "Analysis of crime [statistics] showed high levels of violent crime within the area. (=Dịch: Phân tích thống kê tội phạm cho thấy mức độ tội phạm bạo lực cao trong khu vực.)",
       "[Statistics] show that far more people are able to ride a bicycle than can drive a car. (=Dịch: Thống kê cho thấy nhiều người có khả năng đi xe đạp hơn là lái xe ô tô.)"
     ],
-    "image": "assets/images/statistics.jpg"
+    "image": "assets/images/statistics.jpg",
+    "topic": "Law & Government"
   },
   {
     "word": "statue",
@@ -7043,7 +7584,8 @@ const vocabData = [
       "A [statue] has been built to commemorate the 100th anniversary of the poet's birthday. (=Dịch: Một bức tượng đã được xây dựng để kỷ niệm 100 năm ngày sinh của nhà thơ.)",
       "A [statue] was erected to glorify the country's national heroes. (=Dịch: Một bức tượng đã được dựng lên để tôn vinh những anh hùng dân tộc của đất nước.)"
     ],
-    "image": "assets/images/statue.jpg"
+    "image": "assets/images/statue.jpg",
+    "topic": "Job & Career"
   },
   {
     "word": "steadily",
@@ -7056,7 +7598,8 @@ const vocabData = [
       "Japan's trade surplus with the US increased due to the [steadily] growing US economy and the depreciation of the Yen. (=Dịch: Thặng dư thương mại của Nhật Bản với Mỹ đã tăng lên do nền kinh tế Mỹ tăng trưởng đều đặn và sự mất giá của đồng Yên.)",
       "Prices have risen [steadily]. (=Dịch: Giá cả đã tăng đều đặn.)"
     ],
-    "image": "assets/images/steadily.jpg"
+    "image": "assets/images/steadily.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "stockholder",
@@ -7069,7 +7612,8 @@ const vocabData = [
       "She was charged with having misled her [stockholders]. (=Dịch: Cô ấy bị buộc tội đã lừa dối các cổ đông của mình.)",
       "The company told its preferred [stockholders] that it couldn't make its dividend payments. (=Dịch: Công ty thông báo với các cổ đông ưu đãi rằng họ không thể thanh toán cổ tức.)"
     ],
-    "image": "assets/images/stockholder.jpg"
+    "image": "assets/images/stockholder.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "superior",
@@ -7082,7 +7626,8 @@ const vocabData = [
       "We will need a letter of recommendation from one of your [superiors]. (=Dịch: Chúng tôi sẽ cần một lá thư giới thiệu từ một trong những cấp trên của bạn.)",
       "71% of workers surveyed said they had been insulted, ignored, or otherwise treated discourteously by their [superiors]. (=Dịch: 71% công nhân được khảo sát cho biết họ đã bị xúc phạm, phớt lờ, hoặc bị đối xử thiếu lịch sự bởi cấp trên của họ.)"
     ],
-    "image": "assets/images/superior.jpg"
+    "image": "assets/images/superior.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "tunnel",
@@ -7095,7 +7640,8 @@ const vocabData = [
       "Ten miners were trapped underground when the roof of the [tunnel] fell in. (=Dịch: Mười thợ mỏ bị mắc kẹt dưới lòng đất khi mái của đường hầm bị sập.)",
       "The road goes over the mountains, not through a [tunnel]. (=Dịch: Con đường đi qua núi, không đi qua đường hầm.)"
     ],
-    "image": "assets/images/tunnel.jpg"
+    "image": "assets/images/tunnel.jpg",
+    "topic": "Travel & Transport"
   },
   {
     "word": "unlimited",
@@ -7108,7 +7654,8 @@ const vocabData = [
       "Demand for healthcare appears virtually [unlimited]. (=Dịch: Nhu cầu về chăm sóc sức khỏe dường như không giới hạn.)",
       "We pay a flat monthly rate of $19.95 for [unlimited] internet access. (=Dịch: Chúng tôi trả một mức phí hàng tháng cố định là $19.95 cho truy cập internet không giới hạn.)"
     ],
-    "image": "assets/images/unlimited.jpg"
+    "image": "assets/images/unlimited.jpg",
+    "topic": "Travel & Transport"
   },
   {
     "word": "vacant",
@@ -7121,7 +7668,8 @@ const vocabData = [
       "We have three [vacant] apartments in our building. (=Dịch: Chúng tôi có ba căn hộ trống trong tòa nhà của mình.)",
       "Neither post looks likely to fall [vacant] within the next few months. (=Dịch: Cả hai vị trí đều không có khả năng bị bỏ trống trong vài tháng tới.)"
     ],
-    "image": "assets/images/vacant.jpg"
+    "image": "assets/images/vacant.jpg",
+    "topic": "Health & Medicine"
   },
   {
     "word": "vitamin",
@@ -7134,7 +7682,8 @@ const vocabData = [
       "Studies suggest that regular intake of the [vitamin] significantly improves brain function. (=Dịch: Các nghiên cứu cho thấy việc tiêu thụ vitamin đều đặn cải thiện đáng kể chức năng não bộ.)",
       "Oranges are a good source of [vitamin] C. (=Dịch: Cam là nguồn cung cấp vitamin C tốt.)"
     ],
-    "image": "assets/images/vitamin.jpg"
+    "image": "assets/images/vitamin.jpg",
+    "topic": "Food & Restaurant"
   },
   {
     "word": "zoo",
@@ -7147,7 +7696,8 @@ const vocabData = [
       "We could hear the lions roaring at the other end of the [zoo]. (=Dịch: Chúng tôi có thể nghe thấy tiếng gầm của những con sư tử ở đầu kia của sở thú.)",
       "The children love to visit the elephants at the [zoo]. (=Dịch: Những đứa trẻ thích thăm voi ở sở thú.)"
     ],
-    "image": "assets/images/zoo.jpg"
+    "image": "assets/images/zoo.jpg",
+    "topic": "Science & Nature"
   },
   {
     "word": "absent",
@@ -7160,7 +7710,8 @@ const vocabData = [
       "The meeting will continue today because six of the committee's members were [absent] from Tuesday's session (=Dịch: Cuộc họp sẽ tiếp tục hôm nay vì sáu thành viên của ủy ban đã vắng mặt trong phiên họp hôm thứ Ba)",
       "While there are 50 or more volunteers already, more are needed to replace those who may have to be [absent] from time to time (=Dịch: Mặc dù hiện đã có 50 tình nguyện viên trở lên nhưng vẫn cần nhiều hơn để thay thế những người đôi khi có thể phải [vắng mặt])"
     ],
-    "image": "assets/images/absent.png"
+    "image": "assets/images/absent.png",
+    "topic": "Job & Career"
   },
   {
     "word": "accumulate",
@@ -7173,7 +7724,8 @@ const vocabData = [
       "The company said the debt was [accumulated] during its acquisition of nine individual businesses (=Dịch: Công ty cho biết khoản nợ đã được tích lũy trong quá trình mua lại chín doanh nghiệp riêng lẻ)",
       "He [accumulated] a fortune in the music business (=Dịch: Anh ấy đã tích lũy được một gia tài trong ngành kinh doanh âm nhạc)"
     ],
-    "image": "assets/images/accumulate.jpg"
+    "image": "assets/images/accumulate.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "adhere",
@@ -7186,7 +7738,8 @@ const vocabData = [
       "It was important to [adhere] to best practice and follow the highest international standards. (=Dịch: Điều quan trọng là tuân theo những phương pháp tốt nhất và tuân thủ các tiêu chuẩn quốc tế cao nhất.)",
       "Failure to [adhere] to safe working practices in the laboratory can quickly result in serious injuries or incidents (=Dịch: Việc không tuân theo các quy trình làm việc an toàn trong phòng thí nghiệm có thể nhanh chóng dẫn đến thương tích nghiêm trọng hoặc sự cố.)"
     ],
-    "image": "assets/images/adhere.jpg"
+    "image": "assets/images/adhere.jpg",
+    "topic": "Job & Career"
   },
   {
     "word": "appraisal",
@@ -7199,7 +7752,8 @@ const vocabData = [
       "A private real estate [appraisal] for the sale put the value at $1.53 million. (=Dịch: Một cuộc thẩm định bất động sản tư nhân để bán đã đặt giá trị ở mức 1,53 triệu đô la.)",
       "Items valued at over $500 require written independent [appraisals]. (=Dịch: Các mặt hàng có giá trị trên 500 đô la cần có bản đánh giá độc lập bằng văn bản.)"
     ],
-    "image": "assets/images/appraisal.jpg"
+    "image": "assets/images/appraisal.jpg",
+    "topic": "Law & Government"
   },
   {
     "word": "apprentice",
@@ -7212,7 +7766,8 @@ const vocabData = [
       "He formerly worked as a machinist [apprentice] in Boeing's Everett assembly plant. (=Dịch: Anh ấy từng làm học nghề thợ máy tại nhà máy lắp ráp Everett của Boeing)",
       "The 1,200-member ironworkers union has some 300 [apprentices] in various stages of training. (=Dịch: Liên đoàn sắt gồm 1.200 thành viên có khoảng 300 học viên trong các giai đoạn đào tạo khác nhau)"
     ],
-    "image": "assets/images/apprentice.jpg"
+    "image": "assets/images/apprentice.jpg",
+    "topic": "Education & Learning"
   },
   {
     "word": "bankrupt",
@@ -7225,7 +7780,8 @@ const vocabData = [
       "The company went [bankrupt] and was put into the hands of the receivers. (=Dịch: Công ty đã phá sản và được giao cho những người chịu trách nhiệm quản lý tài sản.)",
       "The business went [bankrupt] after investing an enormous amount on a product that failed to sell. (=Dịch: Doanh nghiệp đã phá sản sau khi đầu tư một số tiền khổng lồ vào một sản phẩm không bán được.)"
     ],
-    "image": "assets/images/bankrupt.jpg"
+    "image": "assets/images/bankrupt.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "businessman",
@@ -7238,7 +7794,8 @@ const vocabData = [
       "A shrewd [businessman], he knew how to make a profit from his inventions. (=Dịch: Là một doanh nhân sắc sảo, anh ta biết cách kiếm lời từ các phát minh của mình.)",
       "For many years he was a successful [businessman], running his own small business. (=Dịch: Trong nhiều năm, anh ta là một doanh nhân thành công, điều hành doanh nghiệp nhỏ của riêng mình.)"
     ],
-    "image": "assets/images/businessman.jpeg"
+    "image": "assets/images/businessman.jpeg",
+    "topic": "Business & Office"
   },
   {
     "word": "caution",
@@ -7251,7 +7808,8 @@ const vocabData = [
       "Those keen on investing in small companies should proceed with [caution]. (=Dịch: Những người quan tâm đến việc đầu tư vào các công ty nhỏ nên tiến hành cẩn trọng.)",
       "The letter outlines that customers should treat any email appearing to be from their bank with great [caution]. (=Dịch: Bức thư nêu rõ rằng khách hàng nên hết sức thận trọng khi xử lý bất kỳ email nào có vẻ như đến từ ngân hàng của họ.)"
     ],
-    "image": "assets/images/caution.jpg"
+    "image": "assets/images/caution.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "ceiling",
@@ -7264,7 +7822,8 @@ const vocabData = [
       "There was no air conditioning, just a [ceiling] fan turning slowly. (=Dịch: Không có máy điều hòa không khí, chỉ có một chiếc quạt trần đang quay chậm.)",
       "The [ceiling] was embellished with flowers and leaves. (=Dịch: Trần nhà được trang trí bằng hoa và lá.)"
     ],
-    "image": "assets/images/ceiling.jpeg"
+    "image": "assets/images/ceiling.jpeg",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "clip",
@@ -7277,7 +7836,8 @@ const vocabData = [
       "All subjects were required to remove their jewelry and [clip] their fingernails to less than a 1-mm free edge. (=Dịch: Tất cả các đối tượng đều được yêu cầu tháo trang sức và cắt móng tay dưới 1mm.)",
       "So great was the attention to detail that gardeners at Kimber [clipped] hedges with nail scissors. (=Dịch: Sự chú ý đến chi tiết thật tuyệt vời đến mức những người làm vườn tại Kimber đã cắt tỉa hàng rào bằng kéo cắt móng tay.)"
     ],
-    "image": "assets/images/clip.jpg"
+    "image": "assets/images/clip.jpg",
+    "topic": "Shopping & Commerce"
   },
   {
     "word": "colorful",
@@ -7290,7 +7850,8 @@ const vocabData = [
       "One side room has a varied and [colorful] display of period costume. (=Dịch: Một phòng bên có trưng bày đa dạng và đầy màu sắc của trang phục theo thời kỳ.)",
       "This is a lovely book to browse through - full of inviting, [colorful] pictures and uncluttered text. (=Dịch: Đây là một cuốn sách thú vị để lướt qua - đầy những hình ảnh mời gọi, màu sắc và văn bản gọn gàng.)"
     ],
-    "image": "assets/images/colorful.jpg"
+    "image": "assets/images/colorful.jpg",
+    "topic": "Technology & Communication"
   },
   {
     "word": "compensate",
@@ -7303,7 +7864,8 @@ const vocabData = [
       "Employees must be [compensated] for any extra hours worked. (=Dịch: Nhân viên phải được trả công cho bất kỳ giờ làm thêm nào.)",
       "Our company tries to keep salaries low, and they [compensate] employees more with bonuses. (=Dịch: Công ty chúng tôi cố gắng giữ lương thấp, và họ bù đắp cho nhân viên nhiều hơn bằng tiền thưởng.)"
     ],
-    "image": "assets/images/compensate.png"
+    "image": "assets/images/compensate.png",
+    "topic": "Business & Office"
   },
   {
     "word": "comply",
@@ -7316,7 +7878,8 @@ const vocabData = [
       "The state's mining law requires mine operators to [comply] with local land use regulations. (=Dịch: Luật khai thác của bang yêu cầu các nhà khai thác mỏ tuân thủ các quy định về sử dụng đất địa phương.)",
       "The university has since claimed that it is unable to [comply] with the government request. (=Dịch: Trường đại học đã tuyên bố rằng họ không thể tuân thủ yêu cầu của chính phủ.)"
     ],
-    "image": "assets/images/comply.jpg"
+    "image": "assets/images/comply.jpg",
+    "topic": "Law & Government"
   },
   {
     "word": "costume",
@@ -7329,7 +7892,8 @@ const vocabData = [
       "Singers performing Mozart's operas often dress in historical [costume]. (=Dịch: Các ca sĩ biểu diễn các vở opera của Mozart thường mặc trang phục lịch sử.)",
       "Several actors in [costume] assume the roles of different characters. (=Dịch: Một số diễn viên trong trang phục đảm nhận vai trò của các nhân vật khác nhau.)"
     ],
-    "image": "assets/images/costume.jpg"
+    "image": "assets/images/costume.jpg",
+    "topic": "Art & Entertainment"
   },
   {
     "word": "diner",
@@ -7342,7 +7906,8 @@ const vocabData = [
       "They walked around for about an hour before settling into a booth at the [diner] for coffee and chat. (=Dịch: Họ đi dạo khoảng một giờ trước khi ngồi vào một gian hàng tại quán ăn để uống cà phê và trò chuyện.)",
       "Jenny asked Amanda as she sat at the counter in the [diner] a week later. (=Dịch: Jenny hỏi Amanda khi cô ngồi ở quầy trong quán ăn một tuần sau đó.)"
     ],
-    "image": "assets/images/diner.jpg"
+    "image": "assets/images/diner.jpg",
+    "topic": "Food & Restaurant"
   },
   {
     "word": "duplicate",
@@ -7355,7 +7920,8 @@ const vocabData = [
       "There's a machine that can [duplicate] nine DVDs at a time. (=Dịch: Có một cái máy có thể sao chép chín đĩa DVD cùng một lúc.)",
       "The key to franchise success is being able to [duplicate] what someone else has already successfully done. (=Dịch: Chìa khóa để thành công trong nhượng quyền thương mại là khả năng sao chép những gì người khác đã làm thành công.)"
     ],
-    "image": "assets/images/duplicate.jpg"
+    "image": "assets/images/duplicate.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "eager",
@@ -7368,7 +7934,8 @@ const vocabData = [
       "Lots of [eager] volunteers responded to the appeal for help. (=Dịch: Nhiều tình nguyện viên háo hức đã đáp lại lời kêu gọi giúp đỡ.)",
       "People were so [eager] to vote that we had to bring in extra ballot boxes and thousands of ballot papers to meet the demand. (=Dịch: Người dân háo hức đi bỏ phiếu đến mức chúng tôi phải mang thêm các thùng phiếu và hàng ngàn lá phiếu để đáp ứng nhu cầu.)"
     ],
-    "image": "assets/images/eager.jpg"
+    "image": "assets/images/eager.jpg",
+    "topic": "Technology & Communication"
   },
   {
     "word": "economist",
@@ -7381,7 +7948,8 @@ const vocabData = [
       "Some [economists] think that full employment in Europe is an unattainable goal. (=Dịch: Một số nhà kinh tế nghĩ rằng việc làm đầy đủ tại châu Âu là một mục tiêu không thể đạt được.)",
       "Leading [economists] have warned of the dangers that could arise from 'globalized' inflation. (=Dịch: Các nhà kinh tế hàng đầu đã cảnh báo về những nguy cơ có thể phát sinh từ lạm phát 'toàn cầu hóa'.)"
     ],
-    "image": "assets/images/economist.png"
+    "image": "assets/images/economist.png",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "editorial",
@@ -7394,7 +7962,8 @@ const vocabData = [
       "The Times and The Observer published [editorials] criticizing the minister. (=Dịch: Thời báo và The Observer đã đăng các bài xã luận chỉ trích bộ trưởng.)",
       "The newspaper in its [editorials] also criticised the Japanese invaders. (=Dịch: Tờ báo này trong các bài xã luận cũng đã chỉ trích quân xâm lược Nhật Bản.)"
     ],
-    "image": "assets/images/editorial.jpg"
+    "image": "assets/images/editorial.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "effectiveness",
@@ -7407,7 +7976,8 @@ const vocabData = [
       "There are doubts about the [effectiveness] of the new drug in treating the disease. (=Dịch: Có những nghi ngờ về hiệu quả của loại thuốc mới trong việc điều trị bệnh.)",
       "The [effectiveness] of ads like this lies in their simplicity. (=Dịch: Hiệu quả của những quảng cáo như thế này nằm ở sự đơn giản của chúng.)"
     ],
-    "image": "assets/images/effectiveness.jpg"
+    "image": "assets/images/effectiveness.jpg",
+    "topic": "Health & Medicine"
   },
   {
     "word": "expiration",
@@ -7420,7 +7990,8 @@ const vocabData = [
       "He was fired before the [expiration] of his contract. (=Dịch: Anh ấy bị sa thải trước khi hợp đồng của anh hết hạn.)",
       "What is the [expiration] date of your credit card?  (=Dịch: Ngày hết hạn của thẻ tín dụng của bạn là gì?)"
     ],
-    "image": "assets/images/expiration.jpg"
+    "image": "assets/images/expiration.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "facilitate",
@@ -7433,7 +8004,8 @@ const vocabData = [
       "An expert negotiator was brought in to [facilitate] the discussion. (=Dịch: Một chuyên gia đàm phán đã được mời đến để hỗ trợ cuộc thảo luận.)",
       "The new ramp will [facilitate] the entry of wheelchairs. (=Dịch: Cái dốc mới sẽ tạo điều kiện cho xe lăn đi vào.)"
     ],
-    "image": "assets/images/facilitate.jpg"
+    "image": "assets/images/facilitate.jpg",
+    "topic": "Job & Career"
   },
   {
     "word": "firefighter",
@@ -7446,7 +8018,8 @@ const vocabData = [
       "It took the [firefighters] several hours to extinguish the flames. (=Dịch: Phải mất vài giờ để lính cứu hỏa dập tắt ngọn lửa.)",
       "Two [firefighters] were treated for smoke inhalation. (=Dịch: Hai lính cứu hỏa đã được điều trị vì hít phải khói.)"
     ],
-    "image": "assets/images/firefighter.jpg"
+    "image": "assets/images/firefighter.jpg",
+    "topic": "Job & Career"
   },
   {
     "word": "gasoline",
@@ -7459,7 +8032,8 @@ const vocabData = [
       "Environmentalists are calling for tax on [gasoline] to be increased. (=Dịch: Các nhà môi trường đang kêu gọi tăng thuế xăng.)",
       "[Gasoline] stations in the city were prohibited from selling leaded gasoline by the end of October 1998. (=Dịch: Các trạm xăng trong thành phố được cấm bán xăng pha chì vào cuối tháng 10 năm 1998.)"
     ],
-    "image": "assets/images/gasoline.png"
+    "image": "assets/images/gasoline.png",
+    "topic": "Shopping & Commerce"
   },
   {
     "word": "headache",
@@ -7472,7 +8046,8 @@ const vocabData = [
       "Common symptoms include cramps in the legs, and aches and pains in the muscles, [headaches] and eye pains. (=Dịch: Các triệu chứng phổ biến bao gồm chuột rút ở chân, đau cơ, đau đầu và đau mắt.)",
       "People who get severe or frequent [headaches] often tend to take ever-increasing quantities of painkillers. (=Dịch: Những người bị đau đầu nặng hoặc thường xuyên có xu hướng dùng lượng lớn thuốc giảm đau ngày càng tăng.)"
     ],
-    "image": "assets/images/headache.jpg"
+    "image": "assets/images/headache.jpg",
+    "topic": "Health & Medicine"
   },
   {
     "word": "inappropriate",
@@ -7485,7 +8060,8 @@ const vocabData = [
       "It is entirely [inappropriate] for fast food chains to be linked to sport. (=Dịch: Hoàn toàn không phù hợp khi các chuỗi thức ăn nhanh liên kết với thể thao.)",
       "Residents believe some of the sites identified are [inappropriate] for housing. (=Dịch: Cư dân tin rằng một số địa điểm được xác định là không phù hợp cho việc ở.)"
     ],
-    "image": "assets/images/inappropriate.jpg"
+    "image": "assets/images/inappropriate.jpg",
+    "topic": "Food & Restaurant"
   },
   {
     "word": "internet",
@@ -7498,7 +8074,8 @@ const vocabData = [
       "We have kept in touch via the [internet]. (=Dịch: Chúng tôi đã giữ liên lạc qua internet.)",
       "You can view the video feed over the [internet]. (=Dịch: Bạn có thể xem video trực tuyến qua internet.)"
     ],
-    "image": "assets/images/internet.jpg"
+    "image": "assets/images/internet.jpg",
+    "topic": "Technology & Communication"
   },
   {
     "word": "jam",
@@ -7511,7 +8088,8 @@ const vocabData = [
       "A stool had been [jammed] against the door. (=Dịch: Một cái ghế đẩu đã bị chèn chặt vào cửa.)",
       "The cupboards were [jammed] full of old newspapers. (=Dịch: Những chiếc tủ chén đã bị nhét đầy các tờ báo cũ.)"
     ],
-    "image": "assets/images/jam.jpg"
+    "image": "assets/images/jam.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "landlord",
@@ -7524,7 +8102,8 @@ const vocabData = [
       "The [landlord] refused to serve him because he considered him too drunk. (=Dịch: Chủ nhà từ chối phục vụ anh ta vì coi anh ta quá say.)",
       "While many aspiring buy-to-let investors may be forced to abandon their dreams or delay buying another property, some [landlords] could benefit from the downturn. (=Dịch: Trong khi nhiều nhà đầu tư mua để cho thuê đầy triển vọng có thể buộc phải từ bỏ giấc mơ của họ hoặc trì hoãn việc mua tài sản khác, một số chủ nhà có thể hưởng lợi từ sự suy thoái.)"
     ],
-    "image": "assets/images/landlord.jpg"
+    "image": "assets/images/landlord.jpg",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "layout",
@@ -7537,7 +8116,8 @@ const vocabData = [
       "Are you familiar with the general [layout] of the hospital? (=Dịch: Bạn có quen thuộc với bố cục chung của bệnh viện không?)",
       "Editing and [layout] is now usually done on computer. (=Dịch: Việc chỉnh sửa và bố trí hiện nay thường được thực hiện trên máy tính.)"
     ],
-    "image": "assets/images/layout.png"
+    "image": "assets/images/layout.png",
+    "topic": "Health & Medicine"
   },
   {
     "word": "lunchtime",
@@ -7550,7 +8130,8 @@ const vocabData = [
       "The sandwich bar is generally packed at [lunchtime]. (=Dịch: Quán bánh mì thường đông đúc vào giờ ăn trưa.)",
       "Officers were called at around [lunchtime] on Sunday after reports that a young boy had been injured in Carr Lane, in the town of Milnrow. (=Dịch: Các sĩ quan đã được gọi vào khoảng giờ ăn trưa vào Chủ nhật sau khi nhận được báo cáo rằng một cậu bé đã bị thương ở Carr Lane, trong thị trấn Milnrow.)"
     ],
-    "image": "assets/images/lunchtime.jpg"
+    "image": "assets/images/lunchtime.jpg",
+    "topic": "Food & Restaurant"
   },
   {
     "word": "nail",
@@ -7563,7 +8144,8 @@ const vocabData = [
       "He knocked the [nail] into the wall. (=Dịch: Anh ấy đóng chiếc đinh vào tường.)",
       "A mirror hung on a [nail] above the washstand.  (=Dịch: Một chiếc gương treo trên một chiếc đinh phía trên bệ rửa mặt.)"
     ],
-    "image": "assets/images/nail.jpg"
+    "image": "assets/images/nail.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "optimistic",
@@ -7576,7 +8158,8 @@ const vocabData = [
       "They are cautiously [optimistic] that the reforms will take place. (=Dịch: Họ lạc quan một cách thận trọng rằng các cải cách sẽ diễn ra.)",
       "I think you're being a little over-[optimistic]. (=Dịch: Tôi nghĩ bạn đang quá lạc quan một chút.)"
     ],
-    "image": "assets/images/optimistic.jpg"
+    "image": "assets/images/optimistic.jpg",
+    "topic": "Art & Entertainment"
   },
   {
     "word": "payroll",
@@ -7589,7 +8172,8 @@ const vocabData = [
       "With debts of $4 million and a monthly [payroll] of $1.2 million, the venture is clearly heading for trouble. (=Dịch: Với khoản nợ 4 triệu đô la và bảng lương hàng tháng là 1,2 triệu đô la, doanh nghiệp này rõ ràng đang gặp rắc rối.)",
       "On average, firms pay 10.45% of [payroll] into final salary pensions. (=Dịch: Trung bình, các công ty trả 10,45% bảng lương vào lương hưu cuối kỳ.)"
     ],
-    "image": "assets/images/payroll.jpg"
+    "image": "assets/images/payroll.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "pedestrian",
@@ -7602,7 +8186,8 @@ const vocabData = [
       "The purpose of the project is to improve [pedestrians] safety. (=Dịch: Mục đích của dự án là để cải thiện an toàn cho người đi bộ.)",
       "The bridge is designed for [pedestrian] traffic only. (=Dịch: Cây cầu được thiết kế chỉ dành cho giao thông người đi bộ.)"
     ],
-    "image": "assets/images/pedestrian.jpg"
+    "image": "assets/images/pedestrian.jpg",
+    "topic": "Travel & Transport"
   },
   {
     "word": "pharmaceutical",
@@ -7615,7 +8200,8 @@ const vocabData = [
       "The [pharmaceutical] industry comprises many different therapeutic areas. (=Dịch: Ngành công nghiệp dược phẩm bao gồm nhiều lĩnh vực điều trị khác nhau.)",
       "[pharmaceutical] products (=Dịch: sản phẩm dược phẩm)"
     ],
-    "image": "assets/images/pharmaceutical.jpg"
+    "image": "assets/images/pharmaceutical.jpg",
+    "topic": "Health & Medicine"
   },
   {
     "word": "plausible",
@@ -7628,7 +8214,8 @@ const vocabData = [
       "This explanation fits the facts and is psychologically [plausible]. (=Dịch: Lời giải thích này phù hợp với thực tế và có vẻ hợp lý về mặt tâm lý.)",
       "If you're going to make an excuse, at least make it [plausible]! (=Dịch: Nếu bạn định bịa ra lý do, thì ít nhất hãy làm cho nó có vẻ hợp lý!)"
     ],
-    "image": "assets/images/plausible.jpg"
+    "image": "assets/images/plausible.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "premium",
@@ -7641,7 +8228,8 @@ const vocabData = [
       "The [premiums] for healthcare plans are high. (=Dịch: Phí bảo hiểm cho các kế hoạch chăm sóc sức khỏe rất cao.)",
       "Many insurance companies are under pressure to increase [premiums] to stay solvent. (=Dịch: Nhiều công ty bảo hiểm đang chịu áp lực phải tăng phí bảo hiểm để duy trì khả năng thanh toán.)"
     ],
-    "image": "assets/images/premium.jpg"
+    "image": "assets/images/premium.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "projection",
@@ -7654,7 +8242,8 @@ const vocabData = [
       "Sales [projections] made last year were too optimistic. (=Dịch: Dự báo doanh số được thực hiện vào năm ngoái quá lạc quan.)",
       "The company's global [projections] for the year indicated that it would soon be the world's largest car company. (=Dịch: Dự báo toàn cầu của công ty cho năm nay cho thấy rằng nó sẽ sớm trở thành công ty ô tô lớn nhất thế giới.)"
     ],
-    "image": "assets/images/projection.jpg"
+    "image": "assets/images/projection.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "safely",
@@ -7667,7 +8256,8 @@ const vocabData = [
       "Eventually, the pilot managed to land the plane [safely]. (=Dịch: Cuối cùng thì phi công cũng hạ cánh máy bay an toàn.)",
       "Chris called to say they'd arrived [safely]. (=Dịch: Chris gọi để nói rằng họ đã đến an toàn.)"
     ],
-    "image": "assets/images/safely.jpg"
+    "image": "assets/images/safely.jpg",
+    "topic": "Travel & Transport"
   },
   {
     "word": "simplify",
@@ -7680,7 +8270,8 @@ const vocabData = [
       "Let's try and [simplify] the task by cutting out the checking stage. (=Dịch: Hãy thử đơn giản hóa nhiệm vụ bằng cách bỏ qua giai đoạn kiểm tra.)",
       "If you try to [simplify] philosophy too much, you lose its essence. (=Dịch: Nếu bạn cố gắng đơn giản hóa triết học quá mức, bạn sẽ mất đi bản chất của nó.)"
     ],
-    "image": "assets/images/simplify.jpg"
+    "image": "assets/images/simplify.jpg",
+    "topic": "Education & Learning"
   },
   {
     "word": "sleeve",
@@ -7693,7 +8284,8 @@ const vocabData = [
       "You could always turn the [sleeves] up. (=Dịch: Bạn luôn có thể xoắn tay áo lên.)",
       "She wiped her nose on her [sleeve]. (=Dịch: Cô ấy lau mũi vào tay áo của mình.)"
     ],
-    "image": "assets/images/sleeve.jpg"
+    "image": "assets/images/sleeve.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "solar",
@@ -7706,7 +8298,8 @@ const vocabData = [
       "These spacecraft may send back data about the outermost reaches of the [solar] system. (=Dịch: Những tàu vũ trụ này có thể gửi lại dữ liệu về các vùng xa nhất của hệ mặt trời.)",
       "The planet Jupiter contains large amounts of the primordial gas and dust out of which the [solar] system was formed. (=Dịch: Hành tinh Mộc Tinh chứa một lượng lớn khí và bụi nguyên thủy từ đó hệ mặt trời được hình thành.)"
     ],
-    "image": "assets/images/solar.jpg"
+    "image": "assets/images/solar.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "specialty",
@@ -7719,7 +8312,8 @@ const vocabData = [
       "The company's [specialty] is high-performance cars. (=Dịch: Chuyên môn của công ty là xe ô tô hiệu suất cao.)",
       "His [specialty] is tax law. (=Dịch: Chuyên môn của anh ấy là luật thuế.)"
     ],
-    "image": "assets/images/specialty.jpg"
+    "image": "assets/images/specialty.jpg",
+    "topic": "Law & Government"
   },
   {
     "word": "suburb",
@@ -7732,7 +8326,8 @@ const vocabData = [
       "We drove from middle-class [suburbs] to a very poor inner-city area. (=Dịch: Chúng tôi lái xe từ các vùng ngoại ô trung lưu đến một khu vực nội thành rất nghèo.)",
       "It's a [suburb] of Manchester really - I wouldn't call it Manchester proper. (=Dịch: Thật ra đó là một vùng ngoại ô của Manchester - Tôi sẽ không gọi đó là khu trung tâm Manchester.)"
     ],
-    "image": "assets/images/suburb.jpg"
+    "image": "assets/images/suburb.jpg",
+    "topic": "Technology & Communication"
   },
   {
     "word": "takeover",
@@ -7745,7 +8340,8 @@ const vocabData = [
       "The bank fought off a [takeover] by another bank recently. (=Dịch: Ngân hàng đã chống lại một cuộc mua lại bởi một ngân hàng khác gần đây.)",
       "The [takeover] battle is between two of America's industrial/retail giants . (=Dịch: Cuộc chiến mua lại là giữa hai gã khổng lồ công nghiệp/bán lẻ của Mỹ.)"
     ],
-    "image": "assets/images/takeover.jpg"
+    "image": "assets/images/takeover.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "tech",
@@ -7758,7 +8354,8 @@ const vocabData = [
       "There has been a huge expansion of business for our [tech] companies. (=Dịch: Đã có một sự mở rộng lớn trong kinh doanh cho các công ty công nghệ của chúng tôi.)",
       "There's been a boom in the market for [tech] stocks. (=Dịch: Đã có một sự bùng nổ trong thị trường cổ phiếu công nghệ.)"
     ],
-    "image": "assets/images/tech.jpg"
+    "image": "assets/images/tech.jpg",
+    "topic": "Technology & Communication"
   },
   {
     "word": "unexpected",
@@ -7771,7 +8368,8 @@ const vocabData = [
       "His ascent to power was rapid and [unexpected]. (=Dịch: Sự lên cầm quyền của anh ấy đã nhanh chóng và bất ngờ.)",
       "The research produced some rather [unexpected] results. (=Dịch: Nghiên cứu đã mang lại một số kết quả khá bất ngờ.)"
     ],
-    "image": "assets/images/unexpected.jpg"
+    "image": "assets/images/unexpected.jpg",
+    "topic": "Education & Learning"
   },
   {
     "word": "unspecified",
@@ -7784,7 +8382,8 @@ const vocabData = [
       "The company was sold for an [unspecified] amount. (=Dịch: Công ty đã được bán với một khoản tiền chưa được xác định.)",
       "The story takes place at an [unspecified] date. (=Dịch: Câu chuyện diễn ra vào một ngày chưa được xác định.)"
     ],
-    "image": "assets/images/unspecified.png"
+    "image": "assets/images/unspecified.png",
+    "topic": "Business & Office"
   },
   {
     "word": "unsure",
@@ -7797,7 +8396,8 @@ const vocabData = [
       "Officials were [unsure] who was in control of the city. (=Dịch: Các quan chức không chắc ai đang kiểm soát thành phố.)",
       "He has been [unsure] of himself ever since he failed to get that job. (=Dịch: Anh ấy đã thiếu tự tin từ khi anh ấy không xin được công việc đó.)"
     ],
-    "image": "assets/images/unsure.jpg"
+    "image": "assets/images/unsure.jpg",
+    "topic": "Job & Career"
   },
   {
     "word": "upstairs",
@@ -7810,7 +8410,8 @@ const vocabData = [
       "I wish those people [upstairs] would stop stamping around. (=Dịch: Tôi ước gì những người [ở tầng trên] đừng giẫm đạp nữa.)",
       "The [upstairs] lounge is darker and more casual. (=Dịch: Phòng khách ở trên lầu tối hơn và thoải mái hơn.)"
     ],
-    "image": "assets/images/upstairs.jpg"
+    "image": "assets/images/upstairs.jpg",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "verbal",
@@ -7823,7 +8424,8 @@ const vocabData = [
       "He had apparently experienced a lot of [verbal] abuse from his co-workers. (=Dịch: Anh ấy dường như đã trải qua rất nhiều sự lăng mạ bằng lời nói từ đồng nghiệp của mình.)",
       "He launched into a [verbal] attack on her handling of the finances. (=Dịch: Anh ấy bắt đầu một cuộc tấn công bằng lời nói vào cách cô ấy quản lý tài chính.)"
     ],
-    "image": "assets/images/verbal.jpg"
+    "image": "assets/images/verbal.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "visa",
@@ -7836,7 +8438,8 @@ const vocabData = [
       "They granted her an entry [visa]. (=Dịch: Họ đã cấp cho cô ấy một visa nhập cảnh.)",
       "You must have a guarantor in order to get a [visa] to enter the country. (=Dịch: Bạn phải có một người bảo lãnh để có thể lấy visa vào quốc gia này.)"
     ],
-    "image": "assets/images/visa.jpg"
+    "image": "assets/images/visa.jpg",
+    "topic": "Travel & Transport"
   },
   {
     "word": "wildlife",
@@ -7849,7 +8452,8 @@ const vocabData = [
       "She left a large sum of money in her will to found a [wildlife] sanctuary. (=Dịch: Cô đã để lại một số tiền lớn trong di chúc của mình để thành lập một khu bảo tồn động vật hoang dã.)",
       "The use of pesticides is killing off birds, fish and [wildlife]. (=Dịch: Việc sử dụng thuốc trừ sâu đang giết chết chim, cá và động vật hoang dã.)"
     ],
-    "image": "assets/images/wildlife.jpg"
+    "image": "assets/images/wildlife.jpg",
+    "topic": "Health & Medicine"
   },
   {
     "word": "workforce",
@@ -7862,7 +8466,8 @@ const vocabData = [
       "Much of the [workforce] in the banking sector is/are affected by the new legislation. (=Dịch: Phần lớn lực lượng lao động trong ngành ngân hàng bị ảnh hưởng bởi luật mới.)",
       "Further strikes could threaten the job security of the entire 2,000-strong [workforce]. (=Dịch: Các cuộc đình công tiếp theo có thể đe dọa sự an toàn công việc của toàn bộ lực lượng lao động gồm 2.000 người.)"
     ],
-    "image": "assets/images/workforce.jpg"
+    "image": "assets/images/workforce.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "accordingly",
@@ -7875,7 +8480,8 @@ const vocabData = [
       "She's an expert in her field, and is paid [accordingly] (=Dịch: Cô ấy là một chuyên gia trong lĩnh vực của mình và được trả lương phù hợp)",
       "Thus, the manager is able to size up the situation instantly and act [accordingly] (=Dịch: Do đó, nhà quản lý có thể đánh giá tình hình ngay lập tức và hành động phù hợp)"
     ],
-    "image": "assets/images/accordingly.jpg"
+    "image": "assets/images/accordingly.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "apple",
@@ -7888,7 +8494,8 @@ const vocabData = [
       "The [apple] tree at the bottom of the garden is beginning to blossom (=Dịch: Cây táo ở cuối vườn bắt đầu nở hoa)",
       "He took a bite out of the [apple]. (=Dịch: Anh cắn một miếng táo.)"
     ],
-    "image": "assets/images/apple.jpg"
+    "image": "assets/images/apple.jpg",
+    "topic": "Science & Nature"
   },
   {
     "word": "applicable",
@@ -7901,7 +8508,8 @@ const vocabData = [
       "The new qualifications are [applicable] to all European countries. (=Dịch: Các tiêu chuẩn mới áp dụng cho tất cả các nước châu Âu.)",
       "The company will help with moving expenses where [applicable]. (=Dịch: Công ty sẽ hỗ trợ chi phí di chuyển ở nơi áp dụng.)"
     ],
-    "image": "assets/images/applicable.jpg"
+    "image": "assets/images/applicable.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "auction",
@@ -7914,7 +8522,8 @@ const vocabData = [
       "The house and its contents are being put up for [auction]. (=Dịch: Ngôi nhà và toàn bộ nội thất đều được đem ra đấu giá.)",
       "In an [auction], goods or property are sold to the highest bidder. (=Dịch: Trong một cuộc đấu giá, hàng hóa hoặc tài sản được bán cho người trả giá cao nhất.)"
     ],
-    "image": "assets/images/auction.png"
+    "image": "assets/images/auction.png",
+    "topic": "Shopping & Commerce"
   },
   {
     "word": "balcony",
@@ -7927,7 +8536,8 @@ const vocabData = [
       "The glass doors opened on to a [balcony] with a view of the park (=Dịch: Cửa kính mở ra ban công có tầm nhìn ra công viên.)",
       "Neighbouring condo dwellers hang outside on their [balconies] watching the festivities. (=Dịch: Người sống ở căn hộ liền kề ra ngoài ban công để xem lễ hội.)"
     ],
-    "image": "assets/images/balcony.jpg"
+    "image": "assets/images/balcony.jpg",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "basement",
@@ -7940,7 +8550,8 @@ const vocabData = [
       "It was built in the late 1950s, on six floors, with one flat on each floor and a [basement]. (=Dịch: Nó được xây dựng vào cuối những năm 1950, trên sáu tầng, với một căn hộ trên mỗi tầng và một tầng hầm.)",
       "The fire broke out beside a boiler in the [basement] of the building in the early hours of Friday morning. (=Dịch: Đám cháy bùng phát bên cạnh nồi hơi trong tầng hầm của tòa nhà vào sáng sớm thứ Sáu.)"
     ],
-    "image": "assets/images/basement.jpg"
+    "image": "assets/images/basement.jpg",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "beforehand",
@@ -7953,7 +8564,8 @@ const vocabData = [
       "Make sure you clean your teeth [beforehand] or have some chewing gum or a drink. (=Dịch: Hãy đảm bảo bạn đánh răng trước hoặc có một ít kẹo cao su hoặc một thức uống.)",
       "Police want to speak to anyone who witnessed the crash or who saw the motorcycle [beforehand]. (=Dịch: Cảnh sát muốn nói chuyện với bất cứ ai chứng kiến vụ tai nạn hoặc đã nhìn thấy chiếc xe máy trước đó.)"
     ],
-    "image": "assets/images/beforehand.png"
+    "image": "assets/images/beforehand.png",
+    "topic": "Law & Government"
   },
   {
     "word": "culinary",
@@ -7966,7 +8578,8 @@ const vocabData = [
       "They were judged on a range of [culinary] skills, including the planning and presentation of the meals. (=Dịch: Họ đã được đánh giá trên một loạt các kỹ năng nấu ăn, bao gồm cả việc lập kế hoạch và trình bày bữa ăn.)",
       "Moscow offered [culinary] delights to suit every taste and almost every wallet (=Dịch: Moscow cung cấp những món ăn ngon để phù hợp với mọi khẩu vị và gần như mọi túi tiền.)"
     ],
-    "image": "assets/images/culinary.jpeg"
+    "image": "assets/images/culinary.jpeg",
+    "topic": "Food & Restaurant"
   },
   {
     "word": "documentary",
@@ -7979,7 +8592,8 @@ const vocabData = [
       "We're compiling some facts and figures for a [documentary] on the subject. (=Dịch: Chúng tôi đang biên soạn một số dữ liệu và số liệu cho một bộ phim tài liệu về chủ đề này.)",
       "The channel would show war [documentaries], military reports and a variety of films. (=Dịch: Kênh sẽ chiếu các bộ phim tài liệu về chiến tranh, các báo cáo quân sự và nhiều bộ phim đa dạng.)"
     ],
-    "image": "assets/images/documentary.jpg"
+    "image": "assets/images/documentary.jpg",
+    "topic": "Art & Entertainment"
   },
   {
     "word": "downturn",
@@ -7992,7 +8606,8 @@ const vocabData = [
       "Thousands of workers have lost their jobs in the economic [downturn]. (=Dịch: Hàng ngàn công nhân đã mất việc làm trong giai đoạn suy thoái kinh tế.)",
       "The company saw a [downturn] in sales over the last six months. (=Dịch: Công ty đã thấy sự giảm sút trong doanh số bán hàng trong sáu tháng qua.)"
     ],
-    "image": "assets/images/downturn.jpg"
+    "image": "assets/images/downturn.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "earthquake",
@@ -8005,7 +8620,8 @@ const vocabData = [
       "This is one of the most destructive [earthquakes] of the twentieth century. (=Dịch: Đây là một trong những trận động đất tàn phá nhất của thế kỷ hai mươi.)",
       "It was the end of a week in which the number of [earthquakes] near the volcano grew significantly. (=Dịch: Đó là kết thúc của một tuần mà số lượng trận động đất gần núi lửa tăng lên đáng kể.)"
     ],
-    "image": "assets/images/earthquake.jpg"
+    "image": "assets/images/earthquake.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "elegant",
@@ -8018,7 +8634,8 @@ const vocabData = [
       "We met a young businesswoman, [elegant] in a black suit. (=Dịch: Chúng tôi đã gặp một nữ doanh nhân trẻ, thanh lịch trong bộ đồ đen.)",
       "Vivian's black hair was wound into an [elegant] bun and decorated with gold ribbons. (=Dịch: Mái tóc đen của Vivian được cuốn thành một búi thanh lịch và trang trí bằng ruy băng vàng.)"
     ],
-    "image": "assets/images/elegant.jpg"
+    "image": "assets/images/elegant.jpg",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "embassy",
@@ -8031,7 +8648,8 @@ const vocabData = [
       "Soldiers guard the main doors of the [embassy]. (=Dịch: Các binh sĩ canh gác cửa chính của đại sứ quán.)",
       "Protesters staged an anti-war demonstration in front of the US [embassy]. (=Dịch: Những người biểu tình đã tổ chức một cuộc biểu tình phản đối chiến tranh trước đại sứ quán Mỹ.)"
     ],
-    "image": "assets/images/embassy.jpg"
+    "image": "assets/images/embassy.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "excessive",
@@ -8044,7 +8662,8 @@ const vocabData = [
       "Some property owners complained that they were being charged [excessive] fees. (=Dịch: Một số chủ tài sản phàn nàn rằng họ bị tính phí quá cao.)",
       "The directive will prevent employees from working [excessive] hours. (=Dịch: Chỉ thị sẽ ngăn chặn nhân viên làm việc quá giờ.)"
     ],
-    "image": "assets/images/excessive.jpg"
+    "image": "assets/images/excessive.jpg",
+    "topic": "Health & Medicine"
   },
   {
     "word": "fasten",
@@ -8057,7 +8676,8 @@ const vocabData = [
       "To keep the helmet in position, [fasten] the strap beneath the chin. (=Dịch: Để giữ cho mũ bảo hiểm ở vị trí, hãy thắt dây đai dưới cằm.)",
       "Fiona [fastened] her hair into a bun, tucked a small coin purse into her pocket, and threw her cloak over her shoulders. (=Dịch: Fiona buộc tóc thành búi, nhét một cái ví nhỏ vào túi và khoác áo choàng lên vai.)"
     ],
-    "image": "assets/images/fasten.jpg"
+    "image": "assets/images/fasten.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "generic",
@@ -8070,7 +8690,8 @@ const vocabData = [
       "Chèvre is a [generic] term for all goat's milk cheese (=Dịch: Chèvre là một thuật ngữ chung cho tất cả các loại phô mai làm từ sữa dê.)",
       "As long as an applicant achieved the requisite points on the [generic] characteristics cited above he or she would gain selection. (=Dịch: Miễn là ứng viên đạt được số điểm yêu cầu dựa trên các đặc điểm chung đã nêu ở trên, anh ta hoặc cô ta sẽ được chọn.)"
     ],
-    "image": "assets/images/generic.jpg"
+    "image": "assets/images/generic.jpg",
+    "topic": "Job & Career"
   },
   {
     "word": "harmful",
@@ -8083,7 +8704,8 @@ const vocabData = [
       "There are alternative fuels, some less [harmful] to the atmosphere and some which do no harm at all. (=Dịch: Có các loại nhiên liệu thay thế, một số ít gây hại cho bầu khí quyển và một số không gây hại gì cả.)",
       "The lack of atmosphere also means there's no protection from [harmful] radiation in the solar wind. (=Dịch: Việc thiếu khí quyển cũng có nghĩa là không có bảo vệ khỏi bức xạ có hại trong gió mặt trời.)"
     ],
-    "image": "assets/images/harmful.jpg"
+    "image": "assets/images/harmful.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "informative",
@@ -8096,7 +8718,8 @@ const vocabData = [
       "The book is not very [informative] about local customs. (=Dịch: Cuốn sách không mang lại nhiều thông tin về phong tục địa phương.)",
       "Findings suggest that while television is more [informative] than the press, it is less persuasive. (=Dịch: Kết quả cho thấy rằng trong khi truyền hình cung cấp thông tin hơn báo chí, nó ít thuyết phục hơn.)"
     ],
-    "image": "assets/images/informative.jpg"
+    "image": "assets/images/informative.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "institute",
@@ -8109,7 +8732,8 @@ const vocabData = [
       "The course is offered at six colleges and [institutes] of higher education. (=Dịch: Khóa học được cung cấp tại sáu trường cao đẳng và viện giáo dục đại học.)",
       "She used to give lectures at the Mechanics' [Institute]. (=Dịch: Cô ấy đã từng giảng dạy tại Viện Cơ học.)"
     ],
-    "image": "assets/images/institute.jpg"
+    "image": "assets/images/institute.jpg",
+    "topic": "Education & Learning"
   },
   {
     "word": "jazz",
@@ -8122,7 +8746,8 @@ const vocabData = [
       "[jazz] musicians (=Dịch: nhạc công jazz)",
       "the rising stars of the New York [jazz] scene (=Dịch: những ngôi sao đang nổi của làng nhạc jazz New York)"
     ],
-    "image": "assets/images/jazz.png"
+    "image": "assets/images/jazz.png",
+    "topic": "Art & Entertainment"
   },
   {
     "word": "kit",
@@ -8135,7 +8760,8 @@ const vocabData = [
       "She keeps an emergency medical [kit] in her car. (=Dịch: Cô ấy giữ một bộ dụng cụ y tế khẩn cấp trong xe của mình.)",
       "There should be a needle and thread in the sewing [kit]. (=Dịch: Nên có một cây kim và sợi chỉ trong bộ dụng cụ may.)"
     ],
-    "image": "assets/images/kit.jpg"
+    "image": "assets/images/kit.jpg",
+    "topic": "Health & Medicine"
   },
   {
     "word": "lifetime",
@@ -8148,7 +8774,8 @@ const vocabData = [
       "His diary was not published during his [lifetime]. (=Dịch: Nhật ký của anh ấy không được xuất bản trong suốt cuộc đời anh ấy.)",
       "These spending commitments are not achievable in the [lifetime] of the present government. (=Dịch: Những cam kết chi tiêu này không thể đạt được trong suốt nhiệm kỳ của chính phủ hiện tại.)"
     ],
-    "image": "assets/images/lifetime.jpg"
+    "image": "assets/images/lifetime.jpg",
+    "topic": "Law & Government"
   },
   {
     "word": "locally",
@@ -8161,7 +8788,8 @@ const vocabData = [
       "I want a sense of place and [locally] grown produce with a flavour of the Caribbean. (=Dịch: Tôi muốn có một cảm giác vùng miền và sản phẩm trồng tại địa phương với hương vị của vùng Caribbean.)",
       "[Locally], they organize youth clubs and support for the unemployed. (=Dịch: Ở đây, họ tổ chức các câu lạc bộ thanh niên và hỗ trợ cho người thất nghiệp.)"
     ],
-    "image": "assets/images/locally.jpg"
+    "image": "assets/images/locally.jpg",
+    "topic": "Shopping & Commerce"
   },
   {
     "word": "massage",
@@ -8174,7 +8802,8 @@ const vocabData = [
       "He [massaged] her back with scented oil. (=Dịch: Anh ấy xoa bóp lưng cô ấy bằng dầu thơm.)",
       "[Massage] it lightly with your fingertips. (=Dịch: Xoa bóp nhẹ nhàng với đầu ngón tay của bạn.)"
     ],
-    "image": "assets/images/massage.jpg"
+    "image": "assets/images/massage.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "maximize",
@@ -8187,7 +8816,8 @@ const vocabData = [
       "The purpose of the restructuring is to [maximize] opportunities in the global market. (=Dịch: Mục đích của việc tái cơ cấu là tối đa hóa cơ hội trong thị trường toàn cầu.)",
       "Most people try to [maximize] their gains and minimize their losses. (=Dịch: Hầu hết mọi người cố gắng tối đa hóa lợi ích và giảm thiểu tổn thất của họ.)"
     ],
-    "image": "assets/images/maximize.jpg"
+    "image": "assets/images/maximize.jpg",
+    "topic": "Shopping & Commerce"
   },
   {
     "word": "mentor",
@@ -8200,7 +8830,8 @@ const vocabData = [
       "His former coach had remained his [mentor] throughout his career. (=Dịch: Huấn luyện viên cũ của anh ấy đã luôn là người cố vấn của anh ấy trong suốt sự nghiệp của mình.)",
       "Regular meetings between [mentor] and trainee help guide young engineers through their early years. (=Dịch: Những cuộc họp thường xuyên giữa người cố vấn và người thực tập giúp hướng dẫn các kỹ sư trẻ trong những năm đầu.)"
     ],
-    "image": "assets/images/mentor.jpg"
+    "image": "assets/images/mentor.jpg",
+    "topic": "Education & Learning"
   },
   {
     "word": "mild",
@@ -8213,7 +8844,8 @@ const vocabData = [
       "The pain is comparatively [mild] at the moment. (=Dịch: Hiện tại cơn đau tương đối nhẹ.)",
       "Later in the week the weather turned very [mild]. (=Dịch: Cuối tuần thời tiết trở nên rất ôn hòa.)"
     ],
-    "image": "assets/images/mild.jpg"
+    "image": "assets/images/mild.jpg",
+    "topic": "Science & Nature"
   },
   {
     "word": "nominate",
@@ -8226,7 +8858,8 @@ const vocabData = [
       "She was [nominated] for a special award. (=Dịch: Cô ấy đã được đề cử cho một giải thưởng đặc biệt.)",
       "Ten critics were asked to [nominate] their Book of the Year. (=Dịch: Mười nhà phê bình đã được yêu cầu đề cử cuốn sách của họ trong năm.)"
     ],
-    "image": "assets/images/nominate.jpg"
+    "image": "assets/images/nominate.jpg",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "ongoing",
@@ -8239,7 +8872,8 @@ const vocabData = [
       "The police investigation is [ongoing]. (=Dịch: Cuộc điều tra của cảnh sát đang diễn ra.)",
       "Training is part of our [ongoing] career development program. (=Dịch: Đào tạo là một phần của chương trình phát triển sự nghiệp đang diễn ra của chúng tôi.)"
     ],
-    "image": "assets/images/ongoing.jpg"
+    "image": "assets/images/ongoing.jpg",
+    "topic": "Job & Career"
   },
   {
     "word": "opt",
@@ -8252,7 +8886,8 @@ const vocabData = [
       "After a lot of thought, I [opted] against buying a motorbike. (=Dịch: Sau nhiều suy nghĩ, tôi đã quyết định không mua xe máy.)",
       "Many workers [opted] to leave their jobs rather than take a pay cut. (=Dịch: Nhiều công nhân đã chọn rời bỏ công việc của họ thay vì bị cắt lương.)"
     ],
-    "image": "assets/images/opt.jpg"
+    "image": "assets/images/opt.jpg",
+    "topic": "Job & Career"
   },
   {
     "word": "parade",
@@ -8265,7 +8900,8 @@ const vocabData = [
       "People were [parading] up and down showing off their finest clothes. (=Dịch: Mọi người đang diễu hành lên xuống khoe những bộ quần áo đẹp nhất của họ.)",
       "The colonel [paraded] his men before the Queen. (=Dịch: Đại tá đã duyệt binh trước Nữ hoàng.)"
     ],
-    "image": "assets/images/parade.jpg"
+    "image": "assets/images/parade.jpg",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "periodically",
@@ -8278,7 +8914,8 @@ const vocabData = [
       "[Periodically], we meet to discuss any problems. (=Dịch: Định kỳ, chúng tôi gặp nhau để thảo luận mọi vấn đề.)",
       "Risk analysis results and management plans should be updated [periodically]. (=Dịch: Kết quả phân tích rủi ro và kế hoạch quản lý nên được cập nhật định kỳ.)"
     ],
-    "image": "assets/images/periodically.png"
+    "image": "assets/images/periodically.png",
+    "topic": "General/Others"
   },
   {
     "word": "physician",
@@ -8291,7 +8928,8 @@ const vocabData = [
       "He became the President's personal [physician]. (=Dịch: Ông ấy trở thành bác sĩ riêng của Tổng thống.)",
       "He was [physician] to George Washington. (=Dịch: Ông ấy là bác sĩ của George Washington.)"
     ],
-    "image": "assets/images/physician.jpg"
+    "image": "assets/images/physician.jpg",
+    "topic": "Health & Medicine"
   },
   {
     "word": "pie",
@@ -8304,7 +8942,8 @@ const vocabData = [
       "...apple [pie] and custard.  (=Dịch: ...bánh táo và kem trứng.)",
       "What's the filling in these [pies]? (=Dịch: Nhân của những chiếc bánh này là gì?)"
     ],
-    "image": "assets/images/pie.jpg"
+    "image": "assets/images/pie.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "plug",
@@ -8317,7 +8956,8 @@ const vocabData = [
       "Divers succeeded in [plugging] the leaks from the tanker. (=Dịch: Thợ lặn đã thành công trong việc bịt các lỗ rò rỉ từ tàu chở dầu.)",
       "Crews are working to [plug] a major oil leak. (=Dịch: Các đội đang làm việc để bịt một vụ rò rỉ dầu lớn.)"
     ],
-    "image": "assets/images/plug.jpg"
+    "image": "assets/images/plug.jpg",
+    "topic": "Job & Career"
   },
   {
     "word": "polish",
@@ -8330,7 +8970,8 @@ const vocabData = [
       "I'll just give my shoes a quick [polish]. (=Dịch: Tôi sẽ đánh bóng giày của mình nhanh chóng.)",
       "He [polished] the hardwood floor. (=Dịch: Anh ấy đánh bóng sàn gỗ cứng.)"
     ],
-    "image": "assets/images/polish.jpg"
+    "image": "assets/images/polish.jpg",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "postage",
@@ -8343,7 +8984,8 @@ const vocabData = [
       "We have reduced [postage] costs by nearly $24,000 as a result of the direct deposit option. (=Dịch: Chúng tôi đã giảm chi phí bưu điện gần 24.000 đô la nhờ lựa chọn chuyển khoản trực tiếp.)",
       "Send a check or money order for $7, [postage] paid, to this address. (=Dịch: Gửi một tấm séc hoặc phiếu chuyển tiền trị giá 7 đô la, đã thanh toán phí bưu điện, đến địa chỉ này.)"
     ],
-    "image": "assets/images/postage.jpg"
+    "image": "assets/images/postage.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "recreational",
@@ -8356,7 +8998,8 @@ const vocabData = [
       "[recreational] use of the seashore (=Dịch: việc sử dụng bãi biển để giải trí)",
       "The region was transformed into a [recreational] and cultural resource. (=Dịch: Khu vực đã được chuyển đổi thành một tài nguyên giải trí và văn hóa.)"
     ],
-    "image": "assets/images/recreational.jpg"
+    "image": "assets/images/recreational.jpg",
+    "topic": "Art & Entertainment"
   },
   {
     "word": "recruitment",
@@ -8369,7 +9012,8 @@ const vocabData = [
       "It's all part of a [recruitment] drive intended to increase the party's falling numbers. (=Dịch: Đó là một phần của chiến dịch tuyển dụng nhằm tăng số lượng thành viên của đảng đang giảm sút.)",
       "In the private business sector, there has been a tight limit on wage rises and a near-freeze on [recruitment]. (=Dịch: Trong lĩnh vực kinh doanh tư nhân, đã có giới hạn nghiêm ngặt về việc tăng lương và gần như đóng băng việc tuyển dụng.)"
     ],
-    "image": "assets/images/recruitment.jpg"
+    "image": "assets/images/recruitment.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "referee",
@@ -8382,7 +9026,8 @@ const vocabData = [
       "He was suspended for four matches after arguing with the [referee]. (=Dịch: Anh ấy bị đình chỉ bốn trận sau khi cãi nhau với trọng tài.)",
       "The [referee] decided to allow the goal. (=Dịch: Trọng tài quyết định cho phép bàn thắng.)"
     ],
-    "image": "assets/images/referee.jpg"
+    "image": "assets/images/referee.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "referral",
@@ -8395,7 +9040,8 @@ const vocabData = [
       "The commission's inquiry into the warranties began after a [referral] from the Office for Fair Trading. (=Dịch: Cuộc điều tra của ủy ban về các bảo hành bắt đầu sau khi nhận được sự giới thiệu từ Văn phòng Thương mại Công bằng.)",
       "75% of the company's hires come from employee [referrals]. (=Dịch: 75% số lượng tuyển dụng của công ty đến từ nhân viên giới thiệu.)"
     ],
-    "image": "assets/images/referral.jpg"
+    "image": "assets/images/referral.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "rehearse",
@@ -8408,7 +9054,8 @@ const vocabData = [
       "His mother [rehearsed] his lines with him and by the time the play opened he was word perfect. (=Dịch: Mẹ cậu ấy tập dượt lời thoại với cậu ấy và đến khi vở kịch khai mạc thì cậu ấy đã thuộc lòng từng từ.)",
       "We [rehearsed] each scene over and over. (=Dịch: Chúng tôi đã tập dượt mỗi cảnh đi cảnh lại.)"
     ],
-    "image": "assets/images/rehearse.jpg"
+    "image": "assets/images/rehearse.jpg",
+    "topic": "Art & Entertainment"
   },
   {
     "word": "removal",
@@ -8421,7 +9068,8 @@ const vocabData = [
       "The company charged him for the [removal] of the vehicle. (=Dịch: Công ty đã tính phí anh ta cho việc di dời chiếc xe.)",
       "He was ordered to assist in the [removal] of the graffiti. (=Dịch: Anh ta được lệnh hỗ trợ [xóa bỏ] hình vẽ bậy.)"
     ],
-    "image": "assets/images/removal.jpg"
+    "image": "assets/images/removal.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "renown",
@@ -8434,7 +9082,8 @@ const vocabData = [
       "Her [renown] spread across the country. (=Dịch: Sự nổi tiếng của cô ấy lan rộng khắp cả nước.)",
       "A number of our past students have achieved political [renown]. (=Dịch: Nhiều học sinh cũ của chúng tôi đã đạt được danh tiếng trong chính trị.)"
     ],
-    "image": "assets/images/renown.jpg"
+    "image": "assets/images/renown.jpg",
+    "topic": "Education & Learning"
   },
   {
     "word": "runner",
@@ -8447,7 +9096,8 @@ const vocabData = [
       "The [runner] collapsed just a few paces from the finish. (=Dịch: Người chạy bộ gục xuống chỉ cách vạch đích vài bước chân.)",
       "She has loads of natural talent as a [runner] and with rigorous training she could be a world-beater. (=Dịch: Cô ấy có rất nhiều tài năng tự nhiên như một vận động viên chạy bộ và với sự huấn luyện nghiêm ngặt, cô ấy có thể trở thành người giỏi nhất thế giới.)"
     ],
-    "image": "assets/images/runner.jpg"
+    "image": "assets/images/runner.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "satisfactory",
@@ -8460,7 +9110,8 @@ const vocabData = [
       "We hope very much to find a [satisfactory] solution to the problem. (=Dịch: Chúng tôi hy vọng rất nhiều để tìm một giải pháp thỏa đáng cho vấn đề này.)",
       "The outcome of the discussion was highly [satisfactory] (= very pleasing). (=Dịch: Kết quả của cuộc thảo luận là rất thỏa đáng (tức là rất hài lòng).)"
     ],
-    "image": "assets/images/satisfactory.jpg"
+    "image": "assets/images/satisfactory.jpg",
+    "topic": "Job & Career"
   },
   {
     "word": "seasonal",
@@ -8473,7 +9124,8 @@ const vocabData = [
       "It's sensible to make use of [seasonal] produce. (=Dịch: Việc sử dụng các sản phẩm theo mùa là điều hợp lý.)",
       "Animals have to find ways of coping with [seasonal] changes. (=Dịch: Động vật phải tìm cách đối phó với những thay đổi theo mùa.)"
     ],
-    "image": "assets/images/seasonal.jpg"
+    "image": "assets/images/seasonal.jpg",
+    "topic": "Shopping & Commerce"
   },
   {
     "word": "separately",
@@ -8486,7 +9138,8 @@ const vocabData = [
       "I tend to wear the jacket and skirt [separately] rather than as a suit. (=Dịch: Tôi thường mặc áo khoác và váy riêng biệt hơn là mặc như một bộ.)",
       "I think we'd better deal with these two points [separately]. (=Dịch: Tôi nghĩ chúng ta nên giải quyết hai điểm này riêng biệt.)"
     ],
-    "image": "assets/images/separately.jpg"
+    "image": "assets/images/separately.jpg",
+    "topic": "Job & Career"
   },
   {
     "word": "sock",
@@ -8499,7 +9152,8 @@ const vocabData = [
       "Put on your shoes and [socks]. (=Dịch: Mang giày và tất của bạn vào.)",
       "The little boy was wearing odd [socks](= socks of different colours). (=Dịch: Cậu bé nhỏ đang mang tất lệch màu (tức là tất có màu khác nhau).)"
     ],
-    "image": "assets/images/sock.jpg"
+    "image": "assets/images/sock.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "spam",
@@ -8512,7 +9166,8 @@ const vocabData = [
       "Some Internet service providers block [spam] to subscribers. (=Dịch: Một số nhà cung cấp dịch vụ Internet chặn thư rác cho người dùng.)",
       "Not only is the stream of [spam] rising, but an increasing share of the messages contain viruses. (=Dịch: Không chỉ lượng thư rác đang tăng lên, mà còn ngày càng nhiều tin nhắn chứa vi-rút.)"
     ],
-    "image": "assets/images/spam.jpg"
+    "image": "assets/images/spam.jpg",
+    "topic": "Science & Nature"
   },
   {
     "word": "surf",
@@ -8525,7 +9180,8 @@ const vocabData = [
       "Jane's been [surfing] the Web all morning. (=Dịch: Jane đã lướt mạng suốt cả buổi sáng.)",
       "I spent hours [surfing] the Web, searching for information. (=Dịch: Tôi đã dành hàng giờ để lướt mạng, tìm kiếm thông tin.)"
     ],
-    "image": "assets/images/surf.jpg"
+    "image": "assets/images/surf.jpg",
+    "topic": "Technology & Communication"
   },
   {
     "word": "timetable",
@@ -8538,7 +9194,8 @@ const vocabData = [
       "Here is the [timetable] of events for the day. (=Dịch: Đây là lịch trình các sự kiện trong ngày.)",
       "the [timetable] for the withdrawal of US troops from the country (=Dịch: Lịch trình rút quân của Mỹ khỏi đất nước.)"
     ],
-    "image": "assets/images/timetable.jpg"
+    "image": "assets/images/timetable.jpg",
+    "topic": "Travel & Transport"
   },
   {
     "word": "turnover",
@@ -8551,7 +9208,8 @@ const vocabData = [
       "Current guesstimates are that the company's [turnover] will increase by 7% this year. (=Dịch: Ước tính hiện tại cho thấy doanh thu của công ty sẽ tăng 7% trong năm nay.)",
       "The company's annual [turnover] is somewhere around £70.7 million. (=Dịch: Doanh thu hàng năm của công ty là khoảng 70,7 triệu bảng Anh.)"
     ],
-    "image": "assets/images/turnover.jpg"
+    "image": "assets/images/turnover.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "unnecessary",
@@ -8564,7 +9222,8 @@ const vocabData = [
       "She made one or two nasty remarks about their house which I thought was a bit [unnecessary]. (=Dịch: Cô ấy đã có một hoặc hai nhận xét khó chịu về ngôi nhà của họ mà tôi nghĩ là hơi không cần thiết.)",
       "There is still some hope that the economic blockade will work and make military intervention [unnecessary]. (=Dịch: Vẫn còn một số hy vọng rằng phong tỏa kinh tế sẽ có hiệu quả và làm cho sự can thiệp quân sự trở nên không cần thiết.)"
     ],
-    "image": "assets/images/unnecessary.jpg"
+    "image": "assets/images/unnecessary.jpg",
+    "topic": "Technology & Communication"
   },
   {
     "word": "vase",
@@ -8577,7 +9236,8 @@ const vocabData = [
       "An antique dealer had dated the [vase] at 1734. (=Dịch: Một người buôn đồ cổ đã xác định niên đại của chiếc bình là năm 1734.)",
       "I'm in the doghouse - I broke Sara's favourite [vase] this morning. (=Dịch: Tôi đang gặp rắc rối - tôi đã làm vỡ chiếc bình yêu thích của Sara sáng nay.)"
     ],
-    "image": "assets/images/vase.jpg"
+    "image": "assets/images/vase.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "aboard",
@@ -8590,7 +9250,8 @@ const vocabData = [
       "Nobody is allowed [aboard] the plane without a security check (=Dịch: Không ai được phép lên máy bay mà không qua kiểm tra an ninh)",
       "The bus drove off just as she was climbing [aboard] (=Dịch: Chiếc xe buýt rời đi ngay khi cô ấy đang leo lên)"
     ],
-    "image": "assets/images/aboard.jpg"
+    "image": "assets/images/aboard.jpg",
+    "topic": "Travel & Transport"
   },
   {
     "word": "acceptance",
@@ -8603,7 +9264,8 @@ const vocabData = [
       "We will confirm [acceptance] of your order by email (=Dịch: Chúng tôi sẽ xác nhận việc chấp nhận đơn hàng của bạn qua email)",
       "These devices are gaining [acceptance] within the marketplace (=Dịch: Những thiết bị này đang dần được chấp nhận trên thị trường)"
     ],
-    "image": "assets/images/acceptance.png"
+    "image": "assets/images/acceptance.png",
+    "topic": "Technology & Communication"
   },
   {
     "word": "advancement",
@@ -8616,7 +9278,8 @@ const vocabData = [
       "In order to keep good employees, you need to provide them with possibilities for growth and [advancement] (=Dịch: Để giữ chân nhân viên tốt, bạn cần cung cấp cho họ những cơ hội để phát triển và thăng tiến)",
       "Taking time off work to have children should not be a barrier to career [advancement]. (=Dịch: Việc nghỉ làm để sinh con không nên là rào cản cho sự thăng tiến trong sự nghiệp)"
     ],
-    "image": "assets/images/advancement.png"
+    "image": "assets/images/advancement.png",
+    "topic": "Job & Career"
   },
   {
     "word": "advertiser",
@@ -8629,7 +9292,8 @@ const vocabData = [
       "Every time a user clicks on the [advertiser]'s link, the search engine earns a fee (=Dịch: Mỗi lần người dùng nhấp vào liên kết của nhà quảng cáo, công cụ tìm kiếm sẽ thu được một khoản phí)",
       "The ratings determine how much -[advertisers] pay for commercials. (=Dịch: Các xếp hạng xác định số tiền các nhà quảng cáo phải trả cho quảng cáo truyền hình.)"
     ],
-    "image": "assets/images/advertiser.png"
+    "image": "assets/images/advertiser.png",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "allocate",
@@ -8642,7 +9306,8 @@ const vocabData = [
       "It is not the job of the investigating committee to [allocate] blame for the disaster/to allocate blame to individuals. (=Dịch: Không phải là trách nhiệm của ủy ban điều tra để đổ lỗi cho thảm họa/đổ lỗi cho cá nhân.)",
       "The local council has decided not to [allocate] funds for the project. (=Dịch: Hội đồng địa phương đã quyết định không phân bổ quỹ cho dự án.)"
     ],
-    "image": "assets/images/allocate.jpg"
+    "image": "assets/images/allocate.jpg",
+    "topic": "Job & Career"
   },
   {
     "word": "alternatively",
@@ -8655,7 +9320,8 @@ const vocabData = [
       "Your working day may not feel like such a slog if you don't hate your job, or [alternatively] you may find two enjoyable part-time gigs will fit the bill. (=Dịch: Ngày làm việc của bạn có thể không cảm thấy như một công việc nặng nhọc nếu bạn không ghét công việc của mình, hoặc [cách khác] bạn có thể thấy hai công việc bán thời gian thú vị sẽ phù hợp.)",
       "I'll try to get a recording of it, and [alternatively] it is repeated in a podcast for a week, so I'll post up the link of that tomorrow.' (=Dịch: Tôi sẽ cố gắng ghi âm lại, và thay vào đó nó được phát lại trong một podcast trong một tuần, vì vậy tôi sẽ đăng liên kết của nó vào ngày mai.)"
     ],
-    "image": "assets/images/alternatively.jpg"
+    "image": "assets/images/alternatively.jpg",
+    "topic": "Job & Career"
   },
   {
     "word": "ambitious",
@@ -8668,7 +9334,8 @@ const vocabData = [
       "The government is persisting with its [ambitious] public works programme. (=Dịch: Chính phủ đang kiên trì với chương trình công trình công cộng đầy tham vọng của mình.)",
       "It was an [ambitious] project to restore the public parks. (=Dịch: Đó là một dự án đầy tham vọng để khôi phục các công viên công cộng.)"
     ],
-    "image": "assets/images/ambitious.png"
+    "image": "assets/images/ambitious.png",
+    "topic": "Business & Office"
   },
   {
     "word": "amuse",
@@ -8681,7 +9348,8 @@ const vocabData = [
       "I've brought an article from yesterday's paper that I thought might [amuse] you. (=Dịch: Tôi đã mang một bài báo từ tờ báo hôm qua mà tôi nghĩ có thể làm bạn vui.)",
       "There will also be a circus entertainer on hand to [amuse] the youngsters (=Dịch: Cũng sẽ có một người biểu diễn xiếc để làm vui cho các em nhỏ.)"
     ],
-    "image": "assets/images/amuse.jpg"
+    "image": "assets/images/amuse.jpg",
+    "topic": "Art & Entertainment"
   },
   {
     "word": "appendix",
@@ -8694,7 +9362,8 @@ const vocabData = [
       "The [appendix] lists all the Olympic champions. (=Dịch: Phụ lục liệt kê tất cả các nhà vô địch Olympic.)",
       "For a list of committee members' names and contact details, see [appendix] B. (=Dịch: Để xem danh sách tên và chi tiết liên lạc của các thành viên ủy ban, xin xem phụ lục B.)"
     ],
-    "image": ""
+    "image": "",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "attorney",
@@ -8707,7 +9376,8 @@ const vocabData = [
       "She was asked to take the witness stand and was then cross-examined by the state [attorney]. (=Dịch: Cô ấy được yêu cầu lên bục nhân chứng và sau đó bị thẩm vấn bởi công tố viên bang.)",
       "[Attorneys] for both sides agreed to postpone the hearing. (=Dịch: Luật sư của cả hai bên đã đồng ý hoãn phiên điều trần.)"
     ],
-    "image": "assets/images/attorney.jpg"
+    "image": "assets/images/attorney.jpg",
+    "topic": "Law & Government"
   },
   {
     "word": "authorization",
@@ -8720,7 +9390,8 @@ const vocabData = [
       "The [authorization] to sell the shares arrived too late. (=Dịch: Sự cho phép để bán cổ phần đến quá muộn.)",
       "Human Resources must obtain specific [authorization] from the Executive Director before any candidate can be rehired or transferred. (=Dịch: Phòng Nhân sự phải có được sự cho phép cụ thể từ Giám đốc Điều hành trước khi bất kỳ ứng viên nào có thể được tuyển lại hoặc chuyển công tác.)"
     ],
-    "image": "assets/images/authorization.png"
+    "image": "assets/images/authorization.png",
+    "topic": "Health & Medicine"
   },
   {
     "word": "booth",
@@ -8733,7 +9404,8 @@ const vocabData = [
       "If we get separated, let's meet at the information [booth]. (=Dịch: Nếu chúng ta bị tách ra, hãy gặp nhau ở quầy thông tin.)",
       "The members had set up [booths] where they sold handicrafts, fashion accessories and food from their respective countries. (=Dịch: Các thành viên đã dựng các gian hàng nơi họ bán đồ thủ công mỹ nghệ, phụ kiện thời trang và thực phẩm từ các nước của họ.)"
     ],
-    "image": "assets/images/booth.jpg"
+    "image": "assets/images/booth.jpg",
+    "topic": "Science & Nature"
   },
   {
     "word": "campus",
@@ -8746,7 +9418,8 @@ const vocabData = [
       "Surrounded by lovely trees, the Dartmouth [campus] is big and beautiful. (=Dịch: Được bao quanh bởi những cây đẹp, khuôn viên trường Dartmouth rộng lớn và đẹp đẽ.)",
       "Freshmen at many universities are not allowed to live off [campus]  (=Dịch: Sinh viên năm nhất ở nhiều trường đại học không được phép sống ngoài khuôn viên trường.)"
     ],
-    "image": "assets/images/campus.jpg"
+    "image": "assets/images/campus.jpg",
+    "topic": "Education & Learning"
   },
   {
     "word": "candy",
@@ -8759,7 +9432,8 @@ const vocabData = [
       "They left the wrappers from their [candy] all over my car. (=Dịch: Họ đã để lại giấy gói kẹo khắp xe của tôi.)",
       "We dove into the box of chocolate [candy] as if we were starving. (=Dịch: Chúng tôi lao vào hộp kẹo sô cô la như thể đang chết đói.)"
     ],
-    "image": "assets/images/candy.webp"
+    "image": "assets/images/candy.webp",
+    "topic": "Food & Restaurant"
   },
   {
     "word": "certify",
@@ -8772,7 +9446,8 @@ const vocabData = [
       "All of our surgeons have been [certified] by the American Board of Plastic Surgery. (=Dịch: Tất cả các bác sĩ phẫu thuật của chúng tôi đã được chứng nhận bởi Hội đồng Phẫu thuật Thẩm mỹ Hoa Kỳ.)",
       "The rules require sponsors to identify themselves and [certify] that they have no financial interest in the projects. (=Dịch: Các quy tắc yêu cầu các nhà tài trợ tự xác định và chứng nhận rằng họ không có lợi ích tài chính trong các dự án.)"
     ],
-    "image": "assets/images/certify.jpeg"
+    "image": "assets/images/certify.jpeg",
+    "topic": "Health & Medicine"
   },
   {
     "word": "checkout",
@@ -8785,7 +9460,8 @@ const vocabData = [
       "Any extra charges will be settled with guests on [checkout] (=Dịch: Mọi khoản phí phát sinh sẽ được thanh toán với khách hàng khi trả phòng.)",
       "The hotel staff had no problem at all extending our [checkout] time until our arranged pickup. (=Dịch: Nhân viên khách sạn không gặp vấn đề gì khi gia hạn thời gian trả phòng của chúng tôi cho đến khi chúng tôi được đón.)"
     ],
-    "image": "assets/images/checkout.jpg"
+    "image": "assets/images/checkout.jpg",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "chemistry",
@@ -8798,7 +9474,8 @@ const vocabData = [
       "As students of [chemistry] know, even small rearrangements of a molecule's structure can produce a compound that acts differently. (=Dịch: Như các sinh viên hóa học đã biết, ngay cả những sự sắp xếp lại nhỏ trong cấu trúc của phân tử cũng có thể tạo ra một hợp chất có tác dụng khác.)",
       "He studied [chemistry] in preference to physics at university. (=Dịch: Anh ấy đã học hóa học thay vì vật lý tại trường đại học.)"
     ],
-    "image": "assets/images/chemistry.jpg"
+    "image": "assets/images/chemistry.jpg",
+    "topic": "Education & Learning"
   },
   {
     "word": "circulation",
@@ -8811,7 +9488,8 @@ const vocabData = [
       "Despite the [circulation] of the memo, the company's stock price in recent days has been soaring. (=Dịch: Mặc dù bản ghi nhớ được phát hành, giá cổ phiếu của công ty trong những ngày gần đây đã tăng vọt.)",
       "Add her name to the [circulation] list for this report (=Dịch: Thêm tên cô ấy vào danh sách gửi báo cáo này)"
     ],
-    "image": "assets/images/circulation.jpg"
+    "image": "assets/images/circulation.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "clarify",
@@ -8824,7 +9502,8 @@ const vocabData = [
       "Talking it through with you has helped me to [clarify] my own thinking about the problem. (=Dịch: Nói chuyện với bạn đã giúp tôi làm sáng tỏ suy nghĩ của mình về vấn đề này.)",
       "The report managed to [clarify] the government's position (=Dịch: Báo cáo đã làm rõ lập trường của chính phủ.)"
     ],
-    "image": "assets/images/clarify.jpg"
+    "image": "assets/images/clarify.jpg",
+    "topic": "Law & Government"
   },
   {
     "word": "classmate",
@@ -8837,7 +9516,8 @@ const vocabData = [
       "As a college student, he was always willing to help fellow [classmates] get through their exams. (=Dịch: Khi còn là sinh viên đại học, anh ấy luôn sẵn sàng giúp đỡ các bạn cùng lớp vượt qua kỳ thi của họ.)",
       "Notably, parental monitoring and [classmate] support reduced runaway risk and friend relationship increased it. (=Dịch: Đáng chú ý, sự giám sát của cha mẹ và sự hỗ trợ từ bạn cùng lớp giảm nguy cơ bỏ nhà đi và mối quan hệ bạn bè làm tăng nguy cơ đó.)"
     ],
-    "image": "assets/images/classmate.jpg"
+    "image": "assets/images/classmate.jpg",
+    "topic": "Education & Learning"
   },
   {
     "word": "compile",
@@ -8850,7 +9530,8 @@ const vocabData = [
       "We're [compiling] some facts and figures for a documentary on the subject. (=Dịch: Chúng tôi đang tổng hợp một số thông tin và số liệu cho một bộ phim tài liệu về chủ đề này.)",
       "The local authority must [compile] a list of the names and addresses of taxpayers (=Dịch: Chính quyền địa phương phải lập danh sách tên và địa chỉ của những người nộp thuế.)"
     ],
-    "image": "assets/images/compile.jpg"
+    "image": "assets/images/compile.jpg",
+    "topic": "Art & Entertainment"
   },
   {
     "word": "concierge",
@@ -8863,7 +9544,8 @@ const vocabData = [
       "Our company offers [concierge] services for both individual and corporate customers. (=Dịch: Công ty chúng tôi cung cấp dịch vụ hướng dẫn viên cho cả khách hàng cá nhân và doanh nghiệp.)",
       "Our [concierges] are experts on the area's restaurants and can recommend the perfect place to fit your tastes. (=Dịch: Nhân viên hướng dẫn của chúng tôi là chuyên gia về các nhà hàng trong khu vực và có thể đề xuất địa điểm hoàn hảo phù hợp với khẩu vị của bạn.)"
     ],
-    "image": "assets/images/concierge.jpg"
+    "image": "assets/images/concierge.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "consent",
@@ -8876,7 +9558,8 @@ const vocabData = [
       "It would be quite unreal to infer that the bank [consented] to the withdrawal by a card holder whose account had been closed. (=Dịch: Sẽ là không thực tế nếu suy luận rằng ngân hàng [đã đồng ý] cho chủ thẻ có tài khoản đã bị đóng rút tiền.)",
       "All heads of households [consented] to the interview. (=Dịch: Tất cả các chủ hộ đã đồng ý với cuộc phỏng vấn.)"
     ],
-    "image": "assets/images/consent.png"
+    "image": "assets/images/consent.png",
+    "topic": "Job & Career"
   },
   {
     "word": "consistently",
@@ -8889,7 +9572,8 @@ const vocabData = [
       "The president has [consistently] denied the rumours. (=Dịch: Tổng thống luôn phủ nhận những tin đồn.)",
       "His movies are [consistently] thought-provoking. (=Dịch: Những bộ phim của anh ấy luôn khiêu gợi suy nghĩ.)"
     ],
-    "image": "assets/images/consistently.png"
+    "image": "assets/images/consistently.png",
+    "topic": "Travel & Transport"
   },
   {
     "word": "cookie",
@@ -8902,7 +9586,8 @@ const vocabData = [
       "Enjoy the famous bake sale with homemade cakes, pies and [cookies]. (=Dịch: Thưởng thức buổi bán bánh nổi tiếng với những chiếc bánh, bánh nướng và bánh quy tự làm.)",
       "The preparations will include varieties of rice items, sweets, fried items, [cookies], cakes and juices. (=Dịch: Sự chuẩn bị sẽ bao gồm các loại món ăn từ gạo, đồ ngọt, món chiên, bánh quy, bánh ngọt và nước trái cây.)"
     ],
-    "image": "assets/images/cookie.jpg"
+    "image": "assets/images/cookie.jpg",
+    "topic": "Food & Restaurant"
   },
   {
     "word": "correction",
@@ -8915,7 +9600,8 @@ const vocabData = [
       "No [corrections] to these figures will be allowed once the form has been submitted. (=Dịch: Không được phép sửa các số liệu này sau khi biểu mẫu đã được nộp.)",
       "She was disappointed to see her essay returned with a huge number of [corrections] in red ink. (=Dịch: Cô ấy thất vọng khi thấy bài luận của mình được trả lại với một số lượng lớn các chỉnh sửa bằng mực đỏ.)"
     ],
-    "image": "assets/images/correction.jpg"
+    "image": "assets/images/correction.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "customize",
@@ -8928,7 +9614,8 @@ const vocabData = [
       "The basic design of the vehicle has been [customized] to the client's requirements. (=Dịch: Thiết kế cơ bản của xe đã được tùy chỉnh theo yêu cầu của khách hàng.)",
       "Modifying or [customizing] a vehicle has also become a trend among car enthusiasts nowadays. (=Dịch: Việc chỉnh sửa hoặc tùy chỉnh xe cũng đã trở thành một xu hướng trong cộng đồng đam mê xe hiện nay.)"
     ],
-    "image": "assets/images/customize.png"
+    "image": "assets/images/customize.png",
+    "topic": "Shopping & Commerce"
   },
   {
     "word": "deck",
@@ -8941,7 +9628,8 @@ const vocabData = [
       "The party had to be moved from the [deck] to inside the house. (=Dịch: Bữa tiệc phải được chuyển từ sân vào trong nhà.)",
       "A large wooden [deck] links house and beach, allowing the residents to do much of their living outdoors. (=Dịch: Một sàn gỗ lớn nối liền nhà và bãi biển, cho phép cư dân sống ngoài trời nhiều hơn.)"
     ],
-    "image": "assets/images/deck.jpg"
+    "image": "assets/images/deck.jpg",
+    "topic": "Food & Restaurant"
   },
   {
     "word": "dedication",
@@ -8954,7 +9642,8 @@ const vocabData = [
       "The preparation and training involved for the trip required tremendous effort and [dedication] on their part, all in aid of a most worthy cause. (=Dịch: Sự chuẩn bị và huấn luyện cho chuyến đi đòi hỏi nỗ lực rất lớn và sự cống hiến từ họ, tất cả vì một mục đích rất đáng giá.)",
       "Their [dedication] to quality has paid off - with a devoted band of customers throughout West Yorkshire. (=Dịch: Sự cống hiến của họ cho chất lượng đã được đền đáp - với một nhóm khách hàng trung thành khắp West Yorkshire.)"
     ],
-    "image": "assets/images/dedication.webp"
+    "image": "assets/images/dedication.webp",
+    "topic": "Travel & Transport"
   },
   {
     "word": "descriptive",
@@ -8967,7 +9656,8 @@ const vocabData = [
       "The woodland is seen through poetry, [descriptive] text and a mosaic of pictures. (=Dịch: Khu rừng được nhìn thấy qua thơ ca, văn bản mô tả và một bức tranh khảm của các hình ảnh.)",
       "His [descriptive] letters painted a picture of life in Tasmania for readers back in England. (=Dịch: Những bức thư mô tả của anh ấy đã vẽ nên một bức tranh về cuộc sống ở Tasmania cho những độc giả ở Anh.)"
     ],
-    "image": "assets/images/descriptive.jpg"
+    "image": "assets/images/descriptive.jpg",
+    "topic": "Art & Entertainment"
   },
   {
     "word": "detach",
@@ -8980,7 +9670,8 @@ const vocabData = [
       "The offending fire alarm was now completely [detached] from the wall. (=Dịch: Chuông báo cháy gây phiền đã được tháo hoàn toàn khỏi tường.)",
       "Do not [detach] them from the parent plant at this stage. (=Dịch: Đừng [tách] chúng ra khỏi cây mẹ ở giai đoạn này.)"
     ],
-    "image": "assets/images/detach.jpg"
+    "image": "assets/images/detach.jpg",
+    "topic": "Science & Nature"
   },
   {
     "word": "diagnose",
@@ -8993,7 +9684,8 @@ const vocabData = [
       "His condition was [diagnosed] as some type of blood disorder. (=Dịch: Tình trạng của anh ấy được chẩn đoán là một loại rối loạn máu.)",
       "Symptoms can be treated best if the disease is [diagnosed] early. (=Dịch: Các triệu chứng có thể được điều trị tốt nhất nếu bệnh được chẩn đoán sớm.)"
     ],
-    "image": "assets/images/diagnose.jpg"
+    "image": "assets/images/diagnose.jpg",
+    "topic": "Health & Medicine"
   },
   {
     "word": "documentation",
@@ -9006,7 +9698,8 @@ const vocabData = [
       "Amid rising default anxiety, loans are getting harder to obtain, with tighter [documentation] requirements. (=Dịch: Giữa lo lắng gia tăng về việc vỡ nợ, các khoản vay trở nên khó tiếp cận hơn, với các yêu cầu tài liệu chặt chẽ hơn.)",
       "Historical [documentation] can be classified as either ancient documents or official public documents. (=Dịch: Tài liệu lịch sử có thể được phân loại là tài liệu cổ hoặc tài liệu công khai chính thức.)"
     ],
-    "image": "assets/images/documentation.jpg"
+    "image": "assets/images/documentation.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "entrepreneur",
@@ -9019,7 +9712,8 @@ const vocabData = [
       "The [entrepreneur] sees a business opportunity where others notice only a rubbish site. (=Dịch: Doanh nhân nhìn thấy cơ hội kinh doanh nơi người khác chỉ thấy một bãi rác.)",
       "Property is the investment of choice for many of today's eager [entrepreneurs]. (=Dịch: Bất động sản là khoản đầu tư được lựa chọn của nhiều doanh nhân háo hức ngày nay.)"
     ],
-    "image": "assets/images/entrepreneur.jpg"
+    "image": "assets/images/entrepreneur.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "exceptional",
@@ -9032,7 +9726,8 @@ const vocabData = [
       "This is an [exceptional] contract, guaranteeing no layoffs. (=Dịch: Đây là một hợp đồng đặc biệt, đảm bảo không có sa thải.)",
       "The effort put in by the team over the last five days has been [exceptional]. (=Dịch: Nỗ lực của nhóm trong năm ngày qua đã thật đặc biệt.)"
     ],
-    "image": "assets/images/exceptional.png"
+    "image": "assets/images/exceptional.png",
+    "topic": "Business & Office"
   },
   {
     "word": "familiarize",
@@ -9045,7 +9740,8 @@ const vocabData = [
       "They were [familiarized] with the task before proceeding with the actual experiment. (=Dịch: Họ đã được làm quen với nhiệm vụ trước khi tiến hành thí nghiệm thực tế.)",
       "The tutorial runs you through the tools of the trade and [familiarizes] you with everything you can do in the game. (=Dịch: Phần hướng dẫn sẽ hướng dẫn bạn sử dụng các công cụ giao dịch và làm quen với mọi thứ bạn có thể làm trong trò chơi.)"
     ],
-    "image": "assets/images/familiarize.jpg"
+    "image": "assets/images/familiarize.jpg",
+    "topic": "Technology & Communication"
   },
   {
     "word": "hotline",
@@ -9058,7 +9754,8 @@ const vocabData = [
       "The [hotline] that took consumer complaints was replaced with a recorded service. (=Dịch: Đường dây nóng tiếp nhận khiếu nại của người tiêu dùng đã được thay thế bằng dịch vụ ghi âm.)",
       "Call our free ticket [hotline] now to reserve your place. (=Dịch: Hãy gọi đường dây nóng giữ vé miễn phí của chúng tôi ngay bây giờ để đặt chỗ của bạn.)"
     ],
-    "image": "assets/images/hotline.png"
+    "image": "assets/images/hotline.png",
+    "topic": "Travel & Transport"
   },
   {
     "word": "intonation",
@@ -9071,7 +9768,8 @@ const vocabData = [
       "The violinist had good [intonation], and a wonderful pure tone. (=Dịch: Nghệ sĩ violin có ngữ điệu tốt và âm thanh trong trẻo tuyệt vời.)",
       "She's studying [intonation] patterns in children's speech. (=Dịch: Cô ấy đang nghiên cứu các mẫu ngữ điệu trong lời nói của trẻ em.)"
     ],
-    "image": "assets/images/intonation.jpg"
+    "image": "assets/images/intonation.jpg",
+    "topic": "Education & Learning"
   },
   {
     "word": "invention",
@@ -9084,7 +9782,8 @@ const vocabData = [
       "He failed to patent his [invention] and never made a penny from it. (=Dịch: Anh ấy đã không kịp đăng ký bằng sáng chế cho phát minh của mình và không bao giờ kiếm được một xu từ nó.)",
       "Such changes have not been seen since the [invention] of the printing press. (=Dịch: Những thay đổi như vậy chưa từng được nhìn thấy kể từ khi phát minh ra máy in.)"
     ],
-    "image": "assets/images/invention.jpg"
+    "image": "assets/images/invention.jpg",
+    "topic": "Technology & Communication"
   },
   {
     "word": "irritate",
@@ -9097,7 +9796,8 @@ const vocabData = [
       "She was moody at times and easily [irritated]. (=Dịch: Đôi khi cô ấy thất thường và dễ cáu kỉnh.)",
       "The noise was beginning to [irritate] me intensely. (=Dịch: Tiếng ồn bắt đầu làm tôi bực mình dữ dội.)"
     ],
-    "image": "assets/images/irritate.jpg"
+    "image": "assets/images/irritate.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "locker",
@@ -9110,7 +9810,8 @@ const vocabData = [
       "He was on a final warning after having pepper spray in a personal [locker] last year. (=Dịch: Anh ấy đã nhận được cảnh báo cuối cùng sau khi có bình xịt hơi cay trong tủ đồ cá nhân năm ngoái.)",
       "He also sent up a key for his [locker] where he had left his mobile phone and wallet. (=Dịch: Anh ấy cũng gửi lên một chiếc chìa khóa cho tủ đồ của mình, nơi anh ấy đã để lại điện thoại di động và ví.)"
     ],
-    "image": "assets/images/locker.jpg"
+    "image": "assets/images/locker.jpg",
+    "topic": "Technology & Communication"
   },
   {
     "word": "overlook",
@@ -9123,7 +9824,8 @@ const vocabData = [
       "In my hurry to finish the exam I had [overlooked] part of one of the questions. (=Dịch: Trong lúc vội vàng hoàn thành bài kiểm tra, tôi đã bỏ qua một phần của một trong các câu hỏi.)",
       "It is easy to [overlook] the significance of this change. (=Dịch: Rất dễ để bỏ qua tầm quan trọng của sự thay đổi này.)"
     ],
-    "image": "assets/images/overlook.jpg"
+    "image": "assets/images/overlook.jpg",
+    "topic": "Education & Learning"
   },
   {
     "word": "patent",
@@ -9136,7 +9838,8 @@ const vocabData = [
       "In 1843 Bain filed a [patent] for his fax machine. (=Dịch: Vào năm 1843, Bain đã nộp bằng sáng chế cho máy fax của mình.)",
       "In 1995 he was granted a [patent] for his invention. (=Dịch: Năm 1995, ông đã được cấp bằng sáng chế cho phát minh của mình.)"
     ],
-    "image": "assets/images/patent.jpg"
+    "image": "assets/images/patent.jpg",
+    "topic": "Technology & Communication"
   },
   {
     "word": "payable",
@@ -9149,7 +9852,8 @@ const vocabData = [
       "This amount is [payable] immediately. (=Dịch: Số tiền này phải được thanh toán ngay lập tức.)",
       "A 10 per cent deposit is [payable] in advance. (=Dịch: Tiền đặt cọc 10 phần trăm phải được thanh toán trước.)"
     ],
-    "image": "assets/images/payable.jpg"
+    "image": "assets/images/payable.jpg",
+    "topic": "Law & Government"
   },
   {
     "word": "preliminary",
@@ -9162,7 +9866,8 @@ const vocabData = [
       "Jackson is performing well in the [preliminary] stages of the competition. (=Dịch: Jackson đang biểu diễn tốt trong các giai đoạn sơ bộ của cuộc thi.)",
       "The two officials will be meeting today in order to establish a [preliminary] agreement. (=Dịch: Hai quan chức sẽ họp hôm nay để thiết lập một thỏa thuận sơ bộ.)"
     ],
-    "image": "assets/images/preliminary.jpg"
+    "image": "assets/images/preliminary.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "salesman",
@@ -9175,7 +9880,8 @@ const vocabData = [
       "He worked as a travelling [salesman] for a company that made soap dispensers for the restaurant trade. (=Dịch: Anh ấy làm nhân viên bán hàng lưu động cho một công ty sản xuất hộp đựng xà phòng cho nhà hàng.)",
       "a good/persuasive/convincing [salesman] (=Dịch: một nhân viên bán hàng giỏi/thuyết phục/thuyết phục)"
     ],
-    "image": "assets/images/salesman.jpg"
+    "image": "assets/images/salesman.jpg",
+    "topic": "Shopping & Commerce"
   },
   {
     "word": "sauna",
@@ -9188,7 +9894,8 @@ const vocabData = [
       "Ground floor facilities are completed by the ' leisure suite ' which offers a [sauna], walk-in shower and separate wc with basin. (=Dịch: Các cơ sở tầng trệt được hoàn thiện bởi 'dãy tiện ích giải trí' bao gồm phòng xông hơi, vòi sen đi bộ và nhà vệ sinh riêng với bồn rửa.)",
       "It depends on the use of the room, a [sauna] or a sleeping room. (=Dịch: Nó phụ thuộc vào việc sử dụng phòng, phòng xông hơi hoặc phòng ngủ.)"
     ],
-    "image": "assets/images/sauna.jpg"
+    "image": "assets/images/sauna.jpg",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "smoothly",
@@ -9201,7 +9908,8 @@ const vocabData = [
       "Lead is added to fuel to make car engines run more [smoothly]. (=Dịch: Chì được thêm vào nhiên liệu để làm cho động cơ xe chạy trơn tru hơn.)",
       "The pregnancy's gone very [smoothly] so far. (=Dịch: Thai kỳ diễn ra rất suôn sẻ cho đến nay.)"
     ],
-    "image": "assets/images/smoothly.jpg"
+    "image": "assets/images/smoothly.jpg",
+    "topic": "Travel & Transport"
   },
   {
     "word": "sunshine",
@@ -9214,7 +9922,8 @@ const vocabData = [
       "The house, with its fresh coat of paint, looked lovely in the [sunshine]. (=Dịch: Ngôi nhà, với lớp sơn mới, trông rất đẹp trong ánh nắng.)",
       "In the village square, people were milling about in the [sunshine]. (=Dịch: Ở quảng trường làng, mọi người đang tản bộ trong ánh nắng.)"
     ],
-    "image": "assets/images/sunshine.jpg"
+    "image": "assets/images/sunshine.jpg",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "tow",
@@ -9227,7 +9936,8 @@ const vocabData = [
       "The road was closed while the vehicles that had been involved in the accident were [towed] away/off. (=Dịch: Con đường đã bị đóng lại trong khi các phương tiện gặp tai nạn được kéo đi.)",
       "The damaged boat was [towed] to safety. (=Dịch: Chiếc thuyền bị hư hại đã được kéo đến nơi an toàn.)"
     ],
-    "image": "assets/images/tow.jpg"
+    "image": "assets/images/tow.jpg",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "translator",
@@ -9240,7 +9950,8 @@ const vocabData = [
       "Speaking through a [translator], the President called his victory a \"dream come true\". (=Dịch: Nói qua một dịch giả, Tổng thống đã gọi chiến thắng của mình là 'giấc mơ trở thành sự thật'.)",
       "The [translator] renders the French 'C'est-à-dire' as 'That is to say'. (=Dịch: Dịch giả dịch 'C'est-à-dire' tiếng Pháp thành 'That is to say'.)"
     ],
-    "image": "assets/images/translator.jpg"
+    "image": "assets/images/translator.jpg",
+    "topic": "Job & Career"
   },
   {
     "word": "tuition",
@@ -9253,7 +9964,8 @@ const vocabData = [
       "Many students take jobs to pay the [tuition] for their courses. (=Dịch: Nhiều sinh viên nhận việc làm để trả học phí cho các khóa học của họ.)",
       "A private school charges the same [tuition] for all types of students attending the school. (=Dịch: Một trường tư thục thu cùng một mức học phí cho tất cả các loại sinh viên theo học tại trường.)"
     ],
-    "image": "assets/images/tuition.jpg"
+    "image": "assets/images/tuition.jpg",
+    "topic": "Education & Learning"
   },
   {
     "word": "unavailable",
@@ -9266,7 +9978,8 @@ const vocabData = [
       "I'm sorry, the colonel is [unavailable] now. (=Dịch: Tôi xin lỗi, đại tá hiện không có mặt.)",
       "Much of their clothing is custom-made and [unavailable] to the public. (=Dịch: Nhiều quần áo của họ được may theo yêu cầu và không có sẵn cho công chúng.)"
     ],
-    "image": "assets/images/unavailable.jpg"
+    "image": "assets/images/unavailable.jpg",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "violation",
@@ -9279,7 +9992,8 @@ const vocabData = [
       "The takeover of the embassy constitutes a flagrant/blatant [violation] of international law. (=Dịch: Việc chiếm đoạt đại sứ quán cấu thành một sự vi phạm trắng trợn/rõ ràng luật pháp quốc tế.)",
       "It was clear that they had not acted in [violation] of the rules. (=Dịch: Rõ ràng là họ đã không hành động vi phạm các quy tắc.)"
     ],
-    "image": "assets/images/violation.jpg"
+    "image": "assets/images/violation.jpg",
+    "topic": "Law & Government"
   },
   {
     "word": "webpage",
@@ -9292,7 +10006,8 @@ const vocabData = [
       "Clients will be offered customised [webpages] with details of their policies and investments. (=Dịch: Khách hàng sẽ được cung cấp các trang web tùy chỉnh với chi tiết về các chính sách và đầu tư của họ.)",
       "To fit the form on one [webpage] we had to create a long document that consequently needs a lot of scrolling. (=Dịch: Để phù hợp với biểu mẫu trên một trang web, chúng tôi đã phải tạo một tài liệu dài nên cần phải cuộn nhiều.)"
     ],
-    "image": "assets/images/webpage.jpg"
+    "image": "assets/images/webpage.jpg",
+    "topic": "Technology & Communication"
   },
   {
     "word": "accent",
@@ -9305,7 +10020,8 @@ const vocabData = [
       "She speaks English without the slightest trace of an [accent] (=Dịch: Cô ấy nói tiếng Anh mà không hề có chút dấu vết của giọng địa phương nào)",
       "All TV announcers had unbelievable upper class [accents] (=Dịch: Tất cả các phát thanh viên truyền hình đều có [giọng] thuộc tầng lớp thượng lưu không thể tin được)"
     ],
-    "image": "assets/images/accent.jpg"
+    "image": "assets/images/accent.jpg",
+    "topic": "Education & Learning"
   },
   {
     "word": "advisory",
@@ -9318,7 +10034,8 @@ const vocabData = [
       "The recommendations follow those issued by the [advisory] committee (=Dịch: Các khuyến nghị tuân theo những điều được đưa ra bởi ủy ban tư vấn)",
       "The company is expanding its financial [advisory] service. (=Dịch: Công ty đang mở rộng dịch vụ tư vấn tài chính của mình)"
     ],
-    "image": "assets/images/advisory.png"
+    "image": "assets/images/advisory.png",
+    "topic": "Business & Office"
   },
   {
     "word": "asleep",
@@ -9331,7 +10048,8 @@ const vocabData = [
       "He was so exhausted from today's walk that when he sat down to rest, he fell [asleep]. (=Dịch: Anh ấy kiệt sức sau buổi đi bộ hôm nay đến mức ngồi xuống nghỉ ngơi là ngủ thiếp đi.)",
       "She had pizza bagels for lunch and fell [asleep] for a nap soon after we were done. (=Dịch: Cô ấy đã ăn bánh mì vòng pizza cho bữa trưa và ngủ thiếp đi một lát ngay sau khi chúng tôi ăn xong.)"
     ],
-    "image": "assets/images/asleep.jpg"
+    "image": "assets/images/asleep.jpg",
+    "topic": "Food & Restaurant"
   },
   {
     "word": "authentic",
@@ -9344,7 +10062,8 @@ const vocabData = [
       "The letter is now accepted as an [authentic] document (=Dịch: Lá thư hiện nay được chấp nhận là một tài liệu xác thực)",
       "It is impossible to know yet if the manuscript being translated is [authentic], because its origin is mysterious. (=Dịch: Hiện tại không thể biết được bản thảo đang được dịch có phải là xác thực không, vì nguồn gốc của nó là bí ẩn.)"
     ],
-    "image": "assets/images/authentic.jpg"
+    "image": "assets/images/authentic.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "bakery",
@@ -9357,7 +10076,8 @@ const vocabData = [
       "These are standard ingredients used in large [bakeries] that make loaf bread. (=Dịch: Đây là những nguyên liệu tiêu chuẩn được sử dụng trong các tiệm bánh lớn làm bánh mì ổ.)",
       "Here are some of my favorite breads from various [bakeries] across Paris. (=Dịch: Đây là một số loại bánh mì yêu thích của tôi từ các tiệm bánh khác nhau ở Paris.)"
     ],
-    "image": "assets/images/bakery.jpg"
+    "image": "assets/images/bakery.jpg",
+    "topic": "Shopping & Commerce"
   },
   {
     "word": "carton",
@@ -9370,7 +10090,8 @@ const vocabData = [
       "Ask what their favourite sandwich is and give them a small [carton] of milk or a yogurt drink as a treat. (=Dịch: Hỏi xem bánh sandwich yêu thích của họ là gì và tặng họ một hộp sữa nhỏ hoặc một ly sữa chua như một món quà.)",
       "The company uses agency workers to pack computer monitors into shipping [cartons]. (=Dịch: Công ty sử dụng nhân viên đại lý để đóng gói màn hình máy tính vào thùng vận chuyển.)"
     ],
-    "image": "assets/images/carton.jpg"
+    "image": "assets/images/carton.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "compartment",
@@ -9383,7 +10104,8 @@ const vocabData = [
       "There should be [compartments] and pockets and pouches to hold stuff like your coins, keys and cell phone (=Dịch: Nên có các ngăn và túi nhỏ để giữ những thứ như tiền xu, chìa khóa và điện thoại di động của bạn.)",
       "Tickets cost 22 leva an adult for first class [compartments]. (=Dịch: Vé hạng nhất cho người lớn có giá 22 leva.)"
     ],
-    "image": "assets/images/compartment.jpg"
+    "image": "assets/images/compartment.jpg",
+    "topic": "Travel & Transport"
   },
   {
     "word": "compatible",
@@ -9396,7 +10118,8 @@ const vocabData = [
       "This software may not be [compatible] with older operating systems. (=Dịch: Phần mềm này có thể không tương thích với các hệ điều hành cũ hơn.)",
       "We offer our customers the choice between original and [compatible] ink cartridges. (=Dịch: Chúng tôi cung cấp cho khách hàng sự lựa chọn giữa hộp mực gốc và hộp mực tương thích.)"
     ],
-    "image": "assets/images/compatible.jpg"
+    "image": "assets/images/compatible.jpg",
+    "topic": "Law & Government"
   },
   {
     "word": "consumption",
@@ -9409,7 +10132,8 @@ const vocabData = [
       "The meat was clearly unfit for human [consumption]  (=Dịch: Thịt rõ ràng không phù hợp cho tiêu thụ của con người.)",
       "In this period, there were 974 outbreaks of communicable disease attributed to the [consumption] of raw milk. (=Dịch: Trong giai đoạn này, đã có 974 đợt bùng phát các bệnh truyền nhiễm được quy cho việc tiêu thụ sữa tươi.)"
     ],
-    "image": "assets/images/consumption.jpg"
+    "image": "assets/images/consumption.jpg",
+    "topic": "Health & Medicine"
   },
   {
     "word": "conveniently",
@@ -9422,7 +10146,8 @@ const vocabData = [
       "An additional power switch for the radio is [conveniently] located next to the steering wheel. (=Dịch: Một công tắc điện bổ sung cho radio được đặt thuận tiện bên cạnh vô lăng.)",
       "They have [conveniently] provided a return envelope for you to use. (=Dịch: Họ đã tiện lợi cung cấp một phong bì trả lời để bạn sử dụng.)"
     ],
-    "image": "assets/images/conveniently.jpg"
+    "image": "assets/images/conveniently.jpg",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "cosmetic",
@@ -9435,7 +10160,8 @@ const vocabData = [
       "They were offered a few [cosmetic] improvements to their working conditions, but nothing of significance. (=Dịch: Họ đã được đề nghị một vài cải thiện về mặt hình thức cho điều kiện làm việc của mình, nhưng không có gì đáng kể.)",
       "We are committed to addressing the root causes of our problems rather than making only short-term [cosmetic] changes. (=Dịch: Chúng tôi cam kết giải quyết các nguyên nhân gốc rễ của vấn đề thay vì chỉ thực hiện những thay đổi hình thức ngắn hạn.)"
     ],
-    "image": "assets/images/cosmetic.jpg"
+    "image": "assets/images/cosmetic.jpg",
+    "topic": "Job & Career"
   },
   {
     "word": "courtesy",
@@ -9448,7 +10174,8 @@ const vocabData = [
       "As a [courtesy], we will email you if there is any change to these arrangements. (=Dịch: Như một sự lịch sự, chúng tôi sẽ gửi email cho bạn nếu có bất kỳ thay đổi nào đối với những sắp xếp này.)",
       "I have written to the customer relations director twice but he has not had the [courtesy] to reply. (=Dịch: Tôi đã viết thư cho giám đốc quan hệ khách hàng hai lần nhưng ông ta không lịch sự để trả lời.)"
     ],
-    "image": "assets/images/courtesy.png"
+    "image": "assets/images/courtesy.png",
+    "topic": "Shopping & Commerce"
   },
   {
     "word": "creativity",
@@ -9461,7 +10188,8 @@ const vocabData = [
       "Working in an office can suck out all of the energy and [creativity] in your system. (=Dịch: Làm việc trong văn phòng có thể hút hết năng lượng và sự sáng tạo trong hệ thống của bạn.)",
       "The winners have shown great [creativity], honesty and passion through their work. (=Dịch: Những người chiến thắng đã thể hiện sự sáng tạo, trung thực và đam mê tuyệt vời qua công việc của họ.)"
     ],
-    "image": "assets/images/creativity.jpg"
+    "image": "assets/images/creativity.jpg",
+    "topic": "Job & Career"
   },
   {
     "word": "criteria",
@@ -9474,7 +10202,8 @@ const vocabData = [
       "There will also be a review of all existing holders to make sure they meet the new [criteria]. (=Dịch: Sẽ có một cuộc rà soát tất cả các chủ sở hữu hiện có để đảm bảo họ đáp ứng các tiêu chí mới.)",
       "In some circumstances it is difficult to make economic [criteria] apply even in principle. (=Dịch: Trong một số trường hợp, rất khó để áp dụng tiêu chí kinh tế ngay cả về nguyên tắc.)"
     ],
-    "image": "assets/images/criteria.png"
+    "image": "assets/images/criteria.png",
+    "topic": "Shopping & Commerce"
   },
   {
     "word": "disagreement",
@@ -9487,7 +10216,8 @@ const vocabData = [
       "The candidates had few [disagreements] about the major issues. (=Dịch: Các ứng cử viên có rất ít bất đồng về các vấn đề chính.)",
       "He stepped down last year after [disagreements] with the club president (=Dịch: Anh ấy đã từ chức vào năm ngoái sau những bất đồng với chủ tịch câu lạc bộ.)"
     ],
-    "image": "assets/images/disagreement.jpg"
+    "image": "assets/images/disagreement.jpg",
+    "topic": "Job & Career"
   },
   {
     "word": "discontinue",
@@ -9500,7 +10230,8 @@ const vocabData = [
       "Access to online services and live technical support will be [discontinued] after April 30th. (=Dịch: Quyền truy cập vào các dịch vụ trực tuyến và hỗ trợ kỹ thuật trực tiếp sẽ bị ngừng sau ngày 30 tháng Tư.)",
       "The bank is [discontinuing] this service. (=Dịch: Ngân hàng sẽ ngừng dịch vụ này.)"
     ],
-    "image": "assets/images/discontinue.webp"
+    "image": "assets/images/discontinue.webp",
+    "topic": "Travel & Transport"
   },
   {
     "word": "dishwasher",
@@ -9513,7 +10244,8 @@ const vocabData = [
       "Most newer refrigerators, [dishwashers], washing machines, and dryers let you reduce the energy they consume. (=Dịch: Hầu hết các tủ lạnh, máy rửa chén, máy giặt và máy sấy mới hơn đều cho phép bạn giảm năng lượng tiêu thụ.)",
       "Swing doors give access to a utility room plumbed for a [dishwasher], washing machine and tumble dryer. (=Dịch: Cửa đung đưa cho phép tiếp cận vào một phòng tiện ích có lắp đặt hệ thống cho máy rửa chén, máy giặt và máy sấy đồ.)"
     ],
-    "image": "assets/images/dishwasher.jpg"
+    "image": "assets/images/dishwasher.jpg",
+    "topic": "Technology & Communication"
   },
   {
     "word": "drought",
@@ -9526,7 +10258,8 @@ const vocabData = [
       "Chinese officials say cloud seeding has helped to relieve severe [droughts] and water shortages in cities. (=Dịch: Các quan chức Trung Quốc nói rằng việc gieo mây đã giúp giảm bớt hạn hán và thiếu nước nghiêm trọng ở các thành phố.)",
       "From hurricane to [droughts], weird weather can shake up the economy. (=Dịch: Từ bão đến hạn hán, thời tiết kỳ lạ có thể làm xáo trộn nền kinh tế.)"
     ],
-    "image": "assets/images/drought.jpg"
+    "image": "assets/images/drought.jpg",
+    "topic": "Science & Nature"
   },
   {
     "word": "economize",
@@ -9539,7 +10272,8 @@ const vocabData = [
       "Shoppers are going for less expensive food in an effort to [economize]. (=Dịch: Người mua sắm đang chọn thực phẩm ít tốn kém hơn để tiết kiệm.)",
       "Outsourcing is mostly used as an [economizing] strategy. (=Dịch: Gia công phần mềm chủ yếu được sử dụng như một chiến lược tiết kiệm.)"
     ],
-    "image": "assets/images/economize.jpg"
+    "image": "assets/images/economize.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "entrée",
@@ -9552,7 +10286,8 @@ const vocabData = [
       "Their connections and relative wealth gave them [entrée] to all of the most select entertainments (=Dịch: Các mối quan hệ và sự giàu có tương đối của họ đã cho họ cơ hội tiếp cận tất cả các hoạt động giải trí chọn lọc nhất.)",
       "Although here too they were not an overwhelming success, the series served as his [entrée] into American popular culture. (=Dịch: Mặc dù ở đây họ cũng không phải là một thành công vang dội, nhưng loạt phim này đã phục vụ như là cơ hội tiếp cận của ông vào văn hóa đại chúng Mỹ.)"
     ],
-    "image": "assets/images/entre.png"
+    "image": "assets/images/entre.png",
+    "topic": "Education & Learning"
   },
   {
     "word": "firework",
@@ -9565,7 +10300,8 @@ const vocabData = [
       "The evening ended with a thrilling display of [fireworks]. (=Dịch: Buổi tối kết thúc với màn trình diễn pháo hoa kịch tính.)",
       "The sky was alight with hundreds of [fireworks]. (=Dịch: Bầu trời rực sáng với hàng trăm quả pháo hoa.)"
     ],
-    "image": "assets/images/firework.jpg"
+    "image": "assets/images/firework.jpg",
+    "topic": "Art & Entertainment"
   },
   {
     "word": "freight",
@@ -9578,7 +10314,8 @@ const vocabData = [
       "Will the goods be sent by air or sea [freight]? (=Dịch: Hàng hóa sẽ được gửi bằng đường hàng không hay đường biển?)",
       "This decision will result in a large amount of heavy [freight] being carried by lorries on the already overcrowded roads. (=Dịch: Quyết định này sẽ dẫn đến một lượng lớn hàng hóa nặng được vận chuyển bằng xe tải trên những con đường đã quá đông đúc.)"
     ],
-    "image": "assets/images/freight.jpg"
+    "image": "assets/images/freight.jpg",
+    "topic": "Shopping & Commerce"
   },
   {
     "word": "fry",
@@ -9591,7 +10328,8 @@ const vocabData = [
       "She was [frying] eggs and getting the coffee ready. (=Dịch: Cô ấy đang chiên trứng và chuẩn bị cà phê.)",
       "It is healthier to grill or steam your food than to [fry] it. (=Dịch: Nướng hoặc hấp thức ăn của bạn thì khỏe mạnh hơn là chiên.)"
     ],
-    "image": "assets/images/fry.jpg"
+    "image": "assets/images/fry.jpg",
+    "topic": "Food & Restaurant"
   },
   {
     "word": "gallon",
@@ -9604,7 +10342,8 @@ const vocabData = [
       "The price of petrol will rise by 5p a [gallon] from tomorrow. (=Dịch: Giá xăng sẽ tăng lên 5 xu một gallon từ ngày mai.)",
       "The average federally set price of milk is expected to rise 42 cents, to $1.58 a [gallon]. (=Dịch: Giá sữa trung bình do liên bang quy định dự kiến sẽ tăng 42 cent, lên 1,58 đô la một gallon.)"
     ],
-    "image": "assets/images/gallon.jpg"
+    "image": "assets/images/gallon.jpg",
+    "topic": "Shopping & Commerce"
   },
   {
     "word": "gardener",
@@ -9617,7 +10356,8 @@ const vocabData = [
       "This is quite a difficult plant for inexperienced [gardeners] to grow. (=Dịch: Đây là một loại cây khá khó để những người làm vườn thiếu kinh nghiệm trồng.)",
       "It is self-seeding, and [gardeners] are often careful as to where the seeds fall as it will quite happily grow in a lawn (=Dịch: Nó tự gieo hạt và người làm vườn thường cẩn thận xem hạt rơi ở đâu vì nó sẽ phát triển khá tốt trên bãi cỏ)"
     ],
-    "image": "assets/images/gardener.jpg"
+    "image": "assets/images/gardener.jpg",
+    "topic": "Science & Nature"
   },
   {
     "word": "ideally",
@@ -9630,7 +10370,8 @@ const vocabData = [
       "To minimise error, [ideally] no more than four numbers should be used in a code. (=Dịch: Để giảm thiểu lỗi, lý tưởng nhất là không nên sử dụng quá bốn số trong một mã.)",
       "[Ideally] the concepts and materials should be introduced and promoted by tutors. (=Dịch: Lý tưởng nhất là các khái niệm và tài liệu nên được giới thiệu và quảng bá bởi các giáo viên.)"
     ],
-    "image": "assets/images/ideally.webp"
+    "image": "assets/images/ideally.webp",
+    "topic": "Job & Career"
   },
   {
     "word": "inclusive",
@@ -9643,7 +10384,8 @@ const vocabData = [
       "The house and grounds, [inclusive] of all outbuildings, belong to my client. (=Dịch: Ngôi nhà và khu đất, bao gồm tất cả các công trình phụ, thuộc về khách hàng của tôi.)",
       "Although you were given an estimate [inclusive] of fees, the actual repair could be much higher. (=Dịch: Mặc dù bạn đã được đưa ra một ước tính bao gồm các khoản phí, việc sửa chữa thực tế có thể cao hơn nhiều.)"
     ],
-    "image": "assets/images/inclusive.jpg"
+    "image": "assets/images/inclusive.jpg",
+    "topic": "Shopping & Commerce"
   },
   {
     "word": "insufficient",
@@ -9656,7 +10398,8 @@ const vocabData = [
       "There are fears that the existing flood barrier may prove [insufficient]. (=Dịch: Có lo ngại rằng rào chắn lũ hiện tại có thể không đủ.)",
       "I'm afraid we have [insufficient] evidence. (=Dịch: Tôi e rằng chúng tôi không có đủ bằng chứng.)"
     ],
-    "image": "assets/images/insufficient.jpg"
+    "image": "assets/images/insufficient.jpg",
+    "topic": "Job & Career"
   },
   {
     "word": "introductory",
@@ -9669,7 +10412,8 @@ const vocabData = [
       "[introductory] courses/lectures (=Dịch: các khóa học/bài giảng giới thiệu)",
       "The booklist at the end of the chapter contains some [introductory] reading on the subject. (=Dịch: Danh sách sách ở cuối chương chứa một số tài liệu đọc giới thiệu về chủ đề này.)"
     ],
-    "image": "assets/images/introductory.jpg"
+    "image": "assets/images/introductory.jpg",
+    "topic": "Education & Learning"
   },
   {
     "word": "junk",
@@ -9682,7 +10426,8 @@ const vocabData = [
       "There were bits of [junk] lying around. (=Dịch: Có những mẩu rác nằm xung quanh.)",
       "They cleared out the [junk] room (= a room where you keep thngs that you no longer need or want) to make a tiny bedroom. (=Dịch: Họ đã dọn dẹp phòng chứa đồ linh tinh (một căn phòng giữ những thứ mà bạn không còn cần hoặc muốn nữa) để làm một phòng ngủ nhỏ.)"
     ],
-    "image": "assets/images/junk.jpg"
+    "image": "assets/images/junk.jpg",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "ma'am",
@@ -9695,7 +10440,8 @@ const vocabData = [
       "\"It'll be an hour, [ma'am],\" a guard reported from the door, with a glance at the arm lodged there. (=Dịch: \"Sẽ là một giờ, thưa bà,\" một người lính gác báo cáo từ cửa, liếc nhìn cánh tay bị kẹt ở đó.)",
       "Cortland Finnegan is polite, rarely forgetting to say \"Thank you\" and \"Yes, [ma'am].\" (=Dịch: Cortland Finnegan lịch sự, hiếm khi quên nói \"Cảm ơn\" và \"Vâng, thưa bà.\")"
     ],
-    "image": "assets/images/maam.jpg"
+    "image": "assets/images/maam.jpg",
+    "topic": "Technology & Communication"
   },
   {
     "word": "mileage",
@@ -9708,7 +10454,8 @@ const vocabData = [
       "The car rental included unlimited [mileage], but not fuel. (=Dịch: Việc thuê xe bao gồm số dặm không giới hạn, nhưng không bao gồm nhiên liệu.)",
       "I get a [mileage] allowance if I use my car for work (= an amount of money paid for each mile I travel). (=Dịch: Tôi nhận được trợ cấp số dặm nếu tôi sử dụng xe của mình cho công việc (= một khoản tiền được trả cho mỗi dặm tôi đi).)"
     ],
-    "image": "assets/images/mileage.jpg"
+    "image": "assets/images/mileage.jpg",
+    "topic": "Job & Career"
   },
   {
     "word": "noisy",
@@ -9721,7 +10468,8 @@ const vocabData = [
       "The engine is very [noisy] at high speed. (=Dịch: Động cơ rất ồn ở tốc độ cao.)",
       "They are a small but [noisy] pressure group (= they attract attention to their ideas by frequent discussion and argument in public and in the media). (=Dịch: Họ là một nhóm áp lực nhỏ nhưng ồn ào (= họ thu hút sự chú ý đến ý tưởng của mình bằng cách thảo luận và tranh luận thường xuyên trước công chúng và trên các phương tiện truyền thông).)"
     ],
-    "image": "assets/images/noisy.jpg"
+    "image": "assets/images/noisy.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "pan",
@@ -9734,7 +10482,8 @@ const vocabData = [
       "Remove the [pan] from the heat and add the sugar. (=Dịch: Nhấc chảo ra khỏi lửa và thêm đường vào.)",
       "a nonstick [pan] (=Dịch: một chảo chống dính)"
     ],
-    "image": "assets/images/pan.jpg"
+    "image": "assets/images/pan.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "parcel",
@@ -9747,7 +10496,8 @@ const vocabData = [
       "She was carrying a [parcel] of books under her arm.  (=Dịch: Cô ấy đang kẹp một bưu kiện sách dưới cánh tay.)",
       "The prisoners were allowed food [parcels]. (=Dịch: Các tù nhân được phép nhận các gói thực phẩm.)"
     ],
-    "image": "assets/images/parcel.jpg"
+    "image": "assets/images/parcel.jpg",
+    "topic": "Food & Restaurant"
   },
   {
     "word": "pasta",
@@ -9760,7 +10510,8 @@ const vocabData = [
       "For dinner we have [pasta] or jacket potatoes, salad or a few vegetables. (=Dịch: Bữa tối chúng tôi có mì ống hoặc khoai tây nướng, salad hoặc vài loại rau.)",
       "We eat [pasta] and risotto with truffles at an Italian restaurant. (=Dịch: Chúng tôi ăn mì ống và risotto với nấm truffle tại một nhà hàng Ý.)"
     ],
-    "image": "assets/images/pasta.jpg"
+    "image": "assets/images/pasta.jpg",
+    "topic": "Food & Restaurant"
   },
   {
     "word": "periodical",
@@ -9773,7 +10524,8 @@ const vocabData = [
       "The walls would be lined with books and [periodicals].  (=Dịch: Các bức tường sẽ được lót đầy sách và tạp chí.)",
       "...a monthly [periodical].  (=Dịch: ...một tạp chí hàng tháng.)"
     ],
-    "image": "assets/images/periodical.jpg"
+    "image": "assets/images/periodical.jpg",
+    "topic": "Education & Learning"
   },
   {
     "word": "pill",
@@ -9786,7 +10538,8 @@ const vocabData = [
       "I was on various [pills] for my heart condition. (=Dịch: Tôi đã uống nhiều loại thuốc khác nhau cho tình trạng tim của mình.)",
       "Take three [pills] daily after meals. (=Dịch: Uống ba viên mỗi ngày sau bữa ăn.)"
     ],
-    "image": "assets/images/pill.jpg"
+    "image": "assets/images/pill.jpg",
+    "topic": "Health & Medicine"
   },
   {
     "word": "portable",
@@ -9799,7 +10552,8 @@ const vocabData = [
       "new video games for consoles and [portables] (=Dịch: trò chơi điện tử mới cho máy console và thiết bị di động)",
       "The majority of people listen to music on [portables] or in cars.  (=Dịch: Phần lớn mọi người nghe nhạc trên thiết bị di động hoặc trong ô tô.)"
     ],
-    "image": "assets/images/portable.jpg"
+    "image": "assets/images/portable.jpg",
+    "topic": "Technology & Communication"
   },
   {
     "word": "punctual",
@@ -9812,7 +10566,8 @@ const vocabData = [
       "Please try and be [punctual] for the meeting. (=Dịch: Vui lòng cố gắng và đúng giờ cho cuộc họp.)",
       "[Punctual] attendance at all classes is required. (=Dịch: Yêu cầu tham dự đúng giờ tất cả các lớp học.)"
     ],
-    "image": "assets/images/punctual.jpg"
+    "image": "assets/images/punctual.jpg",
+    "topic": "Job & Career"
   },
   {
     "word": "recreation",
@@ -9825,7 +10580,8 @@ const vocabData = [
       "Emma's only form of [recreations] seems to be shopping. (=Dịch: Hình thức giải trí duy nhất của Emma dường như là đi mua sắm.)",
       "The council is encouraging the development of the property for both employment and [recreation]. (=Dịch: Hội đồng đang khuyến khích phát triển tài sản cho cả việc làm và giải trí.)"
     ],
-    "image": "assets/images/recreation.jpg"
+    "image": "assets/images/recreation.jpg",
+    "topic": "Shopping & Commerce"
   },
   {
     "word": "relieve",
@@ -9838,7 +10594,8 @@ const vocabData = [
       "This cream [relieves] the swelling caused by insect stings. (=Dịch: Kem này làm giảm sưng do vết đốt của côn trùng gây ra.)",
       "They removed the blood clot in order to [relieve] the pressure on her brain. (=Dịch: Họ đã loại bỏ cục máu đông để giảm áp lực lên não của cô ấy.)"
     ],
-    "image": "assets/images/relieve.jpg"
+    "image": "assets/images/relieve.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "reminder",
@@ -9851,7 +10608,8 @@ const vocabData = [
       "The accident is a grim [reminder] of the potential dangers involved in North Sea oil production. (=Dịch: Vụ tai nạn là một lời nhắc nhở đen tối về những nguy hiểm tiềm ẩn liên quan đến sản xuất dầu ở Biển Bắc.)",
       "Your letter came as a timely [reminder] that we need to arrange a meeting. (=Dịch: Lá thư của bạn đến như một lời nhắc nhở đúng lúc rằng chúng ta cần sắp xếp một cuộc họp.)"
     ],
-    "image": "assets/images/reminder.jpg"
+    "image": "assets/images/reminder.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "rumor",
@@ -9864,7 +10622,8 @@ const vocabData = [
       "She's circulating/spreading [rumors] that the manager is going to resign. (=Dịch: Cô ấy đang lan truyền tin đồn rằng quản lý sẽ từ chức.)",
       "I heard a [rumor] that she'd been seeing Luke Harrison. (=Dịch: Tôi nghe tin đồn rằng cô ấy đã hẹn hò với Luke Harrison.)"
     ],
-    "image": "assets/images/rumor.jpg"
+    "image": "assets/images/rumor.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "scarf",
@@ -9877,7 +10636,8 @@ const vocabData = [
       "She wound a [scarf] around her neck. (=Dịch: Cô ấy quấn một chiếc khăn quanh cổ.)",
       "He was wearing a hat and [scarf] against the cold. (=Dịch: Anh ấy đội mũ và quàng khăn để chống lạnh.)"
     ],
-    "image": "assets/images/scarf.jpg"
+    "image": "assets/images/scarf.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "seaside",
@@ -9890,7 +10650,8 @@ const vocabData = [
       "Summers were spent at the [seaside]. (=Dịch: Những mùa hè được dành ở bờ biển.)",
       "They have a cottage by the [seaside]. (=Dịch: Họ có một căn nhà tranh bên bờ biển.)"
     ],
-    "image": "assets/images/seaside.jpg"
+    "image": "assets/images/seaside.jpg",
+    "topic": "Travel & Transport"
   },
   {
     "word": "shorten",
@@ -9903,7 +10664,8 @@ const vocabData = [
       "The course has now been [shortened] considerably. (=Dịch: Khóa học bây giờ đã được rút ngắn đi đáng kể.)",
       "The waiting time has been [shortened] dramatically from eight weeks to just one week. (=Dịch: Thời gian chờ đã được rút ngắn đáng kể từ tám tuần xuống chỉ còn một tuần.)"
     ],
-    "image": "assets/images/shorten.jpg"
+    "image": "assets/images/shorten.jpg",
+    "topic": "Education & Learning"
   },
   {
     "word": "specially",
@@ -9916,7 +10678,8 @@ const vocabData = [
       "The meeting was [specially] well attended tonight. (=Dịch: Buổi họp tối nay có sự tham dự đặc biệt đông đảo.)",
       "Are you [specially] interested in watching this programme? (=Dịch: Bạn có đặc biệt quan tâm đến việc xem chương trình này không?)"
     ],
-    "image": "assets/images/specially.jpg"
+    "image": "assets/images/specially.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "spill",
@@ -9929,7 +10692,8 @@ const vocabData = [
       "You've [spilled] something down your tie. (=Dịch: Bạn đã làm đổ thứ gì đó lên cà vạt của mình.)",
       "Let's see if I can pour the juice into the glass without [spilling] it. (=Dịch: Hãy xem liệu tôi có thể rót nước trái cây vào ly mà không làm đổ ra không.)"
     ],
-    "image": "assets/images/spill.jpg"
+    "image": "assets/images/spill.jpg",
+    "topic": "Science & Nature"
   },
   {
     "word": "spouse",
@@ -9942,7 +10706,8 @@ const vocabData = [
       "The insured persons in property and casualty policies may include residents of the insured's household, such as [spouse] and children. (=Dịch: Những người được bảo hiểm trong các chính sách tài sản và tổn thất có thể bao gồm cư dân trong hộ gia đình được bảo hiểm, chẳng hạn như vợ/chồng và con cái.)",
       "If your [spouse] is significantly younger than you, the payout for a joint survivorship policy is significantly less than for an individual annuity. (=Dịch: Nếu vợ/chồng của bạn trẻ hơn bạn đáng kể, khoản thanh toán cho chính sách sinh tồn chung sẽ ít hơn đáng kể so với niên kim cá nhân.)"
     ],
-    "image": "assets/images/spouse.jpg"
+    "image": "assets/images/spouse.jpg",
+    "topic": "Law & Government"
   },
   {
     "word": "subtract",
@@ -9955,7 +10720,8 @@ const vocabData = [
       "6 [subtracted] from 9 is 3 (=Dịch: 9 trừ 6 là 3.)",
       "If you [subtract] 6 from 9, you get 3. (=Dịch: Nếu bạn trừ 6 từ 9, bạn được 3.)"
     ],
-    "image": "assets/images/subtract.jpg"
+    "image": "assets/images/subtract.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "tablet",
@@ -9968,7 +10734,8 @@ const vocabData = [
       "The archaeologists found six [tablets] recording business transactions from over three thousand years ago. (=Dịch: Các nhà khảo cổ đã tìm thấy sáu tấm bảng ghi lại các giao dịch kinh doanh từ hơn ba nghìn năm trước.)",
       "The [tablets] which hold the names of temporally more distant ancestors become the focus of larger groups of agnates. (=Dịch: Những tấm bảng ghi tên tổ tiên có niên đại xa hơn trở thành trọng tâm của các nhóm họ hàng lớn hơn.)"
     ],
-    "image": "assets/images/tablet.jpg"
+    "image": "assets/images/tablet.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "ton",
@@ -9981,7 +10748,8 @@ const vocabData = [
       "The rock weighed over a [ton] and was completely immovable. (=Dịch: Tảng đá nặng hơn một tấn và hoàn toàn không thể di chuyển được.)",
       "What on earth have you got in this bag, Elaine? It weighs a [ton]! (=Dịch: Cô có cái gì trong túi này vậy, Elaine? Nó nặng cả tấn!)"
     ],
-    "image": "assets/images/ton.jpg"
+    "image": "assets/images/ton.jpg",
+    "topic": "Science & Nature"
   },
   {
     "word": "vend",
@@ -9994,7 +10762,8 @@ const vocabData = [
       "The online retailer [vends] a range of retro sports apparel. (=Dịch: Nhà bán lẻ trực tuyến bán các loại trang phục thể thao cổ điển.)",
       "The covered market has many small stalls where traders [vend] locally-made crafts and sweetmeats. (=Dịch: Chợ có mái che có nhiều sạp nhỏ nơi các thương nhân bán các sản phẩm thủ công và kẹo nội địa.)"
     ],
-    "image": "assets/images/vend.jpg"
+    "image": "assets/images/vend.jpg",
+    "topic": "Shopping & Commerce"
   },
   {
     "word": "yoga",
@@ -10007,7 +10776,8 @@ const vocabData = [
       "I go to a [yoga] session on Thursdays. (=Dịch: Tôi tham gia một buổi tập yoga vào các ngày thứ Năm.)",
       "She does [yoga] for an hour a day. (=Dịch: Cô ấy tập yoga một giờ mỗi ngày.)"
     ],
-    "image": "assets/images/yoga.jpg"
+    "image": "assets/images/yoga.jpg",
+    "topic": "Education & Learning"
   },
   {
     "word": "absorb",
@@ -10020,7 +10790,8 @@ const vocabData = [
       "It's hard to [absorb] so much information (=Dịch: Thật khó để tiếp thu quá nhiều thông tin)",
       "In cold climates, houses need to have walls that will [absorb] heat (=Dịch: Ở những vùng khí hậu lạnh, nhà cần có những bức tường có thể hấp thụ nhiệt)"
     ],
-    "image": "assets/images/absorb.jpg"
+    "image": "assets/images/absorb.jpg",
+    "topic": "Health & Medicine"
   },
   {
     "word": "administer",
@@ -10033,7 +10804,8 @@ const vocabData = [
       "Who will [administer] the department's business? (=Dịch: Ai sẽ quản lý công việc của bộ phận?)",
       "The project is [administered] by a community organization in Cape Breton (=Dịch: Dự án được quản lý bởi một tổ chức cộng đồng ở Cape Breton)"
     ],
-    "image": "assets/images/administer.jpg"
+    "image": "assets/images/administer.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "ample",
@@ -10046,7 +10818,8 @@ const vocabData = [
       "They had [ample] warning of the factory closure. (=Dịch: Họ đã được cảnh báo đầy đủ về việc đóng cửa nhà máy.)",
       "There's [ample] room for another desk in the reception area. (=Dịch: Có đủ chỗ cho một bàn nữa ở khu vực tiếp tân.)"
     ],
-    "image": "assets/images/ample.jpg"
+    "image": "assets/images/ample.jpg",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "antique",
@@ -10059,7 +10832,8 @@ const vocabData = [
       "An [antique] dealer had dated the vase at 1734. (=Dịch: Một nhà buôn đồ cổ đã xác định chiếc bình có từ năm 1734.)",
       "Some people invest in [antiques], art, property, wine or other assets (=Dịch: Một số người đầu tư vào đồ cổ, nghệ thuật, bất động sản, rượu vang hoặc các tài sản khác.)"
     ],
-    "image": "assets/images/antique.jpg"
+    "image": "assets/images/antique.jpg",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "bean",
@@ -10072,7 +10846,8 @@ const vocabData = [
       "Vegans get all the protein they need from nuts, seeds, [beans] and cereals. (=Dịch: Người ăn chay trường lấy tất cả lượng protein họ cần từ các loại hạt, hạt giống, đậu và ngũ cốc.)",
       "The villagers cultivate mostly maize and [beans]. (=Dịch: Người dân làng chủ yếu trồng ngô và đậu.)"
     ],
-    "image": "assets/images/bean.jpg"
+    "image": "assets/images/bean.jpg",
+    "topic": "Food & Restaurant"
   },
   {
     "word": "browse",
@@ -10085,7 +10860,8 @@ const vocabData = [
       "Several knowledgeable-looking people were [browsing] among the plants on display and noting things down in notebooks. (=Dịch: Một vài người trông có vẻ hiểu biết đang xem qua các cây trưng bày và ghi chú vào sổ tay.)",
       "\"Are you looking for anything in particular, madam?\" \"No, I'm just [browsing].\" (=Dịch: \"Bà đang tìm gì cụ thể không?\" \"Không, tôi chỉ đang xem qua.\")"
     ],
-    "image": "assets/images/browse.jpeg"
+    "image": "assets/images/browse.jpeg",
+    "topic": "Shopping & Commerce"
   },
   {
     "word": "bye",
@@ -10098,7 +10874,8 @@ const vocabData = [
       "That's all the screen time I'm allowed, okay, [bye]! (=Dịch: Đó là tất cả thời gian sử dụng màn hình mà tôi được phép, được chứ, tạm biệt!)",
       "She flew up the stairs and stopped at the door, 'Nice to meet - thanks for - have a nice evening, [bye]!'' (=Dịch: Cô ấy chạy lên cầu thang và dừng lại ở cửa, 'Rất vui được gặp - cảm ơn - chúc một buổi tối tốt lành, tạm biệt!')"
     ],
-    "image": "assets/images/bye.jpg"
+    "image": "assets/images/bye.jpg",
+    "topic": "Technology & Communication"
   },
   {
     "word": "careless",
@@ -10111,7 +10888,8 @@ const vocabData = [
       "The police blame it on the rash drivers and [careless] pedestrians. (=Dịch: Cảnh sát đổ lỗi cho những tài xế bất cẩn và những người đi bộ cẩu thả.)",
       "If one person makes a mistake or gets [careless], the results can be catastrophic. (=Dịch: Nếu một người mắc sai lầm hoặc trở nên bất cẩn, hậu quả có thể là thảm khốc.)"
     ],
-    "image": "assets/images/careless.jpg"
+    "image": "assets/images/careless.jpg",
+    "topic": "Law & Government"
   },
   {
     "word": "collector",
@@ -10124,7 +10902,8 @@ const vocabData = [
       "Even as recently as ten years ago, a book [collector] had to be something of a detective. (=Dịch: Ngay cả mới mười năm trước, một người sưu tầm sách cũng phải đóng vai thám tử.)",
       "As museums have taken notice of picture book art, so have [collectors]. (=Dịch: Khi các bảo tàng đã chú ý đến nghệ thuật sách tranh, các nhà sưu tầm cũng vậy.)"
     ],
-    "image": "assets/images/collector.jpg"
+    "image": "assets/images/collector.jpg",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "conform",
@@ -10137,7 +10916,8 @@ const vocabData = [
       "Once, at a press conference, he was asked if his thinking as a scientist could [conform] to the thinking of a politician. (=Dịch: Một lần, trong một cuộc họp báo, ông ấy được hỏi liệu suy nghĩ của ông ấy như một nhà khoa học có thể phù hợp với suy nghĩ của một chính trị gia hay không.)",
       "Make sure to keep in mind that they should also [conform] to the mood and harmony of the living space. (=Dịch: Hãy nhớ rằng chúng cũng nên phù hợp với tâm trạng và sự hài hòa của không gian sống.)"
     ],
-    "image": "assets/images/conform.jpg"
+    "image": "assets/images/conform.jpg",
+    "topic": "Science & Nature"
   },
   {
     "word": "congestion",
@@ -10150,7 +10930,8 @@ const vocabData = [
       "Major airports will need new runways to relieve [congestion]. (=Dịch: Các sân bay lớn sẽ cần các đường băng mới để giảm tắc nghẽn.)",
       "The incident caused [congestion] on surrounding roads as police cleared the area. (=Dịch: Sự cố đã gây ra tắc nghẽn trên các đường xung quanh khi cảnh sát dọn dẹp khu vực.)"
     ],
-    "image": "assets/images/congestion.jpg"
+    "image": "assets/images/congestion.jpg",
+    "topic": "Law & Government"
   },
   {
     "word": "contradiction",
@@ -10163,7 +10944,8 @@ const vocabData = [
       "In fact, the [contradiction] with the present study is only in terms of conclusions and not in terms of results (=Dịch: Thực tế, mâu thuẫn với nghiên cứu hiện tại chỉ nằm ở kết luận chứ không phải ở kết quả)",
       "They've already argued that these two statements are in bold [contradiction]. (=Dịch: Họ đã lập luận rằng hai tuyên bố này có mâu thuẫn rõ ràng.)"
     ],
-    "image": "assets/images/contradiction.jpg"
+    "image": "assets/images/contradiction.jpg",
+    "topic": "Education & Learning"
   },
   {
     "word": "contrary",
@@ -10176,7 +10958,8 @@ const vocabData = [
       "I find it hard to understand the [contrary] position, but I would not argue against it (=Dịch: Tôi thấy khó hiểu được lập trường trái ngược, nhưng tôi sẽ không tranh luận chống lại nó.)",
       "In spite of [contrary] statements from others in the administration, Cheney is still insisting. (=Dịch: Bất chấp những phát biểu trái ngược từ những người khác trong chính quyền, Cheney vẫn đang khăng khăng.)"
     ],
-    "image": "assets/images/contrary.jpg"
+    "image": "assets/images/contrary.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "diploma",
@@ -10189,7 +10972,8 @@ const vocabData = [
       "On completion of this course he will be awarded a [diploma] as a ring side doctor. (=Dịch: Sau khi hoàn thành khóa học này, anh ấy sẽ được cấp bằng như một bác sĩ bên hông sàn đấu.)",
       "For more than a century the department of education has collected data on the number of high-school [diplomas] awarded each year. (=Dịch: Trong hơn một thế kỷ, bộ giáo dục đã thu thập dữ liệu về số lượng bằng tốt nghiệp trung học được cấp mỗi năm.)"
     ],
-    "image": "assets/images/diploma.jpg"
+    "image": "assets/images/diploma.jpg",
+    "topic": "Education & Learning"
   },
   {
     "word": "disappointment",
@@ -10202,7 +10986,8 @@ const vocabData = [
       "He repeated his apology to fans over their [disappointment] at the failure to stage the concert. (=Dịch: Anh ấy đã lặp lại lời xin lỗi với người hâm mộ vì sự thất vọng của họ về việc không tổ chức được buổi hòa nhạc.)",
       "Tesco, Waterford & Tramore Racecourse Company and several Tramore public representatives have voiced deep [disappointment] at the decision. (=Dịch: Tesco, Công ty Đua ngựa Waterford & Tramore và một số đại diện công chúng ở Tramore đã bày tỏ sự thất vọng sâu sắc về quyết định này.)"
     ],
-    "image": "assets/images/disappointment.jpg"
+    "image": "assets/images/disappointment.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "dissatisfy",
@@ -10215,7 +11000,8 @@ const vocabData = [
       "It's a question often asked, but the answer usually [dissatisfies] those doing the asking. (=Dịch: Đó là một câu hỏi thường xuyên được đặt ra, nhưng câu trả lời thường làm những người hỏi không hài lòng.)",
       "Companies don't have to subscribe to the notion that if the stock doesn't go up by 15% to 20%, they're going to [dissatisfy] the investor. (=Dịch: Các công ty không nhất thiết phải tin rằng nếu cổ phiếu không tăng từ 15% đến 20%, họ sẽ làm nhà đầu tư không hài lòng.)"
     ],
-    "image": "assets/images/dissatisfy.jpg"
+    "image": "assets/images/dissatisfy.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "distributor",
@@ -10228,7 +11014,8 @@ const vocabData = [
       "We have appointed the company as sole [distributor] of our goods in Japan. (=Dịch: Chúng tôi đã chỉ định công ty làm nhà phân phối độc quyền cho hàng hóa của chúng tôi ở Nhật Bản.)",
       "The workshops will review market research techniques and the role of agents and [distributors]. (=Dịch: Các hội thảo sẽ xem xét các kỹ thuật nghiên cứu thị trường và vai trò của đại lý và nhà phân phối.)"
     ],
-    "image": "assets/images/distributor.png"
+    "image": "assets/images/distributor.png",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "dive",
@@ -10241,7 +11028,8 @@ const vocabData = [
       "We were so hot we flung off our clothes and [dived] into the swimming pool. (=Dịch: Chúng tôi nóng quá nên đã cởi bỏ quần áo và nhảy vào hồ bơi.)",
       "She [dived] into the still water of the lake. (=Dịch: Cô ấy nhảy xuống làn nước tĩnh lặng của hồ.)"
     ],
-    "image": "assets/images/dive.jpg"
+    "image": "assets/images/dive.jpg",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "energetic",
@@ -10254,7 +11042,8 @@ const vocabData = [
       "The president was an [energetic] campaigner. (=Dịch: Chủ tịch là một nhà vận động rất năng động.)",
       "We need to teach our children to delight in [energetic] activity, not enervating entertainment. (=Dịch: Chúng ta cần dạy trẻ con vui thích trong các hoạt động năng động, không phải giải trí mệt mỏi.)"
     ],
-    "image": "assets/images/energetic.jpg"
+    "image": "assets/images/energetic.jpg",
+    "topic": "Art & Entertainment"
   },
   {
     "word": "enjoyable",
@@ -10267,7 +11056,8 @@ const vocabData = [
       "The assembly was immensely humorous and an very [enjoyable] way to round up the day. (=Dịch: Cuộc họp mặt cực kỳ hài hước và là một cách rất thú vị để kết thúc ngày.)",
       "The training was very [enjoyable] and everyone went about their work with a smile on their face. (=Dịch: Buổi đào tạo rất thú vị và mọi người đều làm việc với nụ cười trên môi.)"
     ],
-    "image": "assets/images/enjoyable.jpg"
+    "image": "assets/images/enjoyable.jpg",
+    "topic": "Job & Career"
   },
   {
     "word": "faculty",
@@ -10280,7 +11070,8 @@ const vocabData = [
       "Many [faculty] have the ability to succeed in jobs that have substantially higher compensation than academia. (=Dịch: Nhiều giảng viên có khả năng thành công trong các công việc có mức lương cao hơn đáng kể so với học thuật.)",
       "These are teaching institutions, staffed by [faculty] with heavy teaching loads. (=Dịch: Đây là các cơ sở giảng dạy, được nhân viên giảng dạy với khối lượng công việc giảng dạy nặng nề.)"
     ],
-    "image": "assets/images/faculty.jpeg"
+    "image": "assets/images/faculty.jpeg",
+    "topic": "Education & Learning"
   },
   {
     "word": "favorable",
@@ -10293,7 +11084,8 @@ const vocabData = [
       "Warm conditions similarly are highly [favorable] to the evolution of high performance. (=Dịch: Điều kiện ấm áp cũng rất thuận lợi cho sự phát triển của hiệu suất cao.)",
       "Only in the far east were conditions different and more [favourable] to battle. (=Dịch: Chỉ ở vùng Viễn Đông điều kiện mới khác biệt và thuận lợi hơn cho trận chiến.)"
     ],
-    "image": "assets/images/favorable.jpg"
+    "image": "assets/images/favorable.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "foreman",
@@ -10306,7 +11098,8 @@ const vocabData = [
       "More often, workers and union committeemen verbally abused or threatened their [foremen] and supervisors. (=Dịch: Thường xuyên hơn, công nhân và ủy viên công đoàn lăng mạ hoặc đe dọa đốc công và giám sát viên của họ bằng lời nói.)",
       "He has worked on the farm for 13 years and is now an assistant [foreman] who supervises crews that tend the vines. (=Dịch: Anh ấy đã làm việc ở trang trại được 13 năm và hiện là trợ lý đốc công, người giám sát các đội chăm sóc cây nho.)"
     ],
-    "image": "assets/images/foreman.jpg"
+    "image": "assets/images/foreman.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "forum",
@@ -10319,7 +11112,8 @@ const vocabData = [
       "They plan to discuss the survey results in a public [forum]. (=Dịch: Họ dự định thảo luận kết quả khảo sát trong một diễn đàn công khai.)",
       "The meeting provided a valuable [forum] for discussing the issue from many diverse perspectives. (=Dịch: Cuộc họp đã cung cấp một diễn đàn quý giá để thảo luận về vấn đề từ nhiều quan điểm khác nhau.)"
     ],
-    "image": "assets/images/forum.jpg"
+    "image": "assets/images/forum.jpg",
+    "topic": "Art & Entertainment"
   },
   {
     "word": "founder",
@@ -10332,7 +11126,8 @@ const vocabData = [
       "He is recognized as one of the [founders] of computer technology. (=Dịch: Ông được công nhận là một trong những người sáng lập công nghệ máy tính.)",
       "Plenty of the [founder] members couldn't make it this close to Christmas, so January's event may well be larger. (=Dịch: Nhiều thành viên sáng lập không thể tham gia do thời điểm gần Giáng sinh, vì vậy sự kiện vào tháng Giêng có thể sẽ đông hơn.)"
     ],
-    "image": "assets/images/founder.png"
+    "image": "assets/images/founder.png",
+    "topic": "Business & Office"
   },
   {
     "word": "fundraise",
@@ -10345,7 +11140,8 @@ const vocabData = [
       "The company says it [fundraises] for more than 500 charity groups. (=Dịch: Công ty cho biết họ gây quỹ cho hơn 500 nhóm từ thiện.)",
       "It is a difficult task to [fundraise] all the time but we have been greatly supported by the local community. (=Dịch: Đó là một nhiệm vụ khó khăn để gây quỹ mọi lúc nhưng chúng tôi đã nhận được sự hỗ trợ to lớn từ cộng đồng địa phương.)"
     ],
-    "image": "assets/images/fundraise.webp"
+    "image": "assets/images/fundraise.webp",
+    "topic": "Business & Office"
   },
   {
     "word": "graphics",
@@ -10358,7 +11154,8 @@ const vocabData = [
       "They specialise in the development of [graphics] and multimedia software. (=Dịch: Họ chuyên về phát triển phần mềm đồ họa và đa phương tiện.)",
       "The storyline of the game was great but the [graphics] were very disappointing. (=Dịch: Cốt truyện của trò chơi rất hay nhưng đồ họa lại rất đáng thất vọng.)"
     ],
-    "image": "assets/images/graphics.jpg"
+    "image": "assets/images/graphics.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "handy",
@@ -10371,7 +11168,8 @@ const vocabData = [
       "Credit cards are a [handy] way of paying for things as long as the rates are not too high. (=Dịch: Thẻ tín dụng là một cách tiện lợi để thanh toán cho các món hàng miễn là lãi suất không quá cao.)",
       "The personal finance software includes [handy] features such as automatic bill payment reminders. (=Dịch: Phần mềm tài chính cá nhân bao gồm các tính năng tiện lợi như nhắc nhở thanh toán hóa đơn tự động.)"
     ],
-    "image": "assets/images/handy.jpg"
+    "image": "assets/images/handy.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "hazardous",
@@ -10384,7 +11182,8 @@ const vocabData = [
       "Much of the waste found on the beaches is fishing waste that can be extremely [hazardous] to wildlife. (=Dịch: Phần lớn rác thải được tìm thấy trên các bãi biển là rác thải từ việc đánh bắt cá có thể cực kỳ nguy hiểm cho động vật hoang dã.)",
       "Workers said yesterday that they were entitled to these wages because of the [hazardous] nature of their jobs. (=Dịch: Công nhân nói hôm qua rằng họ được hưởng mức lương này vì tính chất nguy hiểm của công việc của họ.)"
     ],
-    "image": "assets/images/hazardous.jpg"
+    "image": "assets/images/hazardous.jpg",
+    "topic": "Science & Nature"
   },
   {
     "word": "healthcare",
@@ -10397,7 +11196,8 @@ const vocabData = [
       "Large corporations should have some responsibility in providing [healthcare], safe working conditions, and an environment of equality. (=Dịch: Các tập đoàn lớn nên có một số trách nhiệm trong việc cung cấp dịch vụ chăm sóc sức khỏe, điều kiện làm việc an toàn và một môi trường bình đẳng.)",
       "The NHS is a world-leading [healthcare] system free at the point of need to everyone. (=Dịch: NHS là một hệ thống chăm sóc sức khỏe hàng đầu thế giới cung cấp miễn phí cho mọi người khi cần thiết.)"
     ],
-    "image": "assets/images/healthcare.jpg"
+    "image": "assets/images/healthcare.jpg",
+    "topic": "Health & Medicine"
   },
   {
     "word": "humidity",
@@ -10410,7 +11210,8 @@ const vocabData = [
       "The airflow inside a forest is greatly reduced and results in higher [humidities]. (=Dịch: Lưu lượng không khí trong rừng giảm đáng kể và dẫn đến độ ẩm cao hơn.)",
       "Kitchens and bathrooms are natural places for higher [humidity] because of running water and escaping steam. (=Dịch: Nhà bếp và phòng tắm là những nơi có độ ẩm cao hơn tự nhiên do có nước chảy và hơi nước thoát ra.)"
     ],
-    "image": "assets/images/humidity.jpg"
+    "image": "assets/images/humidity.jpg",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "immigration",
@@ -10423,7 +11224,8 @@ const vocabData = [
       "Current [immigration] levels are driving the U.S. population to double this century. (=Dịch: Mức độ nhập cư hiện tại đang đẩy dân số Hoa Kỳ lên gấp đôi trong thế kỷ này.)",
       "There are strict limits on [immigration] into the country. (=Dịch: Có những giới hạn nghiêm ngặt về nhập cư vào đất nước này.)"
     ],
-    "image": "assets/images/immigration.jpg"
+    "image": "assets/images/immigration.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "influential",
@@ -10436,7 +11238,8 @@ const vocabData = [
       "His ideas are widely [influential] among Palestinians. (=Dịch: Ý tưởng của anh ta có tầm ảnh hưởng rộng rãi trong cộng đồng người Palestine.)",
       "She is one of the most [influential] figures in local politics. (=Dịch: Cô ấy là một trong những nhân vật có tầm ảnh hưởng nhất trong chính trị địa phương.)"
     ],
-    "image": "assets/images/influential.jpg"
+    "image": "assets/images/influential.jpg",
+    "topic": "Law & Government"
   },
   {
     "word": "nationwide",
@@ -10449,7 +11252,8 @@ const vocabData = [
       "The company has over 500 stores [nationwide]. (=Dịch: Công ty có hơn 500 cửa hàng trên toàn quốc.)",
       "The study uses data from a [nationwide] survey of 5 000 people. (=Dịch: Nghiên cứu sử dụng dữ liệu từ một cuộc khảo sát toàn quốc với 5.000 người.)"
     ],
-    "image": "assets/images/nationwide.jpg"
+    "image": "assets/images/nationwide.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "pad",
@@ -10462,7 +11266,8 @@ const vocabData = [
       "She always kept a [pad] and pencil by the phone. (=Dịch: Cô ấy luôn giữ một cuốn sổ và bút chì bên điện thoại.)",
       "She doodled on a [pad] as she spoke. (=Dịch: Cô ấy vẽ nguệch ngoạc trên một cuốn sổ khi cô ấy nói chuyện.)"
     ],
-    "image": "assets/images/pad.jpg"
+    "image": "assets/images/pad.jpg",
+    "topic": "Technology & Communication"
   },
   {
     "word": "paraphrase",
@@ -10475,7 +11280,8 @@ const vocabData = [
       "Baxter [paraphrased] the contents of the press release.  (=Dịch: Baxter đã diễn giải lại nội dung của thông cáo báo chí.)",
       "I'm [paraphrasing] but this is honestly what he said. (=Dịch: Tôi đang diễn giải lại nhưng đây thực sự là những gì anh ấy đã nói.)"
     ],
-    "image": "assets/images/paraphrase.jpg"
+    "image": "assets/images/paraphrase.jpg",
+    "topic": "Art & Entertainment"
   },
   {
     "word": "placement",
@@ -10488,7 +11294,8 @@ const vocabData = [
       "a job [placement] service (=Dịch: một dịch vụ tìm việc làm)",
       "[placement] with a foster family (=Dịch: đặt vào một gia đình nuôi dưỡng)"
     ],
-    "image": "assets/images/placement.jpg"
+    "image": "assets/images/placement.jpg",
+    "topic": "Job & Career"
   },
   {
     "word": "postal",
@@ -10501,7 +11308,8 @@ const vocabData = [
       "UK You can pay by cheque or [postal] order. (=Dịch: Bạn có thể thanh toán bằng séc hoặc lệnh chuyển tiền bưu điện.)",
       "[Postal] workers are currently on strike. (=Dịch: Nhân viên bưu điện hiện đang đình công.)"
     ],
-    "image": "assets/images/postal.jpg"
+    "image": "assets/images/postal.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "publicity",
@@ -10514,7 +11322,8 @@ const vocabData = [
       "Her first novel was published last year in a blaze of (= with a lot of) [publicity]. (=Dịch: Cuốn tiểu thuyết đầu tay của cô đã được xuất bản vào năm ngoái với rất nhiều sự công khai.)",
       "We have planned an exciting [publicity] campaign with our advertisers. (=Dịch: Chúng tôi đã lên kế hoạch một chiến dịch quảng bá thú vị với các nhà quảng cáo của mình.)"
     ],
-    "image": "assets/images/publicity.jpg"
+    "image": "assets/images/publicity.jpg",
+    "topic": "Shopping & Commerce"
   },
   {
     "word": "renter",
@@ -10527,7 +11336,8 @@ const vocabData = [
       "What really shocked me was how many [renters] have no savings at all. (=Dịch: Điều thực sự làm tôi sốc là có bao nhiêu người thuê nhà hoàn toàn không có tiết kiệm.)",
       "The rental agreements contractually obligate the [renter] to pay costs not covered by normal insurance. (=Dịch: Các hợp đồng thuê nhà bắt buộc người thuê phải trả các chi phí không được bảo hiểm thông thường chi trả.)"
     ],
-    "image": "assets/images/renter.jpg"
+    "image": "assets/images/renter.jpg",
+    "topic": "Job & Career"
   },
   {
     "word": "repairperson",
@@ -10540,7 +11350,8 @@ const vocabData = [
       "He estimated a consumer could hire an appliance [repairperson] for $ 75 to do the 10-minute repair. (=Dịch: Anh ấy ước tính một người tiêu dùng có thể thuê một người sửa chữa thiết bị với giá 75 đô la để thực hiện sửa chữa trong 10 phút.)",
       "Afterwards an appliance [repairperson] will have to be consulted to see if the door can be safely resealed. (=Dịch: Sau đó, sẽ phải tham khảo ý kiến của một người sửa chữa thiết bị để xem liệu cửa có thể được niêm phong an toàn hay không.)"
     ],
-    "image": "assets/images/repairperson.jpg"
+    "image": "assets/images/repairperson.jpg",
+    "topic": "Job & Career"
   },
   {
     "word": "repeatedly",
@@ -10553,7 +11364,8 @@ const vocabData = [
       "The rebel forces have been [repeatedly] attacked by loyalist troops. (=Dịch: Lực lượng nổi dậy đã nhiều lần bị tấn công bởi quân trung thành.)",
       "The government [repeatedly] stressed its support for parental choice in the selection of a child's school. (=Dịch: Chính phủ nhiều lần nhấn mạnh sự ủng hộ của mình đối với sự lựa chọn của phụ huynh trong việc chọn trường cho con.)"
     ],
-    "image": "assets/images/repeatedly.jpg"
+    "image": "assets/images/repeatedly.jpg",
+    "topic": "Law & Government"
   },
   {
     "word": "restroom",
@@ -10566,7 +11378,8 @@ const vocabData = [
       "He went off to find the [restroom]. (=Dịch: Anh ấy đã đi tìm nhà vệ sinh.)",
       "The gas station [restroom] was locked. (=Dịch: Nhà vệ sinh ở trạm xăng bị khóa.)"
     ],
-    "image": "assets/images/restroom.jpg"
+    "image": "assets/images/restroom.jpg",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "silently",
@@ -10579,7 +11392,8 @@ const vocabData = [
       "[Silently], from across the road, they watched who came and went. (=Dịch: Từ bên kia đường, họ lặng lẽ theo dõi ai đến và đi.)",
       "After months of [silently] pining for her, he mustered the courage to talk to her at a party. (=Dịch: Sau nhiều tháng thầm thương trộm nhớ cô ấy, anh ấy đã dũng cảm bắt chuyện với cô ấy tại một bữa tiệc.)"
     ],
-    "image": "assets/images/silently.jpg"
+    "image": "assets/images/silently.jpg",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "spa",
@@ -10592,7 +11406,8 @@ const vocabData = [
       "The [spa] offers massages and beauty treatments as well as exercise classes. (=Dịch: Spa cung cấp các dịch vụ massage và làm đẹp cũng như các lớp học thể dục.)",
       "Fiuggi is a [spa] town which is famous for its water.  (=Dịch: Fiuggi là một thị trấn spa nổi tiếng với nước của nó.)"
     ],
-    "image": "assets/images/spa.jpg"
+    "image": "assets/images/spa.jpg",
+    "topic": "Health & Medicine"
   },
   {
     "word": "spreadsheet",
@@ -10605,7 +11420,8 @@ const vocabData = [
       "She said the friend had downloaded a [spreadsheet] of student information from an administration computer. (=Dịch: Cô ấy nói rằng người bạn đã tải xuống một bảng tính thông tin học sinh từ máy tính quản trị.)",
       "I started keeping a [spreadsheet] on my computer of every single meal I know how to make. (=Dịch: Tôi bắt đầu lưu giữ một bảng tính trên máy tính của mình về từng bữa ăn mà tôi biết cách chế biến.)"
     ],
-    "image": "assets/images/spreadsheet.jpg"
+    "image": "assets/images/spreadsheet.jpg",
+    "topic": "Technology & Communication"
   },
   {
     "word": "stapler",
@@ -10618,7 +11434,8 @@ const vocabData = [
       "Place the paper in a heavy-duty manual [stapler] that can use at least 1/2 inch staples. (=Dịch: Đặt giấy vào ghim bấm thủ công hạng nặng có thể sử dụng ghim ít nhất 1/2 inch.)",
       "The PDF file will print out a chart that is seven pages long, so make sure you have a [stapler] handy to keep all the pages together. (=Dịch: Tệp PDF sẽ in ra một biểu đồ dài bảy trang, vì vậy hãy đảm bảo bạn có một chiếc ghim bấm tiện tay để giữ tất cả các trang lại với nhau.)"
     ],
-    "image": "assets/images/stapler.jpg"
+    "image": "assets/images/stapler.jpg",
+    "topic": "Technology & Communication"
   },
   {
     "word": "streamline",
@@ -10631,7 +11448,8 @@ const vocabData = [
       "Leading organizations use software to [streamline] their workflow. (=Dịch: Các tổ chức hàng đầu sử dụng phần mềm để tinh giản quy trình làm việc của họ.)",
       "[Streamlining] management could save at least 15 percent in costs. (=Dịch: Tinh giản quản lý có thể tiết kiệm ít nhất 15 phần trăm chi phí.)"
     ],
-    "image": "assets/images/streamline.jpg"
+    "image": "assets/images/streamline.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "substantially",
@@ -10644,7 +11462,8 @@ const vocabData = [
       "Their new house is [substantially] bigger than their previous one. (=Dịch: Ngôi nhà mới của họ lớn hơn đáng kể so với ngôi nhà cũ.)",
       "They charge [substantially] more than their competitors. (=Dịch: Họ tính phí cao hơn đáng kể so với các đối thủ cạnh tranh của họ.)"
     ],
-    "image": "assets/images/substantially.jpg"
+    "image": "assets/images/substantially.jpg",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "teller",
@@ -10657,7 +11476,8 @@ const vocabData = [
       "Cashier's checks, [teller]'s checks, and money orders should be made payable to the facility where you are making the payment. (=Dịch: Séc của người thu ngân, séc của giao dịch viên và lệnh chuyển tiền nên được ghi trả cho cơ sở mà bạn đang thực hiện thanh toán.)",
       "He served there for 17 years, first as a [teller] and ultimately as chief underwriter for the bank's California residential lending division. (=Dịch: Ông đã làm việc ở đó trong 17 năm, đầu tiên là giao dịch viên và cuối cùng là trưởng bộ phận bảo lãnh cho bộ phận cho vay nhà ở của ngân hàng tại California.)"
     ],
-    "image": "assets/images/teller.jpg"
+    "image": "assets/images/teller.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "tidy",
@@ -10670,7 +11490,8 @@ const vocabData = [
       "I asked her to [tidy] the kitchen but of course she conveniently forgot . (=Dịch: Tôi đã yêu cầu cô ấy dọn dẹp bếp nhưng tất nhiên cô ấy đã tiện thể quên mất.)",
       "I want no ifs and buts - just get on and [tidy] your room now. (=Dịch: Tôi không muốn nghe bất kỳ lý do nào - hãy dọn dẹp phòng ngay bây giờ.)"
     ],
-    "image": "assets/images/tidy.jpg"
+    "image": "assets/images/tidy.jpg",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "toll",
@@ -10683,7 +11504,8 @@ const vocabData = [
       "They're raising the bridge [toll] to $5.00. (=Dịch: Họ đang tăng phí cầu lên 5 đô la.)",
       "The number you dialed is a [toll] call – please deposit an additional fifty cents. (=Dịch: Số bạn đã quay là một cuộc gọi tính phí - vui lòng nạp thêm năm mươi xu.)"
     ],
-    "image": "assets/images/toll.jpg"
+    "image": "assets/images/toll.jpg",
+    "topic": "Technology & Communication"
   },
   {
     "word": "toner",
@@ -10696,7 +11518,8 @@ const vocabData = [
       "We need a new [toner] cartridge for the printer. (=Dịch: Chúng ta cần một hộp mực in mới cho máy in.)",
       "Consumers also can opt to buy generic brand laser [toners], manufactured by companies other than the printer manufacturer. (=Dịch: Người tiêu dùng cũng có thể chọn mua mực in laser thương hiệu chung, được sản xuất bởi các công ty khác ngoài nhà sản xuất máy in.)"
     ],
-    "image": "assets/images/toner.jpg"
+    "image": "assets/images/toner.jpg",
+    "topic": "Technology & Communication"
   },
   {
     "word": "urgently",
@@ -10709,7 +11532,8 @@ const vocabData = [
       "Why does she need to speak to me so [urgently]? (=Dịch: Tại sao cô ấy cần nói chuyện với tôi một cách khẩn cấp như vậy?)",
       "They must [urgently] develop a method for establishing partnerships with other countries. (=Dịch: Họ phải khẩn trương phát triển một phương pháp để thiết lập quan hệ đối tác với các quốc gia khác.)"
     ],
-    "image": "assets/images/urgently.jpg"
+    "image": "assets/images/urgently.jpg",
+    "topic": "Education & Learning"
   },
   {
     "word": "walkway",
@@ -10722,7 +11546,8 @@ const vocabData = [
       "Temporary bridges and [walkways]s used for the Olympics will also be removed. (=Dịch: Các cây cầu tạm thời và lối đi bộ được sử dụng cho Thế vận hội cũng sẽ bị gỡ bỏ.)",
       "It is also a restaurant and is surrounded by the sea, accessible by a wooden [walkway]. (=Dịch: Nó cũng là một nhà hàng và được bao quanh bởi biển, có thể tiếp cận bằng lối đi bằng gỗ.)"
     ],
-    "image": "assets/images/walkway.jpg"
+    "image": "assets/images/walkway.jpg",
+    "topic": "Food & Restaurant"
   },
   {
     "word": "amenity",
@@ -10735,7 +11560,8 @@ const vocabData = [
       "Straus established employee [amenities] such as restrooms, medical care, and a lunchroom. (=Dịch: Straus đã thiết lập các tiện nghi cho nhân viên như nhà vệ sinh, chăm sóc y tế và phòng ăn.)",
       "In some countries most people earn less than a dollar a day and lack basic [amenities] such as clean water. (=Dịch: Ở một số quốc gia, hầu hết mọi người kiếm được ít hơn một đô la một ngày và thiếu các tiện ích cơ bản như nước sạch.)"
     ],
-    "image": "assets/images/amenity.jpg"
+    "image": "assets/images/amenity.jpg",
+    "topic": "Health & Medicine"
   },
   {
     "word": "approximate",
@@ -10748,7 +11574,8 @@ const vocabData = [
       "Student numbers this year are expected to [approximate] 5,000 (=Dịch: Số lượng sinh viên năm nay dự kiến sẽ xấp xỉ 5,000.)",
       "The painting only [approximated] the mountain landscape. (=Dịch: Bức tranh chỉ mô phỏng gần đúng cảnh quan núi non.)"
     ],
-    "image": "assets/images/approximate.jpg"
+    "image": "assets/images/approximate.jpg",
+    "topic": "Education & Learning"
   },
   {
     "word": "await",
@@ -10761,7 +11588,8 @@ const vocabData = [
       "There are no jobs [awaiting] those farmers. (=Dịch: Không có công việc nào chờ đợi những người nông dân đó.)",
       "A marvellous reception [awaited] me on my first day at work. (=Dịch: Một buổi tiếp đón tuyệt vời đã chờ đợi tôi vào ngày đầu tiên đi làm.)"
     ],
-    "image": "assets/images/await.jpg"
+    "image": "assets/images/await.jpg",
+    "topic": "Job & Career"
   },
   {
     "word": "barbecue",
@@ -10774,7 +11602,8 @@ const vocabData = [
       "There was a lovely smell drifting over from the neighbours' [barbecue]. (=Dịch: Có một mùi thơm dễ chịu bay qua từ bữa tiệc nướng của hàng xóm.)",
       "For [barbecues], only start cooking when the charcoals are glowing red with a layer of grey ash. (=Dịch: Đối với tiệc nướng, chỉ bắt đầu nấu khi than củi đã rực đỏ với một lớp tro xám.)"
     ],
-    "image": "assets/images/barbecue.jpg"
+    "image": "assets/images/barbecue.jpg",
+    "topic": "Food & Restaurant"
   },
   {
     "word": "beginner",
@@ -10787,7 +11616,8 @@ const vocabData = [
       "This class is designed for the absolute [beginner] and no previous knowledge is necessary. (=Dịch: Lớp học này được thiết kế cho những người hoàn toàn mới bắt đầu và không cần kiến thức trước đó.)",
       "Make sure the staff are well qualified and sympathetic towards [beginners] and newcomers. (=Dịch: Hãy đảm bảo rằng nhân viên có trình độ tốt và thông cảm với người mới bắt đầu và người mới đến.)"
     ],
-    "image": "assets/images/beginner.jpg"
+    "image": "assets/images/beginner.jpg",
+    "topic": "Education & Learning"
   },
   {
     "word": "biology",
@@ -10800,7 +11630,8 @@ const vocabData = [
       "The technique could have implications for studying cell and developmental [biology]. (=Dịch: Kỹ thuật này có thể có những tác động đến việc nghiên cứu sinh học tế bào và phát triển.)",
       "The numbers studying chemistry and [biology], meanwhile, have been enjoying a steady rise. (=Dịch: Số lượng học sinh học hóa học và sinh học, trong khi đó, đã tăng đều đặn.)"
     ],
-    "image": "assets/images/biology.jpg"
+    "image": "assets/images/biology.jpg",
+    "topic": "Education & Learning"
   },
   {
     "word": "blanket",
@@ -10813,7 +11644,8 @@ const vocabData = [
       "The sheets on his bed were a dark red satin, with a fur [blanket] for warmth (=Dịch: Ga trải giường trên giường của anh ấy là satin đỏ đậm, với một cái chăn lông để giữ ấm.)",
       "Daniel sits on a sofa cushion, with a [blanket] thrown over his shoulders, eating a bowl of cereal. (=Dịch: Daniel ngồi trên một chiếc đệm ghế sofa, với một tấm chăn khoác lên vai, ăn một bát ngũ cốc.)"
     ],
-    "image": "assets/images/blanket.jpg"
+    "image": "assets/images/blanket.jpg",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "chairperson",
@@ -10826,7 +11658,8 @@ const vocabData = [
       "All the members of the committee take turns acting as [chairperson]. (=Dịch: Tất cả các thành viên của ủy ban luân phiên làm chủ tọa.)",
       "As [chairperson], you will schedule regular meetings with each committee head to discuss issues and updates. (=Dịch: Là chủ tọa, bạn sẽ lên lịch các cuộc họp định kỳ với từng trưởng ban để thảo luận về các vấn đề và cập nhật.)"
     ],
-    "image": "assets/images/chairperson.jpg"
+    "image": "assets/images/chairperson.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "charitable",
@@ -10839,7 +11672,8 @@ const vocabData = [
       "The firm's family owners decided to create a [charitable] foundation. (=Dịch: Các chủ sở hữu gia đình của công ty quyết định tạo ra một quỹ từ thiện.)",
       "Their family [charitable] foundation has given millions of dollars for medical research. (=Dịch: Quỹ từ thiện của gia đình họ đã quyên góp hàng triệu đô la cho nghiên cứu y học.)"
     ],
-    "image": "assets/images/charitable.jpg"
+    "image": "assets/images/charitable.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "checkup",
@@ -10852,7 +11686,8 @@ const vocabData = [
       "We also provide funding for scholarships and cover medical and dental [checkups] and necessary operations. (=Dịch: Chúng tôi cũng cung cấp tài trợ cho học bổng và chi trả các kiểm tra y tế và nha khoa cùng các ca phẫu thuật cần thiết.)",
       "Make sure your clients get a medical [checkup] before starting any exercise program. (=Dịch: Hãy đảm bảo rằng khách hàng của bạn được kiểm tra y tế trước khi bắt đầu bất kỳ chương trình tập luyện nào.)"
     ],
-    "image": "assets/images/checkup.jpg"
+    "image": "assets/images/checkup.jpg",
+    "topic": "Education & Learning"
   },
   {
     "word": "cooler",
@@ -10865,7 +11700,8 @@ const vocabData = [
       "A small [cooler] can keep most foods cold when traveling in a car (=Dịch: Một chiếc thùng mát nhỏ có thể giữ lạnh hầu hết các loại thực phẩm khi đi du lịch bằng xe hơi.)",
       "The business invests tens of thousands of dollars each year in new trucks, bottle [coolers], manufacturing equipment, and computers. (=Dịch: Doanh nghiệp đầu tư hàng chục nghìn đô la mỗi năm vào xe tải mới, tủ mát đựng chai, thiết bị sản xuất và máy tính.)"
     ],
-    "image": "assets/images/cooler.jpg"
+    "image": "assets/images/cooler.jpg",
+    "topic": "Food & Restaurant"
   },
   {
     "word": "crane",
@@ -10878,7 +11714,8 @@ const vocabData = [
       "At the time he was working as a [crane] operator. (=Dịch: Thời điểm đó, anh ấy đang làm việc với tư cách là một người vận hành cần cẩu.)",
       "The [crane] collapsed during an operation to increase its height. (=Dịch: Cần cẩu đã sụp đổ trong quá trình nâng chiều cao của nó.)"
     ],
-    "image": "assets/images/crane.jpg"
+    "image": "assets/images/crane.jpg",
+    "topic": "Technology & Communication"
   },
   {
     "word": "dealership",
@@ -10891,7 +11728,8 @@ const vocabData = [
       "A decade later he was working as a salesman at a Cadillac [dealership] in St Louis. (=Dịch: Một thập kỷ sau, anh ta làm việc như một nhân viên bán hàng tại một đại lý Cadillac ở St Louis.)",
       "They're defending their decision to close hundreds of [dealerships] across the country. (=Dịch: Họ đang bảo vệ quyết định đóng cửa hàng trăm đại lý trên toàn quốc.)"
     ],
-    "image": "assets/images/dealership.jpg"
+    "image": "assets/images/dealership.jpg",
+    "topic": "Shopping & Commerce"
   },
   {
     "word": "dependable",
@@ -10904,7 +11742,8 @@ const vocabData = [
       "The party is seeking to portray itself as a stable, [dependable] and scandal-free government. (=Dịch: Đảng đang cố gắng thể hiện mình như một chính phủ ổn định, đáng tin cậy và không có vụ bê bối.)",
       "As rumors and panic began to rule, they was no source of solid [dependable] information. (=Dịch: Khi tin đồn và hoảng loạn bắt đầu chiếm ưu thế, không có nguồn thông tin nào đáng tin cậy và chắc chắn.)"
     ],
-    "image": "assets/images/dependable.jpeg"
+    "image": "assets/images/dependable.jpeg",
+    "topic": "Law & Government"
   },
   {
     "word": "disconnect",
@@ -10917,7 +11756,8 @@ const vocabData = [
       "The electricity board threatened to [disconnect] the supply. (=Dịch: Công ty điện lực đã dọa sẽ ngắt nguồn cung cấp điện.)",
       "Always [disconnect] the computer from the mains before you remove the lid. (=Dịch: Luôn ngắt máy tính khỏi nguồn điện chính trước khi bạn tháo nắp.)"
     ],
-    "image": "assets/images/disconnect.png"
+    "image": "assets/images/disconnect.png",
+    "topic": "Technology & Communication"
   },
   {
     "word": "dispose",
@@ -10930,7 +11770,8 @@ const vocabData = [
       "The rubbish was to be sorted and sold on or [disposed] of but eventually the waste was merely being dumped and not removed.' (=Dịch: Rác thải sẽ được phân loại và bán đi hoặc loại bỏ nhưng cuối cùng chất thải chỉ đơn giản là bị đổ và không được loại bỏ.)",
       "In addition, income tax will be due irrespective of whether the shares are [disposed] of or retained. (=Dịch: Ngoài ra, thuế thu nhập sẽ phải nộp bất kể cổ phiếu có bị bán đi hoặc được giữ lại hay không.)"
     ],
-    "image": "assets/images/dispose.jpg"
+    "image": "assets/images/dispose.jpg",
+    "topic": "Law & Government"
   },
   {
     "word": "disrupt",
@@ -10943,7 +11784,8 @@ const vocabData = [
       "Dell Inc. [disrupted] the traditional way of selling computers by switching to the internet. (=Dịch: Dell Inc. đã phá vỡ cách bán máy tính truyền thống bằng cách chuyển sang Internet.)",
       "Meetings with her lawyers did not [disrupt] the schedule. (=Dịch: Các cuộc họp với luật sư của cô không làm gián đoạn lịch trình.)"
     ],
-    "image": "assets/images/disrupt.jpg"
+    "image": "assets/images/disrupt.jpg",
+    "topic": "Technology & Communication"
   },
   {
     "word": "dynamic",
@@ -10956,7 +11798,8 @@ const vocabData = [
       "They were advertising for a young, [dynamic] business manager for their London office. (=Dịch: Họ đang quảng cáo tuyển một quản lý kinh doanh trẻ, năng động cho văn phòng của họ ở London.)",
       "You must be prepared to be part of an energetic and [dynamic] team. (=Dịch: Bạn phải sẵn sàng trở thành một phần của một đội ngũ năng động và tràn đầy năng lượng.)"
     ],
-    "image": "assets/images/dynamic.png"
+    "image": "assets/images/dynamic.png",
+    "topic": "Business & Office"
   },
   {
     "word": "enthusiastically",
@@ -10969,7 +11812,8 @@ const vocabData = [
       "The children rushed in and surrounded the food [enthusiastically]. (=Dịch: Bọn trẻ ùa vào và vây quanh thức ăn một cách hào hứng.)",
       "The audience applauded [enthusiastically], and she came back on stage to take another bow. (=Dịch: Khán giả đã nhiệt liệt vỗ tay, và cô ấy trở lại sân khấu để cúi chào một lần nữa.)"
     ],
-    "image": "assets/images/enthusiastically.jpg"
+    "image": "assets/images/enthusiastically.jpg",
+    "topic": "Food & Restaurant"
   },
   {
     "word": "environmentally",
@@ -10982,7 +11826,8 @@ const vocabData = [
       "There is a need for energy policies that are [environmentally] sound. (=Dịch: Cần có các chính sách năng lượng thân thiện với môi trường.)",
       "The group believes that organic farming is more [environmentally] and economically sustainable. (=Dịch: Nhóm tin rằng canh tác hữu cơ bền vững hơn về mặt kinh tế và môi trường.)"
     ],
-    "image": "assets/images/environmentally.jpg"
+    "image": "assets/images/environmentally.jpg",
+    "topic": "Science & Nature"
   },
   {
     "word": "escalator",
@@ -10995,7 +11840,8 @@ const vocabData = [
       "Images submitted to the committee show a modern open-plan mall on two floors with [escalators] and coffee shops. (=Dịch: Những hình ảnh được gửi đến ủy ban cho thấy một trung tâm thương mại hiện đại với thiết kế mở trên hai tầng có thang cuốn và quán cà phê.)",
       "They went up the [escalator] to the second floor and found themselves in the electronics department (=Dịch: Họ đi lên thang cuốn đến tầng hai và thấy mình đang ở trong khu vực điện tử.)"
     ],
-    "image": "assets/images/escalator.jpg"
+    "image": "assets/images/escalator.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "exotic",
@@ -11008,7 +11854,8 @@ const vocabData = [
       "Somewhere in the distance an [exotic] bird gave off a trilling call that sounded both mournful and sweet. (=Dịch: Ở đâu đó trong khoảng cách, một con chim lạ cất tiếng kêu vang lên nghe vừa ai oán vừa ngọt ngào.)",
       "There were [exotic] meals, foreign names of the dishes, and plenty more desserts. (=Dịch: Có những bữa ăn lạ, tên món ăn nước ngoài và thêm nhiều món tráng miệng nữa.)"
     ],
-    "image": "assets/images/exotic.jpg"
+    "image": "assets/images/exotic.jpg",
+    "topic": "Food & Restaurant"
   },
   {
     "word": "fabric",
@@ -11021,7 +11868,8 @@ const vocabData = [
       "Consumers are demanding lighter, easy-to-care-for [fabrics]. (=Dịch: Người tiêu dùng đang đòi hỏi những loại vải nhẹ, dễ chăm sóc.)",
       "Competition from overseas [fabric] producers forced the company to shed 700 jobs. (=Dịch: Sự cạnh tranh từ các nhà sản xuất vải ở nước ngoài buộc công ty phải cắt giảm 700 công việc.)"
     ],
-    "image": "assets/images/fabric.jpg"
+    "image": "assets/images/fabric.jpg",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "freelance",
@@ -11034,7 +11882,8 @@ const vocabData = [
       "After ten years in corporate advertising he decided to go [freelance]. (=Dịch: Sau mười năm làm việc trong ngành quảng cáo doanh nghiệp, anh ấy quyết định làm việc tự do.)",
       "A greater proportion of women in the study were found to be working [freelance] compared to men. (=Dịch: Tỷ lệ phụ nữ trong nghiên cứu được phát hiện là làm việc tự do cao hơn so với nam giới.)"
     ],
-    "image": "assets/images/freelance.webp"
+    "image": "assets/images/freelance.webp",
+    "topic": "Job & Career"
   },
   {
     "word": "generalization",
@@ -11047,7 +11896,8 @@ const vocabData = [
       "I'm an advocate of proposing solutions rather than offering grand [generalizations]. (=Dịch: Tôi ủng hộ việc đề xuất các giải pháp hơn là đưa ra những sự khái quát lớn lao.)",
       "Broad [generalizations] are made to draw conclusions about the historical development of England and Japan. (=Dịch: Những sự khái quát rộng rãi được đưa ra để rút ra kết luận về sự phát triển lịch sử của Anh và Nhật Bản.)"
     ],
-    "image": "assets/images/generalization.jpg"
+    "image": "assets/images/generalization.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "grill",
@@ -11060,7 +11910,8 @@ const vocabData = [
       "The entrance led past an open kitchen with a vast wood burning oven and open charcoal [grills]. (=Dịch: Lối vào dẫn qua một nhà bếp mở với lò nướng đốt củi lớn và các vỉ nướng than củi mở.)",
       "The weather was good as the steaks sizzled away on the giant barbeque [grills] along side baked jacket potatoes. (=Dịch: Thời tiết đẹp khi những miếng bít tết kêu xèo xèo trên các vỉ nướng thịt khổng lồ cùng với khoai tây nướng.)"
     ],
-    "image": "assets/images/grill.jpg"
+    "image": "assets/images/grill.jpg",
+    "topic": "Food & Restaurant"
   },
   {
     "word": "guidance",
@@ -11073,7 +11924,8 @@ const vocabData = [
       "The website offers [guidance] to employers on employment law. (=Dịch: Trang web cung cấp hướng dẫn cho người sử dụng lao động về luật lao động)",
       "Freelance staff have been brought in to help develop software systems under Chris's [guidance]. (=Dịch: Nhân viên tự do đã được mời đến để phát triển hệ thống phần mềm dưới sự hướng dẫn của Chris)"
     ],
-    "image": "assets/images/guidance.jpg"
+    "image": "assets/images/guidance.jpg",
+    "topic": "Technology & Communication"
   },
   {
     "word": "gum",
@@ -11086,7 +11938,8 @@ const vocabData = [
       "He also has a piece of adhesive [gum] with drawing pins sunk in it which, when combined with a thick rubber band, makes a horrifying catapult (=Dịch: Anh ấy cũng có một miếng keo dính với ghim vẽ trong đó, khi kết hợp với một dải cao su dày, tạo thành một cái nỏ đáng sợ.)",
       "Join the two pieces together using strong [gum]. (=Dịch: Nối hai mảnh lại với nhau bằng keo dán mạnh.)"
     ],
-    "image": "assets/images/gum.jpeg"
+    "image": "assets/images/gum.jpeg",
+    "topic": "General/Others"
   },
   {
     "word": "habitual",
@@ -11099,7 +11952,8 @@ const vocabData = [
       "He said the project was a study of [habitual], repetitive action. (=Dịch: Anh ấy nói rằng dự án là một nghiên cứu về hành động lặp đi lặp lại theo thói quen.)",
       "The series expresses those [habitual] and ordinary everyday lives. (=Dịch: Loạt phim này thể hiện những cuộc sống hàng ngày theo thói quen và bình thường.)"
     ],
-    "image": "assets/images/habitual.jpg"
+    "image": "assets/images/habitual.jpg",
+    "topic": "Education & Learning"
   },
   {
     "word": "hesitant",
@@ -11112,7 +11966,8 @@ const vocabData = [
       "The actor was initially [hesitant] when he first heard of the project. (=Dịch: Ban đầu nam diễn viên do dự khi lần đầu nghe về dự án này.)",
       "I was a little nervous and [hesitant] about taking on the job three years ago but I am glad that I did. (=Dịch: Tôi đã hơi lo lắng và do dự về việc nhận công việc ba năm trước nhưng tôi rất vui vì đã quyết định như vậy.)"
     ],
-    "image": "assets/images/hesitant.jpg"
+    "image": "assets/images/hesitant.jpg",
+    "topic": "Art & Entertainment"
   },
   {
     "word": "indicator",
@@ -11125,7 +11980,8 @@ const vocabData = [
       "Housing permits are an [indicator] of the state's economic health. (=Dịch: Giấy phép xây dựng là một chỉ số về sức khỏe kinh tế của tiểu bang.)",
       "Rising orders are an [indicator] of the health of the manufacturing sector. (=Dịch: Số lượng đơn đặt hàng tăng là một chỉ số về sức khỏe của ngành sản xuất.)"
     ],
-    "image": "assets/images/indicator.jpg"
+    "image": "assets/images/indicator.jpg",
+    "topic": "Health & Medicine"
   },
   {
     "word": "individually",
@@ -11138,7 +11994,8 @@ const vocabData = [
       "Participants were tested [individually] in a small room that was free from distractions. (=Dịch: Các người tham gia đã được kiểm tra riêng lẻ trong một phòng nhỏ không có sự phân tâm.)",
       "Every sentence was then [individually] examined for possible meanings and implications. (=Dịch: Mỗi câu sau đó được kiểm tra riêng lẻ để tìm các ý nghĩa và hàm ý có thể có.)"
     ],
-    "image": "assets/images/individually.png"
+    "image": "assets/images/individually.png",
+    "topic": "Health & Medicine"
   },
   {
     "word": "internationally",
@@ -11151,7 +12008,8 @@ const vocabData = [
       "We decided to compete [internationally] and to expand by raising much more private money. (=Dịch: Chúng tôi quyết định cạnh tranh quốc tế và mở rộng bằng cách huy động thêm nhiều tiền tư nhân hơn.)",
       "She has lectured widely both nationally and [internationally]. (=Dịch: Cô ấy đã thuyết giảng rộng rãi cả trong nước và quốc tế.)"
     ],
-    "image": "assets/images/internationally.jpg"
+    "image": "assets/images/internationally.jpg",
+    "topic": "Education & Learning"
   },
   {
     "word": "invaluable",
@@ -11164,7 +12022,8 @@ const vocabData = [
       "The research should prove [invaluable] in the study of children's language. (=Dịch: Nghiên cứu này sẽ chứng tỏ là vô giá trong việc nghiên cứu ngôn ngữ của trẻ em.)",
       "Your support has been [invaluable] to us. (=Dịch: Sự hỗ trợ của bạn đã vô giá đối với chúng tôi.)"
     ],
-    "image": "assets/images/invaluable.jpg"
+    "image": "assets/images/invaluable.jpg",
+    "topic": "Education & Learning"
   },
   {
     "word": "junior",
@@ -11177,7 +12036,8 @@ const vocabData = [
       "a very [junior] officer (=Dịch: một sĩ quan rất trẻ)",
       "[Junior] and middle-ranking civil servants have pledged to join the indefinite strike.  (=Dịch: [Cấp dưới] và công chức cấp trung đã cam kết tham gia đình công vô thời hạn.)"
     ],
-    "image": "assets/images/junior.jpg"
+    "image": "assets/images/junior.jpg",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "lifestyle",
@@ -11190,7 +12050,8 @@ const vocabData = [
       "Many people are trying to adopt a healthy [lifestyle] these days. (=Dịch: Nhiều người đang cố gắng áp dụng một lối sống lành mạnh những ngày này.)",
       "It was a big change in [lifestyle] when we moved to the country. (=Dịch: Đó là một thay đổi lớn trong lối sống khi chúng tôi chuyển đến vùng quê.)"
     ],
-    "image": "assets/images/lifestyle.jpg"
+    "image": "assets/images/lifestyle.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "likewise",
@@ -11203,7 +12064,8 @@ const vocabData = [
       "The V2 was not an ordinary weapon: it could only be used against cities. [Likewise] the atom bomb. (=Dịch: V2 không phải là một vũ khí thông thường: nó chỉ có thể được sử dụng chống lại các thành phố. Cũng tương tự như vậy với bom nguyên tử.)",
       "He lent money, made donations and encouraged others to do [likewise].  (=Dịch: Ông ấy cho vay tiền, làm từ thiện và khuyến khích người khác làm điều tương tự.)"
     ],
-    "image": "assets/images/likewise.jpg"
+    "image": "assets/images/likewise.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "messenger",
@@ -11216,7 +12078,8 @@ const vocabData = [
       "He gave the instruction for the document to be sent by [messenger].  (=Dịch: Anh ấy đã đưa ra chỉ thị để tài liệu được gửi bởi người đưa tin.)",
       "Don't blame me for the bad news—I'm just the [messenger]. (=Dịch: Đừng trách tôi vì tin xấu—tôi chỉ là người đưa tin thôi.)"
     ],
-    "image": "assets/images/messenger.jpg"
+    "image": "assets/images/messenger.jpg",
+    "topic": "Travel & Transport"
   },
   {
     "word": "morale",
@@ -11229,7 +12092,8 @@ const vocabData = [
       "Staff are suffering from low [morale]. (=Dịch: Nhân viên đang gặp phải tình trạng tinh thần sa sút.)",
       "Another win would be good for the team's [morale]. (=Dịch: Một chiến thắng nữa sẽ là tốt cho tinh thần của đội.)"
     ],
-    "image": "assets/images/morale.jpg"
+    "image": "assets/images/morale.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "orchestra",
@@ -11242,7 +12106,8 @@ const vocabData = [
       "the Scottish Symphony [Orchestra] (=Dịch: Dàn nhạc giao hưởng Scotland)",
       "The competition gave the young composer her first opportunity to write for a full [orchestra]. (=Dịch: Cuộc thi đã cho nhà soạn nhạc trẻ cơ hội đầu tiên để viết cho một dàn nhạc đầy đủ.)"
     ],
-    "image": "assets/images/orchestra.jpg"
+    "image": "assets/images/orchestra.jpg",
+    "topic": "Education & Learning"
   },
   {
     "word": "organizational",
@@ -11255,7 +12120,8 @@ const vocabData = [
       "The occasion was an [organizational] triumph. (=Dịch: Dịp này là một thành công lớn về tổ chức.)",
       "She is looking for a personal assistant with good [organizational] skills. (=Dịch: Cô ấy đang tìm kiếm một trợ lý cá nhân có kỹ năng tổ chức tốt.)"
     ],
-    "image": "assets/images/organizational.jpg"
+    "image": "assets/images/organizational.jpg",
+    "topic": "Job & Career"
   },
   {
     "word": "outlook",
@@ -11268,7 +12134,8 @@ const vocabData = [
       "Losing his job changed his whole [outlook] on life. (=Dịch: Việc mất việc đã thay đổi toàn bộ quan điểm sống của anh ấy.)",
       "She is rather cautious in [outlook]. (=Dịch: Cô ấy khá thận trọng trong quan điểm.)"
     ],
-    "image": "assets/images/outlook.jpg"
+    "image": "assets/images/outlook.jpg",
+    "topic": "Job & Career"
   },
   {
     "word": "paperback",
@@ -11281,7 +12148,8 @@ const vocabData = [
       "The [paperback] came out in June. (=Dịch: Cuốn sách bìa mềm đã ra mắt vào tháng Sáu.)",
       "The mercies' will be published in [paperback] (= as a paperback) in March. (=Dịch: Cuốn sách 'The Mercies' sẽ được xuất bản dưới dạng sách bìa mềm vào tháng Ba.)"
     ],
-    "image": "assets/images/paperback.jpg"
+    "image": "assets/images/paperback.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "physics",
@@ -11294,7 +12162,8 @@ const vocabData = [
       "a degree in [physics] (=Dịch: một bằng cấp trong lĩnh vực vật lý)",
       "quantum/theoretical [physics] (=Dịch: vật lý lượng tử/lý thuyết)"
     ],
-    "image": "assets/images/physics.jpg"
+    "image": "assets/images/physics.jpg",
+    "topic": "Education & Learning"
   },
   {
     "word": "pole",
@@ -11307,7 +12176,8 @@ const vocabData = [
       "A flag fluttered from a 40-foot [pole]. (=Dịch: Một lá cờ bay phấp phới từ một cây cột cao 40 feet.)",
       "These [poles] will be easier to carry if we lash them together with a rope. (=Dịch: Những cây cột này sẽ dễ mang hơn nếu chúng ta buộc chúng lại với nhau bằng một sợi dây.)"
     ],
-    "image": "assets/images/pole.jpg"
+    "image": "assets/images/pole.jpg",
+    "topic": "Science & Nature"
   },
   {
     "word": "puzzle",
@@ -11320,7 +12190,8 @@ const vocabData = [
       "The situation remains a [puzzle] to all of us. (=Dịch: Tình huống này vẫn là một câu đố đối với tất cả chúng ta.)",
       "She had a complex personality that was a real [puzzle] to me. (=Dịch: Cô ấy có một tính cách phức tạp mà thực sự là một câu đố đối với tôi.)"
     ],
-    "image": "assets/images/puzzle.jpg"
+    "image": "assets/images/puzzle.jpg",
+    "topic": "Education & Learning"
   },
   {
     "word": "rebate",
@@ -11333,7 +12204,8 @@ const vocabData = [
       "Any homeowner who has had a devaluation in their property is eligible for a [rebate]. (=Dịch: Bất kỳ chủ nhà nào đã bị giảm giá trị tài sản đều đủ điều kiện nhận tiền hoàn lại.)",
       "A good number of senior citizens across the state have still not applied for their [rebates] (=Dịch: Một số lượng lớn người cao tuổi trên toàn tiểu bang vẫn chưa nộp đơn xin hoàn tiền.)"
     ],
-    "image": "assets/images/rebate.jpg"
+    "image": "assets/images/rebate.jpg",
+    "topic": "Shopping & Commerce"
   },
   {
     "word": "recur",
@@ -11346,7 +12218,8 @@ const vocabData = [
       "If the symptoms [recur], visit your doctor. (=Dịch: Nếu các triệu chứng tái phát, hãy đến bác sĩ của bạn.)",
       "The theme of loss [recurs] throughout much of his writing. (=Dịch: Chủ đề về sự mất mát xuất hiện xuyên suốt nhiều tác phẩm của anh ấy.)"
     ],
-    "image": "assets/images/recur.jpg"
+    "image": "assets/images/recur.jpg",
+    "topic": "Health & Medicine"
   },
   {
     "word": "reflexive",
@@ -11359,7 +12232,8 @@ const vocabData = [
       "She has developed unique [reflexive] consultancy methodologies through action research. (=Dịch: Cô ấy đã phát triển các phương pháp tư vấn phản xạ độc đáo thông qua nghiên cứu hành động.)",
       "However, the paper represents a [reflexive] attempt to examine conceptual and pedagogical underpinnings of this approach to adult learning. (=Dịch: Tuy nhiên, bài báo đại diện cho một nỗ lực phản xạ để kiểm tra nền tảng khái niệm và giảng dạy của cách tiếp cận này đối với việc học của người lớn.)"
     ],
-    "image": "assets/images/reflexive.jpg"
+    "image": "assets/images/reflexive.jpg",
+    "topic": "Education & Learning"
   },
   {
     "word": "snowy",
@@ -11372,7 +12246,8 @@ const vocabData = [
       "I remember him as an old man with a [snowy]-white (= pure white) beard. (=Dịch: Tôi nhớ ông ấy là một người đàn ông già với bộ râu trắng như tuyết (= trắng tinh).)",
       "The weather in January is often cold and [snowy]. (=Dịch: Thời tiết vào tháng Giêng thường lạnh và có tuyết.)"
     ],
-    "image": "assets/images/snowy.jpg"
+    "image": "assets/images/snowy.jpg",
+    "topic": "Science & Nature"
   },
   {
     "word": "steak",
@@ -11385,7 +12260,8 @@ const vocabData = [
       "I like my [steak] rare. (=Dịch: Tôi thích bít tết của mình tái.)",
       "salmon/turkey [steaks] (=Dịch: bít tết cá hồi/gà tây)"
     ],
-    "image": "assets/images/steak.jpg"
+    "image": "assets/images/steak.jpg",
+    "topic": "Food & Restaurant"
   },
   {
     "word": "sticker",
@@ -11398,7 +12274,8 @@ const vocabData = [
       "There were two different price [stickers] on the shoes I wanted to buy. (=Dịch: Có hai nhãn giá khác nhau trên đôi giày mà tôi muốn mua.)",
       "Dana collects [stickers] of cartoon characters. (=Dịch: Dana sưu tập các hình dán của các nhân vật hoạt hình.)"
     ],
-    "image": "assets/images/sticker.jpg"
+    "image": "assets/images/sticker.jpg",
+    "topic": "Shopping & Commerce"
   },
   {
     "word": "telecommunication",
@@ -11411,7 +12288,8 @@ const vocabData = [
       "The top three sectors from the previous year were [telecommunications] technology, and consumer discretionary shares. (=Dịch: Ba ngành hàng đầu từ năm trước là công nghệ viễn thông và cổ phiếu tiêu dùng không thiết yếu.)",
       "the [telecommunications] industry/sector/market (=Dịch: ngành/công nghiệp/thị trường viễn thông)"
     ],
-    "image": "assets/images/telecommunication.jpg"
+    "image": "assets/images/telecommunication.jpg",
+    "topic": "Technology & Communication"
   },
   {
     "word": "timely",
@@ -11424,7 +12302,8 @@ const vocabData = [
       "A nasty incident was prevented by the [timely] arrival of the police. (=Dịch: Một vụ việc tồi tệ đã được ngăn chặn nhờ sự xuất hiện kịp thời của cảnh sát.)",
       "This has been a [timely] reminder to us all. (=Dịch: Đây là một lời nhắc nhở kịp thời cho tất cả chúng ta.)"
     ],
-    "image": "assets/images/timely.jpg"
+    "image": "assets/images/timely.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "uncomfortable",
@@ -11437,7 +12316,8 @@ const vocabData = [
       "It was [uncomfortable] walking barefoot on the shingly beach. (=Dịch: Đi chân trần trên bãi biển đầy sỏi thật không thoải mái.)",
       "Jean felt [uncomfortable] but managed to force a strained smile. (=Dịch: Jean cảm thấy khó chịu nhưng cố gắng cưỡng ép một nụ cười gượng gạo.)"
     ],
-    "image": "assets/images/uncomfortable.jpg"
+    "image": "assets/images/uncomfortable.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "amateur",
@@ -11450,7 +12330,8 @@ const vocabData = [
       "I won't be giving them any more work - they're a bunch of [amateurs]. (=Dịch: Tôi sẽ không giao thêm việc cho họ nữa - họ chỉ là một nhóm nghiệp dư thôi.)",
       "Owen is a journalist, Mara a novelist, and his contempt at having what he sees as an [amateur] on his patch is made blindingly obvious (=Dịch: Owen là một nhà báo, Mara là một tiểu thuyết gia, và sự khinh miệt của anh ta khi có người mà anh ta coi là nghiệp dư trong khu vực của mình được thể hiện một cách rõ ràng.)"
     ],
-    "image": "assets/images/amateur.jpg"
+    "image": "assets/images/amateur.jpg",
+    "topic": "Job & Career"
   },
   {
     "word": "ambassador",
@@ -11463,7 +12344,8 @@ const vocabData = [
       "The [ambassador] is giving a banquet for the visiting president. (=Dịch: Đại sứ đang tổ chức một bữa tiệc cho tổng thống đang thăm.)",
       "The UK's [ambassador] in Moscow has refused to comment. (=Dịch: Đại sứ Vương quốc Anh tại Moscow đã từ chối bình luận.)"
     ],
-    "image": "assets/images/ambassador.jpg"
+    "image": "assets/images/ambassador.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "anew",
@@ -11476,7 +12358,8 @@ const vocabData = [
       "After a short time, their old arguments simply began [anew]. (=Dịch: Sau một thời gian ngắn, những cuộc tranh cãi cũ của họ lại bắt đầu lại.)",
       "Her career had begun [anew], with a lucrative Japanese modelling contract (=Dịch: Sự nghiệp của cô đã bắt đầu lại, với một hợp đồng người mẫu Nhật Bản có lợi.)"
     ],
-    "image": "assets/images/anew.webp"
+    "image": "assets/images/anew.webp",
+    "topic": "Job & Career"
   },
   {
     "word": "architectural",
@@ -11489,7 +12372,8 @@ const vocabData = [
       "Ground Zero is the most emotive [architectural] project of our time. (=Dịch: Ground Zero là dự án kiến trúc đầy cảm xúc nhất của thời đại chúng ta.)",
       "Wootton Bassett has retained much of its [architectural] heritage (=Dịch: Wootton Bassett đã giữ lại nhiều di sản kiến trúc của mình.)"
     ],
-    "image": "assets/images/architectural.jpg"
+    "image": "assets/images/architectural.jpg",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "attain",
@@ -11502,7 +12386,8 @@ const vocabData = [
       "Achievements [attained] by a person were also considered to honour the whole family. (=Dịch: Những thành tích đạt được bởi một người cũng được xem xét để tôn vinh toàn bộ gia đình.)",
       "Undeniably focusing on their careers led them to [attain] a high level of artistic achievement. (=Dịch: Không thể phủ nhận rằng tập trung vào sự nghiệp đã dẫn họ đạt đến một mức độ thành tích nghệ thuật cao.)"
     ],
-    "image": "assets/images/attain.jpg"
+    "image": "assets/images/attain.jpg",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "balloon",
@@ -11515,7 +12400,8 @@ const vocabData = [
       "The [balloon] went bang when it landed on the bush. (=Dịch: Quả bóng bay phát nổ khi nó rơi xuống bụi cây.)",
       "The place was well decorated, with [balloons] and streamers hanging everywhere. (=Dịch: Nơi đây được trang trí rất đẹp, với những quả bóng bay và dây ruy băng treo khắp nơi.)"
     ],
-    "image": "assets/images/balloon.jpeg"
+    "image": "assets/images/balloon.jpeg",
+    "topic": "Science & Nature"
   },
   {
     "word": "blueprint",
@@ -11528,7 +12414,8 @@ const vocabData = [
       "Establishing the right [blueprint] is a challenge unique to each organization. (=Dịch: Thiết lập kế hoạch chi tiết phù hợp là một thách thức độc đáo đối với mỗi tổ chức.)",
       "A [blueprint] has been drawn up for a massive new retail and leisure complex. (=Dịch: Một kế hoạch chi tiết đã được vạch ra cho một tổ hợp bán lẻ và giải trí mới rộng lớn.)"
     ],
-    "image": "assets/images/blueprint.jpg"
+    "image": "assets/images/blueprint.jpg",
+    "topic": "Shopping & Commerce"
   },
   {
     "word": "bug",
@@ -11541,7 +12428,8 @@ const vocabData = [
       "He used to collect beetles and [bugs] from the garden and study them under the microscope. (=Dịch: Anh ấy từng thu thập bọ cánh cứng và côn trùng từ khu vườn và nghiên cứu chúng dưới kính hiển vi.)",
       "There's an estimated 90 trillion [bugs] and microscopic bacteria that make you their home. (=Dịch: Có khoảng 90 nghìn tỷ con bọ và vi khuẩn siêu nhỏ biến bạn thành nhà của chúng.)"
     ],
-    "image": "assets/images/bug.jpg"
+    "image": "assets/images/bug.jpg",
+    "topic": "Education & Learning"
   },
   {
     "word": "cautious",
@@ -11554,7 +12442,8 @@ const vocabData = [
       "Auto companies are taking a [cautious] approach toward introducing electric cars. (=Dịch: Các công ty ô tô đang có cách tiếp cận thận trọng đối với việc giới thiệu xe điện.)",
       "Businesses have become [cautious] about spending on technology. (=Dịch: Các doanh nghiệp đã trở nên thận trọng khi chi tiêu cho công nghệ.)"
     ],
-    "image": "assets/images/cautious.jpeg"
+    "image": "assets/images/cautious.jpeg",
+    "topic": "Business & Office"
   },
   {
     "word": "circuit",
@@ -11567,7 +12456,8 @@ const vocabData = [
       "She has ridden on tough racing [circuits] such as the New York and Florida tracks. (=Dịch: Cô ấy đã đua trên những đường đua khắc nghiệt như đường đua ở New York và Florida.)",
       "The planes end up flying [circuits] around Perth to burn up fuel or to dump fuel on arrival. (=Dịch: Máy bay cuối cùng bay vòng quanh Perth để đốt nhiên liệu hoặc xả nhiên liệu khi đến.)"
     ],
-    "image": "assets/images/circuit.jpg"
+    "image": "assets/images/circuit.jpg",
+    "topic": "Travel & Transport"
   },
   {
     "word": "clap",
@@ -11580,7 +12470,8 @@ const vocabData = [
       "The audience [clapped] respectfully as she stood up to speak. (=Dịch: Khán giả vỗ tay một cách tôn trọng khi cô ấy đứng dậy để nói chuyện.)",
       "The audience [clapped] loudly as more flashes were made by the parents' cameras. (=Dịch: Khán giả vỗ tay lớn khi nhiều đèn flash được chụp bởi máy ảnh của các bậc phụ huynh.)"
     ],
-    "image": "assets/images/clap.jpeg"
+    "image": "assets/images/clap.jpeg",
+    "topic": "General/Others"
   },
   {
     "word": "commerce",
@@ -11593,7 +12484,8 @@ const vocabData = [
       "Congress has the power to regulate [commerce] between the states. (=Dịch: Quốc hội có quyền điều chỉnh thương mại liên bang.)",
       "The changes in taxation are of benefit to [commerce] (=Dịch: Những thay đổi trong việc đánh thuế có lợi cho thương mại.)"
     ],
-    "image": "assets/images/commerce.jpg"
+    "image": "assets/images/commerce.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "convey",
@@ -11606,7 +12498,8 @@ const vocabData = [
       "Could you [convey] a message to Mr Merrick for me, please? (=Dịch: Bạn có thể chuyển một thông điệp đến ông Merrick giúp tôi được không?)",
       "Words alone cannot [convey] the untold misery endured by people in these refugee camps. (=Dịch: Chỉ những lời nói thôi không thể truyền tải hết nỗi khổ vô cùng mà những người trong các trại tị nạn này đã phải chịu đựng.)"
     ],
-    "image": "assets/images/convey.jpg"
+    "image": "assets/images/convey.jpg",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "cord",
@@ -11619,7 +12512,8 @@ const vocabData = [
       "Walking around the work we noticed that an electric [cord] ran from inside the castle but wasn't plugged in. (=Dịch: Đi dạo quanh công trường, chúng tôi nhận thấy rằng có một sợi dây điện chạy từ bên trong lâu đài nhưng không được cắm vào.)",
       "Use the appropriate sized power [cords] to carry the electric load. (=Dịch: Sử dụng các dây điện có kích thước phù hợp để chịu tải điện.)"
     ],
-    "image": "assets/images/cord.jpg"
+    "image": "assets/images/cord.jpg",
+    "topic": "Job & Career"
   },
   {
     "word": "counselor",
@@ -11632,7 +12526,8 @@ const vocabData = [
       "A trained [counselor] can provide non-judgmental support, as often it is hard to speak openly to family and friends. (=Dịch: Một cố vấn được đào tạo có thể cung cấp sự hỗ trợ không phán xét, vì thường rất khó để nói chuyện cởi mở với gia đình và bạn bè.)",
       "There's an excellent [counselor] at the alternative health clinic, and you can get various therapies there too. (=Dịch: Có một cố vấn xuất sắc tại phòng khám sức khỏe thay thế, và bạn cũng có thể nhận được nhiều liệu pháp khác nhau ở đó.)"
     ],
-    "image": "assets/images/counselor.jpg"
+    "image": "assets/images/counselor.jpg",
+    "topic": "Education & Learning"
   },
   {
     "word": "debit",
@@ -11645,7 +12540,8 @@ const vocabData = [
       "The statement showed a [debit] of £350 on January 22. (=Dịch: Bản sao kê cho thấy một khoản ghi nợ £350 vào ngày 22 tháng Một.)",
       "As is now done, [debits] were recorded on the left page and credits on the right one. (=Dịch: Như hiện nay, các khoản ghi nợ được ghi ở trang bên trái và các khoản ghi có được ghi ở trang bên phải.)"
     ],
-    "image": "assets/images/debit.jpg"
+    "image": "assets/images/debit.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "delicate",
@@ -11658,7 +12554,8 @@ const vocabData = [
       "Peaches have [delicate] skins which are easily bruised. (=Dịch: Quả đào có vỏ mỏng manh dễ bị bầm tím.)",
       "Most of the works were done on silk or rice paper, both very fragile and [delicate] materials. (=Dịch: Hầu hết các tác phẩm được thực hiện trên lụa hoặc giấy gạo, cả hai đều là những vật liệu rất dễ vỡ và mỏng manh.)"
     ],
-    "image": "assets/images/delicate.jpeg"
+    "image": "assets/images/delicate.jpeg",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "dependence",
@@ -11671,7 +12568,8 @@ const vocabData = [
       "Their community has a strength, built upon trust and mutual [dependence]. (=Dịch: Cộng đồng của họ có một sức mạnh, dựa trên sự tin tưởng và phụ thuộc lẫn nhau.)",
       "Self help support programmes provide temporary help and not life long [dependence]. (=Dịch: Các chương trình hỗ trợ tự giúp cung cấp sự trợ giúp tạm thời và không phải là sự phụ thuộc suốt đời.)"
     ],
-    "image": "assets/images/dependence.png"
+    "image": "assets/images/dependence.png",
+    "topic": "Business & Office"
   },
   {
     "word": "distraction",
@@ -11684,7 +12582,8 @@ const vocabData = [
       "The firm found passenger travel a [distraction] from the main business of moving freight (=Dịch: Công ty thấy việc vận tải hành khách là một sự phân tâm khỏi công việc chính là vận chuyển hàng hóa.)",
       "The suggestion is that such property development is a [distraction] from their core business and, therefore, a bad thing. (=Dịch: Ý kiến cho rằng việc phát triển bất động sản như vậy là một sự phân tâm khỏi công việc chính của họ và do đó là một điều không tốt.)"
     ],
-    "image": "assets/images/distraction.jpeg"
+    "image": "assets/images/distraction.jpeg",
+    "topic": "Business & Office"
   },
   {
     "word": "downsize",
@@ -11697,7 +12596,8 @@ const vocabData = [
       "Many people [downsize] their homes at retirement age in order to free up cash. (=Dịch: Nhiều người thu nhỏ quy mô nhà cửa khi đến tuổi nghỉ hưu để giải phóng tiền mặt.)",
       "As we are [downsizing] the company and reducing the number of employees in our corporate office, we need less space. (=Dịch: Vì chúng tôi đang thu nhỏ quy mô công ty và giảm số lượng nhân viên tại văn phòng chính, chúng tôi cần ít không gian hơn.)"
     ],
-    "image": "assets/images/downsize.png"
+    "image": "assets/images/downsize.png",
+    "topic": "Business & Office"
   },
   {
     "word": "elephant",
@@ -11710,7 +12610,8 @@ const vocabData = [
       "In the past eight years, the [elephant] population in Africa has been halved. (=Dịch: Trong tám năm qua, dân số voi ở châu Phi đã giảm một nửa.)",
       "Tigers, [elephants] and a few others animals still roam there and along the borders. (=Dịch: Hổ, voi và một số loài động vật khác vẫn lang thang ở đó và dọc theo biên giới.)"
     ],
-    "image": "assets/images/elephant.jpg"
+    "image": "assets/images/elephant.jpg",
+    "topic": "Science & Nature"
   },
   {
     "word": "enthusiasm",
@@ -11723,7 +12624,8 @@ const vocabData = [
       "Young people showed little interest in past media and much [enthusiasm] for contemporary media. (=Dịch: Những người trẻ ít quan tâm đến các phương tiện truyền thông cũ và rất hào hứng với các phương tiện truyền thông đương đại.)",
       "The teaching staff had shown great [enthusiasm] for the project, and this added to that of the students. (=Dịch: Đội ngũ giáo viên đã thể hiện sự nhiệt tình lớn đối với dự án này, và điều này đã thêm vào sự nhiệt tình của các sinh viên.)"
     ],
-    "image": "assets/images/enthusiasm.jpg"
+    "image": "assets/images/enthusiasm.jpg",
+    "topic": "Education & Learning"
   },
   {
     "word": "enthusiast",
@@ -11736,7 +12638,8 @@ const vocabData = [
       "The store is expected to attract interest from the sports [enthusiasts] who frequent the Arena complex. (=Dịch: Cửa hàng dự kiến sẽ thu hút sự quan tâm từ những người đam mê thể thao thường lui tới khu phức hợp Arena.)",
       "He was an [enthusiast] for the theatre and university educated. (=Dịch: Ông ấy là một người đam mê sân khấu và đã được giáo dục đại học.)"
     ],
-    "image": "assets/images/enthusiast.jpg"
+    "image": "assets/images/enthusiast.jpg",
+    "topic": "Education & Learning"
   },
   {
     "word": "evident",
@@ -11749,7 +12652,8 @@ const vocabData = [
       "His importance to the team was clearly [evident] when he was ruled out for the final months of the season (=Dịch: Tầm quan trọng của anh ấy đối với đội rõ ràng khi anh ấy bị loại trong những tháng cuối của mùa giải.)",
       "Planning law is not easy for laymen to understand, which is [evident] from your editorial. (=Dịch: Luật quy hoạch không dễ hiểu đối với người không chuyên, điều này rõ ràng từ bài xã luận của bạn.)"
     ],
-    "image": "assets/images/evident.jpg"
+    "image": "assets/images/evident.jpg",
+    "topic": "Law & Government"
   },
   {
     "word": "flexibility",
@@ -11762,7 +12666,8 @@ const vocabData = [
       "The new law gives auto makers more [flexibility] in meeting lower pollution targets. (=Dịch: Luật mới cho phép các nhà sản xuất ô tô linh hoạt hơn trong việc đạt các mục tiêu giảm ô nhiễm.)",
       "The policy resulted in a lack of economic [flexibility]. (=Dịch: Chính sách đã dẫn đến sự thiếu linh hoạt về kinh tế.)"
     ],
-    "image": "assets/images/flexibility.jpg"
+    "image": "assets/images/flexibility.jpg",
+    "topic": "Law & Government"
   },
   {
     "word": "flextime",
@@ -11775,7 +12680,8 @@ const vocabData = [
       "[Flextime] can give employees greater freedom to organize their working lives to suit personal needs. (=Dịch: Thời gian linh hoạt có thể cho phép nhân viên tự do tổ chức cuộc sống làm việc của họ để phù hợp với nhu cầu cá nhân.)",
       "The meeting heard speeches about the attacks on the 35-hour week, [flextime], shift allowances and so on. (=Dịch: Cuộc họp đã nghe các bài phát biểu về các cuộc tấn công vào tuần làm việc 35 giờ, thời gian linh hoạt, phụ cấp ca làm việc và v.v.)"
     ],
-    "image": "assets/images/flextime.png"
+    "image": "assets/images/flextime.png",
+    "topic": "Job & Career"
   },
   {
     "word": "fortunately",
@@ -11788,7 +12694,8 @@ const vocabData = [
       "[Fortunately], no shots were fired and no one was hurt (=Dịch: May mắn thay, không có phát súng nào được bắn ra và không ai bị thương.)",
       "There's a lot of competition from other venues on a Saturday night, so [fortunately] we weren't too busy. (=Dịch: Có rất nhiều sự cạnh tranh từ các địa điểm khác vào tối thứ Bảy, vì vậy may mắn thay chúng tôi không quá bận rộn.)"
     ],
-    "image": "assets/images/fortunately.jpg"
+    "image": "assets/images/fortunately.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "freighter",
@@ -11801,7 +12708,8 @@ const vocabData = [
       "The authorities are worried that the [freighter] could break up and leak huge amounts of oil and diesel into the ocean. (=Dịch: Các nhà chức trách lo lắng rằng tàu chở hàng có thể vỡ ra và rò rỉ lượng lớn dầu và dầu diesel vào đại dương.)",
       "Its huge harbour is visited by cruise ships and [freighters], and its dry-dock facilities are famous. (=Dịch: Cảng lớn của nó được tàu du lịch và tàu chở hàng ghé thăm, và các cơ sở sửa chữa tàu của nó nổi tiếng.)"
     ],
-    "image": "assets/images/freighter.jpg"
+    "image": "assets/images/freighter.jpg",
+    "topic": "Travel & Transport"
   },
   {
     "word": "generator",
@@ -11814,7 +12722,8 @@ const vocabData = [
       "The turbine connects to a [generator] and feeds power into the grid. (=Dịch: Tuabin kết nối với một máy phát điện và cung cấp điện vào lưới điện.)",
       "Wind power is generated using turbines and an electrical [generator]. (=Dịch: Điện gió được tạo ra bằng cách sử dụng các tuabin và một máy phát điện.)"
     ],
-    "image": "assets/images/generator.jpg"
+    "image": "assets/images/generator.jpg",
+    "topic": "Technology & Communication"
   },
   {
     "word": "hallway",
@@ -11827,7 +12736,8 @@ const vocabData = [
       "The house has a living room, a sitting room, a kitchen on the ground floor and a [hallway] with storage. (=Dịch: Ngôi nhà có một phòng khách, một phòng ngồi, một nhà bếp ở tầng trệt và một hành lang có kho.)",
       "The light in the [hallways] isn't working so we walk into the house blindly, up the stairs and into the first bedroom. (=Dịch: Đèn trong hành lang không hoạt động nên chúng tôi đi vào nhà trong bóng tối, lên cầu thang và vào phòng ngủ đầu tiên.)"
     ],
-    "image": "assets/images/hallway.png"
+    "image": "assets/images/hallway.png",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "hamburger",
@@ -11840,7 +12750,8 @@ const vocabData = [
       "Although it's only a quick snack, a [hamburger] is very calorific. (=Dịch: Mặc dù chỉ là một bữa ăn nhẹ nhanh chóng, hamburger rất giàu calo.)",
       "Our menu will satisfy any hunger with options from [hamburgers], pasta, seafood, steaks, and more. (=Dịch: Thực đơn của chúng tôi sẽ làm hài lòng bất kỳ cơn đói nào với các lựa chọn từ hamburger, mì Ý, hải sản, bít tết và nhiều hơn nữa.)"
     ],
-    "image": "assets/images/hamburger.jpg"
+    "image": "assets/images/hamburger.jpg",
+    "topic": "Food & Restaurant"
   },
   {
     "word": "hazard",
@@ -11853,7 +12764,8 @@ const vocabData = [
       "When it comes to investments, research shows that women are more likely to weigh up potential [hazards] than their male counterparts. (=Dịch: Khi nói đến đầu tư, nghiên cứu cho thấy rằng phụ nữ có khả năng cân nhắc các mối nguy tiềm ẩn hơn so với nam giới.)",
       "Tornado [hazard] in such regions is probably somewhat higher than the model predicts. (=Dịch: Nguy cơ lốc xoáy ở các vùng như vậy có thể cao hơn một chút so với dự đoán của mô hình.)"
     ],
-    "image": "assets/images/hazard.jpg"
+    "image": "assets/images/hazard.jpg",
+    "topic": "Travel & Transport"
   },
   {
     "word": "homeowner",
@@ -11866,7 +12778,8 @@ const vocabData = [
       "[Homeowners] find it easier to obtain loans than people who are renting. (=Dịch: Các chủ nhà thấy dễ dàng hơn để vay tiền hơn so với những người đang thuê nhà.)",
       "The bank doesn't like the idea of a [homeowner] dying and the house having to be sold to repay the loan. (=Dịch: Ngân hàng không thích ý tưởng về việc một chủ nhà qua đời và ngôi nhà phải được bán để trả nợ.)"
     ],
-    "image": "assets/images/homeowner.jpg"
+    "image": "assets/images/homeowner.jpg",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "imperative",
@@ -11879,7 +12792,8 @@ const vocabData = [
       "The president said it was [imperative] that the release of all hostages be secured. (=Dịch: Tổng thống nói rằng điều cấp bách là phải đảm bảo việc thả tất cả các con tin.)",
       "It is [imperative] that couples should communicate in order to know the root of the conflict. (=Dịch: Điều cấp bách là các cặp đôi nên giao tiếp để biết được gốc rễ của xung đột.)"
     ],
-    "image": "assets/images/imperative.jpg"
+    "image": "assets/images/imperative.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "inflate",
@@ -11892,7 +12806,8 @@ const vocabData = [
       "The star's ego has [inflated] to dangerous proportions. (=Dịch: Cái tôi của ngôi sao đã phồng lên đến mức nguy hiểm.)",
       "The media have grossly [inflated] the significance of this meeting. (=Dịch: Truyền thông đã thổi phồng quá mức tầm quan trọng của cuộc họp này.)"
     ],
-    "image": "assets/images/inflate.jpg"
+    "image": "assets/images/inflate.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "insert",
@@ -11905,7 +12820,8 @@ const vocabData = [
       "Later, he [inserted] another paragraph into his will. (=Dịch: Sau đó, anh ấy đã chèn một đoạn văn khác vào di chúc của mình.)",
       "The English translation is [inserted] between the lines of text (=Dịch: Bản dịch tiếng Anh được chèn giữa các dòng văn bản.)"
     ],
-    "image": "assets/images/insert.jpg"
+    "image": "assets/images/insert.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "lecturer",
@@ -11918,7 +12834,8 @@ const vocabData = [
       "Dr David Crystal is our visiting [lecturer] today. (=Dịch: Tiến sĩ David Crystal là giảng viên thỉnh giảng của chúng ta hôm nay.)",
       "There is a vacancy for a part-time Philosophy [lecturer]. (=Dịch: Có một vị trí trống cho giảng viên Triết học bán thời gian.)"
     ],
-    "image": "assets/images/lecturer.jpg"
+    "image": "assets/images/lecturer.jpg",
+    "topic": "Education & Learning"
   },
   {
     "word": "meaningful",
@@ -11931,7 +12848,8 @@ const vocabData = [
       "He asked people to tell him about a [meaningful] event or period in their lives. (=Dịch: Anh ấy yêu cầu mọi người kể về một sự kiện hoặc giai đoạn có ý nghĩa trong cuộc đời họ.)",
       "We need [meaningful] relationships that bring us a sense of connectedness to our lives. (=Dịch: Chúng ta cần những mối quan hệ có ý nghĩa mang lại cảm giác kết nối cho cuộc sống của chúng ta.)"
     ],
-    "image": "assets/images/meaningful.jpg"
+    "image": "assets/images/meaningful.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "memorize",
@@ -11944,7 +12862,8 @@ const vocabData = [
       "Please [memorize] your PIN number immediately. (=Dịch: Hãy nhớ ngay số PIN của bạn.)",
       "She had [memorized] his phone number. (=Dịch: Cô ấy đã nhớ số điện thoại của anh ấy.)"
     ],
-    "image": "assets/images/memorize.jpg"
+    "image": "assets/images/memorize.jpg",
+    "topic": "Education & Learning"
   },
   {
     "word": "merchant",
@@ -11957,7 +12876,8 @@ const vocabData = [
       "Any knowledgeable wine [merchant] would be able to advise you.  (=Dịch: Bất kỳ nhà buôn rượu thông thái nào cũng có thể tư vấn cho bạn.)",
       "Born in 1938 in Sierra Leone to an emigrant [merchants] family from south Lebanon, he was raised in Lebanon and was active in politics by the time he was in university. (=Dịch: Sinh năm 1938 tại Sierra Leone trong một gia đình thương nhân di cư từ miền nam Lebanon, ông đã lớn lên ở Lebanon và hoạt động chính trị khi đang học đại học.)"
     ],
-    "image": "assets/images/merchant.jpg"
+    "image": "assets/images/merchant.jpg",
+    "topic": "Education & Learning"
   },
   {
     "word": "modification",
@@ -11970,7 +12890,8 @@ const vocabData = [
       "It might be necessary to make a few slight [modifications] to the design. (=Dịch: Có thể cần phải thực hiện một vài sửa đổi nhỏ đối với thiết kế.)",
       "These bikes are designed for racing and cannot be used on the road without [modification]. (=Dịch: Những chiếc xe đạp này được thiết kế để đua và không thể sử dụng trên đường mà không cần sửa đổi.)"
     ],
-    "image": "assets/images/modification.jpg"
+    "image": "assets/images/modification.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "occupant",
@@ -11983,7 +12904,8 @@ const vocabData = [
       "Most of the [occupants] had left before the fire broke out.  (=Dịch: Hầu hết các cư dân đã rời đi trước khi đám cháy bùng phát.)",
       "The filing cabinets had all gone with the previous [occupants].  (=Dịch: Tất cả các tủ hồ sơ đã được mang đi bởi những người ở trước.)"
     ],
-    "image": "assets/images/occupant.jpg"
+    "image": "assets/images/occupant.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "reproduce",
@@ -11996,7 +12918,8 @@ const vocabData = [
       "They said the printing was too faint to [reproduce] well. (=Dịch: Họ nói rằng bản in quá nhạt để tái tạo tốt.)",
       "He had already asked for permission to [reproduce] the article. (=Dịch: Anh ấy đã xin phép để tái tạo lại bài báo.)"
     ],
-    "image": "assets/images/reproduce.jpg"
+    "image": "assets/images/reproduce.jpg",
+    "topic": "Job & Career"
   },
   {
     "word": "spray",
@@ -12009,7 +12932,8 @@ const vocabData = [
       "Vandals had [sprayed] graffiti on the wall. (=Dịch: Những kẻ phá hoại đã [phun] những hình vẽ bậy lên tường.)",
       "The pipe burst and water was [spraying] everywhere. (=Dịch: Ống bị vỡ và nước phun tung tóe khắp nơi.)"
     ],
-    "image": "assets/images/spray.jpg"
+    "image": "assets/images/spray.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "staple",
@@ -12022,7 +12946,8 @@ const vocabData = [
       "Please use the [staple] to join this reports together.  (=Dịch: Vui lòng sử dụng cái ghim để ghép các bản báo cáo này lại với nhau.)",
       "Would you mind joining two sheets of report with the [staple]? (=Dịch: Bạn có phiền khi ghép hai tờ báo cáo lại với nhau bằng cái ghim không?)"
     ],
-    "image": "assets/images/staple.jpg"
+    "image": "assets/images/staple.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "strategic",
@@ -12035,7 +12960,8 @@ const vocabData = [
       "Their bombs are always placed in [strategic] positions to cause as much chaos as possible. (=Dịch: Bom của họ luôn được đặt ở các vị trí chiến lược để gây ra càng nhiều hỗn loạn càng tốt.)",
       "These problems demonstrate the importance of [strategic] planning. (=Dịch: Những vấn đề này cho thấy tầm quan trọng của việc lập kế hoạch chiến lược.)"
     ],
-    "image": "assets/images/strategic.jpg"
+    "image": "assets/images/strategic.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "stripe",
@@ -12048,7 +12974,8 @@ const vocabData = [
       "There are a couple of fish with blue markings, and a few more with gold [stripes] down the side. (=Dịch: Có một vài con cá có các dấu màu xanh dương, và một vài con khác có các sọc vàng chạy dọc hai bên.)",
       "She was wearing a dress which had vertical [stripes] on it. (=Dịch: Cô ấy mặc một chiếc váy có các sọc dọc.)"
     ],
-    "image": "assets/images/stripe.jpg"
+    "image": "assets/images/stripe.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "teen",
@@ -12061,7 +12988,8 @@ const vocabData = [
       "My late [teens] and early twenties were really rough years. (=Dịch: Những năm cuối tuổi thiếu niên và đầu tuổi đôi mươi của tôi thực sự là những năm tháng khó khăn.)",
       "I spent most of my [teen] years reading diet books. (=Dịch: Tôi đã dành phần lớn tuổi thiếu niên của mình để đọc sách về chế độ ăn kiêng.)"
     ],
-    "image": "assets/images/teen.jpg"
+    "image": "assets/images/teen.jpg",
+    "topic": "Food & Restaurant"
   },
   {
     "word": "tempt",
@@ -12074,7 +13002,8 @@ const vocabData = [
       "They [tempted] him to join the company by offering him a huge salary and a company car. (=Dịch: Họ đã cám dỗ anh ấy tham gia công ty bằng cách đề nghị mức lương khổng lồ và một chiếc xe công ty.)",
       "Perhaps some caviar can [tempt] your jaded palate. (=Dịch: Có lẽ một ít trứng cá muối có thể làm giác quan vị giác của bạn phấn chấn trở lại.)"
     ],
-    "image": "assets/images/tempt.jpg"
+    "image": "assets/images/tempt.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "timer",
@@ -12087,7 +13016,8 @@ const vocabData = [
       "He set the [timer] on the VCR to start recording at 11:30. (=Dịch: Anh ấy đặt hẹn giờ trên máy quay video để bắt đầu ghi hình lúc 11:30.)",
       "Once started, the [timer] runs for one minute. (=Dịch: Khi đã bắt đầu, hẹn giờ sẽ chạy trong một phút.)"
     ],
-    "image": "assets/images/timer.jpg"
+    "image": "assets/images/timer.jpg",
+    "topic": "Technology & Communication"
   },
   {
     "word": "unload",
@@ -12100,7 +13030,8 @@ const vocabData = [
       "The port will spend $300 million to build a new container terminal, where ships load and [unload] cargo. (=Dịch: Cảng sẽ chi 300 triệu đô la để xây dựng một bến container mới, nơi các tàu xếp và dỡ hàng hóa.)",
       "She [unloaded] her grocery bags from the back of the minivan. (=Dịch: Cô ấy dỡ túi hàng tạp hóa từ phía sau chiếc minivan.)"
     ],
-    "image": "assets/images/unload.jpg"
+    "image": "assets/images/unload.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "unusually",
@@ -12113,7 +13044,8 @@ const vocabData = [
       "There is no evidence of [unusually] high rates of disease. (=Dịch: Không có bằng chứng về tỷ lệ mắc bệnh cao bất thường.)",
       "She was [unusually] quiet that evening. (=Dịch: Cô ấy đã yên lặng một cách bất thường vào tối hôm đó.)"
     ],
-    "image": "assets/images/unusually.jpg"
+    "image": "assets/images/unusually.jpg",
+    "topic": "Health & Medicine"
   },
   {
     "word": "vacate",
@@ -12126,7 +13058,8 @@ const vocabData = [
       "Denis [vacates] his job at the end of the week. (=Dịch: Denis sẽ rời bỏ công việc của mình vào cuối tuần.)",
       "When he left the university, he had to [vacate] his university-provided housing. (=Dịch: Khi anh ấy rời khỏi trường đại học, anh ấy phải trả lại chỗ ở do trường đại học cung cấp.)"
     ],
-    "image": "assets/images/vacate.jpg"
+    "image": "assets/images/vacate.jpg",
+    "topic": "Education & Learning"
   },
   {
     "word": "whale",
@@ -12139,7 +13072,8 @@ const vocabData = [
       "International measures have been taken to prevent the extermination of the [whale] . (=Dịch: Các biện pháp quốc tế đã được thực hiện để ngăn chặn sự diệt vong của cá voi.)",
       "The [whale] has a very distinctive call. (=Dịch: Cá voi có tiếng kêu rất đặc trưng.)"
     ],
-    "image": "assets/images/whale.jpg"
+    "image": "assets/images/whale.jpg",
+    "topic": "Technology & Communication"
   },
   {
     "word": "wisely",
@@ -12152,7 +13086,8 @@ const vocabData = [
       "Invest your money [wisely]. (=Dịch: Đầu tư tiền của bạn một cách khôn ngoan.)",
       "He [wisely] decided to tell the truth. (=Dịch: Anh ấy đã khôn ngoan quyết định nói sự thật.)"
     ],
-    "image": "assets/images/wisely.jpg"
+    "image": "assets/images/wisely.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "activate",
@@ -12165,7 +13100,8 @@ const vocabData = [
       "Something [activated] the car alarm (=Dịch: Có gì đó kích hoạt chuông báo động của ô tô)",
       "Now, the state has [activated] its emergency operation center, saying at a level of one to five, it is now at a level of three. (=Dịch: Hiện tại, tiểu bang đã kích hoạt trung tâm điều hành khẩn cấp của mình, nói rằng ở mức từ một đến năm, nó hiện đang ở mức ba.)"
     ],
-    "image": "assets/images/activate.jpg"
+    "image": "assets/images/activate.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "additionally",
@@ -12178,7 +13114,8 @@ const vocabData = [
       "You can leave your pension in the fund, and [additionally] contribute to a personal pension (=Dịch: Bạn có thể để khoản trợ cấp của mình trong quỹ và đóng góp thêm vào quỹ hưu trí cá nhân)",
       "Their equipment and any training camps they have to attend are paid for [additionally] (=Dịch: Thiết bị của họ và bất kỳ trại huấn luyện nào họ phải tham dự đều được trả thêm)"
     ],
-    "image": "assets/images/additionally.jpg"
+    "image": "assets/images/additionally.jpg",
+    "topic": "Technology & Communication"
   },
   {
     "word": "affirmative",
@@ -12191,7 +13128,8 @@ const vocabData = [
       "The present results provide an [affirmative] answer to this question (=Dịch: Các kết quả hiện tại cung cấp câu trả lời khẳng định cho câu hỏi này.)",
       "Nothing can move out of the task force without an [affirmative] vote of its private-sector members (=Dịch: Không có gì có thể rời khỏi lực lượng nhiệm vụ mà không có sự bỏ phiếu đồng ý của các thành viên khu vực tư nhân của nó.)"
     ],
-    "image": "assets/images/affirmative.jpg"
+    "image": "assets/images/affirmative.jpg",
+    "topic": "Law & Government"
   },
   {
     "word": "baker",
@@ -12204,7 +13142,8 @@ const vocabData = [
       "We had the candles, hatters, cobblers and [bakers] representing the strong trades in Rathkeale in the 19th century. (=Dịch: Chúng tôi có những người làm nến, làm mũ, đóng giày và thợ làm bánh đại diện cho các ngành nghề mạnh mẽ ở Rathkeale vào thế kỷ 19.)",
       "Besides the icing cakes, the [bakers] have steamed a plum pudding that may well rock the regular variety. (=Dịch: Ngoài những chiếc bánh phủ kem, các thợ làm bánh còn hấp một món bánh pudding mận có thể sẽ làm rung động loại thông thường.)"
     ],
-    "image": "assets/images/baker.jpg"
+    "image": "assets/images/baker.jpg",
+    "topic": "Shopping & Commerce"
   },
   {
     "word": "brainstorm",
@@ -12217,7 +13156,8 @@ const vocabData = [
       "To work with staff, consider an informal [brainstorm] luncheon to seek new ideas for training sessions. (=Dịch: Để làm việc với nhân viên, hãy xem xét một bữa trưa động não không chính thức để tìm kiếm ý tưởng mới cho các buổi đào tạo.)",
       "A survey by Business Link revealed that few rated [brainstorms] or discussions at work with colleagues. (=Dịch: Một cuộc khảo sát của Business Link cho thấy ít người đánh giá cao các buổi động não hoặc thảo luận tại nơi làm việc với đồng nghiệp.)"
     ],
-    "image": "assets/images/brainstorm.jpg"
+    "image": "assets/images/brainstorm.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "cage",
@@ -12230,7 +13170,8 @@ const vocabData = [
       "Using a bunch of bananas, the zoo-keeper persuaded the monkey back into its [cage]. (=Dịch: Dùng một nải chuối, người trông coi sở thú đã thuyết phục con khỉ trở lại chuồng.)",
       "The lab was stocked with wire [cages] for mice. (=Dịch: Phòng thí nghiệm được trang bị đầy những chiếc chuồng dây cho chuột.)"
     ],
-    "image": "assets/images/cage.jpg"
+    "image": "assets/images/cage.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "cinema",
@@ -12243,7 +13184,8 @@ const vocabData = [
       "The films were screened in [cinemas] across the city and at community meetings. (=Dịch: Các bộ phim đã được chiếu tại các rạp trên khắp thành phố và tại các cuộc họp cộng đồng.)",
       "It will be released in UK [cinemas] later this year and looks certain to be a huge talking point. (=Dịch: Nó sẽ được phát hành tại các rạp chiếu phim ở Anh vào cuối năm nay và chắc chắn sẽ trở thành một điểm nóng để bàn luận.)"
     ],
-    "image": "assets/images/cinema.jpg"
+    "image": "assets/images/cinema.jpg",
+    "topic": "Art & Entertainment"
   },
   {
     "word": "collaboration",
@@ -12256,7 +13198,8 @@ const vocabData = [
       "The mission is being conducted in [collaboration] with the European space agency. (=Dịch: Nhiệm vụ đang được thực hiện với sự hợp tác của cơ quan vũ trụ châu Âu.)",
       "Universities and companies are working together in a spirit of [collaboration] to develop new solutions. (=Dịch: Các trường đại học và công ty đang làm việc cùng nhau trong tinh thần hợp tác để phát triển các giải pháp mới.)"
     ],
-    "image": "assets/images/collaboration.jpg"
+    "image": "assets/images/collaboration.jpg",
+    "topic": "Travel & Transport"
   },
   {
     "word": "condominium",
@@ -12269,7 +13212,8 @@ const vocabData = [
       "The immigrant population dominates the urban areas, living in apartment complexes and [condominiums]. (=Dịch: Dân di cư chiếm ưu thế trong các khu đô thị, sống trong các khu căn hộ và chung cư.)",
       "In many neighbourhoods, the building of high-rise [condominiums] seems like a simple necessity. (=Dịch: Ở nhiều khu phố, việc xây dựng các tòa nhà chung cư cao tầng dường như là một nhu cầu thiết yếu.)"
     ],
-    "image": "assets/images/condominium.jpg"
+    "image": "assets/images/condominium.jpg",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "consecutive",
@@ -12282,7 +13226,8 @@ const vocabData = [
       "Interest rates have been held at the same level for the tenth [consecutive] month. (=Dịch: Lãi suất đã được giữ nguyên trong tháng thứ mười liên tiếp.)",
       "Economists said this ninth [consecutive] rise would be followed by further increases in the months ahead. (=Dịch: Các nhà kinh tế cho biết lần tăng thứ chín liên tiếp này sẽ được tiếp nối bằng những đợt tăng tiếp theo trong những tháng tới.)"
     ],
-    "image": "assets/images/consecutive.png"
+    "image": "assets/images/consecutive.png",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "cordless",
@@ -12295,7 +13240,8 @@ const vocabData = [
       "The system according to the invention can be used in [cordless] telephones. (=Dịch: Hệ thống theo phát minh có thể được sử dụng trong điện thoại không dây.)",
       "Items like [cordless] phones decrease the need to be tied to a fixed location. (=Dịch: Những vật dụng như điện thoại không dây làm giảm nhu cầu phải gắn với một vị trí cố định.)"
     ],
-    "image": "assets/images/cordless.jpg"
+    "image": "assets/images/cordless.jpg",
+    "topic": "Technology & Communication"
   },
   {
     "word": "deluxe",
@@ -12308,7 +13254,8 @@ const vocabData = [
       "New this season are two super [deluxe] suites and a huge ice chandelier above the bar. (=Dịch: Mới trong mùa này là hai phòng siêu sang và một chiếc đèn chùm băng lớn trên quầy bar.)",
       "Their resort hotels, like most of their city centre establishments, were aimed at customers seeking first-class or even [deluxe] accommodation. (=Dịch: Khách sạn nghỉ dưỡng của họ, giống như hầu hết các cơ sở trung tâm thành phố của họ, nhắm vào khách hàng tìm kiếm chỗ ở hạng nhất hoặc thậm chí hạng sang.)"
     ],
-    "image": "assets/images/deluxe.jpg"
+    "image": "assets/images/deluxe.jpg",
+    "topic": "Shopping & Commerce"
   },
   {
     "word": "desirable",
@@ -12321,7 +13268,8 @@ const vocabData = [
       "Good pay and interesting work make this a very [desirable] job. (=Dịch: Mức lương tốt và công việc thú vị làm cho đây là một công việc rất đáng mơ ước.)",
       "The new store is in a highly [desirable] location. (=Dịch: Cửa hàng mới nằm ở vị trí rất đáng mong muốn.)"
     ],
-    "image": "assets/images/desirable.jpg"
+    "image": "assets/images/desirable.jpg",
+    "topic": "Job & Career"
   },
   {
     "word": "discrepancy",
@@ -12334,7 +13282,8 @@ const vocabData = [
       "Employers will have 90 days to resolve [discrepancies] in their records. (=Dịch: Nhà tuyển dụng sẽ có 90 ngày để giải quyết sự không khớp trong hồ sơ của họ.)",
       "A balance sheet review uncovered [discrepancies] totalling €30 million. (=Dịch: Một cuộc rà soát bảng cân đối kế toán đã phát hiện ra những chênh lệch tổng cộng lên đến 30 triệu Euro.)"
     ],
-    "image": "assets/images/discrepancy.jpg"
+    "image": "assets/images/discrepancy.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "dispatch",
@@ -12347,7 +13296,8 @@ const vocabData = [
       "The company could [dispatch] teams of engineers anywhere in the country if a water supply was contaminated. (=Dịch: Công ty có thể điều động các đội kỹ sư đến bất kỳ đâu trong nước nếu nguồn nước bị ô nhiễm.)",
       "We [dispatch] goods only when we believe a genuine order has been received. (=Dịch: Chúng tôi chỉ gửi hàng khi tin rằng đã nhận được đơn hàng thực sự.)"
     ],
-    "image": "assets/images/dispatch.png"
+    "image": "assets/images/dispatch.png",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "drawback",
@@ -12360,7 +13310,8 @@ const vocabData = [
       "Every strategic choice has its benefits and [drawbacks]. (=Dịch: Mỗi lựa chọn chiến lược đều có những lợi ích và nhược điểm riêng.)",
       "A [drawback] for some savers is that the bond has a minimum investment of £10,000. (=Dịch: Một nhược điểm cho một số người tiết kiệm là trái phiếu này có khoản đầu tư tối thiểu là 10.000 bảng.)"
     ],
-    "image": "assets/images/drawback.png"
+    "image": "assets/images/drawback.png",
+    "topic": "Business & Office"
   },
   {
     "word": "dull",
@@ -12373,7 +13324,8 @@ const vocabData = [
       "Many of the courtroom events were [dull] and routine. (=Dịch: Nhiều sự kiện tại tòa án đã tẻ nhạt và mang tính chất thường lệ.)",
       "Trading was [dull] as investors were sidelined because of a lack of good news. (=Dịch: Giao dịch trở nên buồn tẻ khi các nhà đầu tư phải ngồi ngoài vì thiếu tin tốt.)"
     ],
-    "image": "assets/images/dull.jpg"
+    "image": "assets/images/dull.jpg",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "economically",
@@ -12386,7 +13338,8 @@ const vocabData = [
       "The neighborhood is one of Lexington's most [economically] depressed areas. (=Dịch: Khu vực này là một trong những khu vực kinh tế khó khăn nhất của Lexington.)",
       "Other indicators show the region slipping backwards both [economically] and socially. (=Dịch: Các chỉ số khác cho thấy khu vực này đang tụt lùi cả về kinh tế và xã hội.)"
     ],
-    "image": "assets/images/economically.jpg"
+    "image": "assets/images/economically.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "evenly",
@@ -12399,7 +13352,8 @@ const vocabData = [
       "The jackpot will be split [evenly] among the holders of the three tickets (=Dịch: Giải độc đắc sẽ được chia đều cho những người giữ ba vé.)",
       "Patients were typically elderly and [evenly] divided between men and women. (=Dịch: Bệnh nhân thường là người cao tuổi và được chia đều giữa nam và nữ.)"
     ],
-    "image": "assets/images/evenly.jpg"
+    "image": "assets/images/evenly.jpg",
+    "topic": "Health & Medicine"
   },
   {
     "word": "excellence",
@@ -12412,7 +13366,8 @@ const vocabData = [
       "Both firms have a long-standing reputation for [excellence] in customer service. (=Dịch: Cả hai công ty đều có danh tiếng lâu đời về sự xuất sắc trong dịch vụ khách hàng.)",
       "Our company mission is to achieve [excellence] through innovation and integration. (=Dịch: Sứ mệnh của công ty chúng tôi là đạt được sự xuất sắc thông qua đổi mới và tích hợp.)"
     ],
-    "image": "assets/images/excellence.jpeg"
+    "image": "assets/images/excellence.jpeg",
+    "topic": "Education & Learning"
   },
   {
     "word": "exclusively",
@@ -12425,7 +13380,8 @@ const vocabData = [
       "Our employment agency deals [exclusively] with the advertising industry. (=Dịch: Công ty tuyển dụng của chúng tôi chỉ làm việc với ngành công nghiệp quảng cáo.)",
       "The range of make-up is available [exclusively] at our stores. (=Dịch: Dòng sản phẩm trang điểm này chỉ có sẵn tại cửa hàng của chúng tôi.)"
     ],
-    "image": "assets/images/exclusively.png"
+    "image": "assets/images/exclusively.png",
+    "topic": "Shopping & Commerce"
   },
   {
     "word": "farewell",
@@ -12438,7 +13394,8 @@ const vocabData = [
       "For many, saying [farewell] to those left behind on land is the hardest part. (=Dịch: Đối với nhiều người, nói lời tạm biệt với những người thân còn lại trên đất liền là điều khó khăn nhất.)",
       "Without saying a word, the couple bade a fond [farewell] to their deceased friends and family. (=Dịch: Không nói một lời, cặp đôi nói lời tạm biệt thân thương đến những người bạn và gia đình đã khuất của họ.)"
     ],
-    "image": "assets/images/farewell.png"
+    "image": "assets/images/farewell.png",
+    "topic": "Education & Learning"
   },
   {
     "word": "fatigue",
@@ -12451,7 +13408,8 @@ const vocabData = [
       "Sleepiness and [fatigue] can affect physical and mental capabilities to perform at safe levels. (=Dịch: Buồn ngủ và mệt mỏi có thể ảnh hưởng đến khả năng thể chất và tinh thần để làm việc ở mức độ an toàn.)",
       "Other medical conditions can cause extreme [fatigue] or changes in appetite and sleep. (=Dịch: Các tình trạng y tế khác có thể gây ra mệt mỏi cực độ hoặc thay đổi về cảm giác thèm ăn và giấc ngủ.)"
     ],
-    "image": "assets/images/fatigue.jpg"
+    "image": "assets/images/fatigue.jpg",
+    "topic": "Health & Medicine"
   },
   {
     "word": "fiscal",
@@ -12464,7 +13422,8 @@ const vocabData = [
       "The state budget fell for the first time since the [fiscal] crises of the 1970s. (=Dịch: Ngân sách nhà nước đã giảm lần đầu tiên kể từ cuộc khủng hoảng tài chính vào những năm 1970.)",
       "There is so much emphasis today on budgeting, investments, [fiscal] and financial matters, both public and private. (=Dịch: Hiện nay có rất nhiều sự chú trọng vào việc lập ngân sách, đầu tư, các vấn đề tài chính và ngân sách, cả công cộng và tư nhân.)"
     ],
-    "image": "assets/images/fiscal.jpg"
+    "image": "assets/images/fiscal.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "fleet",
@@ -12477,7 +13436,8 @@ const vocabData = [
       "A [fleet] of fishing boats was blocking the entrance to the port. (=Dịch: Một đội tàu đánh cá đang chặn lối vào cảng.)",
       "The attack destroyed almost half of the U.S. [fleet]. (=Dịch: Cuộc tấn công đã phá hủy gần một nửa hạm đội Mỹ.)"
     ],
-    "image": "assets/images/fleet.jpg"
+    "image": "assets/images/fleet.jpg",
+    "topic": "Travel & Transport"
   },
   {
     "word": "flour",
@@ -12490,7 +13450,8 @@ const vocabData = [
       "You can substitute wheat [flour] with almond flour in cakes, cookies and muffins. (=Dịch: Bạn có thể thay thế bột mì bằng bột hạnh nhân trong bánh, bánh quy và bánh muffin.)",
       "High in protein and healthy fat, almond [flour] is a good substitute for wheat flour. (=Dịch: Giàu protein và chất béo lành mạnh, bột hạnh nhân là một sự thay thế tốt cho bột mì.)"
     ],
-    "image": "assets/images/flour.jpg"
+    "image": "assets/images/flour.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "overcharge",
@@ -12503,7 +13464,8 @@ const vocabData = [
       "We were [overcharged] by £5. (=Dịch: Chúng tôi đã bị tính quá £5.)",
       "The gift shop in Paris [overcharged] me (by €10). (=Dịch: Cửa hàng quà tặng ở Paris đã tính quá giá tôi (bởi €10).)"
     ],
-    "image": "assets/images/overcharge.jpg"
+    "image": "assets/images/overcharge.jpg",
+    "topic": "Shopping & Commerce"
   },
   {
     "word": "oversee",
@@ -12516,7 +13478,8 @@ const vocabData = [
       "She will be responsible for [overseeing] strategic and operational plans. (=Dịch: Cô ấy sẽ chịu trách nhiệm giám sát các kế hoạch chiến lược và hoạt động.)",
       "The body was set up to [oversee] the implementation of the peace treaty. (=Dịch: Cơ quan này được thành lập để giám sát việc thực hiện hiệp ước hòa bình.)"
     ],
-    "image": "assets/images/oversee.jpg"
+    "image": "assets/images/oversee.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "petition",
@@ -12529,7 +13492,8 @@ const vocabData = [
       "The workers are getting up (= starting) a [petition] for tighter safety standards. (=Dịch: Các công nhân đang bắt đầu một bản kiến nghị yêu cầu các tiêu chuẩn an toàn chặt chẽ hơn.)",
       "Local government supports the [petition] for a new hospital. (=Dịch: Chính quyền địa phương ủng hộ bản kiến nghị xây dựng một bệnh viện mới.)"
     ],
-    "image": "assets/images/petition.jpg"
+    "image": "assets/images/petition.jpg",
+    "topic": "Health & Medicine"
   },
   {
     "word": "pillow",
@@ -12542,7 +13506,8 @@ const vocabData = [
       "She buried her head in the [pillow] and wept. (=Dịch: Cô ấy vùi đầu vào gối và khóc.)",
       "She plumped up the [pillows] for her daughter. (=Dịch: Cô ấy đánh phồng gối cho con gái mình.)"
     ],
-    "image": "assets/images/pillow.jpg"
+    "image": "assets/images/pillow.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "popcorn",
@@ -12555,7 +13520,8 @@ const vocabData = [
       "The [popcorn] is not sweetened with caramel, however, but with a pink candy coating. (=Dịch: Tuy nhiên, bỏng ngô không được ngọt với caramel mà với lớp phủ kẹo hồng.)",
       "I was planning to make some microwave [popcorn] and watch a National League play-off game on TV. (=Dịch: Tôi dự định làm một ít bỏng ngô lò vi sóng và xem trận đấu play-off của National League trên TV.)"
     ],
-    "image": "assets/images/popcorn.jpg"
+    "image": "assets/images/popcorn.jpg",
+    "topic": "Food & Restaurant"
   },
   {
     "word": "pottery",
@@ -12568,7 +13534,8 @@ const vocabData = [
       "She's doing a [pottery] night class. (=Dịch: Cô ấy đang tham gia một lớp học làm đồ gốm buổi tối.)",
       "They sell [pottery] and other handmade goods. (=Dịch: Họ bán đồ gốm và các mặt hàng thủ công khác.)"
     ],
-    "image": "assets/images/pottery.jpg"
+    "image": "assets/images/pottery.jpg",
+    "topic": "Shopping & Commerce"
   },
   {
     "word": "professionally",
@@ -12581,7 +13548,8 @@ const vocabData = [
       "He started to sing [professionally] (= for money) after leaving college. (=Dịch: Anh ấy bắt đầu hát chuyên nghiệp (tức là để kiếm tiền) sau khi rời trường đại học.)",
       "[Professionally] qualified staff will give you the advice you need. (=Dịch: Nhân viên có trình độ chuyên nghiệp sẽ đưa ra cho bạn lời khuyên cần thiết.)"
     ],
-    "image": "assets/images/professionally.jpg"
+    "image": "assets/images/professionally.jpg",
+    "topic": "Job & Career"
   },
   {
     "word": "publicize",
@@ -12594,7 +13562,8 @@ const vocabData = [
       "The event was well [publicized] all over town. (=Dịch: Sự kiện đã được công khai rộng rãi khắp thị trấn.)",
       "The work of the charity has been widely [publicized] throughout the media. (=Dịch: Công việc của tổ chức từ thiện đã được công khai rộng rãi trên các phương tiện truyền thông.)"
     ],
-    "image": "assets/images/publicize.jpg"
+    "image": "assets/images/publicize.jpg",
+    "topic": "Job & Career"
   },
   {
     "word": "ray",
@@ -12607,7 +13576,8 @@ const vocabData = [
       "Light [rays] bend as they pass from air to water. (=Dịch: Các tia sáng uốn cong khi chúng đi từ không khí vào nước.)",
       "The room was small and dark, without so much as a [ray] of light to brighten the gloom. (=Dịch: Căn phòng nhỏ và tối, không có lấy một tia sáng để làm sáng sự u ám.)"
     ],
-    "image": "assets/images/ray.jpg"
+    "image": "assets/images/ray.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "redecorate",
@@ -12620,7 +13590,8 @@ const vocabData = [
       "Our children have left home, and we now want to [redecorate]. (=Dịch: Con cái chúng tôi đã ra riêng, và bây giờ chúng tôi muốn trang trí lại.)",
       "The house has been fully [redecorated]. (=Dịch: Ngôi nhà đã được trang trí lại hoàn toàn.)"
     ],
-    "image": "assets/images/redecorate.jpg"
+    "image": "assets/images/redecorate.jpg",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "refinery",
@@ -12633,7 +13604,8 @@ const vocabData = [
       "an oil [refinery] (=Dịch: một nhà máy lọc dầu)",
       "He works at the town's oil [refinery]. (=Dịch: Anh ấy làm việc tại nhà máy lọc dầu của thị trấn.)"
     ],
-    "image": "assets/images/refinery.jpg"
+    "image": "assets/images/refinery.jpg",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "refresh",
@@ -12646,7 +13618,8 @@ const vocabData = [
       "A good night's sleep will [refresh] you. (=Dịch: Một giấc ngủ ngon sẽ làm bạn thấy tươi tắn hơn.)",
       "The lotion cools and [refreshes] the skin. (=Dịch: Kem dưỡng làm mát và làm tươi mới làn da.)"
     ],
-    "image": "assets/images/refresh.jpg"
+    "image": "assets/images/refresh.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "refundable",
@@ -12659,7 +13632,8 @@ const vocabData = [
       "Your legal costs will be [refundable] if you win. (=Dịch: Chi phí pháp lý của bạn sẽ được hoàn lại nếu bạn thắng.)",
       "Shipping and handling fees are non [refundable]. (=Dịch: Phí vận chuyển và xử lý không được hoàn lại.)"
     ],
-    "image": "assets/images/refundable.jpg"
+    "image": "assets/images/refundable.jpg",
+    "topic": "Shopping & Commerce"
   },
   {
     "word": "reimbursement",
@@ -12672,7 +13646,8 @@ const vocabData = [
       "We receive [reimbursement]for travel, meals and lodging. (=Dịch: Chúng tôi nhận được khoản hoàn trả cho việc đi lại, ăn uống và chỗ ở.)",
       "He is seeking [reimbursement] of his legal bills. (=Dịch: Anh ấy đang tìm cách hoàn trả chi phí pháp lý của mình.)"
     ],
-    "image": "assets/images/reimbursement.jpg"
+    "image": "assets/images/reimbursement.jpg",
+    "topic": "Health & Medicine"
   },
   {
     "word": "reliability",
@@ -12685,7 +13660,8 @@ const vocabData = [
       "Some experts have questioned the [reliability] of the test. (=Dịch: Một số chuyên gia đã đặt câu hỏi về độ tin cậy của bài kiểm tra.)",
       "There are issues with punctuality and [reliability] of bus services across the region. (=Dịch: Có vấn đề về đúng giờ và độ tin cậy của các dịch vụ xe buýt trên toàn khu vực.)"
     ],
-    "image": "assets/images/reliability.jpg"
+    "image": "assets/images/reliability.jpg",
+    "topic": "Travel & Transport"
   },
   {
     "word": "reluctant",
@@ -12698,7 +13674,8 @@ const vocabData = [
       "Many parents feel [reluctant] to talk openly with their children. (=Dịch: Nhiều bậc cha mẹ cảm thấy do dự khi nói chuyện cởi mở với con cái.)",
       "I'm a bit [reluctant] to get involved. (=Dịch: Tôi hơi miễn cưỡng khi tham gia.)"
     ],
-    "image": "assets/images/reluctant.jpg"
+    "image": "assets/images/reluctant.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "sewer",
@@ -12711,7 +13688,8 @@ const vocabData = [
       "A complicated system of [sewers] runs under the city. (=Dịch: Một hệ thống cống phức tạp chạy dưới thành phố.)",
       "In terms of their construction costs, [sewers] and streets are far less capital-intensive than water supply. (=Dịch: Về chi phí xây dựng, hệ thống cống và đường phố ít tốn kém vốn hơn so với cung cấp nước.)"
     ],
-    "image": "assets/images/sewer.jpg"
+    "image": "assets/images/sewer.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "skate",
@@ -12724,7 +13702,8 @@ const vocabData = [
       "She [skated] over to where I was standing. (=Dịch: Cô ấy đã trượt băng đến chỗ tôi đang đứng.)",
       "The ice on the river is thick enough to [skate] on/across/over. (=Dịch: Băng trên sông đủ dày để trượt băng qua.)"
     ],
-    "image": "assets/images/skate.jpg"
+    "image": "assets/images/skate.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "skateboard",
@@ -12737,7 +13716,8 @@ const vocabData = [
       "[Skateboards] were invented in California, USA, in the 1950s, when some surfers put wheels on boards! (=Dịch: Ván trượt được phát minh tại California, Mỹ, vào những năm 1950, khi một số người lướt sóng gắn bánh xe vào ván!)",
       "Today, there are many different kinds of [skateboards]. (=Dịch: Ngày nay, có rất nhiều loại ván trượt khác nhau.)"
     ],
-    "image": "assets/images/skateboard.jpg"
+    "image": "assets/images/skateboard.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "sleepy",
@@ -12750,7 +13730,8 @@ const vocabData = [
       "She was beginning to get a little [sleepy]. (=Dịch: Cô bắt đầu trở nên hơi buồn ngủ.)",
       "The sun was making him [sleepy]. (=Dịch: Mặt trời làm anh buồn ngủ.)"
     ],
-    "image": "assets/images/sleepy.jpg"
+    "image": "assets/images/sleepy.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "tailor",
@@ -12763,7 +13744,8 @@ const vocabData = [
       "Their services are [tailored] to clients' needs. (=Dịch: Dịch vụ của họ được điều chỉnh theo nhu cầu của khách hàng.)",
       "You have to [tailor] application letters for each job you apply for. (=Dịch: Bạn phải điều chỉnh thư xin việc cho từng công việc bạn nộp đơn.)"
     ],
-    "image": "assets/images/tailor.jpg"
+    "image": "assets/images/tailor.jpg",
+    "topic": "Shopping & Commerce"
   },
   {
     "word": "termination",
@@ -12776,7 +13758,8 @@ const vocabData = [
       "Executive directors are entitled to 12 months' notice of [termination] of their contracts. (=Dịch: Các giám đốc điều hành được quyền thông báo trước 12 tháng về việc chấm dứt hợp đồng của họ.)",
       "All benefits and cover cease upon reaching the [termination] date of the loan. (=Dịch: Tất cả các phúc lợi và bảo hiểm sẽ chấm dứt khi đến hạn chấm dứt khoản vay.)"
     ],
-    "image": "assets/images/termination.jpg"
+    "image": "assets/images/termination.jpg",
+    "topic": "Travel & Transport"
   },
   {
     "word": "theft",
@@ -12789,7 +13772,8 @@ const vocabData = [
       "There's been an increase in minor offences, such as traffic violations and petty [theft]. (=Dịch: Đã có sự gia tăng về các vi phạm nhỏ, chẳng hạn như vi phạm giao thông và trộm cắp vặt.)",
       "Unfortunately, the police have dealt with the problem of car [theft] in a reactive rather than a proactive way. (=Dịch: Thật không may, cảnh sát đã xử lý vấn đề trộm cắp xe một cách phản ứng thay vì chủ động.)"
     ],
-    "image": "assets/images/theft.jpg"
+    "image": "assets/images/theft.jpg",
+    "topic": "Law & Government"
   },
   {
     "word": "thunderstorm",
@@ -12802,7 +13786,8 @@ const vocabData = [
       "The church was struck by lightning during a violent [thunderstorm]. (=Dịch: Nhà thờ đã bị sét đánh trong một cơn bão giông mạnh.)",
       "Sea-breeze fronts and [thunderstorm] outflows are examples of naturally occurring atmospheric gravity currents. (=Dịch: Mặt trận gió biển và luồng khí ra từ cơn giông là ví dụ về các dòng trọng lực khí quyển tự nhiên.)"
     ],
-    "image": "assets/images/thunderstorm.jpg"
+    "image": "assets/images/thunderstorm.jpg",
+    "topic": "Science & Nature"
   },
   {
     "word": "transmission",
@@ -12815,7 +13800,8 @@ const vocabData = [
       "Satellite [transmissions] of medical data will enable doctors at the two institutions to do long-distance consultations. (=Dịch: Truyền tải dữ liệu y tế qua vệ tinh sẽ cho phép các bác sĩ tại hai cơ sở thực hiện tư vấn từ xa.)",
       "We rely on high-speed [transmission] of data. (=Dịch: Chúng tôi dựa vào việc truyền dữ liệu tốc độ cao.)"
     ],
-    "image": "assets/images/transmission.jpg"
+    "image": "assets/images/transmission.jpg",
+    "topic": "Health & Medicine"
   },
   {
     "word": "transmit",
@@ -12828,7 +13814,8 @@ const vocabData = [
       "Department stores use EDI to [transmit] orders to suppliers. (=Dịch: Các cửa hàng bách hóa sử dụng EDI để truyền đơn đặt hàng cho các nhà cung cấp.)",
       "Sound is [transmitted] from the eardrum to the sound-sensitive cells in the ear by means of a bridge of three tiny bones. (=Dịch: Âm thanh được truyền từ màng nhĩ đến các tế bào nhạy cảm với âm thanh trong tai thông qua một cầu ba xương nhỏ.)"
     ],
-    "image": "assets/images/transmit.jpg"
+    "image": "assets/images/transmit.jpg",
+    "topic": "Technology & Communication"
   },
   {
     "word": "unused",
@@ -12841,7 +13828,8 @@ const vocabData = [
       "The stationary exercise bike sits [unused] in the basement. (=Dịch: Chiếc xe đạp thể dục đứng yên không được sử dụng dưới tầng hầm.)",
       "The house was left [unused] for most of the year. (=Dịch: Ngôi nhà không được sử dụng trong hầu hết thời gian của năm.)"
     ],
-    "image": "assets/images/unused.jpg"
+    "image": "assets/images/unused.jpg",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "waive",
@@ -12854,7 +13842,8 @@ const vocabData = [
       "We have decided to [waive] the tuition fees in your case. (=Dịch: Chúng tôi đã quyết định miễn học phí trong trường hợp của bạn.)",
       "He has agreed to [waive] his rights to the money. (=Dịch: Anh ấy đã đồng ý từ bỏ quyền lợi đối với số tiền.)"
     ],
-    "image": "assets/images/waive.jpg"
+    "image": "assets/images/waive.jpg",
+    "topic": "Education & Learning"
   },
   {
     "word": "yen",
@@ -12867,7 +13856,8 @@ const vocabData = [
       "She earns 400,000 [yen] a month as an English teacher in Tokyo. (=Dịch: Cô ấy kiếm được 400.000 yên mỗi tháng với tư cách là giáo viên tiếng Anh ở Tokyo.)",
       "The company plans to cut 800 jobs, saving an estimated 3 billion [yen] in costs. (=Dịch: Công ty dự định cắt giảm 800 việc làm, tiết kiệm khoảng 3 tỷ yên chi phí.)"
     ],
-    "image": "assets/images/yen.jpg"
+    "image": "assets/images/yen.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "adapter",
@@ -12880,7 +13870,8 @@ const vocabData = [
       "You can buy an inexpensive [adapter] for your equipment when you arrive in Hong Kong (=Dịch: Bạn có thể mua một bộ chuyển đổi giá rẻ cho thiết bị của mình khi bạn đến Hồng Kông)",
       "The power [adapter] connector is placed rather unusually, along the center of the case, right above the base (=Dịch: Đầu nối bộ chuyển đổi nguồn được đặt khá bất thường, dọc theo trung tâm của vỏ, ngay phía trên đế)"
     ],
-    "image": "assets/images/adapter.jpg"
+    "image": "assets/images/adapter.jpg",
+    "topic": "Shopping & Commerce"
   },
   {
     "word": "advisable",
@@ -12893,7 +13884,8 @@ const vocabData = [
       "There are other questions raised about whether it is [advisable] to have government so close to the funding of the arts (=Dịch: Có những câu hỏi khác được đặt ra về việc liệu có nên để chính phủ gần gũi như vậy với việc tài trợ cho nghệ thuật không)",
       "In fact, it is [advisable] to be cautious and consult a doctor prior to departure. (=Dịch: Thực tế, nên thận trọng và hỏi ý kiến bác sĩ trước khi khởi hành)"
     ],
-    "image": "assets/images/advisable.jpg"
+    "image": "assets/images/advisable.jpg",
+    "topic": "Health & Medicine"
   },
   {
     "word": "archive",
@@ -12906,7 +13898,8 @@ const vocabData = [
       "An online [archive] exists with all of those reviews. (=Dịch: Có một kho lưu trữ trực tuyến chứa tất cả các đánh giá đó.)",
       "Many public libraries also have local history sections containing [archives] relating to local musical activities and famous musicians.' (=Dịch: Nhiều thư viện công cộng cũng có các mục lịch sử địa phương chứa các tài liệu lưu trữ liên quan đến các hoạt động âm nhạc địa phương và các nhạc sĩ nổi tiếng.)"
     ],
-    "image": "assets/images/archive.jpg"
+    "image": "assets/images/archive.jpg",
+    "topic": "Education & Learning"
   },
   {
     "word": "artistic",
@@ -12919,7 +13912,8 @@ const vocabData = [
       "Tutors at the college were bowled over by her natural [artistic] talent and offered her a place on the course. (=Dịch: Các giảng viên tại trường đã bị ấn tượng bởi tài năng nghệ thuật tự nhiên của cô ấy và đề nghị cho cô ấy một chỗ trong khóa học.)",
       "Fintan, who was so creative and [artistic], even wrote poems about depression. (=Dịch: Fintan, người rất sáng tạo và nghệ thuật, thậm chí đã viết những bài thơ về trầm cảm.)"
     ],
-    "image": "assets/images/artistic.jpg"
+    "image": "assets/images/artistic.jpg",
+    "topic": "Art & Entertainment"
   },
   {
     "word": "assurance",
@@ -12932,7 +13926,8 @@ const vocabData = [
       "She gave me her [assurance] (that) she would sign the contract immediately. (=Dịch: Cô ấy đã đảm bảo với tôi rằng cô ấy sẽ ký hợp đồng ngay lập tức.)",
       "The management gave their [assurances] that there would be no more job losses. (=Dịch: Ban quản lý đã đảm bảo rằng sẽ không còn mất việc nữa.)"
     ],
-    "image": "assets/images/assurance.jpg"
+    "image": "assets/images/assurance.jpg",
+    "topic": "Law & Government"
   },
   {
     "word": "athletic",
@@ -12945,7 +13940,8 @@ const vocabData = [
       "This college has a long tradition of [athletic] excellence. (=Dịch: Trường cao đẳng này có một truyền thống lâu đời về sự xuất sắc trong thể thao.)",
       "Many people think of sports medicine as merely the treatment of [athletic] injuries. (=Dịch: Nhiều người nghĩ rằng y học thể thao chỉ là việc điều trị chấn thương thể thao.)"
     ],
-    "image": "assets/images/athletic.jpg"
+    "image": "assets/images/athletic.jpg",
+    "topic": "Education & Learning"
   },
   {
     "word": "attire",
@@ -12958,7 +13954,8 @@ const vocabData = [
       "Such [attire] is indeed convenient for campaigning on the streets or elsewhere. (=Dịch: Trang phục như vậy thật sự tiện lợi cho việc vận động trên đường phố hoặc ở nơi khác.)",
       "Elsewhere, another fashion icon was making a very different kind of statement through his choice of [attire]. (=Dịch: Ở một nơi khác, một biểu tượng thời trang khác đang tạo nên một tuyên bố rất khác qua sự lựa chọn trang phục của mình.)"
     ],
-    "image": "assets/images/attire.png"
+    "image": "assets/images/attire.png",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "auditor",
@@ -12971,7 +13968,8 @@ const vocabData = [
       "The committee will appoint an independent [auditor] to examine the annual accounts. (=Dịch: Ủy ban sẽ bổ nhiệm một kiểm toán viên độc lập để kiểm tra các tài khoản hàng năm.)",
       "The company is required to appoint [auditors] at each general meeting (=Dịch: Công ty được yêu cầu bổ nhiệm các kiểm toán viên tại mỗi cuộc họp chung.)"
     ],
-    "image": "assets/images/auditor.jpg"
+    "image": "assets/images/auditor.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "bankruptcy",
@@ -12984,7 +13982,8 @@ const vocabData = [
       "Now he's $37,000 in debt and plans to file for [bankruptcy]. (=Dịch: Bây giờ anh ấy đang nợ 37.000 đô la và dự định nộp đơn xin phá sản.)",
       "The company was forced into [bankruptcy]. (=Dịch: Công ty đã bị buộc phải phá sản.)"
     ],
-    "image": "assets/images/bankruptcy.jpg"
+    "image": "assets/images/bankruptcy.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "bulk",
@@ -12997,7 +13996,8 @@ const vocabData = [
       "The office buys paper in [bulk] to keep down costs. (=Dịch: Văn phòng mua giấy số lượng lớn để giảm chi phí.)",
       "Wholesalers who order in [bulk] will receive an additional 15% discount. (=Dịch: Các nhà bán buôn đặt hàng số lượng lớn sẽ được giảm thêm 15%.)"
     ],
-    "image": "assets/images/bulk.png"
+    "image": "assets/images/bulk.png",
+    "topic": "Shopping & Commerce"
   },
   {
     "word": "butter",
@@ -13010,7 +14010,8 @@ const vocabData = [
       "Put a knob of [butter] in the frying pan. (=Dịch: Cho một chút bơ vào chảo rán.)",
       "They are served hot or cold spread with [butter] or margarine and sometimes jelly jam and cream. (=Dịch: Chúng được phục vụ nóng hoặc lạnh với bơ hoặc bơ thực vật và thỉnh thoảng với mứt và kem.)"
     ],
-    "image": "assets/images/butter.webp"
+    "image": "assets/images/butter.webp",
+    "topic": "Food & Restaurant"
   },
   {
     "word": "centimeter",
@@ -13023,7 +14024,8 @@ const vocabData = [
       "The same numbers apply if I measure distance in miles or [centimeters] or any other unit. (=Dịch: Những con số tương tự áp dụng nếu tôi đo khoảng cách bằng dặm, centimet hoặc bất kỳ đơn vị nào khác.)",
       "Shoot length was measured in [centimetres], from the base to the top, using a fabric tape measure. (=Dịch: Chiều dài của chồi được đo bằng centimet, từ gốc đến ngọn, sử dụng thước dây bằng vải.)"
     ],
-    "image": "assets/images/centimeter.jpg"
+    "image": "assets/images/centimeter.jpg",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "circulate",
@@ -13036,7 +14038,8 @@ const vocabData = [
       "These and the deeper tunnels form a ram system that [circulates] gases. (=Dịch: Những đường hầm này và đường hầm sâu hơn tạo thành một hệ thống ram luân chuyển khí.)",
       "The fan [circulates] hot air around the oven (=Dịch: Quạt lưu thông không khí nóng xung quanh lò nướng.)"
     ],
-    "image": "assets/images/circulate.jpg"
+    "image": "assets/images/circulate.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "comb",
@@ -13049,7 +14052,8 @@ const vocabData = [
       "Michael had thick caramel brown hair, which was [combed] to the side. (=Dịch: Michael có mái tóc dày màu nâu caramel, được chải qua một bên.)",
       "The oil washes out with regular shampoo and the nits can be [combed] out easily because the oil loosens them. (=Dịch: Dầu sẽ được rửa sạch bằng dầu gội thông thường và trứng chí có thể được loại bỏ dễ dàng vì dầu sẽ làm chúng bong ra.)"
     ],
-    "image": "assets/images/comb.jpg"
+    "image": "assets/images/comb.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "comfortably",
@@ -13062,7 +14066,8 @@ const vocabData = [
       "The theater would be warmed with fires beforehand to make it [comfortably] warm. (=Dịch: Nhà hát sẽ được sưởi ấm trước bằng lửa để tạo cảm giác ấm áp.)",
       "The goggles are not sitting [comfortably] in the eye socket. (=Dịch: Kính bảo hộ không ngồi thoải mái trong hốc mắt.)"
     ],
-    "image": "assets/images/comfortably.jpeg"
+    "image": "assets/images/comfortably.jpeg",
+    "topic": "Art & Entertainment"
   },
   {
     "word": "fog",
@@ -13075,7 +14080,8 @@ const vocabData = [
       "The [fog] is expected to have cleared away by midday. (=Dịch: Sương mù dự kiến sẽ tan biến vào buổi trưa.)",
       "Freezing [fog] and icy patches are expected to cause problems for motorists tonight. (=Dịch: Sương giá và các mảng băng được dự báo sẽ gây ra vấn đề cho các tài xế tối nay.)"
     ],
-    "image": "assets/images/fog.jpg"
+    "image": "assets/images/fog.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "formally",
@@ -13088,7 +14094,8 @@ const vocabData = [
       "The contract is not binding until it has been [formally] agreed by both parties. (=Dịch: Hợp đồng không có hiệu lực cho đến khi cả hai bên chính thức đồng ý.)",
       "The prime minister [formally] declared the country to be suffering from serious famine. (=Dịch: Thủ tướng chính thức tuyên bố rằng đất nước đang phải chịu đựng nạn đói nghiêm trọng.)"
     ],
-    "image": "assets/images/formally.jpg"
+    "image": "assets/images/formally.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "gram",
@@ -13101,7 +14108,8 @@ const vocabData = [
       "The fireworks contain a few [grams] of gunpowder. (=Dịch: Pháo hoa chứa vài gram thuốc súng.)",
       "The firms are paying up to $45,000 per [gram] to place plants aboard satellites. (=Dịch: Các công ty đang trả tới 45.000 đô la mỗi gram để đặt cây trồng lên vệ tinh.)"
     ],
-    "image": "assets/images/gram.jpg"
+    "image": "assets/images/gram.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "handbook",
@@ -13114,7 +14122,8 @@ const vocabData = [
       "The sectional maps, airport facility guides, operating [handbooks], etc. are still printed for a reason - safety. (=Dịch: Các bản đồ khu vực, hướng dẫn cơ sở sân bay, sổ tay hướng dẫn sử dụng, v.v. vẫn được in vì một lý do - an toàn.)",
       "This expo is an ideal place to choose guides and [handbooks] for competitive examinations. (=Dịch: Hội chợ này là nơi lý tưởng để chọn hướng dẫn và sách hướng dẫn cho các kỳ thi cạnh tranh.)"
     ],
-    "image": "assets/images/handbook.jpg"
+    "image": "assets/images/handbook.jpg",
+    "topic": "Travel & Transport"
   },
   {
     "word": "headphone",
@@ -13127,7 +14136,8 @@ const vocabData = [
       "He twirled the [headphone] cord through his long fingers. (=Dịch: Anh xoay sợi dây tai nghe qua những ngón tay dài của mình.)",
       "We preferred the [headphones] as music on the loudspeaker didn't sound too good to us. (=Dịch: Chúng tôi thích tai nghe hơn vì nhạc trên loa nghe không hay lắm.)"
     ],
-    "image": "assets/images/headphone.jpg"
+    "image": "assets/images/headphone.jpg",
+    "topic": "Art & Entertainment"
   },
   {
     "word": "heater",
@@ -13140,7 +14150,8 @@ const vocabData = [
       "Little electric [heaters] are used to warm rooms and they now have three hot showers. (=Dịch: Những chiếc máy sưởi điện nhỏ được sử dụng để làm ấm phòng và bây giờ họ có ba vòi sen nước nóng.)",
       "I installed wall [heaters], an electric water heater, dryer and range, but asked for help with a mechanical heat pump. (=Dịch: Tôi đã lắp đặt máy sưởi tường, máy nước nóng điện, máy sấy và bếp, nhưng nhờ người giúp đỡ với một máy điều hòa nhiệt cơ học.)"
     ],
-    "image": "assets/images/heater.jpg"
+    "image": "assets/images/heater.jpg",
+    "topic": "Education & Learning"
   },
   {
     "word": "helmet",
@@ -13153,7 +14164,8 @@ const vocabData = [
       "It's very risky to ride your bike without wearing a cycle [helmet]. (=Dịch: Đi xe đạp mà không đội mũ bảo hiểm rất nguy hiểm.)",
       "Skateboarders rarely use protective equipment such as [helmets] and wrist guards. (=Dịch: Những người trượt ván hiếm khi sử dụng thiết bị bảo vệ như mũ bảo hiểm và bảo vệ cổ tay.)"
     ],
-    "image": "assets/images/helmet.jpg"
+    "image": "assets/images/helmet.jpg",
+    "topic": "Technology & Communication"
   },
   {
     "word": "hiker",
@@ -13166,7 +14178,8 @@ const vocabData = [
       "Once the ski season is over, Andorra's mountains are still frequented by [hikers], mountaineers, and rock climbers. (=Dịch: Khi mùa trượt tuyết kết thúc, những ngọn núi ở Andorra vẫn được những người đi bộ đường dài, leo núi và leo đá ghé thăm.)",
       "Divers and [hikers] have discovered the island and arrive in groups during the summer. (=Dịch: Những người lặn biển và đi bộ đường dài đã khám phá ra hòn đảo và đến theo nhóm vào mùa hè.)"
     ],
-    "image": "assets/images/hiker.jpg"
+    "image": "assets/images/hiker.jpg",
+    "topic": "Science & Nature"
   },
   {
     "word": "homeless",
@@ -13179,7 +14192,8 @@ const vocabData = [
       "Providing [homeless] people with somewhere to stay when the weather is cold only skates round the problem, it doesn't solve it. (=Dịch: Việc cung cấp chỗ ở cho người vô gia cư khi thời tiết lạnh chỉ là giải pháp tạm thời, không phải là giải quyết vấn đề.)",
       "A family is [homeless] after fire swept through their house when a dishwasher caught light. (=Dịch: Một gia đình trở nên vô gia cư sau khi ngọn lửa quét qua ngôi nhà của họ khi máy rửa chén bắt lửa.)"
     ],
-    "image": "assets/images/homeless.jpg"
+    "image": "assets/images/homeless.jpg",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "lighter",
@@ -13192,7 +14206,8 @@ const vocabData = [
       "This phenomenon means females go hungry and lose their calves in spring or give birth to [lighter] young. (=Dịch: Hiện tượng này có nghĩa là con cái bị đói và mất con vào mùa xuân hoặc sinh ra những con non nhẹ ký hơn.)",
       "Dark wood interiors have been replaced by a cooler palette, bathrooms are [lighter] and windows larger, but the facilities have wisely been left alone. (=Dịch: Nội thất gỗ tối màu đã được thay thế bằng bảng màu mát hơn, phòng tắm sáng hơn và cửa sổ lớn hơn, nhưng các tiện nghi vẫn được giữ nguyên một cách khôn ngoan.)"
     ],
-    "image": "assets/images/lighter.jpg"
+    "image": "assets/images/lighter.jpg",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "loudly",
@@ -13205,7 +14220,8 @@ const vocabData = [
       "About two hours into the flight, he began complaining [loudly] that his seat was too small. (=Dịch: Khoảng hai giờ sau khi chuyến bay bắt đầu, anh ta bắt đầu than phiền to tiếng rằng chỗ ngồi của anh ta quá nhỏ.)",
       "She was [loudly] proclaiming her innocence. (=Dịch: Cô ấy lớn tiếng tuyên bố mình vô tội.)"
     ],
-    "image": "assets/images/loudly.jpg"
+    "image": "assets/images/loudly.jpg",
+    "topic": "Travel & Transport"
   },
   {
     "word": "loyalty",
@@ -13218,7 +14234,8 @@ const vocabData = [
       "Companies are eager to build brand [loyalty] in their customers. (=Dịch: Các công ty rất muốn xây dựng lòng trung thành thương hiệu ở khách hàng của mình.)",
       "He inspires great [loyalty] from all his employees. (=Dịch: Anh ấy truyền cảm hứng về sự trung thành lớn từ tất cả nhân viên của mình.)"
     ],
-    "image": "assets/images/loyalty.jpg"
+    "image": "assets/images/loyalty.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "microwave",
@@ -13231,7 +14248,8 @@ const vocabData = [
       "Your dinner's in the [microwave]. (=Dịch: Bữa tối của bạn đang ở trong lò vi sóng.)",
       "This product is unsuitable for cooking in [microwave] ovens. (=Dịch: Sản phẩm này không phù hợp để nấu ăn trong lò vi sóng.)"
     ],
-    "image": "assets/images/microwave.jpg"
+    "image": "assets/images/microwave.jpg",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "misidentify",
@@ -13244,7 +14262,8 @@ const vocabData = [
       "Members of the public could be tracked, located and identified – or [misidentified] – everywhere they go. (=Dịch: Các thành viên của công chúng có thể bị theo dõi, định vị và nhận dạng - hoặc bị nhận dạng nhầm - ở mọi nơi họ đi.)",
       "Due to a transcription error, it [misidentified] a source. (=Dịch: Do lỗi ghi chép, nó đã nhận dạng sai một nguồn.)"
     ],
-    "image": "assets/images/misidentify.jpg"
+    "image": "assets/images/misidentify.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "neat",
@@ -13257,7 +14276,8 @@ const vocabData = [
       "The handwriting was surprisingly [neat]. (=Dịch: Chữ viết tay rất gọn gàng đáng ngạc nhiên.)",
       "Each resident is expected to keep their room [neat]. (=Dịch: Mỗi cư dân được mong đợi giữ cho phòng của mình gọn gàng.)"
     ],
-    "image": "assets/images/neat.jpg"
+    "image": "assets/images/neat.jpg",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "nomination",
@@ -13270,7 +14290,8 @@ const vocabData = [
       "He won the [nomination] as Democratic candidate for the presidency. (=Dịch: Anh ấy đã giành được đề cử làm ứng cử viên của Đảng Dân chủ cho chức vụ tổng thống.)",
       "They opposed her [nomination] to the post of Deputy Director. (=Dịch: Họ phản đối đề cử của cô ấy vào vị trí Phó Giám đốc.)"
     ],
-    "image": "assets/images/nomination.jpg"
+    "image": "assets/images/nomination.jpg",
+    "topic": "Job & Career"
   },
   {
     "word": "officially",
@@ -13283,7 +14304,8 @@ const vocabData = [
       "We haven't yet been told [officially] about the closure. (=Dịch: Chúng tôi chưa được thông báo chính thức về việc đóng cửa.)",
       "The college is not an [officially] recognized English language school. (=Dịch: Trường cao đẳng không phải là một trường ngôn ngữ tiếng Anh được công nhận chính thức.)"
     ],
-    "image": "assets/images/officially.jpg"
+    "image": "assets/images/officially.jpg",
+    "topic": "Law & Government"
   },
   {
     "word": "outfit",
@@ -13296,7 +14318,8 @@ const vocabData = [
       "I'm looking for a necklace to complete my [outfit]. (=Dịch: Tôi đang tìm một chiếc vòng cổ để hoàn thiện bộ trang phục của mình.)",
       "The pair arrived in matching white [outfits]. (=Dịch: Cặp đôi đến với bộ trang phục trắng giống nhau.)"
     ],
-    "image": "assets/images/outfit.jpg"
+    "image": "assets/images/outfit.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "pastry",
@@ -13309,7 +14332,8 @@ const vocabData = [
       "She had a [pastry] and coffee for breakfast. (=Dịch: Cô ấy đã ăn bánh ngọt và uống cà phê cho bữa sáng.)",
       "Viennese coffee house culture is part of a visit to the city, and a stop at one of the many coffee houses is the perfect excuse to indulge in a delicious [pastry] (=Dịch: Văn hóa quán cà phê Vienna là một phần của chuyến thăm thành phố, và dừng lại tại một trong nhiều quán cà phê là cái cớ hoàn hảo để thưởng thức một chiếc bánh ngọt ngon lành.)"
     ],
-    "image": "assets/images/pastry.jpg"
+    "image": "assets/images/pastry.jpg",
+    "topic": "Food & Restaurant"
   },
   {
     "word": "personalize",
@@ -13322,7 +14346,8 @@ const vocabData = [
       "[Personalizing] your car has never been cheaper.  (=Dịch: Cá nhân hóa chiếc xe của bạn chưa bao giờ rẻ hơn.)",
       "...an ideal centre for professional men or women who need intensive, [personalized] French courses.  (=Dịch: …một trung tâm lý tưởng cho nam giới hoặc phụ nữ chuyên nghiệp cần các khóa học tiếng Pháp chuyên sâu, được cá nhân hóa.)"
     ],
-    "image": ""
+    "image": "",
+    "topic": "Education & Learning"
   },
   {
     "word": "poorly",
@@ -13335,7 +14360,8 @@ const vocabData = [
       "The job is relatively [poorly] paid. (=Dịch: Công việc này tương đối được trả lương kém.)",
       "Our candidate fared [poorly] in the election (= did not get many votes). (=Dịch: Ứng cử viên của chúng tôi đã có kết quả kém trong cuộc bầu cử (tức là không nhận được nhiều phiếu bầu).)"
     ],
-    "image": ""
+    "image": "",
+    "topic": "Job & Career"
   },
   {
     "word": "prestigious",
@@ -13348,7 +14374,8 @@ const vocabData = [
       "The Harvard presidency is perhaps the most [prestigious] job in higher education. (=Dịch: Chức vụ hiệu trưởng của Harvard có lẽ là công việc danh giá nhất trong giáo dục đại học.)",
       "a [prestigious] literary awards (=Dịch: một giải thưởng văn học danh giá)"
     ],
-    "image": "assets/images/prestigious.jpg"
+    "image": "assets/images/prestigious.jpg",
+    "topic": "Education & Learning"
   },
   {
     "word": "purser",
@@ -13361,7 +14388,8 @@ const vocabData = [
       "After the war, Harold studied chemistry, physics and maths at Cardiff University, before initially deciding to re-join the Merchant Navy as an assistant [purser] (=Dịch: Sau chiến tranh, Harold học hóa học, vật lý và toán học tại Đại học Cardiff, trước khi quyết định ban đầu là tái gia nhập Hải quân Thương mại với vai trò trợ lý quản lý hành khách.)",
       "Later, firefighters rescued the ship's [purser] by helicopter, hoisting him strapped to a stretcher. (=Dịch: Sau đó, lính cứu hỏa đã cứu quản lý hành khách của con tàu bằng trực thăng, kéo anh ấy lên khi nằm trên cáng.)"
     ],
-    "image": "assets/images/purser.jpg"
+    "image": "assets/images/purser.jpg",
+    "topic": "Education & Learning"
   },
   {
     "word": "reassure",
@@ -13374,7 +14402,8 @@ const vocabData = [
       "They sought to [reassure] the public. (=Dịch: Họ đã cố gắng trấn an công chúng.)",
       "He [reassured] people that law-abiding citizens would have nothing to fear from the enquiries. (=Dịch: Ông đã trấn an mọi người rằng những công dân tuân thủ pháp luật sẽ không có gì phải lo sợ từ các cuộc điều tra.)"
     ],
-    "image": "assets/images/reassure.jpg"
+    "image": "assets/images/reassure.jpg",
+    "topic": "Health & Medicine"
   },
   {
     "word": "resume",
@@ -13387,7 +14416,8 @@ const vocabData = [
       "He stopped to take a sip of water and then [resumed] speaking. (=Dịch: Anh ấy dừng lại để uống một ngụm nước và sau đó tiếp tục nói.)",
       "The talks are due to [resume] today. (=Dịch: Các cuộc đàm phán dự kiến sẽ được tiếp tục hôm nay.)"
     ],
-    "image": "assets/images/resume.jpg"
+    "image": "assets/images/resume.jpg",
+    "topic": "Job & Career"
   },
   {
     "word": "reunion",
@@ -13400,7 +14430,8 @@ const vocabData = [
       "The college has an annual [reunion] for former students. (=Dịch: Trường đại học có một buổi họp mặt hằng năm cho các cựu sinh viên.)",
       "We organized a [reunion] for former company employees. (=Dịch: Chúng tôi đã tổ chức một buổi họp mặt cho các cựu nhân viên của công ty.)"
     ],
-    "image": "assets/images/reunion.jpg"
+    "image": "assets/images/reunion.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "revolutionize",
@@ -13413,7 +14444,8 @@ const vocabData = [
       "Credit scores [revolutionized] the borrowing process by allowing lenders to make faster, more objective decisions about a person's ability to repay. (=Dịch: Điểm tín dụng đã cách mạng hóa quy trình vay mượn bằng cách cho phép các nhà cho vay đưa ra quyết định nhanh hơn và khách quan hơn về khả năng trả nợ của một người.)",
       "Electronic cash systems have [revolutionized] the way that people around the world pay for goods and services. (=Dịch: Hệ thống tiền điện tử đã cách mạng hóa cách mọi người trên thế giới thanh toán hàng hóa và dịch vụ.)"
     ],
-    "image": "assets/images/revolutionize.jpg"
+    "image": "assets/images/revolutionize.jpg",
+    "topic": "Technology & Communication"
   },
   {
     "word": "seafood",
@@ -13426,7 +14458,8 @@ const vocabData = [
       "a [seafood] cocktail (=Dịch: một ly cocktail hải sản)",
       "a good wine to drink with fish or [seafood] dishes (=Dịch: một loại rượu ngon để uống với các món cá hoặc hải sản)"
     ],
-    "image": "assets/images/seafood.jpg"
+    "image": "assets/images/seafood.jpg",
+    "topic": "Food & Restaurant"
   },
   {
     "word": "signify",
@@ -13439,7 +14472,8 @@ const vocabData = [
       "The number 30 on a road sign [signifies] that the speed limit is 30 miles an hour. (=Dịch: Số 30 trên biển báo giao thông có nghĩa là tốc độ giới hạn là 30 dặm một giờ.)",
       "She [signified] (that) she was in agreement by nodding her head. (=Dịch: Cô ấy ra hiệu là cô đồng ý bằng cách gật đầu.)"
     ],
-    "image": "assets/images/signify.jpg"
+    "image": "assets/images/signify.jpg",
+    "topic": "Travel & Transport"
   },
   {
     "word": "slot",
@@ -13452,7 +14486,8 @@ const vocabData = [
       "The electricity was on a [slot] meter. (=Dịch: Điện được tính bằng máy đo theo khe.)",
       "I put my money in the [slot] and pressed the button but nothing came out. (=Dịch: Tôi bỏ tiền vào khe và nhấn nút nhưng không có gì ra.)"
     ],
-    "image": "assets/images/slot.jpg"
+    "image": "assets/images/slot.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "steer",
@@ -13465,7 +14500,8 @@ const vocabData = [
       "This car is very easy to [steer] (=Dịch: Chiếc xe này rất dễ lái.)",
       "I tried to [steer] the boat away from the bank. (=Dịch: Tôi đã cố gắng lái chiếc thuyền tránh khỏi bờ.)"
     ],
-    "image": "assets/images/steer.jpg"
+    "image": "assets/images/steer.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "sue",
@@ -13478,7 +14514,8 @@ const vocabData = [
       "She [sued] the paper for (= in order to get) damages after they wrongly described her as a prostitute. (=Dịch: Cô ấy đã kiện tờ báo để đòi bồi thường thiệt hại sau khi họ mô tả sai cô như một gái mại dâm.)",
       "She is [suing] her husband for (= in order to get a) divorce. (=Dịch: Cô ấy đang kiện chồng để ly hôn.)"
     ],
-    "image": "assets/images/sue.jpg"
+    "image": "assets/images/sue.jpg",
+    "topic": "Law & Government"
   },
   {
     "word": "superb",
@@ -13491,7 +14528,8 @@ const vocabData = [
       "She gave a [superb] performance as Lady Macbeth. (=Dịch: Cô ấy đã có một màn trình diễn tuyệt vời trong vai Lady Macbeth.)",
       "A poor game was redeemed in the second half by a couple of [superb] goals from Anthony Edwards. (=Dịch: Một trận đấu kém cỏi đã được cứu vãn trong hiệp hai bởi một vài bàn thắng tuyệt vời của Anthony Edwards.)"
     ],
-    "image": "assets/images/superb.jpg"
+    "image": "assets/images/superb.jpg",
+    "topic": "Art & Entertainment"
   },
   {
     "word": "traditionally",
@@ -13504,7 +14542,8 @@ const vocabData = [
       "[Traditionally], the company's main markets have been Britain and the US (=Dịch: Truyền thống, các thị trường chính của công ty là Anh và Mỹ.)",
       "Garlands of flowers have always been [traditionally] associated with May festivities. (=Dịch: Vòng hoa luôn luôn có truyền thống gắn liền với các lễ hội tháng Năm.)"
     ],
-    "image": "assets/images/traditionally.jpg"
+    "image": "assets/images/traditionally.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "tremendous",
@@ -13517,7 +14556,8 @@ const vocabData = [
       "She has every right to be proud of her [tremendous] achievements. (=Dịch: Cô ấy có mọi lý do để tự hào về những thành tựu to lớn của mình.)",
       "Heart surgery exacts [tremendous] skill and concentration. (=Dịch: Phẫu thuật tim đòi hỏi kỹ năng và sự tập trung cực kỳ cao.)"
     ],
-    "image": "assets/images/tremendous.jpg"
+    "image": "assets/images/tremendous.jpg",
+    "topic": "Job & Career"
   },
   {
     "word": "underway",
@@ -13530,7 +14570,8 @@ const vocabData = [
       "It's time to get this project [underway] (= started). (=Dịch: Đã đến lúc bắt đầu dự án này.)",
       "An initiative is [underway] which intends to establish guidelines and organise future activities. (=Dịch: Một sáng kiến đang được thực hiện nhằm thiết lập các hướng dẫn và tổ chức các hoạt động trong tương lai.)"
     ],
-    "image": "assets/images/underway.jpg"
+    "image": "assets/images/underway.jpg",
+    "topic": "Art & Entertainment"
   },
   {
     "word": "unpleasant",
@@ -13543,7 +14584,8 @@ const vocabData = [
       "There was an [unpleasant] smell coming from the drains. (=Dịch: Có một mùi khó chịu từ các ống cống.)",
       "He's bad-tempered, selfish and altogether an [unpleasant] man. (=Dịch: Anh ấy nóng tính, ích kỷ và hoàn toàn là một người đàn ông khó chịu.)"
     ],
-    "image": "assets/images/unpleasant.jpg"
+    "image": "assets/images/unpleasant.jpg",
+    "topic": "Health & Medicine"
   },
   {
     "word": "violin",
@@ -13556,7 +14598,8 @@ const vocabData = [
       "The top string on your [violin] is flat. (=Dịch: Dây trên cùng của cây violin của bạn bị phẳng.)",
       "A cello has a fuller sound than a [violin]. (=Dịch: Âm thanh của cello đầy đặn hơn so với violin.)"
     ],
-    "image": "assets/images/violin.jpg"
+    "image": "assets/images/violin.jpg",
+    "topic": "Art & Entertainment"
   },
   {
     "word": "ward",
@@ -13569,7 +14612,8 @@ const vocabData = [
       "the fifth [ward] (=Dịch: khu vực thứ năm)",
       "The emergency [wards] are full of casualties from the crash. (=Dịch: Các khu cấp cứu đầy rẫy những người thương vong sau vụ va chạm.)"
     ],
-    "image": "assets/images/ward.jpg"
+    "image": "assets/images/ward.jpg",
+    "topic": "Law & Government"
   },
   {
     "word": "worthwhile",
@@ -13582,7 +14626,8 @@ const vocabData = [
       "The time and expense involved in keeping up to date with all the changes has been [worthwhile]. (=Dịch: Thời gian và chi phí để cập nhật tất cả các thay đổi là đáng giá.)",
       "If you need him on this project, you've got to make it financially [worthwhile] for him (= you will have to pay him a suitable amount of money for the amount of work involved). (=Dịch: Nếu bạn cần anh ấy tham gia dự án này, bạn phải đảm bảo rằng điều đó đáng giá về mặt tài chính cho anh ấy (= bạn sẽ phải trả anh ấy một khoản tiền phù hợp với khối lượng công việc liên quan).)"
     ],
-    "image": "assets/images/worthwhile.jpg"
+    "image": "assets/images/worthwhile.jpg",
+    "topic": "Job & Career"
   },
   {
     "word": "compliance",
@@ -13595,7 +14640,8 @@ const vocabData = [
       "The law imposes significant [compliance] costs on US businesses and is a deterrent to price competition. (=Dịch: Luật pháp áp đặt chi phí tuân thủ đáng kể cho các doanh nghiệp ở Mỹ và là một rào cản đối với cạnh tranh về giá cả.)",
       "He pointed to the building's lack of [compliance] with building standards for the disabled. (=Dịch: Anh ấy chỉ ra sự thiếu tuân thủ tiêu chuẩn xây dựng dành cho người khuyết tật của tòa nhà.)"
     ],
-    "image": "assets/images/compliance.jpg"
+    "image": "assets/images/compliance.jpg",
+    "topic": "Law & Government"
   },
   {
     "word": "contraction",
@@ -13608,7 +14654,8 @@ const vocabData = [
       "Michigan's economy experienced a [contraction] last year. (=Dịch: Nền kinh tế Michigan đã trải qua một cuộc suy thoái vào năm ngoái.)",
       "The manufacturing sector suffered a severe [contraction] (=Dịch: Ngành sản xuất đã chịu một sự co lại nghiêm trọng.)"
     ],
-    "image": "assets/images/contraction.jpg"
+    "image": "assets/images/contraction.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "cookbook",
@@ -13621,7 +14668,8 @@ const vocabData = [
       "This attractive hardcover [cookbook] contains interesting recipes from start to finish. (=Dịch: Cuốn sách nấu ăn bìa cứng hấp dẫn này chứa những công thức nấu ăn thú vị từ đầu đến cuối.)",
       "You can find diabetic [cookbooks] that focus on foods from different cultures and ethnicities. (=Dịch: Bạn có thể tìm thấy sách nấu ăn cho người tiểu đường tập trung vào các món ăn từ các nền văn hóa và dân tộc khác nhau.)"
     ],
-    "image": "assets/images/cookbook.jpg"
+    "image": "assets/images/cookbook.jpg",
+    "topic": "Food & Restaurant"
   },
   {
     "word": "cushion",
@@ -13634,7 +14682,8 @@ const vocabData = [
       "My aunt was busy straightening furniture and plumping [cushions]. (=Dịch: Dì của tôi đang bận rộn chỉnh lại đồ đạc và làm phồng những chiếc gối.)",
       "Stuff the [cushion] and then sew up the final seam. (=Dịch: Nhồi gối vào và sau đó may đường may cuối cùng lại.)"
     ],
-    "image": "assets/images/cushion.jpeg"
+    "image": "assets/images/cushion.jpeg",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "dose",
@@ -13647,7 +14696,8 @@ const vocabData = [
       "It is dangerous to take more than the recommended [dose] of this medicine. (=Dịch: Việc uống hơn liều khuyến cáo của loại thuốc này là nguy hiểm.)",
       "She was given large [doses] of a powerful antibiotic. (=Dịch: Cô ấy đã được cho liều lớn của một loại kháng sinh mạnh.)"
     ],
-    "image": "assets/images/dose.jpg"
+    "image": "assets/images/dose.jpg",
+    "topic": "Health & Medicine"
   },
   {
     "word": "drum",
@@ -13660,7 +14710,8 @@ const vocabData = [
       "The [drums] rolled as the acrobat walked along the tightrope. (=Dịch: Trống đánh vang khi nghệ sĩ xiếc đi dọc theo dây lưng.)",
       "Beninese also make a wide range of handmade instruments, from twin [drums] to small Beninese guitars. (=Dịch: Người Beninese cũng làm nhiều loại nhạc cụ thủ công, từ trống đôi đến các loại đàn guitar Beninese nhỏ.)"
     ],
-    "image": "assets/images/drum.jpeg"
+    "image": "assets/images/drum.jpeg",
+    "topic": "General/Others"
   },
   {
     "word": "embed",
@@ -13673,7 +14724,8 @@ const vocabData = [
       "Microprocessors are [embedded] into products such as cars, fridges, traffic lights, and industrial equipment. (=Dịch: Vi xử lý được nhúng vào các sản phẩm như ô tô, tủ lạnh, đèn giao thông và thiết bị công nghiệp.)",
       "He had an operation to remove a nail [embedded] in his chest (=Dịch: Anh ấy đã phẫu thuật để loại bỏ một chiếc đinh bị mắc kẹt trong ngực của anh ấy.)"
     ],
-    "image": "assets/images/embed.jpg"
+    "image": "assets/images/embed.jpg",
+    "topic": "Technology & Communication"
   },
   {
     "word": "evacuate",
@@ -13686,7 +14738,8 @@ const vocabData = [
       "Fire broke out and all staff were [evacuated] from the building. (=Dịch: Lửa bùng phát và tất cả nhân viên đã được sơ tán khỏi tòa nhà.)",
       "When toxic fumes began to drift toward our homes, we were told to [evacuate]. (=Dịch: Khi khói độc bắt đầu trôi về phía nhà chúng tôi, chúng tôi được yêu cầu sơ tán.)"
     ],
-    "image": "assets/images/evacuate.jpg"
+    "image": "assets/images/evacuate.jpg",
+    "topic": "Law & Government"
   },
   {
     "word": "expedite",
@@ -13699,7 +14752,8 @@ const vocabData = [
       "We've got to [expedite] this order because they need it by tomorrow. (=Dịch: Chúng tôi phải đẩy nhanh đơn hàng này vì họ cần nó vào ngày mai.)",
       "Foreign aid can also have a role, but mainly only to [expedite] this growth once it starts (=Dịch: Viện trợ nước ngoài cũng có vai trò, nhưng chủ yếu chỉ để xúc tiến sự tăng trưởng này khi nó bắt đầu.)"
     ],
-    "image": "assets/images/expedite.jpg"
+    "image": "assets/images/expedite.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "extinguisher",
@@ -13712,7 +14766,8 @@ const vocabData = [
       "Class C [extinguishers] are used on fires that involve an electrical supply. (=Dịch: Bình chữa cháy loại C được sử dụng cho các đám cháy liên quan đến nguồn cung cấp điện.)",
       "The students were taught how to put out fires in the kitchen and other places using [extinguishers]. (=Dịch: Học sinh được dạy cách dập tắt đám cháy trong bếp và những nơi khác bằng cách sử dụng bình chữa cháy.)"
     ],
-    "image": "assets/images/extinguisher.jpg"
+    "image": "assets/images/extinguisher.jpg",
+    "topic": "Technology & Communication"
   },
   {
     "word": "familiarity",
@@ -13725,7 +14780,8 @@ const vocabData = [
       "They are using the experience to gain [familiarity] with the technology, enter new markets, and meet new clients. (=Dịch: Họ đang sử dụng kinh nghiệm để làm quen với công nghệ, thâm nhập thị trường mới và gặp gỡ khách hàng mới.)",
       "Job seekers' experience and their [familiarity] with the Chinese market were the focal issues for headhunters. (=Dịch: Kinh nghiệm của những người tìm việc và sự quen thuộc của họ với thị trường Trung Quốc là những vấn đề trọng tâm đối với các nhà tuyển dụng.)"
     ],
-    "image": "assets/images/familiarity.jpg"
+    "image": "assets/images/familiarity.jpg",
+    "topic": "Shopping & Commerce"
   },
   {
     "word": "flaw",
@@ -13738,7 +14794,8 @@ const vocabData = [
       "The company had to spend millions correcting design [flaws]. (=Dịch: Công ty đã phải chi hàng triệu đô la để sửa chữa các lỗi thiết kế.)",
       "There seemed to be no serious [flaws] in the proposal and it was recommended for further consideration. (=Dịch: Dường như không có sai sót nghiêm trọng nào trong đề xuất và nó đã được khuyến nghị để xem xét thêm.)"
     ],
-    "image": "assets/images/flaw.jpg"
+    "image": "assets/images/flaw.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "fluctuate",
@@ -13751,7 +14808,8 @@ const vocabData = [
       "Over the past months, retail prices have [fluctuated] with market conditions. (=Dịch: Trong những tháng qua, giá bán lẻ đã dao động theo tình hình thị trường.)",
       "Inflation has [fluctuated] in recent months along with oil prices. (=Dịch: Lạm phát đã dao động trong những tháng gần đây cùng với giá dầu.)"
     ],
-    "image": "assets/images/fluctuate.jpg"
+    "image": "assets/images/fluctuate.jpg",
+    "topic": "Shopping & Commerce"
   },
   {
     "word": "fluent",
@@ -13764,7 +14822,8 @@ const vocabData = [
       "He now writes essays full of creative ideas, and he is [fluent] in three languages. (=Dịch: Bây giờ anh ấy viết các bài luận đầy ý tưởng sáng tạo và anh ấy thông thạo ba ngôn ngữ.)",
       "No formal qualifications are needed for the posts but applicants must speak excellent English and be [fluent] in the foreign language. (=Dịch: Không cần các bằng cấp chính thức cho các vị trí nhưng ứng viên phải nói tiếng Anh xuất sắc và thông thạo ngôn ngữ nước ngoài.)"
     ],
-    "image": "assets/images/fluent.jpeg"
+    "image": "assets/images/fluent.jpeg",
+    "topic": "Job & Career"
   },
   {
     "word": "honestly",
@@ -13777,7 +14836,8 @@ const vocabData = [
       "I don't mind criticism as long as it's [honestly] given and doesn't get personal. (=Dịch: Tôi không ngại chỉ trích miễn là nó được đưa ra một cách trung thực và không mang tính cá nhân.)",
       "Money transactions are conducted [honestly] and according to your wishes. (=Dịch: Giao dịch tiền bạc được tiến hành trung thực và theo ý muốn của bạn.)"
     ],
-    "image": "assets/images/honestly.jpg"
+    "image": "assets/images/honestly.jpg",
+    "topic": "Shopping & Commerce"
   },
   {
     "word": "housekeep",
@@ -13790,7 +14850,8 @@ const vocabData = [
       "A widow from England with two sons came to [housekeep] for the family. (=Dịch: Một góa phụ từ Anh Quốc có hai con trai đã đến để làm công việc quản gia cho gia đình.)",
       "This is the story of two sisters and the French woman who came to live and [housekeep] for them. (=Dịch: Đây là câu chuyện về hai chị em gái và người phụ nữ Pháp đã đến sống và làm quản gia cho họ.)"
     ],
-    "image": "assets/images/housekeep.jpg"
+    "image": "assets/images/housekeep.jpg",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "hurricane",
@@ -13803,7 +14864,8 @@ const vocabData = [
       "The [hurricane] is predicted to reach the coast tomorrow morning. (=Dịch: Dự báo cơn bão sẽ đến bờ biển vào sáng mai.)",
       "People living in the track of the [hurricane] have been advised to leave their homes until it has passed. (=Dịch: Những người sống trong đường đi của cơn bão đã được khuyến cáo rời khỏi nhà cho đến khi nó đi qua.)"
     ],
-    "image": "assets/images/hurricane.jpg"
+    "image": "assets/images/hurricane.jpg",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "hygiene",
@@ -13816,7 +14878,8 @@ const vocabData = [
       "Hospital staff blamed the spread of infections on poor [hygiene]. (=Dịch: Nhân viên bệnh viện đổ lỗi sự lan truyền nhiễm trùng cho vệ sinh kém.)",
       "Among the problems cited were inadequate hand-washing facilities and poor worker [hygiene]. (=Dịch: Trong số các vấn đề được nêu ra có cơ sở rửa tay không đầy đủ và vệ sinh của công nhân kém.)"
     ],
-    "image": "assets/images/hygiene.jpg"
+    "image": "assets/images/hygiene.jpg",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "integral",
@@ -13829,7 +14892,8 @@ const vocabData = [
       "Practical experience is [integral] to the course. (=Dịch: Kinh nghiệm thực tế là không thể thiếu cho khóa học.)",
       "Rituals and festivals form an [integral] part of every human society.  (=Dịch: Các nghi lễ và lễ hội là một phần không thể thiếu của mọi xã hội loài người.)"
     ],
-    "image": "assets/images/integral.jpg"
+    "image": "assets/images/integral.jpg",
+    "topic": "Education & Learning"
   },
   {
     "word": "interactive",
@@ -13842,7 +14906,8 @@ const vocabData = [
       "A series of [interactive] exhibits will teach visitors about the history of the bridge. (=Dịch: Một loạt các triển lãm tương tác sẽ dạy cho khách tham quan về lịch sử của cây cầu.)",
       "The team plans to use ICT to create an [interactive] learning experience. (=Dịch: Nhóm dự định sử dụng ICT để tạo ra một trải nghiệm học tập tương tác.)"
     ],
-    "image": "assets/images/interactive.jpg"
+    "image": "assets/images/interactive.jpg",
+    "topic": "Education & Learning"
   },
   {
     "word": "interfere",
@@ -13855,7 +14920,8 @@ const vocabData = [
       "They have no right to [interfere] in the internal affairs of other countries. (=Dịch: Họ không có quyền can thiệp vào các vấn đề nội bộ của các nước khác.)",
       "Why was he constantly [interfering] in her life? (=Dịch: Tại sao anh ấy lại liên tục can thiệp vào cuộc sống của cô ấy?)"
     ],
-    "image": "assets/images/interfere.jpg"
+    "image": "assets/images/interfere.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "kilogram",
@@ -13868,7 +14934,8 @@ const vocabData = [
       "...a parcel weighing around 4.5 [kilograms]. (=Dịch: ...một gói hàng nặng khoảng 4,5 kilôgam.)",
       "...a [kilogram] of butter.  (=Dịch: ...một kilogram bơ.)"
     ],
-    "image": "assets/images/kilogram.jpg"
+    "image": "assets/images/kilogram.jpg",
+    "topic": "Shopping & Commerce"
   },
   {
     "word": "layoff",
@@ -13881,7 +14948,8 @@ const vocabData = [
       "It will close more than 200 stores nationwide resulting in the [layoffs] of an estimated 2,000 employees. (=Dịch: Họ sẽ đóng cửa hơn 200 cửa hàng trên toàn quốc dẫn đến việc sa thải khoảng 2.000 nhân viên.)",
       "They stopped making new loans and announced [layoffs] of more than half of the bank's 7,200 workers. (=Dịch: Họ đã ngừng cho vay mới và thông báo sa thải hơn một nửa trong số 7.200 nhân viên của ngân hàng.)"
     ],
-    "image": "assets/images/layoff.jpg"
+    "image": "assets/images/layoff.jpg",
+    "topic": "Job & Career"
   },
   {
     "word": "lightweight",
@@ -13894,7 +14962,8 @@ const vocabData = [
       "He changed from [lightweight] (under 71kg) to light middleweight (under 78kg). (=Dịch: Anh đã thay đổi từ hạng nhẹ (dưới 71kg) sang hạng trung nhẹ (dưới 78kg).)",
       "Pale linen suits and cotton shirts are as popular as [lightweight] suits for men. (=Dịch: Bộ vest vải lanh nhạt màu và áo sơ mi cotton phổ biến ngang với bộ vest hạng nhẹ cho nam.)"
     ],
-    "image": "assets/images/lightweight.jpg"
+    "image": "assets/images/lightweight.jpg",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "merit",
@@ -13907,7 +14976,8 @@ const vocabData = [
       "The case does not [merit] further investigation. (=Dịch: Vụ việc không xứng đáng để điều tra thêm.)",
       "Their efforts [merit] recognition. (=Dịch: Nỗ lực của họ xứng đáng được công nhận.)"
     ],
-    "image": "assets/images/merit.jpg"
+    "image": "assets/images/merit.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "necklace",
@@ -13920,7 +14990,8 @@ const vocabData = [
       "Zion finally found the page that had the sketch of the [necklace]. (=Dịch: Zion cuối cùng đã tìm thấy trang có bản phác thảo của chiếc vòng cổ.)",
       "The outfit was by 4SDesigns, but that the accompanying chain around his neck was an 18-karat white gold, platinum, chalcedony, turquoise and diamond [necklace] by Cartier somewhat complicated the point. (=Dịch: Bộ trang phục là của 4SDesigns, nhưng sợi dây chuyền đeo quanh cổ anh ấy là một chiếc vòng cổ kim cương, bạch kim, đá chalcedony, ngọc lam và vàng trắng 18 carat của Cartier hơi làm phức tạp vấn đề.)"
     ],
-    "image": "assets/images/necklace.jpg"
+    "image": "assets/images/necklace.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "needy",
@@ -13933,7 +15004,8 @@ const vocabData = [
       "Congress, meanwhile, should make clear that high-income borrowers need no more federal help and instead put the money into college finance programs tailored to aid the [needy]. (=Dịch: Trong khi đó, Quốc hội nên làm rõ rằng những người vay có thu nhập cao không cần thêm sự trợ giúp của liên bang và thay vào đó, chuyển tiền vào các chương trình tài chính đại học được thiết kế để hỗ trợ người nghèo.)",
       "A group of college students said preparing food for the [needy] is the best way to spend a Friday night. (=Dịch: Một nhóm sinh viên đại học cho biết chuẩn bị thức ăn cho người nghèo là cách tốt nhất để dành buổi tối thứ Sáu.)"
     ],
-    "image": "assets/images/needy.jpg"
+    "image": "assets/images/needy.jpg",
+    "topic": "Education & Learning"
   },
   {
     "word": "overpay",
@@ -13946,7 +15018,8 @@ const vocabData = [
       "I felt I should tell my boss she'd [overpaid] me by $50. (=Dịch: Tôi cảm thấy mình nên nói với sếp rằng cô ấy đã trả tôi thừa $50.)",
       "Bankers are grossly [overpaid] for what they do. (=Dịch: Các nhân viên ngân hàng được trả lương quá cao so với những gì họ làm.)"
     ],
-    "image": "assets/images/overpay.jpg"
+    "image": "assets/images/overpay.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "pamphlet",
@@ -13959,7 +15032,8 @@ const vocabData = [
       "The glossy [pamphlet] gives details of what the drug can do, and what its side effects are. (=Dịch: Cuốn sách nhỏ bóng bẩy cung cấp chi tiết về những gì thuốc có thể làm, và các tác dụng phụ của nó là gì.)",
       "The new government [pamphlet] is entitled \"Corporate Bankruptcy\". (=Dịch: Cuốn sách nhỏ mới của chính phủ có tựa đề 'Phá sản Doanh nghiệp'.)"
     ],
-    "image": "assets/images/pamphlet.jpg"
+    "image": "assets/images/pamphlet.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "partial",
@@ -13972,7 +15046,8 @@ const vocabData = [
       "Our success was only [partial]. (=Dịch: Thành công của chúng tôi chỉ là một phần.)",
       "They received [partial] compensation of £5 000. (=Dịch: Họ đã nhận được khoản bồi thường một phần là 5.000 bảng.)"
     ],
-    "image": "assets/images/partial.jpg"
+    "image": "assets/images/partial.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "penalize",
@@ -13985,7 +15060,8 @@ const vocabData = [
       "The law is designed to reward those who conserve and [penalize] those who pollute. (=Dịch: Luật được thiết kế để thưởng cho những người bảo vệ môi trường và xử phạt những người gây ô nhiễm.)",
       "I only ask that you not [penalize] my students for something for which I'm clearly to blame. (=Dịch: Tôi chỉ yêu cầu rằng bạn không phạt học sinh của tôi vì điều gì đó mà rõ ràng tôi là người có lỗi.)"
     ],
-    "image": ""
+    "image": "",
+    "topic": "Education & Learning"
   },
   {
     "word": "pollute",
@@ -13998,7 +15074,8 @@ const vocabData = [
       "We won't invest in any company that [pollutes] the environment. (=Dịch: Chúng tôi sẽ không đầu tư vào bất kỳ công ty nào làm ô nhiễm môi trường.)",
       "Many complain that broadcasters [pollute] the airwaves with sensationalism and sleaze. (=Dịch: Nhiều người phàn nàn rằng các đài truyền hình làm ô nhiễm sóng phát thanh với những tin giật gân và khiếm nhã.)"
     ],
-    "image": ""
+    "image": "",
+    "topic": "Science & Nature"
   },
   {
     "word": "prescribe",
@@ -14011,7 +15088,8 @@ const vocabData = [
       "The doctor [prescribed] some medicine and told her to have a week's rest (=Dịch: Bác sĩ đã kê một số loại thuốc và bảo cô ấy nghỉ ngơi một tuần.)",
       "He wouldn't [prescribe] anything - just recommended rest. (=Dịch: Anh ấy sẽ không kê đơn gì - chỉ đề nghị nghỉ ngơi.)"
     ],
-    "image": ""
+    "image": "",
+    "topic": "Law & Government"
   },
   {
     "word": "probable",
@@ -14024,7 +15102,8 @@ const vocabData = [
       "An election in June seems increasingly [probable]. (=Dịch: Một cuộc bầu cử vào tháng Sáu có vẻ ngày càng có khả năng xảy ra.)",
       "It is [probable] that share prices will fall even more. (=Dịch: Có khả năng giá cổ phiếu sẽ còn giảm hơn nữa.)"
     ],
-    "image": ""
+    "image": "",
+    "topic": "Law & Government"
   },
   {
     "word": "prominent",
@@ -14037,7 +15116,8 @@ const vocabData = [
       "She is likely to play a [prominent] part in the forthcoming election campaign. (=Dịch: Cô ấy có khả năng đóng vai trò nổi bật trong chiến dịch bầu cử sắp tới.)",
       "Lady Thatcher remained a [prominent] political figure. (=Dịch: Bà Thatcher vẫn là một nhân vật chính trị nổi bật.)"
     ],
-    "image": ""
+    "image": "",
+    "topic": "Law & Government"
   },
   {
     "word": "rainfall",
@@ -14050,7 +15130,8 @@ const vocabData = [
       "The average annual [rainfall] in this region is 750 mm. (=Dịch: Lượng mưa trung bình hàng năm ở khu vực này là 750 mm.)",
       "Heavy [rainfall] is expected in the northwest. (=Dịch: Dự báo có mưa lớn ở phía tây bắc.)"
     ],
-    "image": ""
+    "image": "",
+    "topic": "General/Others"
   },
   {
     "word": "relocation",
@@ -14063,7 +15144,8 @@ const vocabData = [
       "The [relocation] of the memorial from the centre of Tallinn to a military cemetery on the city's outskirts provoked riots. (=Dịch: Việc di dời đài tưởng niệm từ trung tâm Tallinn đến một nghĩa trang quân đội ở ngoại ô thành phố đã gây ra các cuộc bạo loạn.)",
       "Career advances can mean many [relocations]. (=Dịch: Tiến bộ trong sự nghiệp có thể đồng nghĩa với nhiều lần di dời.)"
     ],
-    "image": ""
+    "image": "",
+    "topic": "Job & Career"
   },
   {
     "word": "residence",
@@ -14076,7 +15158,8 @@ const vocabData = [
       "Number Ten Downing Street is the British prime minister's official [residence]. (=Dịch: Số 10 Phố Downing là nơi ở chính thức của thủ tướng Anh.)",
       "The council was hoping to turn a children's home into a [residence] for adolescent girls. (=Dịch: Hội đồng hy vọng biến một ngôi nhà trẻ thành nơi ở cho các thiếu nữ.)"
     ],
-    "image": ""
+    "image": "",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "retrieve",
@@ -14089,7 +15172,8 @@ const vocabData = [
       "They've managed to [retrieve] most of the data. (=Dịch: Họ đã quản lý để lấy lại phần lớn dữ liệu.)",
       "She bent over to [retrieve] her bag from where it had fallen under the seat. (=Dịch: Cô ấy cúi xuống để lấy lại túi của mình từ chỗ nó đã rơi dưới ghế.)"
     ],
-    "image": ""
+    "image": "",
+    "topic": "Technology & Communication"
   },
   {
     "word": "rider",
@@ -14102,7 +15186,8 @@ const vocabData = [
       "[Riders] are encouraged to wear helmets. (=Dịch: Người cưỡi ngựa được khuyến khích đội mũ bảo hiểm.)",
       "The cycle [rider] was seriously injured in the crash. (=Dịch: Người đi xe đạp bị thương nặng trong vụ tai nạn.)"
     ],
-    "image": ""
+    "image": "",
+    "topic": "Travel & Transport"
   },
   {
     "word": "rubber",
@@ -14115,7 +15200,8 @@ const vocabData = [
       "Most tyres are made of [rubber] compounded with other chemicals and materials. (=Dịch: Hầu hết các lốp xe được làm từ cao su kết hợp với các hóa chất và vật liệu khác.)",
       "The chemical industry produces such things as petrochemicals, drugs, paint and [rubber]. (=Dịch: Ngành công nghiệp hóa chất sản xuất những thứ như hóa dầu, thuốc, sơn và cao su.)"
     ],
-    "image": ""
+    "image": "",
+    "topic": "Health & Medicine"
   },
   {
     "word": "rug",
@@ -14128,7 +15214,8 @@ const vocabData = [
       "I was on the back doorstep shaking out a [rug]. (=Dịch: Tôi đang ở ngoài hiên sau giũ một tấm thảm.)",
       "The floor was partly covered with a dirty old [rug]. (=Dịch: Sàn nhà được phủ một phần bằng tấm thảm cũ bẩn.)"
     ],
-    "image": ""
+    "image": "",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "salespeople",
@@ -14141,7 +15228,8 @@ const vocabData = [
       "[Salespeople] will be very eager to sell you on a plan, so it's absolutely your right to bombard them with as many questions as you need answered before making such a big financial commitment. (=Dịch: Người bán hàng sẽ rất háo hức bán cho bạn một kế hoạch, vì vậy bạn hoàn toàn có quyền đặt nhiều câu hỏi cần được trả lời trước khi đưa ra một cam kết tài chính lớn như vậy.)",
       "Read the tags and ask the [salespeople] about the durability of the clothes and whether they will shrink after the first wash. (=Dịch: Đọc các thẻ và hỏi người bán hàng về độ bền của quần áo và liệu chúng có co lại sau lần giặt đầu tiên không.)"
     ],
-    "image": ""
+    "image": "",
+    "topic": "Shopping & Commerce"
   },
   {
     "word": "sharply",
@@ -14154,7 +15242,8 @@ const vocabData = [
       "His health improved/deteriorated [sharply] this week. (=Dịch: Sức khỏe của anh ấy đã cải thiện/xấu đi rõ rệt trong tuần này.)",
       "The road bends [sharply] to the left. (=Dịch: Con đường uốn cong gắt sang trái.)"
     ],
-    "image": ""
+    "image": "",
+    "topic": "Health & Medicine"
   },
   {
     "word": "similarity",
@@ -14167,7 +15256,8 @@ const vocabData = [
       "His situation has several [similarities] with our own. (=Dịch: Tình huống của anh ấy có nhiều điểm tương đồng với tình huống của chúng ta.)",
       "The teacher found several suspicious [similarities] between their work. (=Dịch: Giáo viên đã phát hiện ra nhiều điểm tương đồng đáng ngờ giữa các bài làm của họ.)"
     ],
-    "image": ""
+    "image": "",
+    "topic": "Education & Learning"
   },
   {
     "word": "someday",
@@ -14180,7 +15270,8 @@ const vocabData = [
       "[Someday] soon you're going to have to make a decision. (=Dịch: Một ngày nào đó bạn sẽ phải đưa ra quyết định.)",
       "I keep thinking that maybe [someday] we'll move. (=Dịch: Tôi cứ nghĩ rằng một ngày nào đó chúng ta sẽ chuyển đi.)"
     ],
-    "image": ""
+    "image": "",
+    "topic": "General/Others"
   },
   {
     "word": "spectator",
@@ -14193,7 +15284,8 @@ const vocabData = [
       "Marshals struggled in vain to prevent [spectators] rushing onto the racetrack. (=Dịch: Các cảnh sát đã cố gắng ngăn cản khán giả tràn vào đường đua trong vô vọng.)",
       "At the last minute, we roped in a couple of [spectators] to complete the team. (=Dịch: Vào phút chót, chúng tôi đã nhờ một vài khán giả để hoàn thành đội.)"
     ],
-    "image": ""
+    "image": "",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "stereo",
@@ -14206,7 +15298,8 @@ const vocabData = [
       "Loud music was coming from the car [stereo]. (=Dịch: Nhạc ồn ào phát ra từ hệ thống âm thanh trên ô tô.)",
       "Music was blaring from her car [stereo]. (=Dịch: Âm nhạc vang lên từ dàn âm thanh nổi trên ô tô của cô ấy.)"
     ],
-    "image": ""
+    "image": "",
+    "topic": "Technology & Communication"
   },
   {
     "word": "storeroom",
@@ -14219,7 +15312,8 @@ const vocabData = [
       "The room at the back was a [storeroom] for spare cables and lighting equipment. (=Dịch: Căn phòng ở phía sau là một kho chứa cáp dự phòng và thiết bị chiếu sáng.)",
       "Where's the key to the [storeroom]? (=Dịch: Chìa khóa của kho ở đâu?)"
     ],
-    "image": ""
+    "image": "",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "subsidize",
@@ -14232,7 +15326,8 @@ const vocabData = [
       "He raises the question as to whether the fine arts should be [subsidized] by public funds. (=Dịch: Anh ấy đặt ra câu hỏi liệu các nghệ thuật thị giác có nên được trợ cấp bằng ngân sách công hay không.)",
       "They receive free or [subsidized] housing. (=Dịch: Họ nhận được nhà ở miễn phí hoặc được trợ cấp.)"
     ],
-    "image": ""
+    "image": "",
+    "topic": "Education & Learning"
   },
   {
     "word": "suspicious",
@@ -14245,7 +15340,8 @@ const vocabData = [
       "There were some [suspicious] characters hanging around outside. (=Dịch: Có vài nhân vật đáng ngờ lảng vảng bên ngoài.)",
       "There's a [suspicious]-looking van parked at the end of the street. (=Dịch: Có một chiếc xe van trông đáng ngờ đỗ ở cuối đường.)"
     ],
-    "image": ""
+    "image": "",
+    "topic": "Technology & Communication"
   },
   {
     "word": "tasty",
@@ -14258,7 +15354,8 @@ const vocabData = [
       "There is a range of [tasty] snacks available at the bar. (=Dịch: Có một loạt các món ăn nhẹ ngon miệng có sẵn tại quầy bar.)",
       "This soup is very [tasty]. (=Dịch: Món súp này rất ngon.)"
     ],
-    "image": ""
+    "image": "",
+    "topic": "Food & Restaurant"
   },
   {
     "word": "terrific",
@@ -14271,7 +15368,8 @@ const vocabData = [
       "You've passed your exam? That's [terrific]! (=Dịch: Bạn đã qua kỳ thi? Thật tuyệt vời!)",
       "The children built a [terrific] tree house. (=Dịch: Bọn trẻ đã xây một ngôi nhà trên cây thật tuyệt vời.)"
     ],
-    "image": ""
+    "image": "",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "underground",
@@ -14284,7 +15382,8 @@ const vocabData = [
       "Ten miners were trapped [underground] when the roof of the tunnel fell in. (=Dịch: Mười thợ mỏ đã bị mắc kẹt dưới lòng đất khi mái của đường hầm sụp đổ.)",
       "Electrical power is supplied by [underground] cables. (=Dịch: Điện lực được cung cấp bởi các dây cáp ngầm.)"
     ],
-    "image": "assets/images/underground.jpg"
+    "image": "assets/images/underground.jpg",
+    "topic": "Travel & Transport"
   },
   {
     "word": "unpaid",
@@ -14297,7 +15396,8 @@ const vocabData = [
       "[Unpaid] overtime is a violation of corporate policy. (=Dịch: Làm thêm giờ mà không được trả lương là vi phạm chính sách công ty.)",
       "[unpaid] work/employment (=Dịch: công việc/làm việc không lương)"
     ],
-    "image": "assets/images/unpaid.jpg"
+    "image": "assets/images/unpaid.jpg",
+    "topic": "Job & Career"
   },
   {
     "word": "accuracy",
@@ -14310,7 +15410,8 @@ const vocabData = [
       "The computer will calculate your position with pinpoint [accuracy] (=Dịch: Máy tính sẽ tính toán vị trí của bạn với độ chính xác tuyệt đối)",
       "Patricia has checked the reports and can vouch for the [accuracy] of the information (=Dịch: Patricia đã kiểm tra các báo cáo và có thể bảo đảm cho độ chính xác của thông tin)"
     ],
-    "image": "assets/images/accuracy.png"
+    "image": "assets/images/accuracy.png",
+    "topic": "Technology & Communication"
   },
   {
     "word": "anyhow",
@@ -14323,7 +15424,8 @@ const vocabData = [
       "They were about three years old and in need of changing [anyhow] (=Dịch: Chúng khoảng ba tuổi và cần thay đổi dù sao đi nữa.)",
       "The Smiths went to an open house at the school [anyhow], and left impressed (=Dịch: Gia đình Smith đã đi đến buổi mở cửa tại trường học dù sao đi nữa, và ra về đầy ấn tượng.)"
     ],
-    "image": "assets/images/anyhow.jpg"
+    "image": "assets/images/anyhow.jpg",
+    "topic": "Education & Learning"
   },
   {
     "word": "appetizer",
@@ -14336,7 +15438,8 @@ const vocabData = [
       "The average cost of a full three-course meal - [appetizer], main course, and dessert - is about $45 (=Dịch: Chi phí trung bình của một bữa ăn đầy đủ ba món - khai vị, món chính, và tráng miệng - khoảng 45 đô la.)",
       "The meal started off with an assortment of [appetizers] including mini egg rolls and fried mozzarella (=Dịch: Bữa ăn bắt đầu với một loạt các món khai vị bao gồm chả giò mini và phô mai chiên.)"
     ],
-    "image": "assets/images/appetizer.jpg"
+    "image": "assets/images/appetizer.jpg",
+    "topic": "Food & Restaurant"
   },
   {
     "word": "arc",
@@ -14349,7 +15452,8 @@ const vocabData = [
       "The question of interest concerns whether, strictly speaking, these [arcs] form a circle. (=Dịch: Vấn đề đáng quan tâm là liệu, nói một cách chính xác, những vòng cung này có tạo thành một hình tròn hay không.)",
       "This work attempted to solve the problem of constructing a line of the same length as an [arc] of a circle. (=Dịch: Công việc này đã cố gắng giải quyết vấn đề dựng một đường thẳng có cùng chiều dài với một vòng cung của hình tròn.)"
     ],
-    "image": "assets/images/arc.png"
+    "image": "assets/images/arc.png",
+    "topic": "Job & Career"
   },
   {
     "word": "audition",
@@ -14362,7 +15466,8 @@ const vocabData = [
       "The director is holding [auditions] next week for the major parts. (=Dịch: Đạo diễn sẽ tổ chức các buổi thử vai vào tuần tới cho các vai chính.)",
       "She sang really badly at her [audition], so she didn't get into the choir. (=Dịch: Cô ấy đã hát rất tệ trong buổi thử vai, nên cô ấy đã không được vào dàn hợp xướng.)"
     ],
-    "image": "assets/images/audition.jpg"
+    "image": "assets/images/audition.jpg",
+    "topic": "Art & Entertainment"
   },
   {
     "word": "backpack",
@@ -14375,7 +15480,8 @@ const vocabData = [
       "There he had installed his sleeping bag, his [backpack] with essentials, and his flute. (=Dịch: Ở đó, anh ta đã cài đặt túi ngủ, ba lô với các vật dụng cần thiết và cây sáo của mình.)",
       "Fans will be prohibited from bringing coolers, [backpacks], chairs, luggage, and duffel bags onto the premises. (=Dịch: Người hâm mộ sẽ bị cấm mang thùng lạnh, ba lô, ghế, hành lý và túi du lịch vào khu vực.)"
     ],
-    "image": "assets/images/backpack.jpg"
+    "image": "assets/images/backpack.jpg",
+    "topic": "Travel & Transport"
   },
   {
     "word": "ballroom",
@@ -14388,7 +15494,8 @@ const vocabData = [
       "The main hall has stone pillars and gives access to a [ballroom], drawing room and library. (=Dịch: Hội trường chính có các cột đá và dẫn vào một phòng khiêu vũ, phòng khách và thư viện.)",
       "It's a huge room - four big [ballrooms] joined together, acres of tables, a thousand and one chairs. (=Dịch: Đó là một căn phòng khổng lồ - bốn phòng khiêu vũ lớn nối liền nhau, hàng mẫu bàn và một nghìn lẻ một chiếc ghế.)"
     ],
-    "image": "assets/images/ballroom.jpg"
+    "image": "assets/images/ballroom.jpg",
+    "topic": "Art & Entertainment"
   },
   {
     "word": "beneficial",
@@ -14401,7 +15508,8 @@ const vocabData = [
       "From our point of view, we do not see how these changes will be [beneficial] to the company. (=Dịch: Từ quan điểm của chúng tôi, chúng tôi không thấy những thay đổi này sẽ có lợi cho công ty như thế nào.)",
       "That would be [beneficial] to manufacturers interested in borrowing to invest in productivity. (=Dịch: Điều đó sẽ có lợi cho các nhà sản xuất quan tâm đến việc vay vốn để đầu tư vào năng suất.)"
     ],
-    "image": "assets/images/beneficial.jpg"
+    "image": "assets/images/beneficial.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "biography",
@@ -14414,7 +15522,8 @@ const vocabData = [
       "The [biography] is an attempt to uncover the inner man. (=Dịch: Cuốn tiểu sử là một nỗ lực để khám phá con người bên trong.)",
       "He wrote a worthy [biography] of Red Smith and edited a book of columns by Smith. (=Dịch: Ông đã viết một cuốn tiểu sử xứng đáng về Red Smith và biên tập một cuốn sách các bài báo của Smith.)"
     ],
-    "image": "assets/images/biography.jpg"
+    "image": "assets/images/biography.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "bound",
@@ -14427,7 +15536,8 @@ const vocabData = [
       "The ground was [bounded] by a main road on one side and a meadow on the other (=Dịch: Mặt đất được bao quanh bởi một con đường chính ở một bên và một đồng cỏ ở bên kia.)",
       "The next image zooms in on the area [bounded] by the gray circle. (=Dịch: Hình ảnh tiếp theo phóng to khu vực được bao quanh bởi vòng tròn màu xám.)"
     ],
-    "image": "assets/images/bound.jpg"
+    "image": "assets/images/bound.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "broom",
@@ -14440,7 +15550,8 @@ const vocabData = [
       "Many Indian basketmakers were also skilled makers of chair seats, mats, [brooms], and scrub brushes as well as wooden trays, bowls, and spoons. (=Dịch: Nhiều thợ làm giỏ Ấn Độ cũng là thợ làm ghế, thảm, chổi và bàn chải cọ rửa giỏi cũng như khay gỗ, bát và muỗng.)",
       "Brush with a [broom] to remove loose mold from outer covering. (=Dịch: Quét bằng chổi để loại bỏ mốc rời khỏi lớp ngoài.)"
     ],
-    "image": "assets/images/broom.jpg"
+    "image": "assets/images/broom.jpg",
+    "topic": "Science & Nature"
   },
   {
     "word": "cheeseburger",
@@ -14453,7 +15564,8 @@ const vocabData = [
       "The chain is famous for its generous happy hour, and its landmark $1.95 half-pound [cheeseburger]. (=Dịch: Chuỗi này nổi tiếng với giờ vui vẻ hào phóng, và món cheeseburger nửa cân giá 1,95 đô la được xem là cột mốc của nó.)",
       "The [cheeseburger] was billed on the menu as the world's best hamburger. (=Dịch: Cheeseburger được quảng cáo trên thực đơn là hamburger ngon nhất thế giới.)"
     ],
-    "image": "assets/images/cheeseburger.jpg"
+    "image": "assets/images/cheeseburger.jpg",
+    "topic": "Food & Restaurant"
   },
   {
     "word": "chilly",
@@ -14466,7 +15578,8 @@ const vocabData = [
       "The moon was about a half off its regular size and the weather began [chilly] and unpleasant. (=Dịch: Mặt trăng nhỏ hơn một nửa kích thước bình thường và thời tiết bắt đầu lạnh lẽo và khó chịu.)",
       "Too bad those [chilly] San Francisco evenings demand socks and shoes. (=Dịch: Thật tiếc là những buổi tối lạnh lẽo ở San Francisco đòi hỏi phải mang tất và giày.)"
     ],
-    "image": "assets/images/chilly.png"
+    "image": "assets/images/chilly.png",
+    "topic": "Science & Nature"
   },
   {
     "word": "circus",
@@ -14479,7 +15592,8 @@ const vocabData = [
       "It would be ridiculous to expect such a [circus] to settle major public issues (=Dịch: Sẽ thật nực cười khi mong đợi một cái rạp xiếc như vậy giải quyết các vấn đề công cộng lớn.)",
       "I wrote him a letter, and I apologized for the media [circus], because I hadn't intended it. (=Dịch: Tôi đã viết cho anh ấy một lá thư và xin lỗi vì cuộc rạp xiếc truyền thông, vì tôi đã không có ý định như vậy.)"
     ],
-    "image": "assets/images/circus.jpg"
+    "image": "assets/images/circus.jpg",
+    "topic": "Art & Entertainment"
   },
   {
     "word": "compliment",
@@ -14492,7 +15606,8 @@ const vocabData = [
       "All concerned in the projects deserved congratulations and [compliments]. (=Dịch: Tất cả những người có liên quan trong các dự án đều xứng đáng nhận được lời chúc mừng và khen ngợi.)",
       "His [compliments] were so polite and guarded but if you thought about them, they meant much. (=Dịch: Những lời khen ngợi của anh ấy rất lịch sự và thận trọng nhưng nếu bạn suy nghĩ kỹ, chúng có ý nghĩa rất nhiều.)"
     ],
-    "image": "assets/images/compliment.jpg"
+    "image": "assets/images/compliment.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "consignment",
@@ -14505,7 +15620,8 @@ const vocabData = [
       "When we get our next [consignment] of stock our new warehouse management system will be in operation. (=Dịch: Khi chúng tôi nhận lô hàng tiếp theo, hệ thống quản lý kho mới của chúng tôi sẽ đi vào hoạt động.)",
       "The last [consignment] of dresses was shipped yesterday. (=Dịch: Lô hàng váy cuối cùng đã được gửi đi ngày hôm qua.)"
     ],
-    "image": "assets/images/consignment.jpg"
+    "image": "assets/images/consignment.jpg",
+    "topic": "Shopping & Commerce"
   },
   {
     "word": "continental",
@@ -14518,7 +15634,8 @@ const vocabData = [
       "Volcanoes are mainly concentrated on the edges of [continental] plates. (=Dịch: Các núi lửa chủ yếu tập trung ở rìa các mảng lục địa.)",
       "Britain trails behind its [continental] neighbours in provision for child care. (=Dịch: Anh quốc tụt hậu so với các nước láng giềng lục địa của mình về việc cung cấp dịch vụ chăm sóc trẻ em.)"
     ],
-    "image": "assets/images/continental.jpg"
+    "image": "assets/images/continental.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "copyright",
@@ -14531,7 +15648,8 @@ const vocabData = [
       "Recording artists continue to own the [copyright] to their work. (=Dịch: Các nghệ sĩ thu âm tiếp tục sở hữu bản quyền đối với tác phẩm của họ.)",
       "[Copyright] law prevents freelance work from being included in electronic archives without permission. (=Dịch: Luật bản quyền ngăn không cho tác phẩm tự do được đưa vào kho lưu trữ điện tử mà không có sự cho phép.)"
     ],
-    "image": "assets/images/copyright.png"
+    "image": "assets/images/copyright.png",
+    "topic": "Job & Career"
   },
   {
     "word": "countryside",
@@ -14544,7 +15662,8 @@ const vocabData = [
       "Much of Connecticut's [countryside] is dotted with large estates and horse farms. (=Dịch: Phần lớn vùng nông thôn của Connecticut đầy rẫy những khu điền trang lớn và trang trại ngựa.)",
       "The drastic drop in numbers visiting the [countryside] has meant a rise in tourist trade to some urban destinations. (=Dịch: Sự giảm sút đáng kể số lượng người đến thăm vùng nông thôn đã dẫn đến sự gia tăng thương mại du lịch đến một số điểm đến đô thị.)"
     ],
-    "image": ""
+    "image": "",
+    "topic": "Travel & Transport"
   },
   {
     "word": "demolish",
@@ -14557,7 +15676,8 @@ const vocabData = [
       "The explosion virtually [demolished] several nearby houses. (=Dịch: Vụ nổ gần như phá hủy một số ngôi nhà gần đó.)",
       "The original building was [demolished], and a four-storey shop and a number of apartments were built in its place. (=Dịch: Tòa nhà ban đầu đã bị phá hủy, và một cửa hàng bốn tầng cùng một số căn hộ đã được xây dựng tại chỗ đó.)"
     ],
-    "image": ""
+    "image": "",
+    "topic": "Shopping & Commerce"
   },
   {
     "word": "departmental",
@@ -14570,7 +15690,8 @@ const vocabData = [
       "In October, the human resources department sent out details of the new grades to [departmental] managers for checking. (=Dịch: Vào tháng Mười, phòng nhân sự đã gửi chi tiết về các cấp bậc mới cho các quản lý phòng ban để kiểm tra.)",
       "The meeting usually starts with the manager giving us feedback on the business and [departmental] issues. (=Dịch: Cuộc họp thường bắt đầu với việc quản lý cung cấp cho chúng tôi phản hồi về các vấn đề kinh doanh và phòng ban.)"
     ],
-    "image": "assets/images/departmental.png"
+    "image": "assets/images/departmental.png",
+    "topic": "Business & Office"
   },
   {
     "word": "desperate",
@@ -14583,7 +15704,8 @@ const vocabData = [
       "[Desperate] measures are needed to deal with the growing drug problem. (=Dịch: Cần có những biện pháp cấp bách để đối phó với vấn đề ma túy ngày càng gia tăng.)",
       "The doctors made one last [desperate] attempt to save the boy's life (=Dịch: Các bác sĩ đã thực hiện một nỗ lực cuối cùng để cứu mạng cậu bé.)"
     ],
-    "image": "assets/images/desperate.jpg"
+    "image": "assets/images/desperate.jpg",
+    "topic": "Technology & Communication"
   },
   {
     "word": "devastate",
@@ -14596,7 +15718,8 @@ const vocabData = [
       "The town was [devastated] by a hurricane in 1928. (=Dịch: Thị trấn đã bị tàn phá bởi một cơn bão vào năm 1928.)",
       "More are needed to ensure that the York's tourist trade is not [devastated] by a spell of wet weather. (=Dịch: Cần có thêm người để đảm bảo rằng ngành du lịch của York không bị tàn phá bởi một đợt thời tiết ẩm ướt.)"
     ],
-    "image": "assets/images/devastate.jpeg"
+    "image": "assets/images/devastate.jpeg",
+    "topic": "Business & Office"
   },
   {
     "word": "diagnostic",
@@ -14609,7 +15732,8 @@ const vocabData = [
       "The engineer examined the washing machine for some time before giving me his [diagnostic]. (=Dịch: Kỹ sư đã kiểm tra máy giặt một thời gian trước khi đưa cho tôi chẩn đoán của anh ấy.)",
       "The tablets didn't help, and I suspected that the doctor had given me an incorrect [diagnostic]. (=Dịch: Những viên thuốc không giúp gì, và tôi nghi ngờ rằng bác sĩ đã đưa cho tôi chẩn đoán sai.)"
     ],
-    "image": "assets/images/diagnostic.jpg"
+    "image": "assets/images/diagnostic.jpg",
+    "topic": "Health & Medicine"
   },
   {
     "word": "diagram",
@@ -14622,7 +15746,8 @@ const vocabData = [
       "As the [diagram] shows, a complex arrangement has been designed to balance French, German, and Spanish interests. (=Dịch: Như sơ đồ cho thấy, một sự sắp xếp phức tạp đã được thiết kế để cân bằng lợi ích của Pháp, Đức và Tây Ban Nha.)",
       "The lecturer illustrated his point with a [diagram] on the blackboard. (=Dịch: Giảng viên đã minh họa quan điểm của mình bằng một sơ đồ trên bảng đen.)"
     ],
-    "image": "assets/images/diagram.png"
+    "image": "assets/images/diagram.png",
+    "topic": "General/Others"
   },
   {
     "word": "diamond",
@@ -14635,7 +15760,8 @@ const vocabData = [
       "His father struck it rich in the [diamond] business. (=Dịch: Cha anh ta đã gặp may trong kinh doanh kim cương.)",
       "Industry sources warn that [diamond] and precious stone scams are plentiful and ever-changing. (=Dịch: Các nguồn tin trong ngành cảnh báo rằng các vụ lừa đảo về kim cương và đá quý rất nhiều và luôn thay đổi.)"
     ],
-    "image": "assets/images/diamond.jpg"
+    "image": "assets/images/diamond.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "disable",
@@ -14648,7 +15774,8 @@ const vocabData = [
       "Thieves [disabled] the museum's alarm system. (=Dịch: Kẻ trộm đã vô hiệu hóa hệ thống báo động của bảo tàng.)",
       "Users can operate the stage without rotation and [disable] the touch alarm if required. (=Dịch: Người dùng có thể vận hành sân khấu mà không cần xoay và vô hiệu hóa báo động chạm nếu cần.)"
     ],
-    "image": "assets/images/disable.jpg"
+    "image": "assets/images/disable.jpg",
+    "topic": "Job & Career"
   },
   {
     "word": "disgust",
@@ -14661,7 +15788,8 @@ const vocabData = [
       "We are demonstrating to show our anger and [disgust] at the treatment of refugees. (=Dịch: Chúng tôi đang biểu tình để bày tỏ sự giận dữ và phẫn nộ trước cách đối xử với người tị nạn.)",
       "Some small shareholders were so upset by events they walked out in [disgust]. (=Dịch: Một số cổ đông nhỏ lẻ đã tức giận đến mức họ đã rời đi trong sự phẫn nộ.)"
     ],
-    "image": "assets/images/disgust.jpg"
+    "image": "assets/images/disgust.jpg",
+    "topic": "Health & Medicine"
   },
   {
     "word": "donut",
@@ -14674,7 +15802,8 @@ const vocabData = [
       "There's a place called the Donut Pub on West 23rd that makes confection and cake [donuts]. (=Dịch: Có một nơi gọi là Donut Pub trên Phố Tây 23 làm bánh kẹo và bánh donut.)",
       "Neighbors hosted two events, one with coffee and [donuts] and another with desserts. (=Dịch: Những người hàng xóm tổ chức hai sự kiện, một với cà phê và bánh donut và một khác với các món tráng miệng.)"
     ],
-    "image": "assets/images/donut.jpg"
+    "image": "assets/images/donut.jpg",
+    "topic": "Food & Restaurant"
   },
   {
     "word": "doorman",
@@ -14687,7 +15816,8 @@ const vocabData = [
       "The [doormen] and waitresses are splendid in their gold-braided outfits. (=Dịch: Nhân viên gác cửa và bồi bàn trông rất lộng lẫy trong trang phục thêu sọc vàng của họ.)",
       "They entered a hall, beautifully decorated with painted cloth, and followed the [doorman] up two flights of stairs. (=Dịch: Họ bước vào một sảnh được trang trí đẹp mắt với vải sơn và theo chân người gác cửa lên hai tầng cầu thang.)"
     ],
-    "image": "assets/images/doorman.jpg"
+    "image": "assets/images/doorman.jpg",
+    "topic": "Job & Career"
   },
   {
     "word": "electronically",
@@ -14700,7 +15830,8 @@ const vocabData = [
       "80 percent of tolls are paid [electronically]. (=Dịch: 80 phần trăm phí cầu đường được thanh toán bằng điện tử.)",
       "The plans allow you to have the money transferred [electronically] from your bank account. (=Dịch: Các kế hoạch cho phép bạn chuyển tiền điện tử từ tài khoản ngân hàng của mình.)"
     ],
-    "image": "assets/images/electronically.jpeg"
+    "image": "assets/images/electronically.jpeg",
+    "topic": "Technology & Communication"
   },
   {
     "word": "elevate",
@@ -14713,7 +15844,8 @@ const vocabData = [
       "They hoped to [elevate] the position of women in society. (=Dịch: Họ hy vọng sẽ nâng cao vị thế của phụ nữ trong xã hội.)",
       "The platform was [elevated] by means of hydraulic legs. (=Dịch: Nền tảng được nâng lên bằng các chân thủy lực.)"
     ],
-    "image": "assets/images/elevate.jpg"
+    "image": "assets/images/elevate.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "engagement",
@@ -14726,7 +15858,8 @@ const vocabData = [
       "He is currently out of town on a speaking [engagement]. (=Dịch: Hiện tại anh ấy đang ra khỏi thành phố để tham gia một buổi diễn thuyết.)",
       "The Dance Theatre of Harlem began a two-week [engagement] at the Kennedy Center. (=Dịch: Nhà hát Múa Harlem đã bắt đầu một buổi trình diễn kéo dài hai tuần tại Trung tâm Kennedy.)"
     ],
-    "image": "assets/images/engagement.jpg"
+    "image": "assets/images/engagement.jpg",
+    "topic": "Education & Learning"
   },
   {
     "word": "enrollment",
@@ -14739,7 +15872,8 @@ const vocabData = [
       "She said officials are pleasantly surprised by the high numbers for the first month of [enrollment] in the insurance scheme. (=Dịch: Cô ấy nói rằng các quan chức rất ngạc nhiên và hài lòng với số lượng cao trong tháng đầu tiên của việc đăng ký vào chương trình bảo hiểm.)",
       "The scheme has no interest charges and no [enrollment] fee. (=Dịch: Chương trình này không có phí lãi suất và không có phí đăng ký.)"
     ],
-    "image": "assets/images/enrollment.jpg"
+    "image": "assets/images/enrollment.jpg",
+    "topic": "Education & Learning"
   },
   {
     "word": "euro",
@@ -14752,7 +15886,8 @@ const vocabData = [
       "The company said that the bonds would be issued in [euros]. (=Dịch: Công ty cho biết rằng các trái phiếu sẽ được phát hành bằng đồng euro.)",
       "The [euro] rose to another record high against the dollar this week. (=Dịch: Đồng euro đã đạt mức cao kỷ lục nữa so với đồng đô la trong tuần này.)"
     ],
-    "image": "assets/images/euro.jpg"
+    "image": "assets/images/euro.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "forbid",
@@ -14765,7 +15900,8 @@ const vocabData = [
       "He is [forbidden] from leaving the country. (=Dịch: Anh ấy bị cấm rời khỏi đất nước.)",
       "Jewish law [forbids] the use of the name of the holy rabbi for profit. (=Dịch: Luật Do Thái cấm sử dụng tên của giáo sĩ thánh để kiếm lời.)"
     ],
-    "image": "assets/images/forbid.jpeg"
+    "image": "assets/images/forbid.jpeg",
+    "topic": "Law & Government"
   },
   {
     "word": "fork",
@@ -14778,7 +15914,8 @@ const vocabData = [
       "Prick the skin of the potatoes with a [fork] before baking them. (=Dịch: Chọc vỏ khoai tây bằng nĩa trước khi nướng chúng.)",
       "He prodded at the fish with his [fork] a few times, but he didn't eat a mouthful. (=Dịch: Anh ấy chọc vào con cá bằng nĩa vài lần, nhưng anh ấy không ăn miếng nào.)"
     ],
-    "image": "assets/images/fork.jpg"
+    "image": "assets/images/fork.jpg",
+    "topic": "Food & Restaurant"
   },
   {
     "word": "foster",
@@ -14791,7 +15928,8 @@ const vocabData = [
       "Academic freedom should be more highly valued and more actively [fostered]. (=Dịch: Tự do học thuật nên được đánh giá cao hơn và thúc đẩy tích cực hơn.)",
       "The environment that a company builds should [foster] learning and the exchange of knowledge (=Dịch: Môi trường mà một công ty xây dựng nên thúc đẩy học tập và trao đổi kiến thức.)"
     ],
-    "image": "assets/images/foster.jpg"
+    "image": "assets/images/foster.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "getaway",
@@ -14804,7 +15942,8 @@ const vocabData = [
       "A bicycle thief made a quick [getaway] after stealing his set of wheels in broad daylight. (=Dịch: Một tên trộm xe đạp đã nhanh chóng bỏ trốn sau khi ăn cắp chiếc xe của mình ngay giữa ban ngày.)",
       "His helpful aide had the door open so he could make a quick [getaway]. (=Dịch: Người trợ lý hữu ích của anh ấy đã mở cửa để anh ấy có thể nhanh chóng trốn thoát.)"
     ],
-    "image": "assets/images/getaway.jpg"
+    "image": "assets/images/getaway.jpg",
+    "topic": "Food & Restaurant"
   },
   {
     "word": "gossip",
@@ -14817,7 +15956,8 @@ const vocabData = [
       "Have you [gossiped] about one of those lunch girls behind her back? (=Dịch: Bạn đã buôn chuyện về một trong những cô gái ăn trưa đó sau lưng cô ấy chưa?)",
       "Taking a seat in a corner booth, we order a bottle of wine and begin [gossiping] away merrily. (=Dịch: Ngồi vào một cái buồng ở góc, chúng tôi gọi một chai rượu và bắt đầu buôn chuyện vui vẻ.)"
     ],
-    "image": "assets/images/gossip.jpg"
+    "image": "assets/images/gossip.jpg",
+    "topic": "Food & Restaurant"
   },
   {
     "word": "hacker",
@@ -14830,7 +15970,8 @@ const vocabData = [
       "The company makes software to protect wireless phones from [hackers] and viruses. (=Dịch: Công ty tạo ra phần mềm để bảo vệ điện thoại không dây khỏi hacker và virus.)",
       "Installing a firewall is one method of trying to protect against [hackers]. (=Dịch: Cài đặt tường lửa là một phương pháp để cố gắng bảo vệ khỏi hacker.)"
     ],
-    "image": "assets/images/hacker.jpg"
+    "image": "assets/images/hacker.jpg",
+    "topic": "Technology & Communication"
   },
   {
     "word": "hardworking",
@@ -14843,7 +15984,8 @@ const vocabData = [
       "He was a conscientious and [hardworking] man who always liked to see a job well done. (=Dịch: Ông ấy là một người đàn ông tận tâm và chăm chỉ, luôn thích nhìn thấy công việc được hoàn thành tốt.)",
       "An enthusiastic and [hardworking] soldier has been banned from the road after drinking and driving. (=Dịch: Một người lính nhiệt tình và chăm chỉ đã bị cấm đường sau khi uống rượu và lái xe.)"
     ],
-    "image": "assets/images/hardworking.jpg"
+    "image": "assets/images/hardworking.jpg",
+    "topic": "Job & Career"
   },
   {
     "word": "impatient",
@@ -14856,7 +15998,8 @@ const vocabData = [
       "Michelle was starting to get a little [impatient] waiting for Guy and stood up to get ready to leave. (=Dịch: Michelle bắt đầu hơi thiếu kiên nhẫn khi chờ đợi Guy và đứng lên chuẩn bị rời đi.)",
       "Sometimes he sounds [impatient] with the necessary formality of the interview contract. (=Dịch: Đôi khi anh ấy nghe có vẻ thiếu kiên nhẫn với sự trang trọng cần thiết của cuộc phỏng vấn.)"
     ],
-    "image": "assets/images/impatient.jpg"
+    "image": "assets/images/impatient.jpg",
+    "topic": "Education & Learning"
   },
   {
     "word": "indirect",
@@ -14869,7 +16012,8 @@ const vocabData = [
       "This is the [indirect] effect of a bad business climate that discourages companies from expanding here. (=Dịch: Đây là tác động gián tiếp của môi trường kinh doanh xấu khiến các công ty nản lòng mở rộng ở đây.)",
       "Incentives can pay for themselves through jobs and [indirect] benefits to the local economy. (=Dịch: Các khoản khuyến khích có thể tự trả thông qua công việc và lợi ích gián tiếp cho nền kinh tế địa phương.)"
     ],
-    "image": "assets/images/indirect.jpg"
+    "image": "assets/images/indirect.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "interpreter",
@@ -14882,7 +16026,8 @@ const vocabData = [
       "a sign language [interpreter] (= a person who translates what somebody is saying into sign language for deaf people) (=Dịch: phiên dịch viên ngôn ngữ ký hiệu (= một người dịch những gì ai đó đang nói sang ngôn ngữ ký hiệu cho người khiếm thính))",
       "Susan acted as [interpreter] for us. (=Dịch: Susan đóng vai trò là phiên dịch viên cho chúng tôi.)"
     ],
-    "image": "assets/images/interpreter.jpg"
+    "image": "assets/images/interpreter.jpg",
+    "topic": "Art & Entertainment"
   },
   {
     "word": "intersection",
@@ -14895,7 +16040,8 @@ const vocabData = [
       "It is a busy [intersection], almost invariably clogged with traffic. (=Dịch: Đó là một giao lộ bận rộn, gần như luôn luôn bị tắc nghẽn giao thông.)",
       "The accident occurred at the [intersection] of Mulholland Drive with Canyonback Road. (=Dịch: Tai nạn xảy ra tại giao lộ của Đường Mulholland với Đường Canyonback.)"
     ],
-    "image": "assets/images/intersection.jpg"
+    "image": "assets/images/intersection.jpg",
+    "topic": "Travel & Transport"
   },
   {
     "word": "irrelevant",
@@ -14908,7 +16054,8 @@ const vocabData = [
       "That evidence is [irrelevant] to the case. (=Dịch: Bằng chứng đó không liên quan đến vụ án.)",
       "Many people consider politics [irrelevant] to their lives. (=Dịch: Nhiều người cho rằng chính trị không liên quan đến cuộc sống của họ.)"
     ],
-    "image": "assets/images/irrelevant.jpg"
+    "image": "assets/images/irrelevant.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "jeans",
@@ -14921,7 +16068,8 @@ const vocabData = [
       "a pair of designer [jeans] (=Dịch: một chiếc quần jean thiết kế)",
       "skinny/baggy [jeans] (=Dịch: quần jean bó/rộng)"
     ],
-    "image": "assets/images/jeans.jpg"
+    "image": "assets/images/jeans.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "journalism",
@@ -14934,7 +16082,8 @@ const vocabData = [
       "This story was a good piece of investigative [journalism]. (=Dịch: Câu chuyện này là một tác phẩm điều tra báo chí tốt.)",
       "The newspaper's editorial standards have sunk to the level of tabloid [journalism]. (=Dịch: Tiêu chuẩn biên tập của tờ báo đã xuống mức báo lá cải.)"
     ],
-    "image": "assets/images/journalism.jpg"
+    "image": "assets/images/journalism.jpg",
+    "topic": "Job & Career"
   },
   {
     "word": "letterhead",
@@ -14947,7 +16096,8 @@ const vocabData = [
       "Please note that your [letterhead] and invoices should not only be signed but stamped as well as is the custom in West Africa. (=Dịch: Xin lưu ý rằng tiêu đề thư và hóa đơn của bạn không chỉ nên được ký mà còn phải được đóng dấu theo phong tục ở Tây Phi.)",
       "The letters were printed on paper with the official company [letterhead]. (=Dịch: Những bức thư được in trên giấy có tiêu đề chính thức của công ty.)"
     ],
-    "image": "assets/images/letterhead.jpg"
+    "image": "assets/images/letterhead.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "volleyball",
@@ -14960,7 +16110,8 @@ const vocabData = [
       "She's upset she didn't make the [volleyball] team. (=Dịch: Cô ấy buồn vì không được vào đội bóng chuyền.)",
       "The money will go towards building a new [volleyball] court. (=Dịch: Tiền sẽ được dùng để xây dựng một sân bóng chuyền mới.)"
     ],
-    "image": "assets/images/volleyball.jpg"
+    "image": "assets/images/volleyball.jpg",
+    "topic": "Education & Learning"
   },
   {
     "word": "wheelchair",
@@ -14973,7 +16124,8 @@ const vocabData = [
       "The building isn't designed very well from the point of view of [wheelchair] access. (=Dịch: Tòa nhà không được thiết kế tốt từ góc nhìn về việc tiếp cận xe lăn.)",
       "Tony manoeuvred his [wheelchair] out from behind his desk. (=Dịch: Tony đã điều khiển xe lăn của mình ra khỏi bàn làm việc.)"
     ],
-    "image": "assets/images/wheelchair.jpg"
+    "image": "assets/images/wheelchair.jpg",
+    "topic": "Job & Career"
   },
   {
     "word": "whoever",
@@ -14986,7 +16138,8 @@ const vocabData = [
       "Could I speak to [whoever] is in charge of International Sales, please? (=Dịch: Tôi có thể nói chuyện với người phụ trách Bán hàng Quốc tế được không, xin vui lòng?)",
       "You roll/throw the dice and [whoever] gets the highest score goes first. (=Dịch: Bạn đổ/xúc xắc và ai có điểm cao nhất sẽ đi trước.)"
     ],
-    "image": "assets/images/whoever.jpg"
+    "image": "assets/images/whoever.jpg",
+    "topic": "Shopping & Commerce"
   },
   {
     "word": "wool",
@@ -14999,7 +16152,8 @@ const vocabData = [
       "I bought some fine [wool] to knit a baby sweater. (=Dịch: Tôi đã mua một ít len mịn để đan áo len cho em bé.)",
       "The ship was carrying a cargo of [wool] from England to France. (=Dịch: Con tàu đang chở hàng len từ Anh sang Pháp.)"
     ],
-    "image": "assets/images/wool.jpg"
+    "image": "assets/images/wool.jpg",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "wrinkle",
@@ -15012,7 +16166,8 @@ const vocabData = [
       "fine [wrinkles] around the eyes (=Dịch: những nếp nhăn nhỏ xung quanh mắt)",
       "anti-[wrinkle] creams (=Dịch: kem chống nhăn)"
     ],
-    "image": "assets/images/wrinkle.jpg"
+    "image": "assets/images/wrinkle.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "abide",
@@ -15025,7 +16180,8 @@ const vocabData = [
       "The PA said that it had always [abided] by the decisions of the court (=Dịch: PA cho biết họ luôn tuân thủ các quyết định của tòa án)",
       "He couldn't [abide] the thought of working in an office (=Dịch: Anh ấy không thể chịu được ý nghĩ phải làm việc trong văn phòng)"
     ],
-    "image": "assets/images/abide.jpg"
+    "image": "assets/images/abide.jpg",
+    "topic": "Law & Government"
   },
   {
     "word": "actively",
@@ -15038,7 +16194,8 @@ const vocabData = [
       "He's very [actively] involved in (= does a lot of work for) the local party (=Dịch: Anh ấy rất tích cực tham gia vào đảng địa phương)",
       "We only recruit go-getters who will be [actively] involved in the company's development (=Dịch: Chúng tôi chỉ tuyển những người năng động, những người sẽ tham gia tích cực vào sự phát triển của công ty)"
     ],
-    "image": "assets/images/actively.jpg"
+    "image": "assets/images/actively.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "allergy",
@@ -15051,7 +16208,8 @@ const vocabData = [
       "Symptoms of a food [allergy] usually develop within about an hour after eating the offending food. (=Dịch: Các triệu chứng của dị ứng thực phẩm thường xuất hiện trong khoảng một giờ sau khi ăn thức ăn gây dị ứng.)",
       "The most common nose or lung [allergies] are to pollens, molds, dust mites, and cats (=Dịch: Các dị ứng mũi hoặc phổi phổ biến nhất là với phấn hoa, nấm mốc, mạt bụi và mèo)"
     ],
-    "image": "assets/images/allergy.jpg"
+    "image": "assets/images/allergy.jpg",
+    "topic": "Food & Restaurant"
   },
   {
     "word": "apprehensive",
@@ -15064,7 +16222,8 @@ const vocabData = [
       "The board of directors looked tense and [apprehensive], anticipating the storm that was about to break. (=Dịch: Ban giám đốc trông căng thẳng và lo lắng, đoán trước được cơn bão sắp bùng nổ.)",
       "Another pause and she strained for the answer, nervous and [apprehensive] all at once. (=Dịch: Một lần nữa ngừng lại và cô cố tìm câu trả lời, vừa căng thẳng vừa lo lắng cùng một lúc.)"
     ],
-    "image": "assets/images/apprehensive.jpg"
+    "image": "assets/images/apprehensive.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "automotive",
@@ -15077,7 +16236,8 @@ const vocabData = [
       "Pressure to reduce [automotive] electronics component prices has never been so bad. (=Dịch: Áp lực giảm giá các thành phần điện tử ô tô chưa bao giờ tồi tệ như vậy.)",
       "Right now, [automotive] suppliers and manufacturers are on a journey that has no map. (=Dịch: Hiện tại, các nhà cung cấp và nhà sản xuất ô tô đang trên một hành trình không có bản đồ.)"
     ],
-    "image": "assets/images/automotive.jpg"
+    "image": "assets/images/automotive.jpg",
+    "topic": "Travel & Transport"
   },
   {
     "word": "bacteria",
@@ -15090,7 +16250,8 @@ const vocabData = [
       "Many sorts of [bacteria] are resistant to penicillin. (=Dịch: Nhiều loại vi khuẩn kháng penicillin.)",
       "Its main study area is infectious diseases caused by viruses, [bacteria] and parasites. (=Dịch: Lĩnh vực nghiên cứu chính của nó là các bệnh truyền nhiễm gây ra bởi virus, vi khuẩn và ký sinh trùng.)"
     ],
-    "image": "assets/images/bacteria.jpg"
+    "image": "assets/images/bacteria.jpg",
+    "topic": "Health & Medicine"
   },
   {
     "word": "broaden",
@@ -15103,7 +16264,8 @@ const vocabData = [
       "New rules should help credit unions expand their activities and [broaden] access to cheaper borrowing. (=Dịch: Các quy tắc mới nên giúp các liên minh tín dụng mở rộng hoạt động của họ và mở rộng quyền tiếp cận việc vay mượn với chi phí thấp hơn.)",
       "We plan to [broaden] our range of products and services. (=Dịch: Chúng tôi dự định mở rộng phạm vi sản phẩm và dịch vụ của mình.)"
     ],
-    "image": "assets/images/broaden.jpeg"
+    "image": "assets/images/broaden.jpeg",
+    "topic": "Shopping & Commerce"
   },
   {
     "word": "bulb",
@@ -15116,7 +16278,8 @@ const vocabData = [
       "A glass [bulb], then, is used to keep oxygen away from the filament. (=Dịch: Một bóng đèn thủy tinh sau đó được sử dụng để giữ oxy tránh khỏi dây tóc.)",
       "She suggests that parents of infants use saline drops and a suction [bulb] to help remove mucus. (=Dịch: Cô gợi ý cha mẹ trẻ sơ sinh nên sử dụng nước muối nhỏ và bóng hút để giúp loại bỏ chất nhầy.)"
     ],
-    "image": "assets/images/bulb.jpg"
+    "image": "assets/images/bulb.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "by-law",
@@ -15129,7 +16292,8 @@ const vocabData = [
       "The new board of trustees rewrote the orchestra's [by-laws]. (=Dịch: Hội đồng quản trị mới đã viết lại các điều lệ của dàn nhạc.)",
       "She fought to change the organization's [by-laws], which allowed only men. (=Dịch: Cô ấy đã đấu tranh để thay đổi các điều lệ của tổ chức, vốn chỉ cho phép nam giới.)"
     ],
-    "image": ""
+    "image": "",
+    "topic": "Law & Government"
   },
   {
     "word": "lifeguard",
@@ -15142,7 +16306,8 @@ const vocabData = [
       "The couple were staying in a guesthouse near the beach and swam without a [lifeguard] present. (=Dịch: Cặp đôi đang ở trong một nhà khách gần bãi biển và bơi mà không có nhân viên cứu hộ.)",
       "By the pool or at the beach, [lifeguards] need to be alert to all possible dangers and able to give first aid and resuscitation. (=Dịch: Ở hồ bơi hoặc trên bãi biển, nhân viên cứu hộ cần phải cảnh giác với tất cả các nguy hiểm có thể xảy ra và có khả năng sơ cứu và hồi sức.)"
     ],
-    "image": ""
+    "image": "",
+    "topic": "Job & Career"
   },
   {
     "word": "modem",
@@ -15155,7 +16320,8 @@ const vocabData = [
       "Data is transmitted via a [modem] link to the central office. (=Dịch: Dữ liệu được truyền qua đường truyền modem đến văn phòng trung tâm.)",
       "You can send the files to us via [modem]. (=Dịch: Bạn có thể gửi các tệp cho chúng tôi qua modem.)"
     ],
-    "image": "assets/images/modem.jpg"
+    "image": "assets/images/modem.jpg",
+    "topic": "Technology & Communication"
   },
   {
     "word": "monument",
@@ -15168,7 +16334,8 @@ const vocabData = [
       "[Monuments] to the former leader were all pulled down. (=Dịch: Các tượng đài của nhà lãnh đạo trước đây đều bị kéo xuống.)",
       "The [monument] will stand just inside the cathedral. (=Dịch: Tượng đài sẽ đứng ngay bên trong nhà thờ.)"
     ],
-    "image": "assets/images/monument.jpg"
+    "image": "assets/images/monument.jpg",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "mosquito",
@@ -15181,7 +16348,8 @@ const vocabData = [
       "Stay indoors when [mosquitoes] are out. (=Dịch: Hãy ở trong nhà khi muỗi xuất hiện.)",
       "This strain of [mosquito] carries malaria and yellow fever. (=Dịch: Loài muỗi này mang theo bệnh sốt rét và sốt vàng da.)"
     ],
-    "image": ""
+    "image": "",
+    "topic": "Health & Medicine"
   },
   {
     "word": "obligate",
@@ -15194,7 +16362,8 @@ const vocabData = [
       "The ruling [obligates] airlines to release information about their flight delays. (=Dịch: Quyết định này buộc các hãng hàng không phải công bố thông tin về việc chậm trễ chuyến bay.)",
       "The school argued that it was not legally [obligated] to supervise students not in its custody.  (=Dịch: Nhà trường lập luận rằng họ không có nghĩa vụ pháp lý phải giám sát những học sinh không thuộc quyền giám hộ của mình.)"
     ],
-    "image": ""
+    "image": "",
+    "topic": "Education & Learning"
   },
   {
     "word": "oblige",
@@ -15207,7 +16376,8 @@ const vocabData = [
       "I felt [obliged] to ask them to dinner. (=Dịch: Tôi cảm thấy bắt buộc phải mời họ đến bữa tối.)",
       "He suffered a serious injury that [obliged] him to give up work. (=Dịch: Anh ấy bị chấn thương nghiêm trọng buộc anh ấy phải từ bỏ công việc.)"
     ],
-    "image": ""
+    "image": "",
+    "topic": "Job & Career"
   },
   {
     "word": "occurrence",
@@ -15220,7 +16390,8 @@ const vocabData = [
       "The program counts the number of [occurrences] of any word within the text. (=Dịch: Chương trình đếm số lần xuất hiện của bất kỳ từ nào trong văn bản.)",
       "Increased life expectancy means that it is now a rare [occurrence] for children to be orphaned. (=Dịch: Tuổi thọ tăng lên có nghĩa là bây giờ rất hiếm khi trẻ em bị mồ côi.)"
     ],
-    "image": ""
+    "image": "",
+    "topic": "General/Others"
   },
   {
     "word": "operational",
@@ -15233,7 +16404,8 @@ const vocabData = [
       "Repairs have already begun and we expect the factory to be fully [operational] again with six months. (=Dịch: Sửa chữa đã bắt đầu và chúng tôi mong đợi nhà máy hoạt động lại hoàn toàn trong vòng sáu tháng.)",
       "We cannot give any more details at this stage for [operational] reasons.  (=Dịch: Chúng tôi không thể cung cấp thêm chi tiết nào nữa ở giai đoạn này vì lý do vận hành.)"
     ],
-    "image": ""
+    "image": "",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "outage",
@@ -15246,7 +16418,8 @@ const vocabData = [
       "The baby was born during a power [outage]. (=Dịch: Đứa bé được sinh ra trong lúc mất điện.)",
       "intermittent power [outages] up and down the East Coast (=Dịch: mất điện gián đoạn ở khắp miền Đông)"
     ],
-    "image": "assets/images/outage.jpg"
+    "image": "assets/images/outage.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "overcrowd",
@@ -15259,7 +16432,8 @@ const vocabData = [
       "The state's only solution has been to [overcrowd] local jails. (=Dịch: Giải pháp duy nhất của bang là làm quá tải các nhà tù địa phương.)",
       "Don't [overcrowd] the fridge or it will not cool as effectively. (=Dịch: Đừng để quá nhiều đồ trong tủ lạnh, nếu không tủ lạnh sẽ không làm mát hiệu quả.)"
     ],
-    "image": "assets/images/overcrowd.jpg"
+    "image": "assets/images/overcrowd.jpg",
+    "topic": "Science & Nature"
   },
   {
     "word": "paralegal",
@@ -15272,7 +16446,8 @@ const vocabData = [
       "The greatest political effect of [paralegals]' work might well come from cases that directly involved assisting citizens facing harassment from local authorities. (=Dịch: Ảnh hưởng chính trị lớn nhất từ công việc của các trợ lý pháp lý có thể xuất phát từ những vụ án trực tiếp hỗ trợ công dân đối mặt với sự quấy rối từ các cơ quan địa phương.)",
       "This is not to say that the role of the [paralegal] is beneficial solely to protective order applicants. (=Dịch: Điều này không có nghĩa là vai trò của trợ lý pháp lý chỉ có lợi cho những người nộp đơn xin lệnh bảo vệ.)"
     ],
-    "image": "assets/images/paralegal.jpg"
+    "image": "assets/images/paralegal.jpg",
+    "topic": "Law & Government"
   },
   {
     "word": "partially",
@@ -15285,7 +16460,8 @@ const vocabData = [
       "When [partially] cooked, pasta has a slightly transparent look. (=Dịch: Khi được nấu chín một phần, mì có vẻ ngoài hơi trong suốt.)",
       "Machines replaced, at least [partially], the skills of human workers. (=Dịch: Máy móc đã thay thế, ít nhất là một phần, các kỹ năng của công nhân con người.)"
     ],
-    "image": ""
+    "image": "",
+    "topic": "Food & Restaurant"
   },
   {
     "word": "pepper",
@@ -15298,7 +16474,8 @@ const vocabData = [
       "He put some [pepper] on his steak. (=Dịch: Anh ấy rắc chút tiêu lên miếng bít tết của mình.)",
       "Add a squeeze of lemon, pinch salt and grind [pepper]. (=Dịch: Thêm một ít nước cốt chanh, nhúm muối và xay tiêu.)"
     ],
-    "image": "assets/images/pepper.jpg"
+    "image": "assets/images/pepper.jpg",
+    "topic": "Food & Restaurant"
   },
   {
     "word": "permanently",
@@ -15311,7 +16488,8 @@ const vocabData = [
       "She had decided to settle [permanently] in France. (=Dịch: Cô ấy đã quyết định định cư lâu dài ở Pháp.)",
       "This door is kept [permanently] locked. (=Dịch: Cánh cửa này luôn được giữ khóa vĩnh viễn.)"
     ],
-    "image": "assets/images/permanently.jpg"
+    "image": "assets/images/permanently.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "plow",
@@ -15324,7 +16502,8 @@ const vocabData = [
       "He picked the book up again and [plowed] his way through two more chapters. (=Dịch: Anh ấy nhặt cuốn sách lên lại và đọc qua thêm hai chương nữa.)",
       "She [plowed] her way through the waiting crowds. (=Dịch: Cô ấy len lỏi qua đám đông đang chờ đợi.)"
     ],
-    "image": "assets/images/plow.jpg"
+    "image": "assets/images/plow.jpg",
+    "topic": "Science & Nature"
   },
   {
     "word": "query",
@@ -15337,7 +16516,8 @@ const vocabData = [
       "She [queried] whether three months was long enough. (=Dịch: Cô ấy nghi ngờ liệu ba tháng có đủ dài hay không.)",
       "\"Any chance of a cup of tea?\" he [queried] hopefully. (=Dịch: \"Có cơ hội nào để có một tách trà không?\" anh ấy hỏi một cách hy vọng.)"
     ],
-    "image": "assets/images/query.jpg"
+    "image": "assets/images/query.jpg",
+    "topic": "Education & Learning"
   },
   {
     "word": "railway",
@@ -15350,7 +16530,8 @@ const vocabData = [
       "Thomas Grant worked on the [railway](s) for 50 years. (=Dịch: Thomas Grant đã làm việc trên đường sắt trong 50 năm.)",
       "The government has announced an ambitious programme to modernize the [railway] network. (=Dịch: Chính phủ đã công bố một chương trình đầy tham vọng để hiện đại hóa mạng lưới đường sắt.)"
     ],
-    "image": "assets/images/railway.jpg"
+    "image": "assets/images/railway.jpg",
+    "topic": "Travel & Transport"
   },
   {
     "word": "raincoat",
@@ -15363,7 +16544,8 @@ const vocabData = [
       "On Sundays I used to walk to the garage and disguise myself in helmet, goggles, old [raincoat] and rubber waders and ride all over Derbyshire. (=Dịch: Vào Chủ nhật, tôi thường đi bộ đến gara và hóa trang trong mũ bảo hiểm, kính bảo hộ, áo mưa cũ và ủng cao su rồi đi khắp Derbyshire.)",
       "[Raincoats] are not to be worn, except in wet or really cold weather. (=Dịch: Áo mưa không được mặc, trừ khi trời mưa hoặc thời tiết rất lạnh.)"
     ],
-    "image": "assets/images/raincoat.jpg"
+    "image": "assets/images/raincoat.jpg",
+    "topic": "Science & Nature"
   },
   {
     "word": "reconsider",
@@ -15376,7 +16558,8 @@ const vocabData = [
       "We have [reconsidered] your proposals and we have decided to go ahead with the deal. (=Dịch: Chúng tôi đã xem xét lại đề xuất của bạn và đã quyết định tiến hành thỏa thuận.)",
       "The organization will [reconsider] its position in the light of new developments. (=Dịch: Tổ chức sẽ xem xét lại vị trí của mình dựa trên những diễn biến mới.)"
     ],
-    "image": "assets/images/reconsider.jpg"
+    "image": "assets/images/reconsider.jpg",
+    "topic": "Art & Entertainment"
   },
   {
     "word": "redesign",
@@ -15389,7 +16572,8 @@ const vocabData = [
       "The bank is [redesigning] its branches to make them colourful and contemporary. (=Dịch: Ngân hàng đang thiết kế lại các chi nhánh của mình để làm cho chúng trở nên màu sắc và hiện đại.)",
       "Some publishers [redesigned] their publications to put a greater emphasis on lifestyle and entertainment stories. (=Dịch: Một số nhà xuất bản đã thiết kế lại các ấn phẩm của họ để nhấn mạnh hơn vào các câu chuyện về lối sống và giải trí.)"
     ],
-    "image": "assets/images/redesign.jpg"
+    "image": "assets/images/redesign.jpg",
+    "topic": "Art & Entertainment"
   },
   {
     "word": "rehearsal",
@@ -15402,7 +16586,8 @@ const vocabData = [
       "The dancers were dripping with sweat after a morning's [rehearsal]. (=Dịch: Các vũ công đẫm mồ hôi sau buổi tập sáng.)",
       "We whizzed through the [rehearsal], so that we'd be finished by lunchtime. (=Dịch: Chúng tôi đã tập dượt rất nhanh chóng, để có thể hoàn thành trước giờ ăn trưa.)"
     ],
-    "image": "assets/images/rehearsal.jpg"
+    "image": "assets/images/rehearsal.jpg",
+    "topic": "Art & Entertainment"
   },
   {
     "word": "relaxation",
@@ -15415,7 +16600,8 @@ const vocabData = [
       "A bath is for me a form of [relaxation]. (=Dịch: Tắm là một hình thức thư giãn đối với tôi.)",
       "Massage should produce a state of [relaxation]. (=Dịch: Massage nên tạo ra trạng thái thư giãn.)"
     ],
-    "image": "assets/images/relaxation.jpg"
+    "image": "assets/images/relaxation.jpg",
+    "topic": "Education & Learning"
   },
   {
     "word": "repetition",
@@ -15428,7 +16614,8 @@ const vocabData = [
       "Try to avoid unnecessary [repetition] when stating your points. (=Dịch: Cố gắng tránh lặp lại không cần thiết khi trình bày quan điểm của bạn.)",
       "His speeches show a marked preference for [repetition], that tedious rhetorical device. (=Dịch: Các bài phát biểu của anh ấy cho thấy sự ưa thích rõ rệt đối với sự lặp lại, một công cụ tu từ tẻ nhạt.)"
     ],
-    "image": "assets/images/repetition.jpg"
+    "image": "assets/images/repetition.jpg",
+    "topic": "Job & Career"
   },
   {
     "word": "retreat",
@@ -15441,7 +16628,8 @@ const vocabData = [
       "When she came towards me shouting, I [retreated] (behind my desk). (=Dịch: Khi cô ấy tiến về phía tôi và hét lên, tôi đã lùi lại sau bàn làm việc.)",
       "On seeing us, the deer stood stock-still for a moment, then turned and [retreated] into the forest. (=Dịch: Khi thấy chúng tôi, con hươu đứng yên trong giây lát, sau đó quay đầu và rút lui vào rừng.)"
     ],
-    "image": "assets/images/retreat.jpg"
+    "image": "assets/images/retreat.jpg",
+    "topic": "Travel & Transport"
   },
   {
     "word": "salon",
@@ -15454,7 +16642,8 @@ const vocabData = [
       "He now runs his own hairdressing [salon] in Melbourne. (=Dịch: Hiện tại anh ấy điều hành salon tóc của riêng mình ở Melbourne.)",
       "The hotel has just opened a sauna, solarium and beauty [salon]. (=Dịch: Khách sạn vừa mở một phòng xông hơi, phòng tắm nắng và salon làm đẹp.)"
     ],
-    "image": "assets/images/salon.jpg"
+    "image": "assets/images/salon.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "satellite office",
@@ -15467,7 +16656,8 @@ const vocabData = [
       "One official will inaugurate this [satellite office] but the final staffing level remains to he decided in the light of its emerging role. (=Dịch: Một quan chức sẽ khánh thành văn phòng vệ tinh này nhưng mức độ nhân sự cuối cùng vẫn chưa được quyết định theo vai trò đang phát triển của nó.)",
       "It operates six district offices and three smaller [satellite offices]. (=Dịch: Nó vận hành sáu văn phòng quận và ba văn phòng vệ tinh nhỏ hơn.)"
     ],
-    "image": "assets/images/satelliteoffice.jpg"
+    "image": "assets/images/satelliteoffice.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "scenery",
@@ -15480,7 +16670,8 @@ const vocabData = [
       "The majestic Montana [scenery] will leave you breathless. (=Dịch: Cảnh quan hùng vĩ của Montana sẽ khiến bạn ngạt thở.)",
       "This postcard doesn't do justice to the wonderful [scenery]. (=Dịch: Tấm bưu thiếp này không thể hiện đủ vẻ đẹp của cảnh quan tuyệt vời.)"
     ],
-    "image": ""
+    "image": "",
+    "topic": "General/Others"
   },
   {
     "word": "serial",
@@ -15493,7 +16684,8 @@ const vocabData = [
       "He is wanted for [serial] murder. (=Dịch: Anh ta bị truy nã vì tội giết người hàng loạt.)",
       "Such people can be described as [serial] monogamists. (=Dịch: Những người như vậy có thể được mô tả là những người chung thủy hàng loạt.)"
     ],
-    "image": ""
+    "image": "",
+    "topic": "General/Others"
   },
   {
     "word": "sew",
@@ -15506,7 +16698,8 @@ const vocabData = [
       "I made this skirt just by [sewing] two pieces of material together. (=Dịch: Tôi đã làm chiếc váy này chỉ bằng cách may hai mảnh vải lại với nhau.)",
       "He [sewed] the badge neatly onto his uniform. (=Dịch: Anh ấy đã may gọn gàng huy hiệu lên đồng phục của mình.)"
     ],
-    "image": "assets/images/sew.jpg"
+    "image": "assets/images/sew.jpg",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "sketch",
@@ -15519,7 +16712,8 @@ const vocabData = [
       "She did a quick [sketch] of her father reading the paper. (=Dịch: Cô ấy đã phác thảo nhanh hình ảnh cha cô đang đọc báo.)",
       "She's done some really good [sketches] (=Dịch: Cô ấy đã thực hiện một số bản phác thảo thật sự tốt.)"
     ],
-    "image": "assets/images/sketch.jpg"
+    "image": "assets/images/sketch.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "soar",
@@ -15532,7 +16726,8 @@ const vocabData = [
       "She watched the gliders [soarin] effortlessly above her. (=Dịch: Cô ấy ngắm nhìn những chiếc tàu lượn lướt nhẹ nhàng trên đầu.)",
       "Planes [soared] overhead. (=Dịch: Máy bay bay vút trên cao.)"
     ],
-    "image": "assets/images/soar.jpg"
+    "image": "assets/images/soar.jpg",
+    "topic": "Travel & Transport"
   },
   {
     "word": "stimulus",
@@ -15545,7 +16740,8 @@ const vocabData = [
       "The book will provide a [stimulus] to research in this very important area. (=Dịch: Cuốn sách sẽ cung cấp sự kích thích để nghiên cứu trong lĩnh vực rất quan trọng này.)",
       "The aid package would provide very little fiscal [stimulus]. (=Dịch: Gói viện trợ sẽ cung cấp rất ít kích thích tài chính.)"
     ],
-    "image": "assets/images/stimulus.jpg"
+    "image": "assets/images/stimulus.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "stockbroker",
@@ -15558,7 +16754,8 @@ const vocabData = [
       "He phoned his [stockbroker] with instructions to sell portions of his portfolio. (=Dịch: Anh ấy gọi điện cho nhà môi giới chứng khoán của mình với chỉ dẫn bán các phần trong danh mục đầu tư của anh ấy.)",
       "Most banks, [stockbrokers] and investment managers offer accounts aimed at clubs, societies and charities. (=Dịch: Hầu hết các ngân hàng, nhà môi giới chứng khoán và quản lý đầu tư đều cung cấp tài khoản dành cho các câu lạc bộ, hội nhóm và tổ chức từ thiện.)"
     ],
-    "image": "assets/images/stockbroker.jpg"
+    "image": "assets/images/stockbroker.jpg",
+    "topic": "Shopping & Commerce"
   },
   {
     "word": "tablecloth",
@@ -15571,7 +16768,8 @@ const vocabData = [
       "There are white [tablecloths] covering the tables. (=Dịch: Có những chiếc khăn trải bàn màu trắng phủ lên các bàn.)",
       "We spread out the [tablecloths] and set the tables. (=Dịch: Chúng tôi trải khăn trải bàn và dọn bàn.)"
     ],
-    "image": "assets/images/tablecloth.jpg"
+    "image": "assets/images/tablecloth.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "thirsty",
@@ -15584,7 +16782,8 @@ const vocabData = [
       "All that exercise has made me [thirsty]. (=Dịch: Tất cả các bài thể dục đó đã làm tôi khát.)",
       "Ask the children if they're [thirsty]. (=Dịch: Hỏi các em xem chúng có khát không.)"
     ],
-    "image": "assets/images/thirsty.jpg"
+    "image": "assets/images/thirsty.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "thrill",
@@ -15597,7 +16796,8 @@ const vocabData = [
       "It gave me a real [thrill] to see her again after so many years. (=Dịch: Gặp lại cô ấy sau nhiều năm thực sự làm tôi rất phấn khích.)",
       "The video shows the [thrills] and spills (= excitement and accidents) of motor racing. (=Dịch: Video cho thấy những hồi hộp và tai nạn của đua xe mô tô.)"
     ],
-    "image": "assets/images/thrill.jpg"
+    "image": "assets/images/thrill.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "tile",
@@ -15610,7 +16810,8 @@ const vocabData = [
       "The cabins had linoleum [tile] floors. (=Dịch: Những căn nhà gỗ có sàn lát gạch linoleum.)",
       "...a fine building, with a neat little porch and ornamental [tiles] on the roof.  (=Dịch: ...một tòa nhà đẹp, với hiên nhỏ gọn gàng và ngói trang trí trên mái.)"
     ],
-    "image": "assets/images/tile.jpg"
+    "image": "assets/images/tile.jpg",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "toiletry",
@@ -15623,7 +16824,8 @@ const vocabData = [
       "Residents can buy milk, eggs, [toiletries] and pet food at the push of a button. (=Dịch: Cư dân có thể mua sữa, trứng, đồ vệ sinh cá nhân và thức ăn cho thú cưng chỉ bằng một nút bấm.)",
       "I had a rucksack with five sets of clean clothes, [toiletries], towels and razors. (=Dịch: Tôi có một chiếc ba lô với năm bộ quần áo sạch, đồ vệ sinh cá nhân, khăn tắm và dao cạo.)"
     ],
-    "image": "assets/images/toiletry.jpg"
+    "image": "assets/images/toiletry.jpg",
+    "topic": "Food & Restaurant"
   },
   {
     "word": "trademark",
@@ -15636,7 +16838,8 @@ const vocabData = [
       "Google is a [trademark] of Google Technologies. (=Dịch: Google là một nhãn hiệu của Google Technologies.)",
       "The retail giant has taken action against a number of small businesses over [trademark] infringement. (=Dịch: Gã khổng lồ bán lẻ đã thực hiện hành động chống lại một số doanh nghiệp nhỏ về việc vi phạm nhãn hiệu.)"
     ],
-    "image": "assets/images/trademark.jpg"
+    "image": "assets/images/trademark.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "tropical",
@@ -15649,7 +16852,8 @@ const vocabData = [
       "She specializes in [tropical] medicine (= the treatment of diseases from the tropical areas of the world). (=Dịch: Cô ấy chuyên về y học nhiệt đới (= điều trị các bệnh từ các khu vực nhiệt đới của thế giới).)",
       "The Amazon river basin contains the world's largest [tropical] rainforest. (=Dịch: Lưu vực sông Amazon chứa rừng mưa nhiệt đới lớn nhất thế giới.)"
     ],
-    "image": "assets/images/tropical.jpg"
+    "image": "assets/images/tropical.jpg",
+    "topic": "Science & Nature"
   },
   {
     "word": "tuna",
@@ -15662,7 +16866,8 @@ const vocabData = [
       "a tin/can of [tuna] in vegetable oil (=Dịch: một hộp cá ngừ trong dầu thực vật)",
       "She began opening a tin of [tuna].  (=Dịch: Cô bắt đầu mở một hộp cá ngừ.)"
     ],
-    "image": "assets/images/tuna.jpg"
+    "image": "assets/images/tuna.jpg",
+    "topic": "Food & Restaurant"
   },
   {
     "word": "unemployed",
@@ -15675,7 +16880,8 @@ const vocabData = [
       "With Dave [unemployed], we haven't got much money coming in at the moment. (=Dịch: Khi Dave thất nghiệp, chúng tôi không có nhiều tiền thu nhập vào thời điểm hiện tại.)",
       "His financial problems escalated after he became [unemployed]. (=Dịch: Các vấn đề tài chính của anh ấy trầm trọng hơn sau khi anh ấy trở nên thất nghiệp.)"
     ],
-    "image": "assets/images/unemployed.jpg"
+    "image": "assets/images/unemployed.jpg",
+    "topic": "Job & Career"
   },
   {
     "word": "validate",
@@ -15688,7 +16894,8 @@ const vocabData = [
       "The test results have been [validated] by independent experts. (=Dịch: Kết quả kiểm tra đã được xác nhận bởi các chuyên gia độc lập.)",
       "The research findings do not [validate] the claims made by the manufacturer. (=Dịch: Những phát hiện nghiên cứu không xác nhận các tuyên bố được đưa ra bởi nhà sản xuất.)"
     ],
-    "image": "assets/images/validate.jpg"
+    "image": "assets/images/validate.jpg",
+    "topic": "Education & Learning"
   },
   {
     "word": "vanilla",
@@ -15701,7 +16908,8 @@ const vocabData = [
       "[vanilla] ice cream/yogurt (=Dịch: kem vani/sữa chua vani)",
       "Add two teaspoons of [vanilla] and stir. (=Dịch: Thêm hai thìa cà phê vani và khuấy đều.)"
     ],
-    "image": "assets/images/vanilla.jpg"
+    "image": "assets/images/vanilla.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "willingness",
@@ -15714,7 +16922,8 @@ const vocabData = [
       "He expressed a [willingness] to be of service. (=Dịch: Anh ấy bày tỏ sự sẵn sàng giúp đỡ.)",
       "The [willingness] of people to get involved has impressed the organizers of the event. (=Dịch: Sự sẵn sàng tham gia của mọi người đã gây ấn tượng với ban tổ chức sự kiện.)"
     ],
-    "image": "assets/images/willingness.jpg"
+    "image": "assets/images/willingness.jpg",
+    "topic": "General/Others"
   },
   {
     "word": "wristwatch",
@@ -15727,7 +16936,8 @@ const vocabData = [
       "Her [wristwatch] beeped. (=Dịch: Đồng hồ đeo tay của cô ấy kêu.)",
       "The thieves' haul totalled 43 items of jewellery, consisting of rings, bracelets, necklaces and [wristwatches]. (=Dịch: Tổng số đồ trang sức mà những tên trộm lấy được là 43 món, bao gồm nhẫn, vòng tay, dây chuyền và đồng hồ đeo tay.)"
     ],
-    "image": "assets/images/wristwatch.jpg"
+    "image": "assets/images/wristwatch.jpg",
+    "topic": "Technology & Communication"
   },
   {
     "word": "acclaim",
@@ -15740,7 +16950,8 @@ const vocabData = [
       "The service comes six months after the fountain was opened to massive public [acclaim]. (=Dịch: Dịch vụ được triển khai sáu tháng sau khi đài phun nước được khai trương và nhận được nhiều lời khen ngợi từ công chúng.)",
       "All his novels are written in French, and they have received great [acclaim] there, winning the country's top prizes (=Dịch: Tất cả tiểu thuyết của anh ấy đều được viết bằng tiếng Pháp và chúng đã nhận được nhiều lời khen ngợi ở đó, giành được những giải thưởng hàng đầu của đất nước)"
     ],
-    "image": "assets/images/acclaim.jpg"
+    "image": "assets/images/acclaim.jpg",
+    "topic": "Shopping & Commerce"
   },
   {
     "word": "bookcase",
@@ -15753,7 +16964,8 @@ const vocabData = [
       "The walls were covered with ceiling high wooden [bookcases] filled with books. (=Dịch: Các bức tường được phủ bởi các giá sách bằng gỗ cao tới trần nhà chứa đầy sách.)",
       "There are two leather black couches, lots of [bookcases] full with files, maps, books.' (=Dịch: Có hai chiếc ghế sofa da đen, nhiều giá sách đầy tập tài liệu, bản đồ, sách.)"
     ],
-    "image": "assets/images/bookcase.jpg"
+    "image": "assets/images/bookcase.jpg",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "cheer",
@@ -15766,7 +16978,8 @@ const vocabData = [
       "The races caused great excitement with the crowds [cheering] and hooting for their favourite teams. (=Dịch: Các cuộc đua đã gây ra sự phấn khích lớn với đám đông cổ vũ và la hét cho các đội yêu thích của họ.)",
       "Investors appeared to [cheer] the news and the fall of the last few days started to turn around. (=Dịch: Các nhà đầu tư có vẻ phấn khởi trước tin tức và sự suy giảm trong vài ngày qua bắt đầu quay trở lại.)"
     ],
-    "image": "assets/images/cheer.jpg"
+    "image": "assets/images/cheer.jpg",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "chronic",
@@ -15779,7 +16992,8 @@ const vocabData = [
       "They insist that a pay rise is essential to attract new medical personnel and overcome [chronic] staff shortages. (=Dịch: Họ khăng khăng rằng việc tăng lương là cần thiết để thu hút nhân sự y tế mới và khắc phục tình trạng thiếu nhân viên kinh niên.)",
       "A terrible drought last year sparked [chronic] food shortages this year. (=Dịch: Một trận hạn hán khủng khiếp năm ngoái đã gây ra tình trạng thiếu lương thực trầm trọng trong năm nay.)"
     ],
-    "image": "assets/images/chronic.jpg"
+    "image": "assets/images/chronic.jpg",
+    "topic": "Health & Medicine"
   },
   {
     "word": "cleanliness",
@@ -15792,7 +17006,8 @@ const vocabData = [
       "Standards of [cleanliness] have been criticized by patients and visitors (=Dịch: Tiêu chuẩn vệ sinh đã bị chỉ trích bởi bệnh nhân và khách thăm.)",
       "She had an obsession with personal [cleanliness] and spent much of her time in the bathroom (=Dịch: Cô ấy có một nỗi ám ảnh về sự sạch sẽ cá nhân và dành nhiều thời gian trong phòng tắm.)"
     ],
-    "image": "assets/images/cleanliness.png"
+    "image": "assets/images/cleanliness.png",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "complication",
@@ -15805,7 +17020,8 @@ const vocabData = [
       "There is a [complication] concerning ownership of the site (=Dịch: Có một vấn đề phức tạp liên quan đến quyền sở hữu của khu vực này.)",
       "Three projects keep you energised, as deadlines have to be met and [complications] sorted out. (=Dịch: Ba dự án giữ cho bạn tràn đầy năng lượng, vì các thời hạn phải được đáp ứng và các vấn đề phức tạp phải được giải quyết.)"
     ],
-    "image": "assets/images/complication.jpg"
+    "image": "assets/images/complication.jpg",
+    "topic": "Travel & Transport"
   },
   {
     "word": "considerate",
@@ -15818,7 +17034,8 @@ const vocabData = [
       "She's [considerate] of your needs and respects the terms of your contract. (=Dịch: Cô ấy quan tâm đến nhu cầu của bạn và tôn trọng các điều khoản trong hợp đồng của bạn.)",
       "Even those of us who are self-employed still must be [considerate] of our clients and suppliers. (=Dịch: Ngay cả những người trong chúng ta tự làm việc cũng phải quan tâm đến khách hàng và nhà cung cấp của mình.)"
     ],
-    "image": ""
+    "image": "",
+    "topic": "Business & Office"
   },
   {
     "word": "contestant",
@@ -15831,7 +17048,8 @@ const vocabData = [
       "In order to qualify, all 100 [contestants] on the shortlist have to answer the same question. (=Dịch: Để đủ điều kiện, tất cả 100 thí sinh trong danh sách ngắn phải trả lời cùng một câu hỏi.)",
       "The [contestants] will be judged on technical skills as well as for smooth presentation. (=Dịch: Các thí sinh sẽ được đánh giá về kỹ năng kỹ thuật cũng như khả năng trình bày mượt mà.)"
     ],
-    "image": ""
+    "image": "",
+    "topic": "Job & Career"
   },
   {
     "word": "daytime",
@@ -15844,7 +17062,8 @@ const vocabData = [
       "The courses run in the [daytime], evenings and weekends at different times and venues to suit all. (=Dịch: Các khóa học diễn ra vào ban ngày, buổi tối và cuối tuần vào các thời gian và địa điểm khác nhau để phù hợp với tất cả mọi người.)",
       "Please include your name, address, a [daytime] telephone number and email address if you have one. (=Dịch: Vui lòng bao gồm tên, địa chỉ, số điện thoại ban ngày và địa chỉ email của bạn nếu bạn có.)"
     ],
-    "image": ""
+    "image": "",
+    "topic": "Travel & Transport"
   },
   {
     "word": "decoration",
@@ -15857,7 +17076,8 @@ const vocabData = [
       "Other methods of [decoration] include impressions made with the fingers, sticks, and other tools. (=Dịch: Các phương pháp trang trí khác bao gồm dấu ấn được tạo ra bằng ngón tay, que và các công cụ khác.)",
       "Martine Camillieri, who co-directs the gallery, is also very talented with crafts and [decoration] (=Dịch: Martine Camillieri, người đồng đạo diễn phòng trưng bày, cũng rất tài năng với thủ công và trang trí.)"
     ],
-    "image": ""
+    "image": "",
+    "topic": "Art & Entertainment"
   },
   {
     "word": "deteriorate",
@@ -15870,7 +17090,8 @@ const vocabData = [
       "The political situation in the region has [deteriorated] rapidly. (=Dịch: Tình hình chính trị trong khu vực đã xấu đi nhanh chóng.)",
       "If the economy continues to [deteriorate], it will affect the firm's future performance. (=Dịch: Nếu nền kinh tế tiếp tục xấu đi, nó sẽ ảnh hưởng đến hiệu suất tương lai của công ty.)"
     ],
-    "image": ""
+    "image": "",
+    "topic": "Health & Medicine"
   },
   {
     "word": "discard",
@@ -15883,7 +17104,8 @@ const vocabData = [
       "Earlier this year, the council proposed to hit people who [discard] gum on the city streets with £50 on-the-spot fines. (=Dịch: Đầu năm nay, hội đồng đã đề xuất phạt ngay tại chỗ 50 bảng đối với những người vứt kẹo cao su lên đường phố.)",
       "The local Council is trying to clamp down on people who [discard] litter around towns and in the countryside (=Dịch: Hội đồng địa phương đang cố gắng siết chặt những người vứt rác quanh thị trấn và ở nông thôn.)"
     ],
-    "image": ""
+    "image": "",
+    "topic": "Food & Restaurant"
   },
   {
     "word": "drastically",
@@ -15896,7 +17118,8 @@ const vocabData = [
       "Stock prices are falling [drastically] and market volatility is rising. (=Dịch: Giá cổ phiếu đang giảm mạnh và sự biến động của thị trường đang tăng lên.)",
       "Its net income, however, improved [drastically], from a loss of $11 million in 2002 to a net gain of $5.2 in 2003. (=Dịch: Tuy nhiên, thu nhập ròng của nó đã cải thiện đáng kể, từ khoản lỗ 11 triệu đô la vào năm 2002 thành khoản lãi ròng 5,2 triệu đô la vào năm 2003.)"
     ],
-    "image": "assets/images/drastically.jpg"
+    "image": "assets/images/drastically.jpg",
+    "topic": "Shopping & Commerce"
   },
   {
     "word": "erase",
@@ -15909,7 +17132,8 @@ const vocabData = [
       "All personal data is securely [erased] in accordance with our data protection policy. (=Dịch: Tất cả dữ liệu cá nhân được xóa một cách an toàn theo chính sách bảo vệ dữ liệu của chúng tôi.)",
       "He is determined to [erase] the memory of a disappointing debut two years ago. (=Dịch: Anh ấy quyết tâm xóa bỏ ký ức về một màn ra mắt đáng thất vọng cách đây hai năm.)"
     ],
-    "image": "assets/images/erase.jpg"
+    "image": "assets/images/erase.jpg",
+    "topic": "Law & Government"
   },
   {
     "word": "ethics",
@@ -15922,7 +17146,8 @@ const vocabData = [
       "These questions are subjective and involve our personal and professional [ethics] and philosophies. (=Dịch: Những câu hỏi này mang tính chủ quan và liên quan đến đạo đức và triết lý cá nhân và nghề nghiệp của chúng tôi.)",
       "Some of the new regulations currently in effect are aimed at raising the moral [ethics] of our people. (=Dịch: Một số quy định mới hiện đang có hiệu lực nhằm nâng cao đạo đức của người dân chúng ta.)"
     ],
-    "image": "assets/images/ethics.jpg"
+    "image": "assets/images/ethics.jpg",
+    "topic": "Job & Career"
   },
   {
     "word": "explorer",
@@ -15935,7 +17160,8 @@ const vocabData = [
       "Travelling further than any [explorers] had done before, they paid the price when the ship became trapped in ice (=Dịch: Đi xa hơn bất kỳ nhà thám hiểm nào trước đây, họ phải trả giá khi con tàu bị mắc kẹt trong băng.)",
       "Magellan was a famous 16th-century [explorer]. (=Dịch: Magellan là một nhà thám hiểm nổi tiếng thế kỷ 16.)"
     ],
-    "image": "assets/images/explorer.jpg"
+    "image": "assets/images/explorer.jpg",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "factual",
@@ -15948,7 +17174,8 @@ const vocabData = [
       "We hope our media can provide us with relevant, [factual] and balanced information. (=Dịch: Chúng tôi hy vọng truyền thông của chúng tôi có thể cung cấp cho chúng tôi thông tin liên quan, thực tế và cân bằng.)",
       "The profiles would also have to be monitored for [factual] accuracy and selectivity of information.' (=Dịch: Các hồ sơ cũng sẽ phải được giám sát về độ chính xác thực tế và sự chọn lọc thông tin.)"
     ],
-    "image": "assets/images/factual.jpg"
+    "image": "assets/images/factual.jpg",
+    "topic": "Law & Government"
   },
   {
     "word": "fixture",
@@ -15961,7 +17188,8 @@ const vocabData = [
       "Most of the antique [fixtures] - including light fittings, window and door frames - went missing. (=Dịch: Hầu hết các thiết bị cổ - bao gồm đèn, khung cửa sổ và cửa ra vào - đã biến mất.)",
       "The spa's assets include about $75,000 worth of furniture, [fixtures], and equipment. (=Dịch: Tài sản của spa bao gồm khoảng 75.000 đô la giá trị nội thất, thiết bị và trang thiết bị.)"
     ],
-    "image": "assets/images/fixture.jpg"
+    "image": "assets/images/fixture.jpg",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "footwear",
@@ -15974,7 +17202,8 @@ const vocabData = [
       "Last month sales of clothes and [footwear] fell by a further 17%. (=Dịch: Doanh số bán quần áo và giày dép tháng trước đã giảm thêm 17%.)",
       "As far as developing your own brand of [footwear], it's also a much heavier investment. (=Dịch: Phát triển thương hiệu giày dép của riêng bạn cũng là một khoản đầu tư lớn hơn nhiều.)"
     ],
-    "image": "assets/images/footwear.jpg"
+    "image": "assets/images/footwear.jpg",
+    "topic": "Shopping & Commerce"
   },
   {
     "word": "genre",
@@ -15987,7 +17216,8 @@ const vocabData = [
       "Today, there are many artists out there trying to combine the different [genres] of music in the world. (=Dịch: Ngày nay, có rất nhiều nghệ sĩ đang cố gắng kết hợp các thể loại âm nhạc khác nhau trên thế giới.)",
       "Women bring to poetry or other [genres] of literature a whole new area of experience and vision. (=Dịch: Phụ nữ mang đến thơ ca hoặc các thể loại văn học khác một lĩnh vực kinh nghiệm và tầm nhìn hoàn toàn mới.)"
     ],
-    "image": "assets/images/genre.jpg"
+    "image": "assets/images/genre.jpg",
+    "topic": "Art & Entertainment"
   },
   {
     "word": "gymnasium",
@@ -16000,7 +17230,8 @@ const vocabData = [
       "The school's [gymnasium] and science labs are in need of refurbishment. (=Dịch: Phòng thể dục và phòng thí nghiệm khoa học của trường đang cần được cải tạo.)",
       "They are surrounded by landscaped gardens and a leisure centre with a [gymnasium], sauna, cafeteria and bar. (=Dịch: Họ được bao quanh bởi các khu vườn cảnh và một trung tâm giải trí với phòng thể dục, phòng xông hơi, quán cà phê và quầy bar.)"
     ],
-    "image": "assets/images/gymnasium.jpg"
+    "image": "assets/images/gymnasium.jpg",
+    "topic": "Education & Learning"
   },
   {
     "word": "healthful",
@@ -16013,7 +17244,8 @@ const vocabData = [
       "Foods like fish, avocados and nuts contain [healthful] fats that are good for a glowing complexion. (=Dịch: Thực phẩm như cá, bơ và hạt chứa chất béo lành mạnh tốt cho làn da rạng rỡ.)",
       "Milk consumption remains on the rise thanks to a nationwide effort to promote its [healthful] benefits (=Dịch: Tiêu thụ sữa tiếp tục tăng nhờ vào nỗ lực toàn quốc để quảng bá lợi ích lành mạnh của nó.)"
     ],
-    "image": "assets/images/healthful.jpg"
+    "image": "assets/images/healthful.jpg",
+    "topic": "Food & Restaurant"
   },
   {
     "word": "hereby",
@@ -16026,7 +17258,8 @@ const vocabData = [
       "I [hereby] witness the signing of this document by the above named in my presence (=Dịch: Tôi xin chứng kiến việc ký kết tài liệu này bởi người đã nêu trên đây trước sự có mặt của tôi)",
       "We [hereby] inform you that your computer was scanned under the IP 195.132. 116.228. (=Dịch: Chúng tôi xin thông báo rằng máy tính của bạn đã được quét dưới địa chỉ IP 195.132.116.228)"
     ],
-    "image": "assets/images/hereby.jpg"
+    "image": "assets/images/hereby.jpg",
+    "topic": "Technology & Communication"
   },
   {
     "word": "hesitation",
@@ -16039,7 +17272,8 @@ const vocabData = [
       "I have no [hesitation] in recommending Ms Shapur for the job. (=Dịch: Tôi không do dự khi giới thiệu cô Shapur cho công việc này.)",
       "Not for a moment is there any [hesitation] or doubt, as these obstacles have been transcended. (=Dịch: Không một khoảnh khắc nào có sự do dự hay nghi ngờ, vì những trở ngại này đã được vượt qua.)"
     ],
-    "image": "assets/images/hesitation.jpg"
+    "image": "assets/images/hesitation.jpg",
+    "topic": "Job & Career"
   },
   {
     "word": "homemade",
@@ -16052,7 +17286,8 @@ const vocabData = [
       "A selection of [homemade] chutneys, pickles, cakes and pastries will be on offer. (=Dịch: Một tuyển chọn gồm các loại sốt, dưa muối, bánh ngọt và bánh nướng tự làm sẽ được bày bán.)",
       "We always have a minimum of two vegetarian dishes on our starter and main-course choices, all of which are [homemade]. (=Dịch: Chúng tôi luôn có ít nhất hai món chay trong các lựa chọn món khai vị và món chính của mình, tất cả đều là tự làm.)"
     ],
-    "image": "assets/images/homemade.jpg"
+    "image": "assets/images/homemade.jpg",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "hospitality",
@@ -16065,7 +17300,8 @@ const vocabData = [
       "They said we should stay another night, but I didn't want to take advantage of their [hospitality]. (=Dịch: Họ nói rằng chúng ta nên ở thêm một đêm, nhưng tôi không muốn lợi dụng lòng hiếu khách của họ.)",
       "The generosity and [hospitality] to people of every nation was greatly appreciated. (=Dịch: Sự hào phóng và lòng hiếu khách đối với mọi người của mọi quốc gia đã được đánh giá cao.)"
     ],
-    "image": "assets/images/hospitality.jpeg"
+    "image": "assets/images/hospitality.jpeg",
+    "topic": "Business & Office"
   },
   {
     "word": "incoming",
@@ -16078,7 +17314,8 @@ const vocabData = [
       "What are the biggest problems faced by the [incoming] president? (=Dịch: Những vấn đề lớn nhất mà tổng thống mới gặp phải là gì?)",
       "There are presently only 50 stations to process [incoming] visitors, and that may not be adequate to handle the traffic surge. (=Dịch: Hiện tại chỉ có 50 trạm để xử lý khách đến, và điều đó có thể không đủ để xử lý sự gia tăng lưu lượng.)"
     ],
-    "image": "assets/images/incoming.jpg"
+    "image": "assets/images/incoming.jpg",
+    "topic": "Science & Nature"
   },
   {
     "word": "induction",
@@ -16091,7 +17328,8 @@ const vocabData = [
       "Her [induction] as councillor took place in the town hall. (=Dịch: Lễ nhậm chức của cô ấy làm ủy viên hội đồng diễn ra ở tòa thị chính.)",
       "The [induction] of new students will take place in the main hall. (=Dịch: Lễ giới thiệu sinh viên mới sẽ diễn ra ở hội trường chính.)"
     ],
-    "image": "assets/images/induction.jpg"
+    "image": "assets/images/induction.jpg",
+    "topic": "Education & Learning"
   },
   {
     "word": "inefficient",
@@ -16104,7 +17342,8 @@ const vocabData = [
       "They continued to prop up [inefficient] state enterprises. (=Dịch: Họ tiếp tục hỗ trợ các doanh nghiệp nhà nước không hiệu quả.)",
       "This method of data storage is an [inefficient] use of memory. (=Dịch: Phương pháp lưu trữ dữ liệu này là một cách sử dụng bộ nhớ không hiệu quả.)"
     ],
-    "image": "assets/images/inefficient.jpg"
+    "image": "assets/images/inefficient.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "inspiration",
@@ -16117,7 +17356,8 @@ const vocabData = [
       "Her work lacks [inspiration] (= it does not contain any exciting new ideas). (=Dịch: Công việc của cô ấy thiếu cảm hứng (= nó không chứa bất kỳ ý tưởng mới thú vị nào).)",
       "Looking for [inspiration] for a new dessert? Try this recipe. (=Dịch: Bạn đang tìm kiếm cảm hứng cho một món tráng miệng mới? Hãy thử công thức này.)"
     ],
-    "image": "assets/images/inspiration.jpg"
+    "image": "assets/images/inspiration.jpg",
+    "topic": "Job & Career"
   },
   {
     "word": "intently",
@@ -16130,7 +17370,8 @@ const vocabData = [
       "I listened [intently] to what she had to say. (=Dịch: Tôi đã lắng nghe cô ấy một cách chăm chú.)",
       "You'll focus [intently] on work and make it your mission to cut through red tape. (=Dịch: Bạn sẽ tập trung chăm chú vào công việc và biến nó thành nhiệm vụ của mình để vượt qua các thủ tục rườm rà.)"
     ],
-    "image": "assets/images/intently.jpg"
+    "image": "assets/images/intently.jpg",
+    "topic": "Job & Career"
   },
   {
     "word": "liter",
@@ -16143,7 +17384,8 @@ const vocabData = [
       "The resulting explosion caused millions of [liters] of radioactive water to flood the reactor building's basement, and the reactor's core was no longer usable. (=Dịch: Vụ nổ kết quả đã gây ra hàng triệu lít nước phóng xạ tràn vào tầng hầm của tòa nhà lò phản ứng, và lõi của lò phản ứng không còn sử dụng được nữa.)",
       "The park recommends that hikers wear hiking boots and carry two [liters] of water per person. (=Dịch: Công viên khuyến nghị người đi bộ mang giày leo núi và mang theo hai lít nước mỗi người.)"
     ],
-    "image": "assets/images/liter.jpg"
+    "image": "assets/images/liter.jpg",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "mower",
@@ -16156,7 +17398,8 @@ const vocabData = [
       "They used this nice lawn [mower] to mow people's lawns in the summer and earn a little spending money. (=Dịch: Họ đã sử dụng máy cắt cỏ đẹp này để cắt cỏ cho mọi người vào mùa hè và kiếm chút tiền tiêu vặt.)",
       "Segway has introduced its first robot [mower], the Navimow, that uses GPS to stay on your lawn and keep it neatly trimmed. (=Dịch: Segway đã giới thiệu robot cắt cỏ đầu tiên của mình, Navimow, sử dụng GPS để ở trên bãi cỏ của bạn và giữ cho nó được cắt gọn gàng.)"
     ],
-    "image": "assets/images/mower.jpg"
+    "image": "assets/images/mower.jpg",
+    "topic": "Technology & Communication"
   },
   {
     "word": "nutrition",
@@ -16169,7 +17412,8 @@ const vocabData = [
       "The [nutrition] major teaches you about science, psychology, the human body and how food and nutrition can promote health and well-being. (=Dịch: Chuyên ngành dinh dưỡng dạy bạn về khoa học, tâm lý học, cơ thể con người và cách thực phẩm và dinh dưỡng có thể thúc đẩy sức khỏe và phúc lợi.)",
       "If you take a [nutrition] class, you'll become more aware of the health hazards of junk food. (=Dịch: Nếu bạn tham gia một lớp học dinh dưỡng, bạn sẽ trở nên nhận thức rõ hơn về những nguy cơ sức khỏe của thực phẩm rác.)"
     ],
-    "image": "assets/images/nutrition.jpg"
+    "image": "assets/images/nutrition.jpg",
+    "topic": "Education & Learning"
   },
   {
     "word": "recession",
@@ -16182,7 +17426,8 @@ const vocabData = [
       "For the second time in ten years, the government has driven the economy into deep and damaging [recession]. (=Dịch: Trong vòng mười năm, chính phủ đã đẩy nền kinh tế vào suy thoái sâu và gây hại lần thứ hai.)",
       "Demand for new cars has fallen due to the [recession]. (=Dịch: Nhu cầu mua xe mới đã giảm do suy thoái kinh tế.)"
     ],
-    "image": "assets/images/recession.jpg"
+    "image": "assets/images/recession.jpg",
+    "topic": "Law & Government"
   },
   {
     "word": "resemble",
@@ -16195,7 +17440,8 @@ const vocabData = [
       "His latest sculpture [resembles] an enormous seashell. (=Dịch: Tác phẩm điêu khắc mới nhất của anh ấy trông giống một vỏ sò khổng lồ.)",
       "That actor really [resembles] my brother-in-law. (=Dịch: Diễn viên đó thực sự trông giống anh rể của tôi.)"
     ],
-    "image": "assets/images/resemble.jpg"
+    "image": "assets/images/resemble.jpg",
+    "topic": "Art & Entertainment"
   },
   {
     "word": "restatement",
@@ -16208,7 +17454,8 @@ const vocabData = [
       "The essay conclusion is not supposed to be simple [restatement] of what has gone before. (=Dịch: Kết luận của bài tiểu luận không nên chỉ đơn giản là sự nhắc lại những gì đã nêu trước đó.)",
       "The music finishes with a final sweeping [restatement] of the central theme. (=Dịch: Bản nhạc kết thúc với một sự lặp lại cuối cùng đầy xúc cảm của chủ đề trung tâm.)"
     ],
-    "image": "assets/images/restatement.webp"
+    "image": "assets/images/restatement.webp",
+    "topic": "Art & Entertainment"
   },
   {
     "word": "sedan",
@@ -16221,7 +17468,8 @@ const vocabData = [
       "They drove down to Buckingham Palace in an American [sedan], arrived at the gates and demanded to see ' their ' monarch. (=Dịch: Họ lái xe xuống Cung điện Buckingham trong một chiếc sedan Mỹ, đến cổng và yêu cầu gặp 'vị' quốc vương của họ.)",
       "The second model will be a family [sedan] based on the same platform. (=Dịch: Mẫu thứ hai sẽ là một chiếc sedan gia đình dựa trên cùng một nền tảng.)"
     ],
-    "image": "assets/images/sedan.jpg"
+    "image": "assets/images/sedan.jpg",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "sunscreen",
@@ -16234,7 +17482,8 @@ const vocabData = [
       "With a hot summer on the cards, [sunscreen] lotions will be on most of our shopping lists. (=Dịch: Với một mùa hè nóng bức sắp tới, kem chống nắng sẽ có trong danh sách mua sắm của hầu hết chúng ta.)",
       "Patients with a history of skin cancer should be advised to use a broad-spectrum [sunscreen] or sunblock with a sun-protection factor of 15 or above. (=Dịch: Những bệnh nhân có tiền sử ung thư da nên được khuyên dùng kem chống nắng hoặc kem chặn nắng phổ rộng với chỉ số chống nắng từ 15 trở lên.)"
     ],
-    "image": "assets/images/sunscreen.jpg"
+    "image": "assets/images/sunscreen.jpg",
+    "topic": "Health & Medicine"
   },
   {
     "word": "timeline",
@@ -16247,7 +17496,8 @@ const vocabData = [
       "The plan includes a [timeline] mapping when each step is to be accomplished. (=Dịch: Kế hoạch bao gồm một lộ trình cho biết khi nào mỗi bước sẽ được hoàn thành.)",
       "There is no [timeline] in place for the state to offer tax breaks to the automaker to keep jobs in Ohio. (=Dịch: Chưa có lộ trình nào được thiết lập để tiểu bang cung cấp các ưu đãi thuế cho nhà sản xuất ô tô giữ công việc ở Ohio.)"
     ],
-    "image": "assets/images/timeline.jpg"
+    "image": "assets/images/timeline.jpg",
+    "topic": "Law & Government"
   },
   {
     "word": "unauthorized",
@@ -16260,7 +17510,8 @@ const vocabData = [
       "The policy is changing to prohibit ads by [unauthorized] ticket resellers. (=Dịch: Chính sách đang thay đổi để cấm quảng cáo bởi những người bán vé không được phép.)",
       "Any [unauthorized] personnel will be subject to arrest. (=Dịch: Bất kỳ nhân viên trái phép nào cũng sẽ bị bắt giữ.)"
     ],
-    "image": "assets/images/unauthorized.jpg"
+    "image": "assets/images/unauthorized.jpg",
+    "topic": "Travel & Transport"
   },
   {
     "word": "unplug",
@@ -16273,7 +17524,8 @@ const vocabData = [
       "[Unplug] the TV before you go on holiday. (=Dịch: Rút phích cắm TV trước khi bạn đi nghỉ.)",
       "Did you [unplug] the iron? (=Dịch: Bạn đã rút phích cắm bàn ủi chưa?)"
     ],
-    "image": "assets/images/unplug.jpg"
+    "image": "assets/images/unplug.jpg",
+    "topic": "Technology & Communication"
   },
   {
     "word": "unreliable",
@@ -16286,7 +17538,8 @@ const vocabData = [
       "He's so [unreliable]! she said crossly. (=Dịch: Anh ấy thật là không đáng tin! cô ấy nói một cách giận dữ.)",
       "Managers had complained that the workers were lazy and [unreliable]. (=Dịch: Các quản lý đã phàn nàn rằng các công nhân lười biếng và không đáng tin cậy.)"
     ],
-    "image": "assets/images/unreliable.jpg"
+    "image": "assets/images/unreliable.jpg",
+    "topic": "Home & Daily Life"
   },
   {
     "word": "video conference",
@@ -16299,7 +17552,8 @@ const vocabData = [
       "The district certifies teachers, holds meetings and lets secondary school students take courses by [video conference]. (=Dịch: Khu học chánh chứng nhận giáo viên, tổ chức các cuộc họp và cho phép học sinh trung học tham gia các khóa học qua phòng họp video.)",
       "Schools across Greater Manchester conducted a [video conference] in which they discussed plans to develop their own yearly-progress definitions. (=Dịch: Các trường học trên khắp vùng Greater Manchester đã tổ chức một cuộc họp video trong đó họ thảo luận về kế hoạch phát triển các định nghĩa tiến bộ hàng năm của riêng mình.)"
     ],
-    "image": "assets/images/videoconference.jpg"
+    "image": "assets/images/videoconference.jpg",
+    "topic": "Business & Office"
   },
   {
     "word": "violate",
@@ -16312,7 +17566,8 @@ const vocabData = [
       "It seems that the troops deliberately [violated] the ceasefire agreement. (=Dịch: Có vẻ như các binh sĩ đã cố tình vi phạm thỏa thuận ngừng bắn.)",
       "The doctor has been accused of [violating] professional ethics. (=Dịch: Bác sĩ đã bị buộc tội vi phạm đạo đức nghề nghiệp.)"
     ],
-    "image": "assets/images/violate.jpg"
+    "image": "assets/images/violate.jpg",
+    "topic": "Law & Government"
   },
   {
     "word": "wellness",
@@ -16325,7 +17580,8 @@ const vocabData = [
       "Yoga is said to promote the [wellness] of the mind and body. (=Dịch: Yoga được cho là thúc đẩy sức khỏe của tâm trí và cơ thể.)",
       "These therapies are widely available in America for [wellness] and health maintenance as well as disease management. (=Dịch: Những liệu pháp này được phổ biến rộng rãi ở Mỹ để duy trì sức khỏe và sự khỏe mạnh cũng như quản lý bệnh tật.)"
     ],
-    "image": "assets/images/wellness.jpg"
+    "image": "assets/images/wellness.jpg",
+    "topic": "Health & Medicine"
   },
   {
     "word": "workbook",
@@ -16338,6 +17594,7 @@ const vocabData = [
       "This book was recognized and prescribed by the education department that served as a [workbook] in all educational institution for quite a long time. (=Dịch: Cuốn sách này đã được công nhận và đề xuất bởi bộ giáo dục để làm sách bài tập trong tất cả các cơ sở giáo dục trong một thời gian khá lâu.)",
       "Biology class was just a [workbook], which was an enormous disappointment for me. (=Dịch: Lớp sinh học chỉ là một cuốn sách bài tập, điều này là một sự thất vọng lớn đối với tôi.)"
     ],
-    "image": "assets/images/workbook.jpg"
+    "image": "assets/images/workbook.jpg",
+    "topic": "Education & Learning"
   }
 ];
